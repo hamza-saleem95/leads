@@ -124,5 +124,18 @@
     },
     "id": "use-1793792515680-tvomv",
     "createdAt": "2026-11-04T11:41:55.680Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "chat/completions",
+    "tokensUsed": 593,
+    "estimatedCost": 0.00023720000000000002,
+    "status": "SUCCESS",
+    "metadata": {
+      "model": "gpt-4o-mini"
+    },
+    "id": "use-1793795956647-rtiq1",
+    "createdAt": "2026-11-04T12:39:16.647Z"
   }
 ]

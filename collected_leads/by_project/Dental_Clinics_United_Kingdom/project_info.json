@@ -1,0 +1,58 @@
+{
+  "id": "proj-1793795965817-6cceu",
+  "userId": "user-default-admin-01",
+  "name": "Dental Clinics (United Kingdom)",
+  "industry": "Dental Clinics",
+  "country": "United Kingdom",
+  "status": "ACTIVE",
+  "totalFound": 0,
+  "configuration": {
+    "industry": "Dental Clinics",
+    "country": "United Kingdom",
+    "cities": [
+      "London"
+    ],
+    "quantity": 100,
+    "businessType": "B2B",
+    "requiredFields": [
+      "company_name",
+      "website",
+      "business_email",
+      "business_phone",
+      "address"
+    ],
+    "additionalRequirements": "Include CEO name if available.",
+    "targetKeywords": [
+      "dental clinics",
+      "dentists",
+      "dental care"
+    ],
+    "searchQueries": [
+      {
+        "query": "dental clinics in London contact details",
+        "provider": "tavily"
+      },
+      {
+        "query": "dental clinics London email phone CEO",
+        "provider": "serpapi"
+      },
+      {
+        "query": "list of dental clinics in London",
+        "provider": "google_places"
+      },
+      {
+        "query": "dental practices London contact information",
+        "provider": "bing"
+      }
+    ],
+    "suggestedProviders": [
+      "tavily",
+      "serpapi",
+      "google_places",
+      "bing"
+    ],
+    "rationale": "The search strategy focuses on identifying dental clinics in London through multiple providers to ensure comprehensive coverage of available data. The queries are tailored to extract contact details and CEO names, which are essential for B2B outreach."
+  },
+  "createdAt": "2026-11-04T12:39:25.818Z",
+  "updatedAt": "2026-11-04T12:39:25.818Z"
+}
