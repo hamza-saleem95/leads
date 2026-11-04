@@ -1,0 +1,53 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Unbound
+========================================================================
+Lead Score:          74/100
+Lead Status:         NEW
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       41479688 (Formatted for international dial)
+  Decision Maker:     Founder
+  Call Opener Script: "Your innovative approach to publishing is inspiring; I'd love to discuss potential partnerships."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.5 ★ (20+ reviews)
+  GMB Category:       Book Publishing
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Unbound%20Birmingham%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Book Publishing
+  Country:            United Kingdom
+  City:               Birmingham
+  Physical Address:   The Custard Factory, Gibb Street
+  Official Website:   https://unbound.com
+  Business Email:     brjackson+rebrand2@hubspot.com (UNVERIFIED)
+  LinkedIn Profile:   https://linkedin.com/company/unboundevent
+  Discovery Provider: openai_intelligence
+  Source URL:         https://unbound.com
+  Collection Date:    11/4/2026, 6:15:17 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Unbound is a unique crowdfunding publisher that allows authors to raise funds for their books directly from readers.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 11,
+  "locationMatch": 16,
+  "websiteAvailability": 10,
+  "emailAvailability": 14,
+  "phoneAvailability": 10,
+  "completeness": 8,
+  "sourceReliability": 5,
+  "total": 74,
+  "notes": [
+    "Partial industry keyword match (book, publishing)",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

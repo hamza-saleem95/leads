@@ -3,6 +3,7 @@ import { TavilyAdapter } from '../providers/tavilyAdapter.js';
 import { SerpApiAdapter } from '../providers/serpApiAdapter.js';
 import { BingAdapter } from '../providers/bingAdapter.js';
 import { GooglePlacesAdapter } from '../providers/googlePlacesAdapter.js';
+import { WebDirectoryAdapter } from '../providers/webDirectoryAdapter.js';
 import { DiscoveredBusiness, ProviderTestResult } from '../types/index.js';
 import { db } from '../database/db.js';
 
@@ -19,6 +20,7 @@ export interface DiscoveryOptions {
 
 export class DiscoveryEngine {
   private static providers: Map<string, IDiscoveryProvider> = new Map([
+    ['live_web_directory', new WebDirectoryAdapter()],
     ['tavily', new TavilyAdapter()],
     ['serpapi', new SerpApiAdapter()],
     ['bing', new BingAdapter()],

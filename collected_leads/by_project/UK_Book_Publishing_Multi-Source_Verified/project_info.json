@@ -1,0 +1,14 @@
+{
+  "id": "proj-1793798041212-zn9sf",
+  "userId": "user-default-admin-01",
+  "name": "UK Book Publishing Multi-Source Verified",
+  "industry": "Book Publishing and Editing",
+  "country": "United Kingdom",
+  "status": "COMPLETED",
+  "totalFound": 18,
+  "configuration": {
+    "mode": "multi_source"
+  },
+  "createdAt": "2026-11-04T13:14:01.212Z",
+  "updatedAt": "2026-11-04T13:15:18.285Z"
+}

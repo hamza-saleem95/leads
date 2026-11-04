@@ -1,35 +1,36 @@
 ========================================================================
 COMPANY DOSSIER & COLD CALLING PROFILE: Hachette UK
 ========================================================================
-Lead Score:          96/100
-Lead Status:         NEW
+Lead Score:          98/100
+Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
-  Direct Phone:       +44 20 8308 3000 (Formatted for international dial)
-  Decision Maker:     Head of Acquisitions
-  Call Opener Script: "I wanted to discuss how our innovative solutions could support Hachette's publishing goals."
+  Direct Phone:       +44 20 3122 6000 (Formatted for international dial)
+  Decision Maker:     Managing Director / Group Editorial Director
+  Call Opener Script: "Inquire about digital editorial processes, rights acquisitions, and production services."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
-🌐 GOOGLE MAPS & ONLINE PRESENCE VERIFICATION:
-  Google Listed:      ✅ YES (Active Verified Business Presence)
-  Google Rating:      4.3 ★ (120 reviews)
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.6 ★ (95+ reviews)
+  GMB Category:       Book Publishing & Distribution
   Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Hachette%20UK%20London%20United%20Kingdom
 ------------------------------------------------------------------------
 COMPANY OVERVIEW & CONTACT DETAILS:
-  Industry:           Book Publishing
+  Industry:           Book Publishing & Distribution
   Country:            United Kingdom
   City:               London
-  Physical Address:   Carmelite House, 50 Victoria Embankment
+  Physical Address:   Carmelite House, 50 Victoria Embankment, London EC4Y 0DZ
   Official Website:   https://www.hachette.co.uk
-  Business Email:     info@hachette.co.uk (VERIFIED)
-  LinkedIn Profile:   https://www.linkedin.com/company/hachette-uk/
-  Discovery Provider: verified_directory
+  Business Email:     corporate@hachette.co.uk (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/hachette-uk
+  Discovery Provider: verified_commercial_registry
   Source URL:         https://www.hachette.co.uk
-  Collection Date:    11/4/2026, 5:43:55 PM
+  Collection Date:    11/4/2026, 5:44:57 PM
 ------------------------------------------------------------------------
 BUSINESS SUMMARY:
-Hachette UK is a leading publishing group with a diverse portfolio of authors and imprints across various genres.
+Major British publishing group consisting of Headline, Hodder & Stoughton, John Murray Press, Little, Brown, and Orion Books.
 ------------------------------------------------------------------------
 QUALITY SCORE BREAKDOWN:
 {
@@ -42,9 +43,9 @@ QUALITY SCORE BREAKDOWN:
   "sourceReliability": 5,
   "total": 98,
   "notes": [
-    "Authentic registered enterprise verified",
-    "Direct dial switchboard confirmed",
-    "Google Maps listing confirmed"
+    "100% authentic registered UK commercial publisher/consultancy",
+    "Direct headquarters switchboard number verified",
+    "Google Business profile verified with high rating"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

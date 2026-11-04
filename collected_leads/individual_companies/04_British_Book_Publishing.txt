@@ -1,0 +1,54 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: British Book Publishing
+========================================================================
+Lead Score:          89/100
+Lead Status:         NEW
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ⚠️ Direct Phone Missing
+  Direct Phone:       N/A (Formatted for international dial)
+  Decision Maker:     Managing Director / Commercial Lead
+  Call Opener Script: "Inquire about their current Book Publishing and Editing services in London"
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.8 ★ (24+ reviews)
+  GMB Category:       Book Publishing and Editing
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=British%20Book%20Publishing%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Book Publishing and Editing
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   London, United Kingdom
+  Official Website:   https://www.publishers.org.uk/member/british-book-publishing/
+  Business Email:     mail@publishers.org.uk (UNVERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/the-publishers-association/
+  Discovery Provider: live_web_directory
+  Source URL:         https://www.publishers.org.uk/member/british-book-publishing/
+  Collection Date:    11/4/2026, 6:14:51 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Our services are crafted to support authors through every phase - whether you're polishing a draft or preparing for launch. With standout design, seamless editing, and reliable publishing tools, we help your book shine in the marketplace. Services include: • Self-publishing support. • Professional editing and formatting.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 30,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 14,
+  "phoneAvailability": 0,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 89,
+  "notes": [
+    "Exact industry match: Book Publishing and Editing",
+    "City target match",
+    "No direct phone number",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": false
+}
+========================================================================

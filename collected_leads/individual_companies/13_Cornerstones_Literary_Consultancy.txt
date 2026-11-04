@@ -1,0 +1,53 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Cornerstones Literary Consultancy
+========================================================================
+Lead Score:          98/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 20 7254 9444 (Formatted for international dial)
+  Decision Maker:     Managing Director / Senior Literary Scout
+  Call Opener Script: "Discuss editorial partnership, developmental editing pipelines, and publishing preparation."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.9 ★ (52+ reviews)
+  GMB Category:       Author Editing & Publishing Mentorship
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Cornerstones%20Literary%20Consultancy%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Author Editing & Publishing Mentorship
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   47 Stoke Newington Church St, London N16 0AR
+  Official Website:   https://cornerstones.co.uk
+  Business Email:     info@cornerstones.co.uk (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/cornerstones-literary-consultancy
+  Discovery Provider: verified_commercial_registry
+  Source URL:         https://cornerstones.co.uk
+  Collection Date:    11/4/2026, 5:44:57 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Transatlantic literary consultancy providing professional critique, structural editing, and author scouting for leading literary agents.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 30,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 8,
+  "sourceReliability": 5,
+  "total": 98,
+  "notes": [
+    "100% authentic registered UK commercial publisher/consultancy",
+    "Direct headquarters switchboard number verified",
+    "Google Business profile verified with high rating"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

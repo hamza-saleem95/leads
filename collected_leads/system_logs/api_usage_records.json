@@ -152,5 +152,50 @@
     },
     "id": "use-1793796235336-vj0dg",
     "createdAt": "2026-11-04T12:43:55.336Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "live_web_directory",
+    "endpoint": "discovery/search",
+    "tokensUsed": 0,
+    "estimatedCost": 0.005,
+    "status": "SUCCESS",
+    "metadata": {
+      "query": "Book Publishing and Editing companies London United Kingdom",
+      "resultsCount": 6,
+      "durationMs": 958
+    },
+    "id": "use-1793798042329-2gjvg",
+    "createdAt": "2026-11-04T13:14:02.329Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "live_web_directory",
+    "endpoint": "discovery/search",
+    "tokensUsed": 0,
+    "estimatedCost": 0.005,
+    "status": "SUCCESS",
+    "metadata": {
+      "query": "top book publishing companies in London",
+      "resultsCount": 6,
+      "durationMs": 684
+    },
+    "id": "use-1793798043060-hujg5",
+    "createdAt": "2026-11-04T13:14:03.060Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "intelligence/discovery",
+    "tokensUsed": 3113,
+    "estimatedCost": 0.0012452000000000001,
+    "status": "SUCCESS",
+    "metadata": {
+      "count": 12,
+      "industry": "Book Publishing and Editing",
+      "country": "United Kingdom"
+    },
+    "id": "use-1793798077452-9vzaz",
+    "createdAt": "2026-11-04T13:14:37.452Z"
   }
 ]

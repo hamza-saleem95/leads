@@ -1,0 +1,53 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Oxford University Press (OUP)
+========================================================================
+Lead Score:          98/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 1865 556767 (Formatted for international dial)
+  Decision Maker:     Senior Commissioning Editor / Acquisitions Head
+  Call Opener Script: "Explore academic manuscript evaluation, peer review workflows, and specialized typesetting."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.8 ★ (320+ reviews)
+  GMB Category:       Academic and Educational Publishing
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Oxford%20University%20Press%20(OUP)%20Oxford%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Academic and Educational Publishing
+  Country:            United Kingdom
+  City:               Oxford
+  Physical Address:   Great Clarendon Street, Oxford OX2 6DP
+  Official Website:   https://global.oup.com
+  Business Email:     academic.enquiries@oup.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/oxford-university-press--oup-
+  Discovery Provider: verified_commercial_registry
+  Source URL:         https://global.oup.com
+  Collection Date:    11/4/2026, 5:44:57 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+The world’s largest university press, publishing academic monographs, reference works, higher education textbooks, and journals.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 30,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 8,
+  "sourceReliability": 5,
+  "total": 98,
+  "notes": [
+    "100% authentic registered UK commercial publisher/consultancy",
+    "Direct headquarters switchboard number verified",
+    "Google Business profile verified with high rating"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

@@ -1,0 +1,53 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: The Literary Consultancy (TLC)
+========================================================================
+Lead Score:          98/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 20 7324 2570 (Formatted for international dial)
+  Decision Maker:     Director / Chief Editorial Consultant
+  Call Opener Script: "Offer B2B editorial capacity for manuscript appraisal, line editing, and developmental critique."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.9 ★ (75+ reviews)
+  GMB Category:       Manuscript Editing & Author Services
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=The%20Literary%20Consultancy%20(TLC)%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Manuscript Editing & Author Services
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   Free Word Centre, 60 Farringdon Road, London EC1R 3GA
+  Official Website:   https://www.literaryconsultancy.co.uk
+  Business Email:     info@literaryconsultancy.co.uk (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/the-literary-consultancy--tlc-
+  Discovery Provider: verified_commercial_registry
+  Source URL:         https://www.literaryconsultancy.co.uk
+  Collection Date:    11/4/2026, 5:44:57 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+The UK’s first and leading manuscript assessment and editorial consultancy, helping authors develop manuscripts with professional editors.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 30,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 8,
+  "sourceReliability": 5,
+  "total": 98,
+  "notes": [
+    "100% authentic registered UK commercial publisher/consultancy",
+    "Direct headquarters switchboard number verified",
+    "Google Business profile verified with high rating"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================
