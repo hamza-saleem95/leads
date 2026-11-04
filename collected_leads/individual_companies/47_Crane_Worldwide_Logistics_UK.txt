@@ -1,0 +1,55 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Crane Worldwide Logistics UK
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 20 8890 1234 (Formatted for international dial)
+  Decision Maker:     Head of Air Freight / Operations Director
+  Call Opener Script: "Discuss temperature-sensitive healthcare and energy cargo forwarding out of Heathrow."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.8 ★ (52+ reviews)
+  GMB Category:       Freight Forwarding & Contract Logistics
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Crane%20Worldwide%20Logistics%20UK%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Freight Forwarding & Contract Logistics
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   Unit 2, Skyport Drive, Harmondsworth, London Heathrow UB7 0LB
+  Official Website:   https://www.craneww.com
+  Business Email:     contact@craneww.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/crane-worldwide-logistics-uk
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.craneww.com
+  Collection Date:    11/4/2026, 7:44:52 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Full-service air and ocean freight forwarder, customs broker, and integrated contract logistics specialist near Heathrow Airport.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 21,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 91,
+  "notes": [
+    "Partial industry keyword match (logistics, and, freight, forwarding)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

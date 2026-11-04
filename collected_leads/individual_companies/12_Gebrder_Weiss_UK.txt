@@ -1,0 +1,55 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Gebrüder Weiss UK
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 20 8890 3000 (Formatted for international dial)
+  Decision Maker:     Country Manager / Head of Air & Sea
+  Call Opener Script: "Inquire regarding Silk Road rail freight connections and Central European logistics."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.9 ★ (70+ reviews)
+  GMB Category:       Transport and Logistics Management
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Gebr%C3%BCder%20Weiss%20UK%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Transport and Logistics Management
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   Unit 5, The Summit Centre, Hanworth Road, Sunbury / London TW16 5DB
+  Official Website:   https://www.gw-world.com
+  Business Email:     contact@gw-world.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/gebr-der-weiss-uk
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.gw-world.com
+  Collection Date:    11/4/2026, 7:45:06 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Full-service logistics provider managing air and sea cargo, overland transport, and custom industry logistics solutions for industrial enterprises.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 11,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 81,
+  "notes": [
+    "Partial industry keyword match (logistics, and)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

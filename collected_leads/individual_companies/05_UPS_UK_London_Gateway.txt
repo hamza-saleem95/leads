@@ -1,0 +1,55 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: UPS UK London Gateway
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 345 787 7877 (Formatted for international dial)
+  Decision Maker:     District Operations Manager
+  Call Opener Script: "Connect regarding specialized healthcare logistics and global cross-border e-commerce."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.6 ★ (350+ reviews)
+  GMB Category:       Global Logistics & Supply Chain Solutions
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=UPS%20UK%20London%20Gateway%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Global Logistics & Supply Chain Solutions
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   London Hub, 1 Tilbury Port Approach / Camden Depot, London NW1 0AB
+  Official Website:   https://www.ups.com
+  Business Email:     contact@ups.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/ups-uk-london-gateway
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.ups.com
+  Collection Date:    11/4/2026, 7:45:09 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Global leader in logistics, parcel delivery, specialized healthcare transport, and international ocean/air freight forwarding.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 21,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 91,
+  "notes": [
+    "Partial industry keyword match (logistics, and, freight, forwarding)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

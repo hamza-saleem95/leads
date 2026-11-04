@@ -1,7 +1,10 @@
 import axios from 'axios';
+import https from 'https';
 import * as cheerio from 'cheerio';
 import { ExtractionResult, ExtractionStatus } from '../types/index.js';
 import { config } from '../config/index.js';
+
+const httpsAgent = new https.Agent({ rejectUnauthorized: false });
 
 export class WebsiteExtractor {
   private static visitedUrls = new Set<string>();
@@ -238,6 +241,7 @@ export class WebsiteExtractor {
           'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
           'Accept-Language': 'en-US,en;q=0.9',
         },
+        httpsAgent,
         timeout: config.extraction.timeoutMs,
         maxRedirects: 4,
         maxContentLength: config.extraction.maxContentLength,

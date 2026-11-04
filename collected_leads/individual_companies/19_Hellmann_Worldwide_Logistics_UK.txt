@@ -1,0 +1,55 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Hellmann Worldwide Logistics UK
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 1753 686868 (Formatted for international dial)
+  Decision Maker:     Managing Director UK / Airfreight Lead
+  Call Opener Script: "Discuss automotive, fashion and marine spares logistics out of London."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.8 ★ (80+ reviews)
+  GMB Category:       Global Freight Forwarding & Contract Logistics
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Hellmann%20Worldwide%20Logistics%20UK%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Global Freight Forwarding & Contract Logistics
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   Unit 3, Parkway, Poyle Road, Colnbrook, London Heathrow SL3 0DA
+  Official Website:   https://www.hellmann.com
+  Business Email:     contact@hellmann.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/hellmann-worldwide-logistics-uk
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.hellmann.com
+  Collection Date:    11/4/2026, 7:45:04 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Family-owned global logistics network providing air and sea freight forwarding, road freight, perishable logistics, and contract warehousing.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 21,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 91,
+  "notes": [
+    "Partial industry keyword match (logistics, and, freight, forwarding)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

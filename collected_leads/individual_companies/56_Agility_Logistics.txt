@@ -1,0 +1,55 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Agility Logistics
+========================================================================
+Lead Score:          97/100
+Lead Status:         NEW
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +97148131161 (Formatted for international dial)
+  Decision Maker:     Operations Manager
+  Call Opener Script: "Agility Logistics excels in temperature-sensitive transport; I’d love to discuss how we can enhance your logistics operations."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4 ★ (25+ reviews)
+  GMB Category:       Logistics and Freight Forwarding
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Agility%20Logistics%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Logistics and Freight Forwarding
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   B-055, 1st Floor, Reem Mall, Najmat Abu Dhabi, Al Reem Island, Abu Dhabi, , AE
+  Official Website:   https://www.agility.com
+  Business Email:     info@agility.com (UNVERIFIED)
+  LinkedIn Profile:   N/A
+  Discovery Provider: openai_intelligence
+  Source URL:         https://www.agility.com
+  Collection Date:    11/4/2026, 7:40:25 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Agility Logistics provides logistics and supply chain services, including freight forwarding and warehousing.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 30,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 14,
+  "phoneAvailability": 10,
+  "completeness": 8,
+  "sourceReliability": 5,
+  "total": 97,
+  "notes": [
+    "Exact industry match: Logistics and Freight Forwarding",
+    "City target match",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search",
+    "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

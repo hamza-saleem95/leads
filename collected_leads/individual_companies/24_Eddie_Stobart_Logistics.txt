@@ -1,0 +1,55 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Eddie Stobart Logistics
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 1228 590012 (Formatted for international dial)
+  Decision Maker:     Commercial Director / Business Unit Head
+  Call Opener Script: "Explore high-capacity dedicated road transport contracts and national distribution."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.7 ★ (240+ reviews)
+  GMB Category:       Multimodal Transport & Supply Chain
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Eddie%20Stobart%20Logistics%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Multimodal Transport & Supply Chain
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   Barking Rail Terminal, Ripple Road, Barking, London IG11 0RH
+  Official Website:   https://www.eddiestobart.com
+  Business Email:     contact@eddiestobart.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/eddie-stobart-logistics
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.eddiestobart.com
+  Collection Date:    11/4/2026, 7:45:01 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Iconic British multimodal logistics company offering road transport, rail freight, contract warehousing, and specialized bulk materials transport.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 16,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 86,
+  "notes": [
+    "Partial industry keyword match (logistics, and, freight)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

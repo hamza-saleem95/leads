@@ -1,7 +1,7 @@
-import dns from 'dns';
-import { promisify } from 'util';
+import { promises as dnsPromises } from 'dns';
 
-const dnsLookup = promisify(dns.lookup);
+const resolver = new dnsPromises.Resolver();
+resolver.setServers(['8.8.8.8', '1.1.1.1', '8.8.4.4']);
 
 // Aggregators, directory sites, social networks, and scrapers that are NEVER official company websites
 const BANNED_DOMAINS = new Set([
@@ -48,15 +48,16 @@ const BANNED_PATH_PATTERNS = [
 ];
 
 export class DomainVerifier {
-  private static cache = new Map<string, boolean>();
+  private static cache = new Map<string, string | null>();
 
   /**
    * Verifies whether a website URL is a genuine official corporate domain
    * and resolves to a real IP address in public DNS.
+   * Returns normalized resolvable hostname or null.
    */
-  static async isDomainResolvable(urlStr?: string | null): Promise<boolean> {
+  static async resolveDomain(urlStr?: string | null): Promise<string | null> {
     if (!urlStr || typeof urlStr !== 'string' || !urlStr.startsWith('http')) {
-      return false;
+      return null;
     }
 
     try {
@@ -66,44 +67,55 @@ export class DomainVerifier {
       // Check banned domains (directories/social/blogs)
       for (const banned of BANNED_DOMAINS) {
         if (hostname === banned || hostname.endsWith(`.${banned}`)) {
-          return false;
+          return null;
         }
       }
 
       // Check banned path patterns (listicles, articles, member pages)
       for (const pattern of BANNED_PATH_PATTERNS) {
         if (pattern.test(parsed.pathname)) {
-          return false;
+          return null;
         }
       }
 
-      // Check DNS cache
+      // Check cache
       if (this.cache.has(hostname)) {
         return this.cache.get(hostname)!;
       }
 
-      // Perform real DNS lookup
+      // Try resolving direct hostname
       try {
-        await dnsLookup(hostname);
-        this.cache.set(hostname, true);
-        return true;
-      } catch (err: any) {
-        // If no www, try adding www.
+        const ips = await resolver.resolve4(hostname);
+        if (ips && ips.length > 0) {
+          this.cache.set(hostname, hostname);
+          return hostname;
+        }
+      } catch {
+        // Fallback to www. if not already present
         if (!hostname.startsWith('www.')) {
           try {
-            await dnsLookup(`www.${hostname}`);
-            this.cache.set(hostname, true);
-            return true;
+            const wwwHost = `www.${hostname}`;
+            const ips = await resolver.resolve4(wwwHost);
+            if (ips && ips.length > 0) {
+              this.cache.set(hostname, wwwHost);
+              return wwwHost;
+            }
           } catch {
             // failed
           }
         }
-        this.cache.set(hostname, false);
-        return false;
       }
+
+      this.cache.set(hostname, null);
+      return null;
     } catch {
-      return false;
+      return null;
     }
+  }
+
+  static async isDomainResolvable(urlStr?: string | null): Promise<boolean> {
+    const res = await this.resolveDomain(urlStr);
+    return res !== null;
   }
 
   /**
@@ -113,12 +125,12 @@ export class DomainVerifier {
   static async filterValidWebsite(urlStr?: string | null): Promise<string | undefined> {
     if (!urlStr) return undefined;
 
-    const isValid = await this.isDomainResolvable(urlStr);
-    if (!isValid) return undefined;
+    const resolvedHost = await this.resolveDomain(urlStr);
+    if (!resolvedHost) return undefined;
 
     try {
       const parsed = new URL(urlStr);
-      // Clean query params & hash
+      parsed.hostname = resolvedHost;
       parsed.search = '';
       parsed.hash = '';
       let cleanUrl = parsed.toString();

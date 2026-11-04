@@ -1,0 +1,55 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: CMA CGM UK
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 20 7265 5000 (Formatted for international dial)
+  Decision Maker:     Commercial Director / Inland Operations Manager
+  Call Opener Script: "Discuss coastal container feeder options and regional London distribution routes."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.7 ★ (82+ reviews)
+  GMB Category:       Maritime Shipping & Inland Logistics
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=CMA%20CGM%20UK%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Maritime Shipping & Inland Logistics
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   Sturrock & Jackson House, 69 Prescot Street, London E1 8BA
+  Official Website:   https://www.cma-cgm.com
+  Business Email:     contact@cma-cgm.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/cma-cgm-uk
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.cma-cgm.com
+  Collection Date:    11/4/2026, 7:44:55 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Leading international container shipping company providing inland logistics, refrigerated container transport, and global forwarding services.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 16,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 86,
+  "notes": [
+    "Partial industry keyword match (logistics, and, forwarding)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

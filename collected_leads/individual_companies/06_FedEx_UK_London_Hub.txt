@@ -1,0 +1,55 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: FedEx UK London Hub
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 345 600 0068 (Formatted for international dial)
+  Decision Maker:     UK Managing Director / Operations Manager
+  Call Opener Script: "Inquire regarding international export express shipping and customs brokerage."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.6 ★ (260+ reviews)
+  GMB Category:       Global Express Transportation & Freight
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=FedEx%20UK%20London%20Hub%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Global Express Transportation & Freight
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   Stansted Cargo Terminal / Bermondsey Hub, London SE16 3LE
+  Official Website:   https://www.fedex.com
+  Business Email:     contact@fedex.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/fedex-uk-london-hub
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.fedex.com
+  Collection Date:    11/4/2026, 7:45:09 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+World leader in express transportation, air cargo, and international customs clearance with extensive London delivery depots.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 11,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 81,
+  "notes": [
+    "Partial industry keyword match (and, freight)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

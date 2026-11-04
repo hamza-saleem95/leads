@@ -197,5 +197,500 @@
     },
     "id": "use-1793798077452-9vzaz",
     "createdAt": "2026-11-04T13:14:37.452Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "live_web_directory",
+    "endpoint": "discovery/search",
+    "tokensUsed": 0,
+    "estimatedCost": 0.005,
+    "status": "SUCCESS",
+    "metadata": {
+      "query": "Logistics and Freight Forwarding companies London United Kingdom",
+      "resultsCount": 0,
+      "durationMs": 1230
+    },
+    "id": "use-1793801911339-3zgzx",
+    "createdAt": "2026-11-04T14:18:31.339Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "live_web_directory",
+    "endpoint": "discovery/search",
+    "tokensUsed": 0,
+    "estimatedCost": 0.005,
+    "status": "SUCCESS",
+    "metadata": {
+      "query": "logistics companies London UK",
+      "resultsCount": 0,
+      "durationMs": 2042
+    },
+    "id": "use-1793801913447-f29j9",
+    "createdAt": "2026-11-04T14:18:33.447Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "live_web_directory",
+    "endpoint": "discovery/search",
+    "tokensUsed": 0,
+    "estimatedCost": 0.005,
+    "status": "SUCCESS",
+    "metadata": {
+      "query": "freight forwarding companies London",
+      "resultsCount": 0,
+      "durationMs": 140
+    },
+    "id": "use-1793801913677-xtk9u",
+    "createdAt": "2026-11-04T14:18:33.677Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "live_web_directory",
+    "endpoint": "discovery/search",
+    "tokensUsed": 0,
+    "estimatedCost": 0.005,
+    "status": "SUCCESS",
+    "metadata": {
+      "query": "warehousing and distribution London UK",
+      "resultsCount": 0,
+      "durationMs": 90
+    },
+    "id": "use-1793801913825-tzfop",
+    "createdAt": "2026-11-04T14:18:33.825Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "intelligence/discovery",
+    "tokensUsed": 4767,
+    "estimatedCost": 0.0019068000000000002,
+    "status": "SUCCESS",
+    "metadata": {
+      "count": 25,
+      "industry": "Logistics and Freight Forwarding (Contract Logistics, Warehousing & 3PL Distribution)",
+      "country": "United Kingdom"
+    },
+    "id": "use-1793802033483-bpm4d",
+    "createdAt": "2026-11-04T14:20:33.483Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "live_web_directory",
+    "endpoint": "discovery/search",
+    "tokensUsed": 0,
+    "estimatedCost": 0.005,
+    "status": "SUCCESS",
+    "metadata": {
+      "query": "Logistics and Freight Forwarding companies London United Kingdom",
+      "resultsCount": 0,
+      "durationMs": 506
+    },
+    "id": "use-1793802204139-98buq",
+    "createdAt": "2026-11-04T14:23:24.139Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "live_web_directory",
+    "endpoint": "discovery/search",
+    "tokensUsed": 0,
+    "estimatedCost": 0.005,
+    "status": "SUCCESS",
+    "metadata": {
+      "query": "logistics companies London UK",
+      "resultsCount": 0,
+      "durationMs": 131
+    },
+    "id": "use-1793802204320-8avvj",
+    "createdAt": "2026-11-04T14:23:24.320Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "live_web_directory",
+    "endpoint": "discovery/search",
+    "tokensUsed": 0,
+    "estimatedCost": 0.005,
+    "status": "SUCCESS",
+    "metadata": {
+      "query": "freight forwarding companies London",
+      "resultsCount": 0,
+      "durationMs": 96
+    },
+    "id": "use-1793802204479-wglww",
+    "createdAt": "2026-11-04T14:23:24.479Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "live_web_directory",
+    "endpoint": "discovery/search",
+    "tokensUsed": 0,
+    "estimatedCost": 0.005,
+    "status": "SUCCESS",
+    "metadata": {
+      "query": "warehousing and distribution London UK",
+      "resultsCount": 0,
+      "durationMs": 102
+    },
+    "id": "use-1793802204650-mx20b",
+    "createdAt": "2026-11-04T14:23:24.650Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "intelligence/discovery",
+    "tokensUsed": 4768,
+    "estimatedCost": 0.0019072,
+    "status": "SUCCESS",
+    "metadata": {
+      "count": 25,
+      "industry": "Logistics and Freight Forwarding (Freight Forwarding, Air & Sea Cargo Consolidation)",
+      "country": "United Kingdom"
+    },
+    "id": "use-1793802262541-m8x8p",
+    "createdAt": "2026-11-04T14:24:22.541Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "live_web_directory",
+    "endpoint": "discovery/search",
+    "tokensUsed": 0,
+    "estimatedCost": 0.005,
+    "status": "SUCCESS",
+    "metadata": {
+      "query": "Logistics and Freight Forwarding companies London United Kingdom",
+      "resultsCount": 0,
+      "durationMs": 462
+    },
+    "id": "use-1793802321996-gjfab",
+    "createdAt": "2026-11-04T14:25:21.996Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "live_web_directory",
+    "endpoint": "discovery/search",
+    "tokensUsed": 0,
+    "estimatedCost": 0.005,
+    "status": "SUCCESS",
+    "metadata": {
+      "query": "logistics companies London UK",
+      "resultsCount": 0,
+      "durationMs": 97
+    },
+    "id": "use-1793802322149-x9y0v",
+    "createdAt": "2026-11-04T14:25:22.149Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "live_web_directory",
+    "endpoint": "discovery/search",
+    "tokensUsed": 0,
+    "estimatedCost": 0.005,
+    "status": "SUCCESS",
+    "metadata": {
+      "query": "freight forwarding companies London",
+      "resultsCount": 0,
+      "durationMs": 85
+    },
+    "id": "use-1793802322289-cmqog",
+    "createdAt": "2026-11-04T14:25:22.289Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "live_web_directory",
+    "endpoint": "discovery/search",
+    "tokensUsed": 0,
+    "estimatedCost": 0.005,
+    "status": "SUCCESS",
+    "metadata": {
+      "query": "warehousing and distribution London UK",
+      "resultsCount": 0,
+      "durationMs": 81
+    },
+    "id": "use-1793802322423-ss8ts",
+    "createdAt": "2026-11-04T14:25:22.423Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "intelligence/discovery",
+    "tokensUsed": 4767,
+    "estimatedCost": 0.0019068000000000002,
+    "status": "SUCCESS",
+    "metadata": {
+      "count": 25,
+      "industry": "Logistics and Freight Forwarding (Customs Brokerage, Supply Chain Logistics & Cold Storage)",
+      "country": "United Kingdom"
+    },
+    "id": "use-1793802560851-1oiql",
+    "createdAt": "2026-11-04T14:29:20.851Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "live_web_directory",
+    "endpoint": "discovery/search",
+    "tokensUsed": 0,
+    "estimatedCost": 0.005,
+    "status": "SUCCESS",
+    "metadata": {
+      "query": "Logistics and Freight Forwarding companies London United Kingdom",
+      "resultsCount": 0,
+      "durationMs": 425
+    },
+    "id": "use-1793802687618-iidp7",
+    "createdAt": "2026-11-04T14:31:27.618Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "live_web_directory",
+    "endpoint": "discovery/search",
+    "tokensUsed": 0,
+    "estimatedCost": 0.005,
+    "status": "SUCCESS",
+    "metadata": {
+      "query": "logistics companies London UK",
+      "resultsCount": 0,
+      "durationMs": 89
+    },
+    "id": "use-1793802687763-h04pr",
+    "createdAt": "2026-11-04T14:31:27.763Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "live_web_directory",
+    "endpoint": "discovery/search",
+    "tokensUsed": 0,
+    "estimatedCost": 0.005,
+    "status": "SUCCESS",
+    "metadata": {
+      "query": "freight forwarding companies London",
+      "resultsCount": 0,
+      "durationMs": 88
+    },
+    "id": "use-1793802687908-8piat",
+    "createdAt": "2026-11-04T14:31:27.908Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "live_web_directory",
+    "endpoint": "discovery/search",
+    "tokensUsed": 0,
+    "estimatedCost": 0.005,
+    "status": "SUCCESS",
+    "metadata": {
+      "query": "warehousing and distribution London UK",
+      "resultsCount": 0,
+      "durationMs": 93
+    },
+    "id": "use-1793802688055-8qoov",
+    "createdAt": "2026-11-04T14:31:28.055Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "intelligence/discovery",
+    "tokensUsed": 3216,
+    "estimatedCost": 0.0012864,
+    "status": "SUCCESS",
+    "metadata": {
+      "count": 12,
+      "industry": "Logistics and Freight Forwarding (Global Freight Forwarding, Air & Maritime Cargo Logistics)",
+      "country": "United Kingdom"
+    },
+    "id": "use-1793802723228-pq3d1",
+    "createdAt": "2026-11-04T14:32:03.228Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "intelligence/discovery",
+    "tokensUsed": 4769,
+    "estimatedCost": 0.0019076,
+    "status": "SUCCESS",
+    "metadata": {
+      "count": 12,
+      "industry": "Logistics and Freight Forwarding (Contract Logistics, Warehousing & 3PL Supply Chain Distribution)",
+      "country": "United Kingdom"
+    },
+    "id": "use-1793802783156-b1opv",
+    "createdAt": "2026-11-04T14:33:03.156Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "intelligence/discovery",
+    "tokensUsed": 3358,
+    "estimatedCost": 0.0013432000000000001,
+    "status": "SUCCESS",
+    "metadata": {
+      "count": 12,
+      "industry": "Logistics and Freight Forwarding (Express Courier, Fleet Haulage & Last Mile Delivery Services)",
+      "country": "United Kingdom"
+    },
+    "id": "use-1793802817883-76gzk",
+    "createdAt": "2026-11-04T14:33:37.883Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "live_web_directory",
+    "endpoint": "discovery/search",
+    "tokensUsed": 0,
+    "estimatedCost": 0.005,
+    "status": "SUCCESS",
+    "metadata": {
+      "query": "Logistics and Freight Forwarding companies London United Kingdom",
+      "resultsCount": 0,
+      "durationMs": 504
+    },
+    "id": "use-1793802877573-f4ht9",
+    "createdAt": "2026-11-04T14:34:37.573Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "live_web_directory",
+    "endpoint": "discovery/search",
+    "tokensUsed": 0,
+    "estimatedCost": 0.005,
+    "status": "SUCCESS",
+    "metadata": {
+      "query": "logistics companies London UK",
+      "resultsCount": 0,
+      "durationMs": 89
+    },
+    "id": "use-1793802877717-y4fdw",
+    "createdAt": "2026-11-04T14:34:37.717Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "live_web_directory",
+    "endpoint": "discovery/search",
+    "tokensUsed": 0,
+    "estimatedCost": 0.005,
+    "status": "SUCCESS",
+    "metadata": {
+      "query": "freight forwarding companies London",
+      "resultsCount": 0,
+      "durationMs": 107
+    },
+    "id": "use-1793802877879-i4jx2",
+    "createdAt": "2026-11-04T14:34:37.879Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "live_web_directory",
+    "endpoint": "discovery/search",
+    "tokensUsed": 0,
+    "estimatedCost": 0.005,
+    "status": "SUCCESS",
+    "metadata": {
+      "query": "warehousing and distribution London UK",
+      "resultsCount": 0,
+      "durationMs": 80
+    },
+    "id": "use-1793802878029-g9szh",
+    "createdAt": "2026-11-04T14:34:38.029Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "intelligence/discovery",
+    "tokensUsed": 2594,
+    "estimatedCost": 0.0010376,
+    "status": "SUCCESS",
+    "metadata": {
+      "count": 8,
+      "industry": "Logistics and Freight Forwarding (Global Freight Forwarding, Air & Maritime Cargo Logistics)",
+      "country": "United Kingdom"
+    },
+    "id": "use-1793802902704-n9d4o",
+    "createdAt": "2026-11-04T14:35:02.704Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "intelligence/discovery",
+    "tokensUsed": 2554,
+    "estimatedCost": 0.0010216,
+    "status": "SUCCESS",
+    "metadata": {
+      "count": 8,
+      "industry": "Logistics and Freight Forwarding (Contract Logistics, Warehousing & 3PL Supply Chain Distribution)",
+      "country": "United Kingdom"
+    },
+    "id": "use-1793802927907-tpuat",
+    "createdAt": "2026-11-04T14:35:27.907Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "intelligence/discovery",
+    "tokensUsed": 2538,
+    "estimatedCost": 0.0010152,
+    "status": "SUCCESS",
+    "metadata": {
+      "count": 8,
+      "industry": "Logistics and Freight Forwarding (Express Courier, Fleet Haulage & Last Mile Delivery Services)",
+      "country": "United Kingdom"
+    },
+    "id": "use-1793802952122-iywot",
+    "createdAt": "2026-11-04T14:35:52.122Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "intelligence/discovery",
+    "tokensUsed": 2674,
+    "estimatedCost": 0.0010696000000000002,
+    "status": "SUCCESS",
+    "metadata": {
+      "count": 8,
+      "industry": "Logistics and Freight Forwarding (Cold Chain, Pharmaceutical & Specialized Temperature Transport)",
+      "country": "United Kingdom"
+    },
+    "id": "use-1793803040540-jxarn",
+    "createdAt": "2026-11-04T14:37:20.540Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "intelligence/discovery",
+    "tokensUsed": 2594,
+    "estimatedCost": 0.0010376,
+    "status": "SUCCESS",
+    "metadata": {
+      "count": 8,
+      "industry": "Logistics and Freight Forwarding (E-Commerce Fulfillment, Pallet Networks & Road Freight Logistics)",
+      "country": "United Kingdom"
+    },
+    "id": "use-1793803067139-gqpf3",
+    "createdAt": "2026-11-04T14:37:47.139Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "intelligence/discovery",
+    "tokensUsed": 4768,
+    "estimatedCost": 0.0019072,
+    "status": "SUCCESS",
+    "metadata": {
+      "count": 8,
+      "industry": "Logistics and Freight Forwarding (Aviation Cargo Handling, Heathrow Freight Hub & Airport Transport)",
+      "country": "United Kingdom"
+    },
+    "id": "use-1793803122498-0q5pu",
+    "createdAt": "2026-11-04T14:38:42.498Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "intelligence/discovery",
+    "tokensUsed": 4769,
+    "estimatedCost": 0.0019076,
+    "status": "SUCCESS",
+    "metadata": {
+      "count": 8,
+      "industry": "Logistics and Freight Forwarding (Heavy Haulage, Project Forwarding & Bulk Cargo Logistics)",
+      "country": "United Kingdom"
+    },
+    "id": "use-1793803179767-0828o",
+    "createdAt": "2026-11-04T14:39:39.767Z"
   }
 ]

@@ -1,0 +1,55 @@
+{
+  "id": "proj-1793801909786-gpbj8",
+  "userId": "user-default-admin-01",
+  "name": "London Logistics & Freight Companies (50 Leads)",
+  "industry": "Logistics and Freight Forwarding",
+  "country": "United Kingdom",
+  "status": "ACTIVE",
+  "totalFound": 0,
+  "configuration": {
+    "industry": "Logistics and Freight Forwarding",
+    "country": "United Kingdom",
+    "cities": [
+      "London"
+    ],
+    "quantity": 50,
+    "businessType": "B2B Logistics, Freight, Transport & Warehousing",
+    "requiredFields": [
+      "company_name",
+      "website",
+      "phone",
+      "address"
+    ],
+    "additionalRequirements": "London-based logistics, freight forwarders, cargo consolidation, and warehousing companies. Every business MUST have a verified working official website that exists in public DNS and an active Google Maps profile in London.",
+    "targetKeywords": [
+      "logistics",
+      "freight forwarding",
+      "air cargo",
+      "sea freight",
+      "warehousing",
+      "3PL",
+      "London"
+    ],
+    "searchQueries": [
+      {
+        "query": "logistics companies London UK",
+        "provider": "live_web_directory"
+      },
+      {
+        "query": "freight forwarding companies London",
+        "provider": "live_web_directory"
+      },
+      {
+        "query": "warehousing and distribution London UK",
+        "provider": "live_web_directory"
+      }
+    ],
+    "suggestedProviders": [
+      "live_web_directory",
+      "openai_intelligence"
+    ],
+    "rationale": "Comprehensive multi-source discovery of genuine, commercially active logistics providers with verified websites and direct corporate switchboard phones in Greater London."
+  },
+  "createdAt": "2026-11-04T14:18:29.786Z",
+  "updatedAt": "2026-11-04T14:18:29.786Z"
+}

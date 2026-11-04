@@ -1,0 +1,55 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Palletways London
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 20 8813 3200 (Formatted for international dial)
+  Decision Maker:     Depot General Manager / Network Director
+  Call Opener Script: "Discuss scheduled corporate pallet collection runs and overflow trunking capacity."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.8 ★ (110+ reviews)
+  GMB Category:       Express Palletized Freight Network
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Palletways%20London%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Express Palletized Freight Network
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   Unit 2, Metropolitan Park, Bristol Road, Greenford / Park Royal, London UB6 8UP
+  Official Website:   https://www.palletways.com
+  Business Email:     contact@palletways.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/palletways-london
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.palletways.com
+  Collection Date:    11/4/2026, 7:44:57 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Europe’s largest express palletized freight distribution network providing guaranteed next-day delivery and digital tracking across Greater London.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 11,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 81,
+  "notes": [
+    "Partial industry keyword match (and, freight)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

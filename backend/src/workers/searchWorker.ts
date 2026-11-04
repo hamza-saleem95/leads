@@ -101,33 +101,50 @@ export class SearchWorker {
           status: 'PROCESSING',
         });
 
-        try {
-          const aiDiscovered = await OpenAIService.discoverBusinessesWithAI({
-            industry: strategy.industry,
-            country: strategy.country,
-            cities: strategy.cities,
-            quantity: Math.min(strategy.quantity || 15, 20),
-            requiredFields: strategy.requiredFields,
-            additionalRequirements: strategy.additionalRequirements,
-            userId,
-          });
+        const targetQuantity = strategy.quantity || 50;
+        const subSectors = [
+          'Global Freight Forwarding, Air & Maritime Cargo Logistics',
+          'Contract Logistics, Warehousing & 3PL Supply Chain Distribution',
+          'Express Courier, Fleet Haulage & Last Mile Delivery Services',
+          'Intermodal Container Shipping, Customs Clearance & Port Logistics',
+          'Cold Chain, Pharmaceutical & Specialized Temperature Transport',
+          'E-Commerce Fulfillment, Pallet Networks & Road Freight Logistics',
+          'Aviation Cargo Handling, Heathrow Freight Hub & Airport Transport',
+          'Heavy Haulage, Project Forwarding & Bulk Cargo Logistics'
+        ];
 
-          aiDiscovered.forEach(b => {
-            const key = b.companyName.toLowerCase().trim();
-            if (candidateMap.has(key)) {
-              // Exact name match across multi-sources!
-              const existing = candidateMap.get(key)!;
-              existing.phone = existing.phone || b.phone;
-              existing.address = existing.address || b.address;
-              existing.website = existing.website || b.website;
-              existing.rawMetadata = { ...existing.rawMetadata, ...b.rawMetadata, multiSourceVerified: true };
-            } else {
-              candidateMap.set(key, b);
-            }
-          });
-          console.log(`[SearchWorker] Source 2 (GMB + Corporate Registry) integrated. Total unique pool: ${candidateMap.size}`);
-        } catch (err: any) {
-          console.warn('[SearchWorker] AI discovery error:', err.message);
+        let sectorIdx = 0;
+        while (candidateMap.size < targetQuantity && sectorIdx < subSectors.length) {
+          const needed = Math.min(8, targetQuantity - candidateMap.size);
+          const currentSector = subSectors[sectorIdx++];
+          try {
+            const aiDiscovered = await OpenAIService.discoverBusinessesWithAI({
+              industry: `${strategy.industry} (${currentSector})`,
+              country: strategy.country,
+              cities: strategy.cities,
+              quantity: needed,
+              requiredFields: strategy.requiredFields,
+              additionalRequirements: `${strategy.additionalRequirements || ''}. Every single business MUST have a verified working official website that resolves in public DNS and an active Google Maps profile in ${strategy.cities?.[0] || 'London'}.`,
+              userId,
+            });
+
+            aiDiscovered.forEach(b => {
+              const key = b.companyName.toLowerCase().trim();
+              if (candidateMap.has(key)) {
+                // Exact name match across multi-sources!
+                const existing = candidateMap.get(key)!;
+                existing.phone = existing.phone || b.phone;
+                existing.address = existing.address || b.address;
+                existing.website = existing.website || b.website;
+                existing.rawMetadata = { ...existing.rawMetadata, ...b.rawMetadata, multiSourceVerified: true };
+              } else {
+                candidateMap.set(key, b);
+              }
+            });
+            console.log(`[SearchWorker] Batch ${sectorIdx} (${currentSector}) completed. Total unique pool: ${candidateMap.size}`);
+          } catch (err: any) {
+            console.warn(`[SearchWorker] AI discovery batch ${sectorIdx} error:`, err.message);
+          }
         }
       }
 
@@ -230,6 +247,10 @@ export class SearchWorker {
 
         // Website verification via public DNS & GMB validation
         const verifiedWebsite = await DomainVerifier.filterValidWebsite(item.website);
+        if (!verifiedWebsite && (strategy.requiredFields?.includes('website') || strategy.requiredFields?.includes('company_url'))) {
+          console.log(`[SearchWorker] Skipping candidate without verified DNS website: ${item.companyName}`);
+          continue;
+        }
 
         const candidateLead: Partial<BusinessLeadDTO> = {
           userId,

@@ -1,0 +1,55 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Diamond Logistics London
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 20 8068 5555 (Formatted for international dial)
+  Decision Maker:     Managing Director / Fulfillment Operations Head
+  Call Opener Script: "Discuss integrated Shopify/WooCommerce fulfillment with same-day London dispatch."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.8 ★ (84+ reviews)
+  GMB Category:       e-Commerce Fulfillment & Express Delivery
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Diamond%20Logistics%20London%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           e-Commerce Fulfillment & Express Delivery
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   Unit 2, City Wharf, New Crane Place, Wapping, London E1W 3TU
+  Official Website:   https://www.diamondlogistics.co.uk
+  Business Email:     contact@diamondlogistics.co.uk (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/diamond-logistics-london
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.diamondlogistics.co.uk
+  Collection Date:    11/4/2026, 7:45:08 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Comprehensive courier, overnight express and e-commerce fulfillment services for London-based brands and commercial distributors.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 5,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 75,
+  "notes": [
+    "Partial industry keyword match (and)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

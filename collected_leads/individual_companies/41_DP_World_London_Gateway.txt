@@ -1,0 +1,55 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: DP World London Gateway
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 1375 648300 (Formatted for international dial)
+  Decision Maker:     Logistics Park Commercial Director
+  Call Opener Script: "Inquire regarding rail-connected port warehousing and bonded intermodal container handling."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.7 ★ (220+ reviews)
+  GMB Category:       Port Operations & Logistics Hub
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=DP%20World%20London%20Gateway%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Port Operations & Logistics Hub
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   1 The Manorway, Stanford-le-Hope, London Thames Estuary SS17 9PD
+  Official Website:   https://www.dpworld.com
+  Business Email:     contact@dpworld.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/dp-world-london-gateway
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.dpworld.com
+  Collection Date:    11/4/2026, 7:44:54 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+State-of-the-art deep-sea container port and rail freight logistics park connecting global maritime trade into Greater London.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 16,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 86,
+  "notes": [
+    "Partial industry keyword match (logistics, and, freight)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

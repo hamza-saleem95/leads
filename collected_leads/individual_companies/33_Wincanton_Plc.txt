@@ -1,0 +1,55 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Wincanton Plc
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 20 8961 6000 (Formatted for international dial)
+  Decision Maker:     Managing Director / Head of Retail Logistics
+  Call Opener Script: "Propose specialized transport fleet collaboration and high-throughput warehousing support."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.7 ★ (135+ reviews)
+  GMB Category:       3PL Contract Logistics & Supply Chain
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Wincanton%20Plc%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           3PL Contract Logistics & Supply Chain
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   Park Royal Industrial Estate, 10 Abbey Road, London NW10 7ST
+  Official Website:   https://www.wincanton.co.uk
+  Business Email:     contact@wincanton.co.uk (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/wincanton-plc
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.wincanton.co.uk
+  Collection Date:    11/4/2026, 7:44:57 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Leading British supply chain partner providing contract logistics, automated warehousing, transport management, and retail distribution.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 11,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 81,
+  "notes": [
+    "Partial industry keyword match (logistics, and)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

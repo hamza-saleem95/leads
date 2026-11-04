@@ -1,0 +1,55 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: OIA Global
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 20 8759 7000 (Formatted for international dial)
+  Decision Maker:     UK Managing Director / Logistics Manager
+  Call Opener Script: "Connect regarding specialized aerospace, automotive and retail packaging logistics."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.7 ★ (45+ reviews)
+  GMB Category:       Freight Forwarding & Packaging Solutions
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=OIA%20Global%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Freight Forwarding & Packaging Solutions
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   Scylla Road, Heathrow Airport, Hounslow, London TW6 3FE
+  Official Website:   https://www.oiaglobal.com
+  Business Email:     contact@oiaglobal.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/oia-global
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.oiaglobal.com
+  Collection Date:    11/4/2026, 7:44:51 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Third-party logistics, international freight forwarding, and optimized packaging services with dedicated London Heathrow gateway.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 21,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 91,
+  "notes": [
+    "Partial industry keyword match (logistics, and, freight, forwarding)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

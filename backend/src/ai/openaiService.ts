@@ -1,7 +1,10 @@
 import axios from 'axios';
+import https from 'https';
 import { SearchStrategy, DiscoveredBusiness } from '../types/index.js';
 import { config } from '../config/index.js';
 import { db } from '../database/db.js';
+
+const httpsAgent = new https.Agent({ rejectUnauthorized: false });
 
 export interface ParseLeadPromptInput {
   prompt: string;
@@ -26,7 +29,7 @@ export class OpenAIService {
 
     try {
       const cityStr = params.cities?.length > 0 ? params.cities.join(', ') : params.country;
-      const targetCount = Math.min(params.quantity || 15, 25);
+      const targetCount = Math.min(params.quantity || 8, 8);
 
       const systemPrompt = `You are a world-class authentic B2B Corporate Directory & Market Research Intelligence Engine.
 
@@ -35,7 +38,7 @@ YOU MUST ONLY RETURN 100% REAL, GENUINE, COMMERCIALLY ACTIVE REGISTERED BUSINESS
 ABSOLUTELY NEVER INVENT, FABRICATE, OR HALLUCINATE FICTITIOUS COMPANY NAMES OR DUMMY DATA.
 Every single business must be an actual, verified enterprise with:
 - companyName: Real, officially registered business name (e.g. Bloomsbury Publishing, Penguin Random House, Faber & Faber, etc.)
-- website: Official website URL directly listed on the company's verified Google My Business (GMB) / Google Maps profile. ABSOLUTELY NEVER GUESS, INVENT, OR FABRICATE A DOMAIN. If you are not 100% sure of their verified GMB website, leave as null.
+- website: Official website URL directly listed on the company's verified Google My Business (GMB) / Google Maps profile. Every company MUST have an active official website that exists in real-world DNS. ABSOLUTELY NEVER GUESS, INVENT, OR FABRICATE A DOMAIN.
 - industry: Target industry category
 - businessDescription: Comprehensive summary of their real commercial operations, publishing imprints, or services
 - phone: Real corporate telephone number with international code (e.g. +44 20 ..., +1 ...), verified and ready to dial for cold calling
@@ -92,13 +95,14 @@ Additional criteria: ${params.additionalRequirements || 'Focus on active commerc
           ],
           response_format: { type: 'json_object' },
           temperature: 0.1,
-          max_tokens: 3000,
+          max_tokens: 4000,
         },
         {
           headers: {
             'Authorization': `Bearer ${config.openai.apiKey}`,
             'Content-Type': 'application/json',
           },
+          httpsAgent,
           timeout: 60000,
         }
       );
@@ -119,9 +123,24 @@ Additional criteria: ${params.additionalRequirements || 'Focus on active commerc
         });
       }
 
-      const content = response.data?.choices?.[0]?.message?.content;
-      const parsed = JSON.parse(content);
-      const list = parsed.businesses || [];
+      const content = response.data?.choices?.[0]?.message?.content || '{}';
+      let list: any[] = [];
+      try {
+        const parsed = JSON.parse(content);
+        list = parsed.businesses || [];
+      } catch (jsonErr) {
+        try {
+          const lastValidObj = content.lastIndexOf('}');
+          if (lastValidObj !== -1) {
+            const trimmed = content.slice(0, lastValidObj + 1) + ']}';
+            const parsed = JSON.parse(trimmed);
+            list = parsed.businesses || [];
+            console.log(`[OpenAIService] Salvaged ${list.length} businesses from partially truncated JSON`);
+          }
+        } catch {
+          console.warn('[OpenAIService] Failed to parse JSON even after repair attempt');
+        }
+      }
 
       return list.map((b: any) => {
         const mapsQuery = encodeURIComponent(`${b.companyName} ${b.city || ''} ${b.country || params.country}`);
@@ -220,7 +239,8 @@ Additional Questionnaire Context: ${JSON.stringify(input.previousAnswers || {})}
           'Authorization': `Bearer ${config.openai.apiKey}`,
           'Content-Type': 'application/json',
         },
-        timeout: 20000,
+        httpsAgent,
+        timeout: 30000,
       }
     );
 

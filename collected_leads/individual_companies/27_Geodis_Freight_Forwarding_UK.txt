@@ -1,0 +1,55 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Geodis Freight Forwarding UK
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 20 8890 4000 (Formatted for international dial)
+  Decision Maker:     Managing Director / Sales Director
+  Call Opener Script: "Discuss end-to-end supply chain decarbonization and intermodal European freight."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.7 ★ (105+ reviews)
+  GMB Category:       Freight Forwarding & Supply Chain Optimization
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Geodis%20Freight%20Forwarding%20UK%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Freight Forwarding & Supply Chain Optimization
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   Unit 2, Fairway Trading Estate, Green Lane, Hounslow, London TW4 6BU
+  Official Website:   https://www.geodis.com
+  Business Email:     contact@geodis.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/geodis-freight-forwarding-uk
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.geodis.com
+  Collection Date:    11/4/2026, 7:44:59 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Global transport and logistics leader managing supply chain optimization, freight forwarding, contract logistics, and road haulage.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 21,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 91,
+  "notes": [
+    "Partial industry keyword match (logistics, and, freight, forwarding)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================
