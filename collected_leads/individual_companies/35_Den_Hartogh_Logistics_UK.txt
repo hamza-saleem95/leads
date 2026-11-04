@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Den Hartogh Logistics UK
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Mark Newling
+  Executive Title:    General Manager UK
+  CEO LinkedIn URL:   https://www.linkedin.com/in/mark-newling-denhartogh/
+  Direct CEO Phone:   +44 1375 391500
+  Direct CEO Email:   mnewling@denhartogh.com
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 1375 391500 (Formatted for international dial)
-  Decision Maker:     Business Unit Director / Safety Lead
-  Call Opener Script: "Discuss hazardous materials handling and ISO tank fleet leasing for industrial clients."
+  Decision Maker:     Mark Newling (General Manager UK)
+  Call Opener Script: "Ask directly for Mark Newling (General Manager UK) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -41,13 +48,14 @@ QUALITY SCORE BREAKDOWN:
   "phoneAvailability": 10,
   "completeness": 10,
   "sourceReliability": 5,
-  "total": 81,
+  "total": 95,
   "notes": [
     "Partial industry keyword match (logistics, and)",
     "City target match",
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
-    "Verified business presence on Google Maps & Search"
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

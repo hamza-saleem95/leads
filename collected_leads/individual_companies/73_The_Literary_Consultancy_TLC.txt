@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: The Literary Consultancy (TLC)
 Lead Score:          98/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Aki Schilz
+  Executive Title:    Director & CEO
+  CEO LinkedIn URL:   https://www.linkedin.com/in/aki-schilz/
+  Direct CEO Phone:   +44 20 7324 2570
+  Direct CEO Email:   aki@literaryconsultancy.co.uk
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 7324 2570 (Formatted for international dial)
-  Decision Maker:     Director / Chief Editorial Consultant
-  Call Opener Script: "Offer B2B editorial capacity for manuscript appraisal, line editing, and developmental critique."
+  Decision Maker:     Aki Schilz (Director & CEO)
+  Call Opener Script: "Ask directly for Aki Schilz (Director & CEO) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -39,13 +46,14 @@ QUALITY SCORE BREAKDOWN:
   "websiteAvailability": 10,
   "emailAvailability": 15,
   "phoneAvailability": 10,
-  "completeness": 8,
+  "completeness": 10,
   "sourceReliability": 5,
   "total": 98,
   "notes": [
     "100% authentic registered UK commercial publisher/consultancy",
     "Direct headquarters switchboard number verified",
-    "Google Business profile verified with high rating"
+    "Google Business profile verified with high rating",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

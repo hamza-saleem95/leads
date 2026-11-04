@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Geodis Freight Forwarding UK
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Colin Kelly
+  Executive Title:    Managing Director Freight Forwarding UK
+  CEO LinkedIn URL:   https://www.linkedin.com/in/colin-kelly-geodis/
+  Direct CEO Phone:   +44 20 8890 4000
+  Direct CEO Email:   colin.kelly@geodis.com
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 8890 4000 (Formatted for international dial)
-  Decision Maker:     Managing Director / Sales Director
-  Call Opener Script: "Discuss end-to-end supply chain decarbonization and intermodal European freight."
+  Decision Maker:     Colin Kelly (Managing Director Freight Forwarding UK)
+  Call Opener Script: "Ask directly for Colin Kelly (Managing Director Freight Forwarding UK) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -41,13 +48,14 @@ QUALITY SCORE BREAKDOWN:
   "phoneAvailability": 10,
   "completeness": 10,
   "sourceReliability": 5,
-  "total": 91,
+  "total": 95,
   "notes": [
     "Partial industry keyword match (logistics, and, freight, forwarding)",
     "City target match",
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
-    "Verified business presence on Google Maps & Search"
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

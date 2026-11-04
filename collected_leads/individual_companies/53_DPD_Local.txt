@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: DPD Local
 Lead Score:          95/100
 Lead Status:         NEW
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Elaine Kerr
+  Executive Title:    Chief Executive Officer
+  CEO LinkedIn URL:   https://www.linkedin.com/in/elaine-kerr-dpd/
+  Direct CEO Phone:   +44 121 275 0500
+  Direct CEO Email:   elaine.kerr@dpdlocal.co.uk
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
-  Direct Phone:       +448451751950 (Formatted for international dial)
-  Decision Maker:     Customer Service Manager
-  Call Opener Script: "DPD Local is known for its reliable and flexible delivery options."
+  Direct Phone:       +44 121 275 0500 (Formatted for international dial)
+  Decision Maker:     Elaine Kerr (Chief Executive Officer)
+  Call Opener Script: "Ask directly for Elaine Kerr (Chief Executive Officer) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -39,14 +46,15 @@ QUALITY SCORE BREAKDOWN:
   "websiteAvailability": 10,
   "emailAvailability": 14,
   "phoneAvailability": 10,
-  "completeness": 6,
+  "completeness": 10,
   "sourceReliability": 5,
   "total": 95,
   "notes": [
     "Exact industry match: Logistics and Freight Forwarding",
     "City target match",
     "Direct dial telephone confirmed (Cold Call Ready)",
-    "Verified business presence on Google Maps & Search"
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

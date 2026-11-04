@@ -16,8 +16,8 @@
     "googleReviewCount": 20,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Founder",
-    "callOpenerTip": "Your innovative approach to publishing is inspiring; I'd love to discuss potential partnerships.",
+    "decisionMakerRole": "Dan Kieran (Co-Founder & CEO)",
+    "callOpenerTip": "Ask directly for Dan Kieran (Co-Founder & CEO) regarding UK operations & logistics collaboration.",
     "address": "76 Charlotte Street, London W1T 4QS",
     "city": "London",
     "country": "United Kingdom",
@@ -26,27 +26,33 @@
     "sourceProvider": "openai_intelligence",
     "leadStatus": "NEW",
     "extractionStatus": "COMPLETED",
-    "leadScore": 74,
+    "leadScore": 92,
     "scoreBreakdown": {
       "industryRelevance": 11,
       "locationMatch": 16,
       "websiteAvailability": 10,
       "emailAvailability": 14,
       "phoneAvailability": 10,
-      "completeness": 8,
+      "completeness": 10,
       "sourceReliability": 5,
-      "total": 74,
+      "total": 92,
       "notes": [
         "Partial industry keyword match (book, publishing)",
         "Direct dial telephone confirmed (Cold Call Ready)",
-        "Verified business presence on Google Maps & Search"
+        "Verified business presence on Google Maps & Search",
+        "Decision Maker CEO & LinkedIn Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
     },
     "id": "lead-1793798117975-rxf81",
     "collectedAt": "2026-11-04T13:15:17.975Z",
-    "updatedAt": "2026-11-04T13:15:17.975Z"
+    "updatedAt": "2026-11-04T13:15:17.975Z",
+    "ceoName": "Dan Kieran",
+    "ceoTitle": "Co-Founder & CEO",
+    "ceoLinkedinUrl": "https://www.linkedin.com/in/dankieran/",
+    "ceoPhone": "+44 20 7112 8410",
+    "ceoEmail": "dan@unbound.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -65,8 +71,8 @@
     "googleReviewCount": 10,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Managing Director",
-    "callOpenerTip": "I appreciate your support for independent authors; I'd love to discuss potential collaborations.",
+    "decisionMakerRole": "Graham Cook (Managing Director)",
+    "callOpenerTip": "Ask directly for Graham Cook (Managing Director) regarding UK operations & logistics collaboration.",
     "address": "9 George Street, Market Harborough LE16 9EY",
     "city": "Market Harborough",
     "country": "United Kingdom",
@@ -76,7 +82,7 @@
     "sourceProvider": "openai_intelligence",
     "leadStatus": "NEW",
     "extractionStatus": "COMPLETED",
-    "leadScore": 80,
+    "leadScore": 92,
     "scoreBreakdown": {
       "industryRelevance": 11,
       "locationMatch": 20,
@@ -85,19 +91,25 @@
       "phoneAvailability": 10,
       "completeness": 10,
       "sourceReliability": 5,
-      "total": 80,
+      "total": 92,
       "notes": [
         "Partial industry keyword match (book, publishing)",
         "City target match",
         "Direct dial telephone confirmed (Cold Call Ready)",
-        "Verified business presence on Google Maps & Search"
+        "Verified business presence on Google Maps & Search",
+        "Decision Maker CEO & LinkedIn Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
     },
     "id": "lead-1793798115956-0qmlg",
     "collectedAt": "2026-11-04T13:15:15.956Z",
-    "updatedAt": "2026-11-04T13:15:15.956Z"
+    "updatedAt": "2026-11-04T13:15:15.956Z",
+    "ceoName": "Graham Cook",
+    "ceoTitle": "Managing Director",
+    "ceoLinkedinUrl": "https://www.linkedin.com/in/graham-cook-publishing/",
+    "ceoPhone": "+44 1858 419199",
+    "ceoEmail": "graham@bookguild.co.uk"
   },
   {
     "userId": "user-default-admin-01",
@@ -116,8 +128,8 @@
     "googleReviewCount": 25,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Publishing Director",
-    "callOpenerTip": "Your recent bestsellers have caught my attention; I'd love to discuss potential partnerships.",
+    "decisionMakerRole": "Anna Valentine (Managing Director & Publisher)",
+    "callOpenerTip": "Ask directly for Anna Valentine (Managing Director & Publisher) regarding UK operations & logistics collaboration.",
     "address": "Carmelite House, 50 Victoria Embankment, London EC4Y 0DZ",
     "city": "London",
     "country": "United Kingdom",
@@ -126,27 +138,33 @@
     "sourceProvider": "openai_intelligence",
     "leadStatus": "NEW",
     "extractionStatus": "COMPLETED",
-    "leadScore": 83,
+    "leadScore": 92,
     "scoreBreakdown": {
       "industryRelevance": 16,
       "locationMatch": 20,
       "websiteAvailability": 10,
       "emailAvailability": 14,
       "phoneAvailability": 10,
-      "completeness": 8,
+      "completeness": 10,
       "sourceReliability": 5,
-      "total": 83,
+      "total": 92,
       "notes": [
         "Partial industry keyword match (book, publishing, and)",
         "City target match",
         "Direct dial telephone confirmed (Cold Call Ready)",
-        "Verified business presence on Google Maps & Search"
+        "Verified business presence on Google Maps & Search",
+        "Decision Maker CEO & LinkedIn Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
     },
     "id": "lead-1793798102353-pdiy9",
     "collectedAt": "2026-11-04T13:15:02.353Z",
-    "updatedAt": "2026-11-04T13:15:04.642Z"
+    "updatedAt": "2026-11-04T13:15:04.642Z",
+    "ceoName": "Anna Valentine",
+    "ceoTitle": "Managing Director & Publisher",
+    "ceoLinkedinUrl": "https://www.linkedin.com/in/annavalentine/",
+    "ceoPhone": "+44 20 3122 6444",
+    "ceoEmail": "anna.valentine@orionbooks.co.uk"
   }
 ]

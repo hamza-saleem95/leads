@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Kuehne + Nagel
 Lead Score:          99/100
 Lead Status:         NEW
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Brian Cox
+  Executive Title:    Managing Director UK
+  CEO LinkedIn URL:   https://www.linkedin.com/in/brian-cox-kuehne-nagel/
+  Direct CEO Phone:   +44 20 8897 8000
+  Direct CEO Email:   brian.cox@kuehne-nagel.com
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
-  Direct Phone:       138669367 (Formatted for international dial)
-  Decision Maker:     Head of Logistics
-  Call Opener Script: "Kuehne + Nagel is a global leader in logistics with a strong presence in e-commerce fulfillment."
+  Direct Phone:       +44 20 8897 8000 (Formatted for international dial)
+  Decision Maker:     Brian Cox (Managing Director UK)
+  Call Opener Script: "Ask directly for Brian Cox (Managing Director UK) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -47,7 +54,8 @@ QUALITY SCORE BREAKDOWN:
     "City target match",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory"
+    "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

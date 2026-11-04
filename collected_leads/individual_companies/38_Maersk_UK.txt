@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Maersk UK
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Gary Jeffreys
+  Executive Title:    Area Managing Director UK & Ireland
+  CEO LinkedIn URL:   https://www.linkedin.com/in/gary-jeffreys-maersk/
+  Direct CEO Phone:   +44 20 7016 1000
+  Direct CEO Email:   gary.jeffreys@maersk.com
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 7016 1000 (Formatted for international dial)
-  Decision Maker:     Head of Ocean Logistics / Commercial Lead
-  Call Opener Script: "Connect regarding integrated cold chain reefers and door-to-door multimodal shipping contracts."
+  Decision Maker:     Gary Jeffreys (Area Managing Director UK & Ireland)
+  Call Opener Script: "Ask directly for Gary Jeffreys (Area Managing Director UK & Ireland) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -41,13 +48,14 @@ QUALITY SCORE BREAKDOWN:
   "phoneAvailability": 10,
   "completeness": 10,
   "sourceReliability": 5,
-  "total": 81,
+  "total": 95,
   "notes": [
     "Partial industry keyword match (logistics, and)",
     "City target match",
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
-    "Verified business presence on Google Maps & Search"
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

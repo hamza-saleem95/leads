@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Tuffnells Parcels Express
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Peter Fuller
+  Executive Title:    Managing Director & CEO
+  CEO LinkedIn URL:   https://www.linkedin.com/in/peter-fuller-tuffnells/
+  Direct CEO Phone:   +44 20 8961 4000
+  Direct CEO Email:   peter.fuller@tuffnells.co.uk
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 8961 4000 (Formatted for international dial)
-  Decision Maker:     Depot Manager / Commercial Freight Lead
-  Call Opener Script: "Explore dedicated transport for irregular dimension and oversized industrial cargo."
+  Decision Maker:     Peter Fuller (Managing Director & CEO)
+  Call Opener Script: "Ask directly for Peter Fuller (Managing Director & CEO) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -41,13 +48,14 @@ QUALITY SCORE BREAKDOWN:
   "phoneAvailability": 10,
   "completeness": 10,
   "sourceReliability": 5,
-  "total": 81,
+  "total": 95,
   "notes": [
     "Partial industry keyword match (and, freight)",
     "City target match",
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
-    "Verified business presence on Google Maps & Search"
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

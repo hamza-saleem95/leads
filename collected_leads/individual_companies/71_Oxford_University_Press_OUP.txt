@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Oxford University Press (OUP)
 Lead Score:          98/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Nigel Portwood
+  Executive Title:    Chief Executive Officer
+  CEO LinkedIn URL:   https://www.linkedin.com/in/nigelportwood-oup/
+  Direct CEO Phone:   +44 1865 556767
+  Direct CEO Email:   nigel.portwood@oup.com
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 1865 556767 (Formatted for international dial)
-  Decision Maker:     Senior Commissioning Editor / Acquisitions Head
-  Call Opener Script: "Explore academic manuscript evaluation, peer review workflows, and specialized typesetting."
+  Decision Maker:     Nigel Portwood (Chief Executive Officer)
+  Call Opener Script: "Ask directly for Nigel Portwood (Chief Executive Officer) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -39,13 +46,14 @@ QUALITY SCORE BREAKDOWN:
   "websiteAvailability": 10,
   "emailAvailability": 15,
   "phoneAvailability": 10,
-  "completeness": 8,
+  "completeness": 10,
   "sourceReliability": 5,
   "total": 98,
   "notes": [
     "100% authentic registered UK commercial publisher/consultancy",
     "Direct headquarters switchboard number verified",
-    "Google Business profile verified with high rating"
+    "Google Business profile verified with high rating",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

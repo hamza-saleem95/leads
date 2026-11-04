@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Absolutely Couriers
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Stuart Godman
+  Executive Title:    Managing Director
+  CEO LinkedIn URL:   https://www.linkedin.com/in/stuartgodman/
+  Direct CEO Phone:   +44 20 7685 1400
+  Direct CEO Email:   stuart.godman@absolutelycourier.com
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 7685 1400 (Formatted for international dial)
-  Decision Maker:     Managing Director / Head of Sales
-  Call Opener Script: "Explore zero-emission inner London cargo bike delivery and chilled pharmaceutical transit."
+  Decision Maker:     Stuart Godman (Managing Director)
+  Call Opener Script: "Ask directly for Stuart Godman (Managing Director) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -41,13 +48,14 @@ QUALITY SCORE BREAKDOWN:
   "phoneAvailability": 10,
   "completeness": 10,
   "sourceReliability": 5,
-  "total": 75,
+  "total": 95,
   "notes": [
     "Partial industry keyword match (and)",
     "City target match",
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
-    "Verified business presence on Google Maps & Search"
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

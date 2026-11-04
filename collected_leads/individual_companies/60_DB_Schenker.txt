@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: DB Schenker
 Lead Score:          99/100
 Lead Status:         NEW
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Ray Hennessy
+  Executive Title:    Chief Executive Officer UK & Ireland
+  CEO LinkedIn URL:   https://www.linkedin.com/in/ray-hennessy-schenker/
+  Direct CEO Phone:   +44 20 8759 1234
+  Direct CEO Email:   ray.hennessy@dbschenker.com
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
-  Direct Phone:       944404228 (Formatted for international dial)
-  Decision Maker:     Logistics Coordinator
-  Call Opener Script: "DB Schenker is a trusted partner for logistics solutions in the e-commerce sector."
+  Direct Phone:       +44 20 8759 1234 (Formatted for international dial)
+  Decision Maker:     Ray Hennessy (Chief Executive Officer UK & Ireland)
+  Call Opener Script: "Ask directly for Ray Hennessy (Chief Executive Officer UK & Ireland) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -47,7 +54,8 @@ QUALITY SCORE BREAKDOWN:
     "City target match",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory"
+    "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

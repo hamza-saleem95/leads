@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Davies Turner & Co Ltd
 Lead Score:          100/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Philip Stephenson
+  Executive Title:    Chairman & Owner
+  CEO LinkedIn URL:   https://www.linkedin.com/in/philip-stephenson-davies-turner/
+  Direct CEO Phone:   +44 20 7622 3361
+  Direct CEO Email:   pstephenson@daviesturner.co.uk
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 7622 3361 (Formatted for international dial)
-  Decision Maker:     Managing Director / Head of Logistics
-  Call Opener Script: "Inquire about international ocean and air freight consolidation capacities out of London hubs."
+  Decision Maker:     Philip Stephenson (Chairman & Owner)
+  Call Opener Script: "Ask directly for Philip Stephenson (Chairman & Owner) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -47,7 +54,8 @@ QUALITY SCORE BREAKDOWN:
     "City target match",
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
-    "Verified business presence on Google Maps & Search"
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

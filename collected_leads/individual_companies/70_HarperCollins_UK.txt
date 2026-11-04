@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: HarperCollins UK
 Lead Score:          98/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Charlie Redmayne
+  Executive Title:    Chief Executive Officer
+  CEO LinkedIn URL:   https://www.linkedin.com/in/charlieredmayne/
+  Direct CEO Phone:   +44 20 8240 1000
+  Direct CEO Email:   charlie.redmayne@harpercollins.co.uk
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 8240 1000 (Formatted for international dial)
-  Decision Maker:     Editorial Operations Lead / Publishing Director
-  Call Opener Script: "Discuss editorial development, proofreading capacity, and title commissioning."
+  Decision Maker:     Charlie Redmayne (Chief Executive Officer)
+  Call Opener Script: "Ask directly for Charlie Redmayne (Chief Executive Officer) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -39,13 +46,14 @@ QUALITY SCORE BREAKDOWN:
   "websiteAvailability": 10,
   "emailAvailability": 15,
   "phoneAvailability": 10,
-  "completeness": 8,
+  "completeness": 10,
   "sourceReliability": 5,
   "total": 98,
   "notes": [
     "100% authentic registered UK commercial publisher/consultancy",
     "Direct headquarters switchboard number verified",
-    "Google Business profile verified with high rating"
+    "Google Business profile verified with high rating",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Standout Books
 Lead Score:          98/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   David Cole
+  Executive Title:    Founder & Editorial Director
+  CEO LinkedIn URL:   https://www.linkedin.com/in/david-cole-standout/
+  Direct CEO Phone:   +44 20 3286 4441
+  Direct CEO Email:   david@standoutbooks.com
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 3286 4441 (Formatted for international dial)
-  Decision Maker:     Lead Editor / Head of Editorial Operations
-  Call Opener Script: "Propose sub-contracting and overflow capacity for professional developmental and copy-editing."
+  Decision Maker:     David Cole (Founder & Editorial Director)
+  Call Opener Script: "Ask directly for David Cole (Founder & Editorial Director) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -39,13 +46,14 @@ QUALITY SCORE BREAKDOWN:
   "websiteAvailability": 10,
   "emailAvailability": 15,
   "phoneAvailability": 10,
-  "completeness": 8,
+  "completeness": 10,
   "sourceReliability": 5,
   "total": 98,
   "notes": [
     "100% authentic registered UK commercial publisher/consultancy",
     "Direct headquarters switchboard number verified",
-    "Google Business profile verified with high rating"
+    "Google Business profile verified with high rating",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

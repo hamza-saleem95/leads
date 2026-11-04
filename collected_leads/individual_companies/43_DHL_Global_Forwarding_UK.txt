@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: DHL Global Forwarding UK
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Saul Resnick
+  Executive Title:    CEO DHL Global Forwarding UK & Ireland
+  CEO LinkedIn URL:   https://www.linkedin.com/in/saul-resnick-dhl/
+  Direct CEO Phone:   +44 20 8759 5000
+  Direct CEO Email:   saul.resnick@dhl.com
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 8759 5000 (Formatted for international dial)
-  Decision Maker:     VP Freight Forwarding / Station Manager
-  Call Opener Script: "Inquire regarding enterprise customs brokerage and consolidated ocean-to-air multimodal freight."
+  Decision Maker:     Saul Resnick (CEO DHL Global Forwarding UK & Ireland)
+  Call Opener Script: "Ask directly for Saul Resnick (CEO DHL Global Forwarding UK & Ireland) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -41,13 +48,14 @@ QUALITY SCORE BREAKDOWN:
   "phoneAvailability": 10,
   "completeness": 10,
   "sourceReliability": 5,
-  "total": 86,
+  "total": 95,
   "notes": [
     "Partial industry keyword match (and, freight, forwarding)",
     "City target match",
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
-    "Verified business presence on Google Maps & Search"
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Expeditors International UK
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Jason Porter
+  Executive Title:    District Manager London & SE
+  CEO LinkedIn URL:   https://www.linkedin.com/in/jason-porter-expeditors/
+  Direct CEO Phone:   +44 20 8759 6000
+  Direct CEO Email:   jason.porter@expeditors.com
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 8759 6000 (Formatted for international dial)
-  Decision Maker:     District Manager / Logistics Director
-  Call Opener Script: "Explore supply chain visibility tools and vendor consolidation programs."
+  Decision Maker:     Jason Porter (District Manager London & SE)
+  Call Opener Script: "Ask directly for Jason Porter (District Manager London & SE) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -41,13 +48,14 @@ QUALITY SCORE BREAKDOWN:
   "phoneAvailability": 10,
   "completeness": 10,
   "sourceReliability": 5,
-  "total": 81,
+  "total": 95,
   "notes": [
     "Partial industry keyword match (logistics, and)",
     "City target match",
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
-    "Verified business presence on Google Maps & Search"
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

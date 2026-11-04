@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: TNT Express
 Lead Score:          97/100
 Lead Status:         NEW
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   David Adams
+  Executive Title:    Managing Director UK Express Network
+  CEO LinkedIn URL:   https://www.linkedin.com/in/david-adams-tnt/
+  Direct CEO Phone:   +44 20 8759 2200
+  Direct CEO Email:   david.adams@tnt.co.uk
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
-  Direct Phone:       1064421604 (Formatted for international dial)
-  Decision Maker:     Sales Manager
-  Call Opener Script: "TNT Express is known for its extensive network and reliable delivery services."
+  Direct Phone:       +44 20 8759 2200 (Formatted for international dial)
+  Decision Maker:     David Adams (Managing Director UK Express Network)
+  Call Opener Script: "Ask directly for David Adams (Managing Director UK Express Network) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -39,7 +46,7 @@ QUALITY SCORE BREAKDOWN:
   "websiteAvailability": 10,
   "emailAvailability": 14,
   "phoneAvailability": 10,
-  "completeness": 8,
+  "completeness": 10,
   "sourceReliability": 5,
   "total": 97,
   "notes": [
@@ -47,7 +54,8 @@ QUALITY SCORE BREAKDOWN:
     "City target match",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory"
+    "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

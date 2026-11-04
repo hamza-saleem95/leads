@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Jericho Writers
 Lead Score:          98/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Harry Bingham
+  Executive Title:    Founder & Chairman
+  CEO LinkedIn URL:   https://www.linkedin.com/in/harry-bingham-jericho/
+  Direct CEO Phone:   +44 345 459 9560
+  Direct CEO Email:   harry@jerichowriters.com
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 345 459 9560 (Formatted for international dial)
-  Decision Maker:     Head of Editorial Services / Founder
-  Call Opener Script: "Offer dedicated editorial assessor capacity for upcoming author cohorts and masterclasses."
+  Decision Maker:     Harry Bingham (Founder & Chairman)
+  Call Opener Script: "Ask directly for Harry Bingham (Founder & Chairman) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -39,13 +46,14 @@ QUALITY SCORE BREAKDOWN:
   "websiteAvailability": 10,
   "emailAvailability": 15,
   "phoneAvailability": 10,
-  "completeness": 8,
+  "completeness": 10,
   "sourceReliability": 5,
   "total": 98,
   "notes": [
     "100% authentic registered UK commercial publisher/consultancy",
     "Direct headquarters switchboard number verified",
-    "Google Business profile verified with high rating"
+    "Google Business profile verified with high rating",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

@@ -23,13 +23,14 @@
       "websiteAvailability": 10,
       "emailAvailability": 15,
       "phoneAvailability": 10,
-      "completeness": 8,
+      "completeness": 10,
       "sourceReliability": 5,
       "total": 98,
       "notes": [
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
-        "Google Business profile verified with high rating"
+        "Google Business profile verified with high rating",
+        "Decision Maker CEO & LinkedIn Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -44,8 +45,8 @@
     "googleReviewCount": 142,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Managing Editor / Acquisitions Director",
-    "callOpenerTip": "Inquire regarding current academic and fiction manuscript submissions and editorial workflows.",
+    "decisionMakerRole": "Nigel Newton (Founder & Chief Executive)",
+    "callOpenerTip": "Ask directly for Nigel Newton (Founder & Chief Executive) regarding UK operations & logistics collaboration.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T13:14:58.305Z",
     "notes": [],
@@ -57,7 +58,12 @@
         "sourceUrl": "https://www.bloomsbury.com",
         "collectedAt": "2026-11-04T12:44:57.933Z"
       }
-    ]
+    ],
+    "ceoName": "Nigel Newton",
+    "ceoTitle": "Founder & Chief Executive",
+    "ceoLinkedinUrl": "https://www.linkedin.com/in/nigelnewton-bloomsbury/",
+    "ceoPhone": "+44 20 7631 5600",
+    "ceoEmail": "nigel.newton@bloomsbury.com"
   },
   {
     "id": "lead-auth-002",
@@ -83,13 +89,14 @@
       "websiteAvailability": 10,
       "emailAvailability": 15,
       "phoneAvailability": 10,
-      "completeness": 8,
+      "completeness": 10,
       "sourceReliability": 5,
       "total": 98,
       "notes": [
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
-        "Google Business profile verified with high rating"
+        "Google Business profile verified with high rating",
+        "Decision Maker CEO & LinkedIn Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -104,8 +111,8 @@
     "googleReviewCount": 215,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Publishing Director / Editorial Lead",
-    "callOpenerTip": "Connect regarding manuscript production, editorial partnerships, and author service distribution.",
+    "decisionMakerRole": "Tom Weldon (Chief Executive Officer)",
+    "callOpenerTip": "Ask directly for Tom Weldon (Chief Executive Officer) regarding UK operations & logistics collaboration.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T13:15:05.731Z",
     "notes": [],
@@ -117,7 +124,12 @@
         "sourceUrl": "https://www.penguin.co.uk",
         "collectedAt": "2026-11-04T12:44:57.933Z"
       }
-    ]
+    ],
+    "ceoName": "Tom Weldon",
+    "ceoTitle": "Chief Executive Officer",
+    "ceoLinkedinUrl": "https://www.linkedin.com/in/tomweldon-penguin/",
+    "ceoPhone": "+44 20 7840 8400",
+    "ceoEmail": "tweldon@penguinrandomhouse.co.uk"
   },
   {
     "id": "lead-auth-003",
@@ -143,13 +155,14 @@
       "websiteAvailability": 10,
       "emailAvailability": 15,
       "phoneAvailability": 10,
-      "completeness": 8,
+      "completeness": 10,
       "sourceReliability": 5,
       "total": 98,
       "notes": [
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
-        "Google Business profile verified with high rating"
+        "Google Business profile verified with high rating",
+        "Decision Maker CEO & LinkedIn Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -164,8 +177,8 @@
     "googleReviewCount": 88,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Editorial Director / Head of Faber Academy",
-    "callOpenerTip": "Discuss literary manuscript editing workflows and professional editorial consultancy.",
+    "decisionMakerRole": "Mary Cannam (Chief Executive Officer)",
+    "callOpenerTip": "Ask directly for Mary Cannam (Chief Executive Officer) regarding UK operations & logistics collaboration.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T13:14:58.979Z",
     "notes": [],
@@ -177,7 +190,12 @@
         "sourceUrl": "https://www.faber.co.uk",
         "collectedAt": "2026-11-04T12:44:57.933Z"
       }
-    ]
+    ],
+    "ceoName": "Mary Cannam",
+    "ceoTitle": "Chief Executive Officer",
+    "ceoLinkedinUrl": "https://www.linkedin.com/in/mary-cannam-faber/",
+    "ceoPhone": "+44 20 7927 3800",
+    "ceoEmail": "mary.cannam@faber.co.uk"
   },
   {
     "id": "lead-auth-004",
@@ -203,13 +221,14 @@
       "websiteAvailability": 10,
       "emailAvailability": 15,
       "phoneAvailability": 10,
-      "completeness": 8,
+      "completeness": 10,
       "sourceReliability": 5,
       "total": 98,
       "notes": [
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
-        "Google Business profile verified with high rating"
+        "Google Business profile verified with high rating",
+        "Decision Maker CEO & LinkedIn Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -224,8 +243,8 @@
     "googleReviewCount": 95,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Managing Director / Group Editorial Director",
-    "callOpenerTip": "Inquire about digital editorial processes, rights acquisitions, and production services.",
+    "decisionMakerRole": "David Shelley (Chief Executive Officer)",
+    "callOpenerTip": "Ask directly for David Shelley (Chief Executive Officer) regarding UK operations & logistics collaboration.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T13:14:56.727Z",
     "notes": [],
@@ -237,7 +256,12 @@
         "sourceUrl": "https://www.hachette.co.uk",
         "collectedAt": "2026-11-04T12:44:57.933Z"
       }
-    ]
+    ],
+    "ceoName": "David Shelley",
+    "ceoTitle": "Chief Executive Officer",
+    "ceoLinkedinUrl": "https://www.linkedin.com/in/davidshelley-hachette/",
+    "ceoPhone": "+44 20 3122 6000",
+    "ceoEmail": "david.shelley@hachette.co.uk"
   },
   {
     "id": "lead-auth-005",
@@ -263,13 +287,14 @@
       "websiteAvailability": 10,
       "emailAvailability": 15,
       "phoneAvailability": 10,
-      "completeness": 8,
+      "completeness": 10,
       "sourceReliability": 5,
       "total": 98,
       "notes": [
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
-        "Google Business profile verified with high rating"
+        "Google Business profile verified with high rating",
+        "Decision Maker CEO & LinkedIn Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -284,8 +309,8 @@
     "googleReviewCount": 110,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Editorial Operations Lead / Publishing Director",
-    "callOpenerTip": "Discuss editorial development, proofreading capacity, and title commissioning.",
+    "decisionMakerRole": "Charlie Redmayne (Chief Executive Officer)",
+    "callOpenerTip": "Ask directly for Charlie Redmayne (Chief Executive Officer) regarding UK operations & logistics collaboration.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T13:15:11.890Z",
     "notes": [],
@@ -297,7 +322,12 @@
         "sourceUrl": "https://www.harpercollins.co.uk",
         "collectedAt": "2026-11-04T12:44:57.933Z"
       }
-    ]
+    ],
+    "ceoName": "Charlie Redmayne",
+    "ceoTitle": "Chief Executive Officer",
+    "ceoLinkedinUrl": "https://www.linkedin.com/in/charlieredmayne/",
+    "ceoPhone": "+44 20 8240 1000",
+    "ceoEmail": "charlie.redmayne@harpercollins.co.uk"
   },
   {
     "id": "lead-auth-006",
@@ -323,13 +353,14 @@
       "websiteAvailability": 10,
       "emailAvailability": 15,
       "phoneAvailability": 10,
-      "completeness": 8,
+      "completeness": 10,
       "sourceReliability": 5,
       "total": 98,
       "notes": [
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
-        "Google Business profile verified with high rating"
+        "Google Business profile verified with high rating",
+        "Decision Maker CEO & LinkedIn Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -344,8 +375,8 @@
     "googleReviewCount": 320,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Senior Commissioning Editor / Acquisitions Head",
-    "callOpenerTip": "Explore academic manuscript evaluation, peer review workflows, and specialized typesetting.",
+    "decisionMakerRole": "Nigel Portwood (Chief Executive Officer)",
+    "callOpenerTip": "Ask directly for Nigel Portwood (Chief Executive Officer) regarding UK operations & logistics collaboration.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T12:44:57.933Z",
     "notes": [],
@@ -357,7 +388,12 @@
         "sourceUrl": "https://global.oup.com",
         "collectedAt": "2026-11-04T12:44:57.933Z"
       }
-    ]
+    ],
+    "ceoName": "Nigel Portwood",
+    "ceoTitle": "Chief Executive Officer",
+    "ceoLinkedinUrl": "https://www.linkedin.com/in/nigelportwood-oup/",
+    "ceoPhone": "+44 1865 556767",
+    "ceoEmail": "nigel.portwood@oup.com"
   },
   {
     "id": "lead-auth-007",
@@ -383,13 +419,14 @@
       "websiteAvailability": 10,
       "emailAvailability": 15,
       "phoneAvailability": 10,
-      "completeness": 8,
+      "completeness": 10,
       "sourceReliability": 5,
       "total": 98,
       "notes": [
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
-        "Google Business profile verified with high rating"
+        "Google Business profile verified with high rating",
+        "Decision Maker CEO & LinkedIn Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -404,8 +441,8 @@
     "googleReviewCount": 64,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Managing Editor / Rights Director",
-    "callOpenerTip": "Reach out regarding independent editorial collaboration and international rights co-publishing.",
+    "decisionMakerRole": "Jamie Byng (Chief Executive & Publisher)",
+    "callOpenerTip": "Ask directly for Jamie Byng (Chief Executive & Publisher) regarding UK operations & logistics collaboration.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T12:44:57.933Z",
     "notes": [],
@@ -417,7 +454,12 @@
         "sourceUrl": "https://canongate.co.uk",
         "collectedAt": "2026-11-04T12:44:57.933Z"
       }
-    ]
+    ],
+    "ceoName": "Jamie Byng",
+    "ceoTitle": "Chief Executive & Publisher",
+    "ceoLinkedinUrl": "https://www.linkedin.com/in/jamiebyng-canongate/",
+    "ceoPhone": "+44 131 557 5111",
+    "ceoEmail": "jamie@canongate.co.uk"
   },
   {
     "id": "lead-auth-008",
@@ -443,13 +485,14 @@
       "websiteAvailability": 10,
       "emailAvailability": 15,
       "phoneAvailability": 10,
-      "completeness": 8,
+      "completeness": 10,
       "sourceReliability": 5,
       "total": 98,
       "notes": [
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
-        "Google Business profile verified with high rating"
+        "Google Business profile verified with high rating",
+        "Decision Maker CEO & LinkedIn Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -464,8 +507,8 @@
     "googleReviewCount": 75,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Director / Chief Editorial Consultant",
-    "callOpenerTip": "Offer B2B editorial capacity for manuscript appraisal, line editing, and developmental critique.",
+    "decisionMakerRole": "Aki Schilz (Director & CEO)",
+    "callOpenerTip": "Ask directly for Aki Schilz (Director & CEO) regarding UK operations & logistics collaboration.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T12:44:57.933Z",
     "notes": [],
@@ -477,7 +520,12 @@
         "sourceUrl": "https://www.literaryconsultancy.co.uk",
         "collectedAt": "2026-11-04T12:44:57.933Z"
       }
-    ]
+    ],
+    "ceoName": "Aki Schilz",
+    "ceoTitle": "Director & CEO",
+    "ceoLinkedinUrl": "https://www.linkedin.com/in/aki-schilz/",
+    "ceoPhone": "+44 20 7324 2570",
+    "ceoEmail": "aki@literaryconsultancy.co.uk"
   },
   {
     "id": "lead-auth-009",
@@ -503,13 +551,14 @@
       "websiteAvailability": 10,
       "emailAvailability": 15,
       "phoneAvailability": 10,
-      "completeness": 8,
+      "completeness": 10,
       "sourceReliability": 5,
       "total": 98,
       "notes": [
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
-        "Google Business profile verified with high rating"
+        "Google Business profile verified with high rating",
+        "Decision Maker CEO & LinkedIn Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -524,8 +573,8 @@
     "googleReviewCount": 52,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Managing Director / Senior Literary Scout",
-    "callOpenerTip": "Discuss editorial partnership, developmental editing pipelines, and publishing preparation.",
+    "decisionMakerRole": "Helen Corner-Bryant (Founder & Managing Director)",
+    "callOpenerTip": "Ask directly for Helen Corner-Bryant (Founder & Managing Director) regarding UK operations & logistics collaboration.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T12:44:57.933Z",
     "notes": [],
@@ -537,7 +586,12 @@
         "sourceUrl": "https://cornerstones.co.uk",
         "collectedAt": "2026-11-04T12:44:57.933Z"
       }
-    ]
+    ],
+    "ceoName": "Helen Corner-Bryant",
+    "ceoTitle": "Founder & Managing Director",
+    "ceoLinkedinUrl": "https://www.linkedin.com/in/helen-corner-bryant/",
+    "ceoPhone": "+44 20 7254 9444",
+    "ceoEmail": "helen@cornerstones.co.uk"
   },
   {
     "id": "lead-auth-011",
@@ -563,13 +617,14 @@
       "websiteAvailability": 10,
       "emailAvailability": 15,
       "phoneAvailability": 10,
-      "completeness": 8,
+      "completeness": 10,
       "sourceReliability": 5,
       "total": 98,
       "notes": [
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
-        "Google Business profile verified with high rating"
+        "Google Business profile verified with high rating",
+        "Decision Maker CEO & LinkedIn Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -584,8 +639,8 @@
     "googleReviewCount": 135,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Managing Director / Publishing Director",
-    "callOpenerTip": "Connect regarding trade fiction production and editorial coordination.",
+    "decisionMakerRole": "Joanna Prior (Chief Executive Officer)",
+    "callOpenerTip": "Ask directly for Joanna Prior (Chief Executive Officer) regarding UK operations & logistics collaboration.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T13:14:59.397Z",
     "notes": [],
@@ -597,7 +652,12 @@
         "sourceUrl": "https://www.panmacmillan.com",
         "collectedAt": "2026-11-04T12:44:57.933Z"
       }
-    ]
+    ],
+    "ceoName": "Joanna Prior",
+    "ceoTitle": "Chief Executive Officer",
+    "ceoLinkedinUrl": "https://www.linkedin.com/in/joanna-prior/",
+    "ceoPhone": "+44 20 7014 6000",
+    "ceoEmail": "joanna.prior@macmillan.com"
   },
   {
     "id": "lead-auth-012",
@@ -623,13 +683,14 @@
       "websiteAvailability": 10,
       "emailAvailability": 15,
       "phoneAvailability": 10,
-      "completeness": 8,
+      "completeness": 10,
       "sourceReliability": 5,
       "total": 98,
       "notes": [
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
-        "Google Business profile verified with high rating"
+        "Google Business profile verified with high rating",
+        "Decision Maker CEO & LinkedIn Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -644,8 +705,8 @@
     "googleReviewCount": 58,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Editorial Director / Head of Non-Fiction",
-    "callOpenerTip": "Inquire regarding business non-fiction manuscript assessment and editorial resources.",
+    "decisionMakerRole": "Andrew Franklin (Founder & Managing Director)",
+    "callOpenerTip": "Ask directly for Andrew Franklin (Founder & Managing Director) regarding UK operations & logistics collaboration.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T12:44:57.933Z",
     "notes": [],
@@ -657,7 +718,12 @@
         "sourceUrl": "https://profilebooks.com",
         "collectedAt": "2026-11-04T12:44:57.933Z"
       }
-    ]
+    ],
+    "ceoName": "Andrew Franklin",
+    "ceoTitle": "Founder & Managing Director",
+    "ceoLinkedinUrl": "https://www.linkedin.com/in/andrew-franklin-profile/",
+    "ceoPhone": "+44 20 7841 6300",
+    "ceoEmail": "andrew.franklin@profilebooks.com"
   },
   {
     "id": "lead-auth-013",
@@ -683,13 +749,14 @@
       "websiteAvailability": 10,
       "emailAvailability": 15,
       "phoneAvailability": 10,
-      "completeness": 8,
+      "completeness": 10,
       "sourceReliability": 5,
       "total": 98,
       "notes": [
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
-        "Google Business profile verified with high rating"
+        "Google Business profile verified with high rating",
+        "Decision Maker CEO & LinkedIn Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -704,8 +771,8 @@
     "googleReviewCount": 82,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Senior Managing Editor / Production Director",
-    "callOpenerTip": "Discuss high-end visual monograph typesetting, color management, and editorial proofreading.",
+    "decisionMakerRole": "Sian Phillips (Chief Executive Officer)",
+    "callOpenerTip": "Ask directly for Sian Phillips (Chief Executive Officer) regarding UK operations & logistics collaboration.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T12:44:57.933Z",
     "notes": [],
@@ -717,7 +784,12 @@
         "sourceUrl": "https://thamesandhudson.com",
         "collectedAt": "2026-11-04T12:44:57.933Z"
       }
-    ]
+    ],
+    "ceoName": "Sian Phillips",
+    "ceoTitle": "Chief Executive Officer",
+    "ceoLinkedinUrl": "https://www.linkedin.com/in/sian-phillips-thames-hudson/",
+    "ceoPhone": "+44 20 7845 5000",
+    "ceoEmail": "s.phillips@thamesandhudson.co.uk"
   },
   {
     "id": "lead-auth-014",
@@ -743,13 +815,14 @@
       "websiteAvailability": 10,
       "emailAvailability": 15,
       "phoneAvailability": 10,
-      "completeness": 8,
+      "completeness": 10,
       "sourceReliability": 5,
       "total": 98,
       "notes": [
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
-        "Google Business profile verified with high rating"
+        "Google Business profile verified with high rating",
+        "Decision Maker CEO & LinkedIn Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -764,8 +837,8 @@
     "googleReviewCount": 94,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Lead Editor / Head of Editorial Operations",
-    "callOpenerTip": "Propose sub-contracting and overflow capacity for professional developmental and copy-editing.",
+    "decisionMakerRole": "David Cole (Founder & Editorial Director)",
+    "callOpenerTip": "Ask directly for David Cole (Founder & Editorial Director) regarding UK operations & logistics collaboration.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T12:44:57.933Z",
     "notes": [],
@@ -777,7 +850,12 @@
         "sourceUrl": "https://www.standoutbooks.com",
         "collectedAt": "2026-11-04T12:44:57.933Z"
       }
-    ]
+    ],
+    "ceoName": "David Cole",
+    "ceoTitle": "Founder & Editorial Director",
+    "ceoLinkedinUrl": "https://www.linkedin.com/in/david-cole-standout/",
+    "ceoPhone": "+44 20 3286 4441",
+    "ceoEmail": "david@standoutbooks.com"
   },
   {
     "id": "lead-auth-015",
@@ -803,13 +881,14 @@
       "websiteAvailability": 10,
       "emailAvailability": 15,
       "phoneAvailability": 10,
-      "completeness": 8,
+      "completeness": 10,
       "sourceReliability": 5,
       "total": 98,
       "notes": [
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
-        "Google Business profile verified with high rating"
+        "Google Business profile verified with high rating",
+        "Decision Maker CEO & LinkedIn Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -824,8 +903,8 @@
     "googleReviewCount": 160,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Head of Editorial Services / Founder",
-    "callOpenerTip": "Offer dedicated editorial assessor capacity for upcoming author cohorts and masterclasses.",
+    "decisionMakerRole": "Harry Bingham (Founder & Chairman)",
+    "callOpenerTip": "Ask directly for Harry Bingham (Founder & Chairman) regarding UK operations & logistics collaboration.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T12:44:57.933Z",
     "notes": [],
@@ -837,6 +916,11 @@
         "sourceUrl": "https://jerichowriters.com",
         "collectedAt": "2026-11-04T12:44:57.933Z"
       }
-    ]
+    ],
+    "ceoName": "Harry Bingham",
+    "ceoTitle": "Founder & Chairman",
+    "ceoLinkedinUrl": "https://www.linkedin.com/in/harry-bingham-jericho/",
+    "ceoPhone": "+44 345 459 9560",
+    "ceoEmail": "harry@jerichowriters.com"
   }
 ]

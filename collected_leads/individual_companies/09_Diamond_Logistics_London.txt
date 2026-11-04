@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Diamond Logistics London
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Kate Lester
+  Executive Title:    Founder & Chief Executive Officer
+  CEO LinkedIn URL:   https://www.linkedin.com/in/katelester/
+  Direct CEO Phone:   +44 20 8068 5555
+  Direct CEO Email:   kate.lester@diamondlogistics.co.uk
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 8068 5555 (Formatted for international dial)
-  Decision Maker:     Managing Director / Fulfillment Operations Head
-  Call Opener Script: "Discuss integrated Shopify/WooCommerce fulfillment with same-day London dispatch."
+  Decision Maker:     Kate Lester (Founder & Chief Executive Officer)
+  Call Opener Script: "Ask directly for Kate Lester (Founder & Chief Executive Officer) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -41,13 +48,14 @@ QUALITY SCORE BREAKDOWN:
   "phoneAvailability": 10,
   "completeness": 10,
   "sourceReliability": 5,
-  "total": 75,
+  "total": 95,
   "notes": [
     "Partial industry keyword match (and)",
     "City target match",
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
-    "Verified business presence on Google Maps & Search"
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

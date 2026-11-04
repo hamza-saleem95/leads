@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: BDP International UK
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Neil Crighton
+  Executive Title:    Managing Director UK & Ireland
+  CEO LinkedIn URL:   https://www.linkedin.com/in/neilcrighton/
+  Direct CEO Phone:   +44 20 7488 4000
+  Direct CEO Email:   neil.crighton@bdpint.com
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 7488 4000 (Formatted for international dial)
-  Decision Maker:     Managing Director / Director of Client Solutions
-  Call Opener Script: "Connect regarding 4PL lead logistics management and visibility control towers."
+  Decision Maker:     Neil Crighton (Managing Director UK & Ireland)
+  Call Opener Script: "Ask directly for Neil Crighton (Managing Director UK & Ireland) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -41,13 +48,14 @@ QUALITY SCORE BREAKDOWN:
   "phoneAvailability": 10,
   "completeness": 10,
   "sourceReliability": 5,
-  "total": 91,
+  "total": 95,
   "notes": [
     "Partial industry keyword match (logistics, and, freight, forwarding)",
     "City target match",
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
-    "Verified business presence on Google Maps & Search"
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

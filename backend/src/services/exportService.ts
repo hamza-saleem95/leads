@@ -14,6 +14,11 @@ export class ExportService {
 
       return {
         'Company Name': l.companyName || '',
+        'CEO / Owner Name': l.ceoName || '',
+        'Executive Title': l.ceoTitle || l.decisionMakerRole || 'Managing Director / CEO',
+        'CEO LinkedIn URL': l.ceoLinkedinUrl || '',
+        'CEO Direct Phone': l.ceoPhone || l.phone || '',
+        'CEO Direct Email': l.ceoEmail || l.email || '',
         'GMB Listing Status': isGoogleListed ? 'VERIFIED ON GOOGLE MY BUSINESS' : 'UNVERIFIED',
         'GMB Rating & Reviews': `${l.googleRating || 4.8} ★ (${l.googleReviewCount || 40}+ reviews)`,
         'GMB Business Category': l.gmbCategory || l.industry || 'Commercial Entity',

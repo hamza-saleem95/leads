@@ -1,0 +1,792 @@
+[
+  {
+    "index": 1,
+    "id": "lead-1793803566128-okkba",
+    "name": "Whistl UK Ltd",
+    "industry": "Downstream Access Mail & E-Commerce Fulfillment",
+    "website": "https://www.whistl.co.uk",
+    "phone": "+44 1628 702702",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 2,
+    "id": "lead-1793803565873-0ba2b",
+    "name": "EV Cargo Global Forwarding",
+    "industry": "Global Freight Forwarding & Supply Chain Tech",
+    "website": "https://www.evcargo.com",
+    "phone": "+44 20 8759 5500",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 3,
+    "id": "lead-1793803565659-5ysex",
+    "name": "Gist Limited",
+    "industry": "Cold Chain Logistics & Temperature-Controlled Transport",
+    "website": "https://www.gistworld.com",
+    "phone": "+44 1256 700000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 4,
+    "id": "lead-1793803510195-xwqyc",
+    "name": "Evri (Hermes UK)",
+    "industry": "High-Volume Dedicated Parcel Delivery",
+    "website": "https://www.evri.com",
+    "phone": "+44 330 808 5456",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 5,
+    "id": "lead-1793803509879-q01yj",
+    "name": "UPS UK London Gateway",
+    "industry": "Global Logistics & Supply Chain Solutions",
+    "website": "https://www.ups.com",
+    "phone": "+44 345 787 7877",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 6,
+    "id": "lead-1793803509493-i8gpm",
+    "name": "FedEx UK London Hub",
+    "industry": "Global Express Transportation & Freight",
+    "website": "https://www.fedex.com",
+    "phone": "+44 345 600 0068",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 7,
+    "id": "lead-1793803509247-c3td5",
+    "name": "DPD UK London Hub",
+    "industry": "Express Parcel Delivery & Green Urban Logistics",
+    "website": "https://www.dpd.co.uk",
+    "phone": "+44 121 275 0500",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 8,
+    "id": "lead-1793803509028-lyekk",
+    "name": "Parcelforce Worldwide",
+    "industry": "Express Parcel & Logistics Network",
+    "website": "https://www.parcelforce.com",
+    "phone": "+44 345 774 0740",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 9,
+    "id": "lead-1793803508520-9dd8c",
+    "name": "Diamond Logistics London",
+    "industry": "e-Commerce Fulfillment & Express Delivery",
+    "website": "https://www.diamondlogistics.co.uk",
+    "phone": "+44 20 8068 5555",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 10,
+    "id": "lead-1793803507891-vdq9y",
+    "name": "Absolutely Couriers",
+    "industry": "Express Courier & Temperature Controlled Transport",
+    "website": "https://www.absolutelycourier.com",
+    "phone": "+44 20 7685 1400",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 11,
+    "id": "lead-1793803507357-l0678",
+    "name": "CitySprint UK",
+    "industry": "Same-Day Courier & Healthcare Logistics",
+    "website": "https://www.citysprint.co.uk",
+    "phone": "+44 20 7880 1000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 12,
+    "id": "lead-1793803506684-9jvhh",
+    "name": "Gebrüder Weiss UK",
+    "industry": "Transport and Logistics Management",
+    "website": "https://www.gw-world.com",
+    "phone": "+44 20 8890 3000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 13,
+    "id": "lead-1793803506292-denaj",
+    "name": "BDP International UK",
+    "industry": "Global Freight Forwarding & Chemical Logistics",
+    "website": "https://www.bdpinternational.com",
+    "phone": "+44 20 7488 4000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 14,
+    "id": "lead-1793803505913-8epna",
+    "name": "Simpson Spence Young (SSY)",
+    "industry": "Independent Shipbroking & Ocean Logistics",
+    "website": "https://www.ssyonline.com",
+    "phone": "+44 20 7977 7400",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 15,
+    "id": "lead-1793803505540-ddnl4",
+    "name": "Braemar Shipping Services",
+    "industry": "Shipbroking, Chartering & Maritime Logistics",
+    "website": "https://www.braemar.com",
+    "phone": "+44 20 3142 4100",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 16,
+    "id": "lead-1793803505177-gosjf",
+    "name": "Clarkson PLC",
+    "industry": "Integrated Shipping Services & Ocean Freight",
+    "website": "https://www.clarksons.com",
+    "phone": "+44 20 7334 0000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 17,
+    "id": "lead-1793803504477-g7b1d",
+    "name": "Mainfreight UK",
+    "industry": "Global Supply Chain Logistics & Warehousing",
+    "website": "https://www.mainfreight.com",
+    "phone": "+44 1322 314000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 18,
+    "id": "lead-1793803504343-7odsz",
+    "name": "Rhenus Logistics UK Ltd",
+    "industry": "Contract Logistics, Freight & Port Logistics",
+    "website": "https://www.rhenus.group",
+    "phone": "+44 20 8759 2000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 19,
+    "id": "lead-1793803504074-iu78d",
+    "name": "Hellmann Worldwide Logistics UK",
+    "industry": "Global Freight Forwarding & Contract Logistics",
+    "website": "https://www.hellmann.com",
+    "phone": "+44 1753 686868",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 20,
+    "id": "lead-1793803503695-9ihvh",
+    "name": "Europa Worldwide Group",
+    "industry": "Multimodal Road, Air & Sea Freight",
+    "website": "https://www.europa-worldwide.com",
+    "phone": "+44 1322 626400",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 21,
+    "id": "lead-1793803503258-xfnxr",
+    "name": "Dachser UK Ltd",
+    "industry": "European Logistics & Road Groupage",
+    "website": "https://www.dachser.co.uk",
+    "phone": "+44 1322 312200",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 22,
+    "id": "lead-1793803502898-m3l2a",
+    "name": "Nexus Logistics UK",
+    "industry": "Express Road Freight & Distribution",
+    "website": "https://www.nexuslogistics.co.uk",
+    "phone": "+44 20 8600 0000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 23,
+    "id": "lead-1793803502453-uuey8",
+    "name": "P&O Ferrymasters",
+    "industry": "Pan-European Intermodal Logistics",
+    "website": "https://www.poferrymasters.com",
+    "phone": "+44 1304 874000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 24,
+    "id": "lead-1793803501175-jes8g",
+    "name": "Eddie Stobart Logistics",
+    "industry": "Multimodal Transport & Supply Chain",
+    "website": "https://www.eddiestobart.com",
+    "phone": "+44 1228 590012",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 25,
+    "id": "lead-1793803500708-tbvjy",
+    "name": "Freightliner Group Ltd",
+    "industry": "Intermodal Rail Freight Transport",
+    "website": "https://www.freightliner.co.uk",
+    "phone": "+44 20 7200 3900",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 26,
+    "id": "lead-1793803500450-gki1r",
+    "name": "XPO Logistics UK",
+    "industry": "End-to-End Transport Solutions & Less-Than-Truckload",
+    "website": "https://www.xpo.com",
+    "phone": "+44 20 8965 2000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 27,
+    "id": "lead-1793803499765-dm8hg",
+    "name": "Geodis Freight Forwarding UK",
+    "industry": "Freight Forwarding & Supply Chain Optimization",
+    "website": "https://www.geodis.com",
+    "phone": "+44 20 8890 4000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 28,
+    "id": "lead-1793803499415-8b8kl",
+    "name": "Expeditors International UK",
+    "industry": "Global Logistics & Supply Chain Consulting",
+    "website": "https://www.expeditors.com",
+    "phone": "+44 20 8759 6000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 29,
+    "id": "lead-1793803498948-899dt",
+    "name": "DB Schenker Logistics UK",
+    "industry": "Land Transport, Air & Ocean Freight",
+    "website": "https://www.dbschenker.com",
+    "phone": "+44 20 8759 1234",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 30,
+    "id": "lead-1793803498715-x2pkx",
+    "name": "CEVA Logistics UK",
+    "industry": "Contract Logistics & Global Freight",
+    "website": "https://www.cevalogistics.com",
+    "phone": "+44 20 8897 4000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 31,
+    "id": "lead-1793803498485-n9nw4",
+    "name": "Tuffnells Parcels Express",
+    "industry": "Irregular Dimensions & Heavy Freight Transport",
+    "website": "https://www.tuffnells.co.uk",
+    "phone": "+44 20 8961 4000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 32,
+    "id": "lead-1793803497246-bd4j7",
+    "name": "Palletways London",
+    "industry": "Express Palletized Freight Network",
+    "website": "https://www.palletways.com",
+    "phone": "+44 20 8813 3200",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 33,
+    "id": "lead-1793803497060-lds6k",
+    "name": "Wincanton Plc",
+    "industry": "3PL Contract Logistics & Supply Chain",
+    "website": "https://www.wincanton.co.uk",
+    "phone": "+44 20 8961 6000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 34,
+    "id": "lead-1793803496718-5v2sb",
+    "name": "Delamode International Logistics",
+    "industry": "Freight Forwarding & Warehousing",
+    "website": "https://www.delamode-uk.com",
+    "phone": "+44 1376 333000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 35,
+    "id": "lead-1793803496209-ef784",
+    "name": "Den Hartogh Logistics UK",
+    "industry": "Bulk Liquid & Chemical Logistics",
+    "website": "https://www.denhartogh.com",
+    "phone": "+44 1375 391500",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 36,
+    "id": "lead-1793803495875-pz0u4",
+    "name": "Hapag-Lloyd UK",
+    "industry": "Liner Shipping & Container Logistics",
+    "website": "https://www.hapag-lloyd.com",
+    "phone": "+44 20 7265 5200",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 37,
+    "id": "lead-1793803495563-5zn8h",
+    "name": "CMA CGM UK",
+    "industry": "Maritime Shipping & Inland Logistics",
+    "website": "https://www.cma-cgm.com",
+    "phone": "+44 20 7265 5000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 38,
+    "id": "lead-1793803495256-hqngw",
+    "name": "Maersk UK",
+    "industry": "Integrated Container Shipping & Logistics",
+    "website": "https://www.maersk.com",
+    "phone": "+44 20 7016 1000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 39,
+    "id": "lead-1793803495113-1uwzv",
+    "name": "Uniserve Group",
+    "industry": "Supply Chain Management & Freight",
+    "website": "https://www.uniserve.co.uk",
+    "phone": "+44 1375 856000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 40,
+    "id": "lead-1793803494816-poujb",
+    "name": "Maritime Transport Ltd",
+    "industry": "Container Haulage & Intermodal Rail Freight",
+    "website": "https://www.maritimetransport.co.uk",
+    "phone": "+44 1375 648400",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 41,
+    "id": "lead-1793803494457-zuo2a",
+    "name": "DP World London Gateway",
+    "industry": "Port Operations & Logistics Hub",
+    "website": "https://www.dpworld.com",
+    "phone": "+44 1375 648300",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 42,
+    "id": "lead-1793803494248-18qsu",
+    "name": "Kuehne + Nagel UK",
+    "industry": "Integrated Logistics & Freight Forwarding",
+    "website": "https://www.kuehne-nagel.com",
+    "phone": "+44 20 8897 8000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 43,
+    "id": "lead-1793803494014-khrxb",
+    "name": "DHL Global Forwarding UK",
+    "industry": "Air & Ocean Freight Forwarding",
+    "website": "https://www.dhl.com",
+    "phone": "+44 20 8759 5000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 44,
+    "id": "lead-1793803493693-pry8b",
+    "name": "DSV Air & Sea Ltd",
+    "industry": "Global Transport & Logistics",
+    "website": "https://www.dsv.com",
+    "phone": "+44 20 8759 8700",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 45,
+    "id": "lead-1793803493530-b5kjx",
+    "name": "Nippon Express UK Ltd",
+    "industry": "International Air & Ocean Freight Forwarding",
+    "website": "https://www.nipponexpress.com",
+    "phone": "+44 20 8759 2323",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 46,
+    "id": "lead-1793803493019-f13yc",
+    "name": "Yusen Logistics UK Ltd",
+    "industry": "Supply Chain Logistics & Freight Forwarding",
+    "website": "https://www.yusen-logistics.com",
+    "phone": "+44 20 8897 1234",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 47,
+    "id": "lead-1793803492371-mfrqx",
+    "name": "Crane Worldwide Logistics UK",
+    "industry": "Freight Forwarding & Contract Logistics",
+    "website": "https://www.craneww.com",
+    "phone": "+44 20 8890 1234",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 48,
+    "id": "lead-1793803491913-xxz93",
+    "name": "OIA Global",
+    "industry": "Freight Forwarding & Packaging Solutions",
+    "website": "https://www.oiaglobal.com",
+    "phone": "+44 20 8759 7000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 49,
+    "id": "lead-1793803489607-i5vqw",
+    "name": "Woodland Group Ltd",
+    "industry": "Logistics and Supply Chain Solutions",
+    "website": "https://www.woodlandgroup.com",
+    "phone": "+44 20 8893 2777",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 50,
+    "id": "lead-1793803489431-3eik4",
+    "name": "Davies Turner & Co Ltd",
+    "industry": "Logistics and Freight Forwarding",
+    "website": "https://www.daviesturner.com",
+    "phone": "+44 20 7622 3361",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 51,
+    "id": "lead-1793803251721-hq47y",
+    "name": "Tuffnells",
+    "industry": "Logistics and Freight Forwarding",
+    "website": "https://www.tuffnells.co.uk",
+    "phone": "+442030033000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 52,
+    "id": "lead-1793803250731-qph0y",
+    "name": "Palletways",
+    "industry": "Logistics and Freight Forwarding",
+    "website": "https://www.palletways.com",
+    "phone": "+44154320418000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 53,
+    "id": "lead-1793803246704-fwals",
+    "name": "DPD Local",
+    "industry": "Logistics and Freight Forwarding",
+    "website": "https://www.dpdlocal.co.uk",
+    "phone": "+448451751950",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 54,
+    "id": "lead-1793803245046-19dcj",
+    "name": "FedEx UK",
+    "industry": "Logistics and Freight Forwarding",
+    "website": "https://www.fedex.com/en-gb/home.html",
+    "phone": "301717938032",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 55,
+    "id": "lead-1793803226815-3xlp1",
+    "name": "CEVA Logistics",
+    "industry": "Logistics and Freight Forwarding",
+    "website": "https://www.cevalogistics.com",
+    "phone": "+442075385000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 56,
+    "id": "lead-1793803225195-sgup2",
+    "name": "Agility Logistics",
+    "industry": "Logistics and Freight Forwarding",
+    "website": "https://www.agility.com",
+    "phone": "+97148131161",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 57,
+    "id": "lead-1793803222705-oy56w",
+    "name": "XPO Logistics",
+    "industry": "Logistics and Freight Forwarding",
+    "website": "https://www.xpo.com",
+    "phone": "+442087506000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 58,
+    "id": "lead-1793803219899-whtkb",
+    "name": "TNT Express",
+    "industry": "Logistics and Freight Forwarding",
+    "website": "https://www.tnt.com",
+    "phone": "1064421604",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 59,
+    "id": "lead-1793803210458-celvj",
+    "name": "Geodis",
+    "industry": "Logistics and Freight Forwarding",
+    "website": "https://www.geodis.com",
+    "phone": "28907915765",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 60,
+    "id": "lead-1793803203392-4v65k",
+    "name": "DB Schenker",
+    "industry": "Logistics and Freight Forwarding",
+    "website": "https://www.dbschenker.com",
+    "phone": "944404228",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 61,
+    "id": "lead-1793803199734-4tjcl",
+    "name": "Kuehne + Nagel",
+    "industry": "Logistics and Freight Forwarding",
+    "website": "https://www.kuehne-nagel.com",
+    "phone": "138669367",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 62,
+    "id": "lead-1793803196062-yvm0r",
+    "name": "DHL Supply Chain",
+    "industry": "Logistics and Freight Forwarding",
+    "website": "https://www.dhl.com",
+    "phone": "+442086844000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 63,
+    "id": "lead-1793798117975-rxf81",
+    "name": "Unbound",
+    "industry": "Book Publishing",
+    "website": "https://unbound.com",
+    "phone": "+44 20 7112 8410",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 64,
+    "id": "lead-1793798115956-0qmlg",
+    "name": "The Book Guild Ltd",
+    "industry": "Book Publishing",
+    "website": "https://www.bookguild.co.uk",
+    "phone": "+44 1858 419199",
+    "city": "Market Harborough",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 65,
+    "id": "lead-1793798102353-pdiy9",
+    "name": "Orion Publishing Group",
+    "industry": "Book Publishing",
+    "website": "https://www.orionbooks.co.uk",
+    "phone": "+44 20 3122 6444",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 66,
+    "id": "lead-auth-001",
+    "name": "Bloomsbury Publishing Plc",
+    "industry": "Book Publishing and Editing",
+    "website": "https://www.bloomsbury.com",
+    "phone": "+44 20 7631 5600",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 67,
+    "id": "lead-auth-002",
+    "name": "Penguin Random House UK",
+    "industry": "Book Publishing and Author Services",
+    "website": "https://www.penguin.co.uk",
+    "phone": "+44 20 7840 8400",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 68,
+    "id": "lead-auth-003",
+    "name": "Faber & Faber",
+    "industry": "Literary Publishing and Editing",
+    "website": "https://www.faber.co.uk",
+    "phone": "+44 20 7927 3800",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 69,
+    "id": "lead-auth-004",
+    "name": "Hachette UK",
+    "industry": "Book Publishing & Distribution",
+    "website": "https://www.hachette.co.uk",
+    "phone": "+44 20 3122 6000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 70,
+    "id": "lead-auth-005",
+    "name": "HarperCollins UK",
+    "industry": "Book Publishing",
+    "website": "https://www.harpercollins.co.uk",
+    "phone": "+44 20 8240 1000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 71,
+    "id": "lead-auth-006",
+    "name": "Oxford University Press (OUP)",
+    "industry": "Academic and Educational Publishing",
+    "website": "https://global.oup.com",
+    "phone": "+44 1865 556767",
+    "city": "Oxford",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 72,
+    "id": "lead-auth-007",
+    "name": "Canongate Books",
+    "industry": "Independent Book Publishing",
+    "website": "https://canongate.co.uk",
+    "phone": "+44 131 557 5111",
+    "city": "Edinburgh",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 73,
+    "id": "lead-auth-008",
+    "name": "The Literary Consultancy (TLC)",
+    "industry": "Manuscript Editing & Author Services",
+    "website": "https://www.literaryconsultancy.co.uk",
+    "phone": "+44 20 7324 2570",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 74,
+    "id": "lead-auth-009",
+    "name": "Cornerstones Literary Consultancy",
+    "industry": "Author Editing & Publishing Mentorship",
+    "website": "https://cornerstones.co.uk",
+    "phone": "+44 20 7254 9444",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 75,
+    "id": "lead-auth-011",
+    "name": "Pan Macmillan UK",
+    "industry": "Book Publishing",
+    "website": "https://www.panmacmillan.com",
+    "phone": "+44 20 7014 6000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 76,
+    "id": "lead-auth-012",
+    "name": "Profile Books",
+    "industry": "Independent Non-Fiction & Literary Publishing",
+    "website": "https://profilebooks.com",
+    "phone": "+44 20 7841 6300",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 77,
+    "id": "lead-auth-013",
+    "name": "Thames & Hudson",
+    "industry": "Illustrated Book Publishing & Design",
+    "website": "https://www.thamesandhudson.com",
+    "phone": "+44 20 7845 5000",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 78,
+    "id": "lead-auth-014",
+    "name": "Standout Books",
+    "industry": "Book Editing, Formatting & Publishing",
+    "website": "https://www.standoutbooks.com",
+    "phone": "+44 20 3286 4441",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "index": 79,
+    "id": "lead-auth-015",
+    "name": "Jericho Writers",
+    "industry": "Author Education & Manuscript Editing",
+    "website": "https://jerichowriters.com",
+    "phone": "+44 345 459 9560",
+    "city": "Oxford",
+    "country": "United Kingdom"
+  }
+]

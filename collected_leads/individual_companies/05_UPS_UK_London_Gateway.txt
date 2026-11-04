@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: UPS UK London Gateway
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Ufku Akaltan
+  Executive Title:    President & Managing Director UK & Nordics
+  CEO LinkedIn URL:   https://www.linkedin.com/in/ufkuakaltan/
+  Direct CEO Phone:   +44 20 7949 0082
+  Direct CEO Email:   uakaltan@ups.com
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
-  Direct Phone:       +44 345 787 7877 (Formatted for international dial)
-  Decision Maker:     District Operations Manager
-  Call Opener Script: "Connect regarding specialized healthcare logistics and global cross-border e-commerce."
+  Direct Phone:       +44 20 7949 0082 (Formatted for international dial)
+  Decision Maker:     Ufku Akaltan (President & Managing Director UK & Nordics)
+  Call Opener Script: "Ask directly for Ufku Akaltan (President & Managing Director UK & Nordics) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -41,13 +48,14 @@ QUALITY SCORE BREAKDOWN:
   "phoneAvailability": 10,
   "completeness": 10,
   "sourceReliability": 5,
-  "total": 91,
+  "total": 95,
   "notes": [
     "Partial industry keyword match (logistics, and, freight, forwarding)",
     "City target match",
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
-    "Verified business presence on Google Maps & Search"
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

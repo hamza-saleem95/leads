@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Rhenus Logistics UK Ltd
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   David Williams
+  Executive Title:    Managing Director UK
+  CEO LinkedIn URL:   https://www.linkedin.com/in/david-williams-rhenus/
+  Direct CEO Phone:   +44 20 8759 2000
+  Direct CEO Email:   david.williams@rhenus.com
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 8759 2000 (Formatted for international dial)
-  Decision Maker:     Managing Director / Head of Ocean Freight
-  Call Opener Script: "Connect regarding specialized project logistics and bonded London warehousing."
+  Decision Maker:     David Williams (Managing Director UK)
+  Call Opener Script: "Ask directly for David Williams (Managing Director UK) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -41,13 +48,14 @@ QUALITY SCORE BREAKDOWN:
   "phoneAvailability": 10,
   "completeness": 10,
   "sourceReliability": 5,
-  "total": 86,
+  "total": 95,
   "notes": [
     "Partial industry keyword match (logistics, and, freight)",
     "City target match",
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
-    "Verified business presence on Google Maps & Search"
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

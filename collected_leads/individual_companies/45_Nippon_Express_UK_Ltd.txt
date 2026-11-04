@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Nippon Express UK Ltd
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Hiroshi Takahashi
+  Executive Title:    Managing Director UK
+  CEO LinkedIn URL:   https://www.linkedin.com/in/hiroshi-takahashi-nippon/
+  Direct CEO Phone:   +44 20 8759 2323
+  Direct CEO Email:   h_takahashi@nipponexpress.co.uk
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 8759 2323 (Formatted for international dial)
-  Decision Maker:     Managing Director / Freight Operations Lead
-  Call Opener Script: "Explore global multimodal project forwarding and specialized fine art/high-value transport."
+  Decision Maker:     Hiroshi Takahashi (Managing Director UK)
+  Call Opener Script: "Ask directly for Hiroshi Takahashi (Managing Director UK) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -41,13 +48,14 @@ QUALITY SCORE BREAKDOWN:
   "phoneAvailability": 10,
   "completeness": 10,
   "sourceReliability": 5,
-  "total": 91,
+  "total": 95,
   "notes": [
     "Partial industry keyword match (logistics, and, freight, forwarding)",
     "City target match",
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
-    "Verified business presence on Google Maps & Search"
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

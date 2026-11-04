@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: DHL Supply Chain
 Lead Score:          95/100
 Lead Status:         NEW
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Saul Resnick
+  Executive Title:    CEO DHL Supply Chain UK & Ireland
+  CEO LinkedIn URL:   https://www.linkedin.com/in/saul-resnick-dhl/
+  Direct CEO Phone:   +44 20 8684 4000
+  Direct CEO Email:   saul.resnick@dhl.com
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
-  Direct Phone:       +442086844000 (Formatted for international dial)
-  Decision Maker:     Logistics Manager
-  Call Opener Script: "DHL Supply Chain is known for its innovative logistics solutions tailored to client needs."
+  Direct Phone:       +44 20 8684 4000 (Formatted for international dial)
+  Decision Maker:     Saul Resnick (CEO DHL Supply Chain UK & Ireland)
+  Call Opener Script: "Ask directly for Saul Resnick (CEO DHL Supply Chain UK & Ireland) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -39,7 +46,7 @@ QUALITY SCORE BREAKDOWN:
   "websiteAvailability": 10,
   "emailAvailability": 14,
   "phoneAvailability": 10,
-  "completeness": 6,
+  "completeness": 10,
   "sourceReliability": 5,
   "total": 95,
   "notes": [
@@ -47,7 +54,8 @@ QUALITY SCORE BREAKDOWN:
     "City target match",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory"
+    "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

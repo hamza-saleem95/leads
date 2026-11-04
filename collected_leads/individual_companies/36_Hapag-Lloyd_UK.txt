@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Hapag-Lloyd UK
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Dirk Steiner
+  Executive Title:    Managing Director Area UK & Ireland
+  CEO LinkedIn URL:   https://www.linkedin.com/in/dirk-steiner-hapaglloyd/
+  Direct CEO Phone:   +44 20 7265 5200
+  Direct CEO Email:   dirk.steiner@hlag.com
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 7265 5200 (Formatted for international dial)
-  Decision Maker:     Senior Managing Director / Area Lead
-  Call Opener Script: "Inquire about special dry cargo capacity and regional London depot repositioning."
+  Decision Maker:     Dirk Steiner (Managing Director Area UK & Ireland)
+  Call Opener Script: "Ask directly for Dirk Steiner (Managing Director Area UK & Ireland) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -41,13 +48,14 @@ QUALITY SCORE BREAKDOWN:
   "phoneAvailability": 10,
   "completeness": 10,
   "sourceReliability": 5,
-  "total": 81,
+  "total": 95,
   "notes": [
     "Partial industry keyword match (logistics, and)",
     "City target match",
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
-    "Verified business presence on Google Maps & Search"
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

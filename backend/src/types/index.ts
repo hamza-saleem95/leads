@@ -39,6 +39,12 @@ export interface BusinessLeadDTO {
   coldCallReady?: boolean;
   decisionMakerRole?: string | null;
   callOpenerTip?: string | null;
+  // Executive Leadership & Decision Maker (CEO / Owner / Founder)
+  ceoName?: string | null;
+  ceoTitle?: string | null;
+  ceoLinkedinUrl?: string | null;
+  ceoPhone?: string | null;
+  ceoEmail?: string | null;
   address?: string | null;
   city?: string | null;
   state?: string | null;

@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Hellmann Worldwide Logistics UK
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Andrew Stallard
+  Executive Title:    Managing Director UK & Ireland
+  CEO LinkedIn URL:   https://www.linkedin.com/in/andrew-stallard-hellmann/
+  Direct CEO Phone:   +44 1753 686868
+  Direct CEO Email:   andrew.stallard@hellmann.com
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 1753 686868 (Formatted for international dial)
-  Decision Maker:     Managing Director UK / Airfreight Lead
-  Call Opener Script: "Discuss automotive, fashion and marine spares logistics out of London."
+  Decision Maker:     Andrew Stallard (Managing Director UK & Ireland)
+  Call Opener Script: "Ask directly for Andrew Stallard (Managing Director UK & Ireland) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -41,13 +48,14 @@ QUALITY SCORE BREAKDOWN:
   "phoneAvailability": 10,
   "completeness": 10,
   "sourceReliability": 5,
-  "total": 91,
+  "total": 95,
   "notes": [
     "Partial industry keyword match (logistics, and, freight, forwarding)",
     "City target match",
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
-    "Verified business presence on Google Maps & Search"
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

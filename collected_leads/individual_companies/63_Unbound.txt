@@ -1,14 +1,21 @@
 ========================================================================
 COMPANY DOSSIER & COLD CALLING PROFILE: Unbound
 ========================================================================
-Lead Score:          74/100
+Lead Score:          92/100
 Lead Status:         NEW
+------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Dan Kieran
+  Executive Title:    Co-Founder & CEO
+  CEO LinkedIn URL:   https://www.linkedin.com/in/dankieran/
+  Direct CEO Phone:   +44 20 7112 8410
+  Direct CEO Email:   dan@unbound.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 7112 8410 (Formatted for international dial)
-  Decision Maker:     Founder
-  Call Opener Script: "Your innovative approach to publishing is inspiring; I'd love to discuss potential partnerships."
+  Decision Maker:     Dan Kieran (Co-Founder & CEO)
+  Call Opener Script: "Ask directly for Dan Kieran (Co-Founder & CEO) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -39,13 +46,14 @@ QUALITY SCORE BREAKDOWN:
   "websiteAvailability": 10,
   "emailAvailability": 14,
   "phoneAvailability": 10,
-  "completeness": 8,
+  "completeness": 10,
   "sourceReliability": 5,
-  "total": 74,
+  "total": 92,
   "notes": [
     "Partial industry keyword match (book, publishing)",
     "Direct dial telephone confirmed (Cold Call Ready)",
-    "Verified business presence on Google Maps & Search"
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

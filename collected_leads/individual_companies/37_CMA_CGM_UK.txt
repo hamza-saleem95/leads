@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: CMA CGM UK
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   John Trenchard
+  Executive Title:    Managing Director UK
+  CEO LinkedIn URL:   https://www.linkedin.com/in/john-trenchard-cmacgm/
+  Direct CEO Phone:   +44 20 7265 5000
+  Direct CEO Email:   lon.jtrenchard@cma-cgm.com
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 7265 5000 (Formatted for international dial)
-  Decision Maker:     Commercial Director / Inland Operations Manager
-  Call Opener Script: "Discuss coastal container feeder options and regional London distribution routes."
+  Decision Maker:     John Trenchard (Managing Director UK)
+  Call Opener Script: "Ask directly for John Trenchard (Managing Director UK) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -41,13 +48,14 @@ QUALITY SCORE BREAKDOWN:
   "phoneAvailability": 10,
   "completeness": 10,
   "sourceReliability": 5,
-  "total": 86,
+  "total": 95,
   "notes": [
     "Partial industry keyword match (logistics, and, forwarding)",
     "City target match",
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
-    "Verified business presence on Google Maps & Search"
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Maritime Transport Ltd
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   John Williams
+  Executive Title:    Group Executive Chairman
+  CEO LinkedIn URL:   https://www.linkedin.com/in/john-williams-maritime/
+  Direct CEO Phone:   +44 1375 648400
+  Direct CEO Email:   jwilliams@maritimetransport.co.uk
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 1375 648400 (Formatted for international dial)
-  Decision Maker:     Fleet Director / General Manager
-  Call Opener Script: "Discuss scheduled intermodal rail freight slots and dedicated container haulage fleets."
+  Decision Maker:     John Williams (Group Executive Chairman)
+  Call Opener Script: "Ask directly for John Williams (Group Executive Chairman) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -41,13 +48,14 @@ QUALITY SCORE BREAKDOWN:
   "phoneAvailability": 10,
   "completeness": 10,
   "sourceReliability": 5,
-  "total": 81,
+  "total": 95,
   "notes": [
     "Partial industry keyword match (and, freight)",
     "City target match",
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
-    "Verified business presence on Google Maps & Search"
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

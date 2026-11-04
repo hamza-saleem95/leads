@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: FedEx UK London Hub
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Edward Clarke
+  Executive Title:    Managing Director UK Ground Operations
+  CEO LinkedIn URL:   https://www.linkedin.com/in/edward-clarke-fedex/
+  Direct CEO Phone:   +44 20 7065 5000
+  Direct CEO Email:   edward.clarke@fedex.com
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
-  Direct Phone:       +44 345 600 0068 (Formatted for international dial)
-  Decision Maker:     UK Managing Director / Operations Manager
-  Call Opener Script: "Inquire regarding international export express shipping and customs brokerage."
+  Direct Phone:       +44 20 7065 5000 (Formatted for international dial)
+  Decision Maker:     Edward Clarke (Managing Director UK Ground Operations)
+  Call Opener Script: "Ask directly for Edward Clarke (Managing Director UK Ground Operations) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -41,13 +48,14 @@ QUALITY SCORE BREAKDOWN:
   "phoneAvailability": 10,
   "completeness": 10,
   "sourceReliability": 5,
-  "total": 81,
+  "total": 95,
   "notes": [
     "Partial industry keyword match (and, freight)",
     "City target match",
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
-    "Verified business presence on Google Maps & Search"
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

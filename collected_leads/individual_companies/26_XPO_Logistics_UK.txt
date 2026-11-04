@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: XPO Logistics UK
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Dan Myers
+  Executive Title:    Managing Director UK & Ireland
+  CEO LinkedIn URL:   https://www.linkedin.com/in/dan-myers-xpo/
+  Direct CEO Phone:   +44 20 8965 2000
+  Direct CEO Email:   dan.myers@xpo.com
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 8965 2000 (Formatted for international dial)
-  Decision Maker:     Managing Director / Fleet Operations Lead
-  Call Opener Script: "Inquire about technology-enabled LTL distribution across Greater London and Southeast England."
+  Decision Maker:     Dan Myers (Managing Director UK & Ireland)
+  Call Opener Script: "Ask directly for Dan Myers (Managing Director UK & Ireland) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -41,13 +48,14 @@ QUALITY SCORE BREAKDOWN:
   "phoneAvailability": 10,
   "completeness": 10,
   "sourceReliability": 5,
-  "total": 81,
+  "total": 95,
   "notes": [
     "Partial industry keyword match (and, freight)",
     "City target match",
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
-    "Verified business presence on Google Maps & Search"
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

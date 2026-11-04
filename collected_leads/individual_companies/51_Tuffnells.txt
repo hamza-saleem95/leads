@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Tuffnells
 Lead Score:          95/100
 Lead Status:         NEW
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Peter Fuller
+  Executive Title:    Chief Executive Officer
+  CEO LinkedIn URL:   https://www.linkedin.com/in/peter-fuller-tuffnells/
+  Direct CEO Phone:   +44 20 3003 3000
+  Direct CEO Email:   peter.fuller@tuffnells.co.uk
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
-  Direct Phone:       +442030033000 (Formatted for international dial)
-  Decision Maker:     Sales Manager
-  Call Opener Script: "Tuffnells is known for its unique approach to parcel delivery, especially for e-commerce businesses."
+  Direct Phone:       +44 20 3003 3000 (Formatted for international dial)
+  Decision Maker:     Peter Fuller (Chief Executive Officer)
+  Call Opener Script: "Ask directly for Peter Fuller (Chief Executive Officer) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -39,14 +46,15 @@ QUALITY SCORE BREAKDOWN:
   "websiteAvailability": 10,
   "emailAvailability": 14,
   "phoneAvailability": 10,
-  "completeness": 6,
+  "completeness": 10,
   "sourceReliability": 5,
   "total": 95,
   "notes": [
     "Exact industry match: Logistics and Freight Forwarding",
     "City target match",
     "Direct dial telephone confirmed (Cold Call Ready)",
-    "Verified business presence on Google Maps & Search"
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

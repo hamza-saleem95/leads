@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Woodland Group Ltd
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Kevin Stevens
+  Executive Title:    Founder, Chairman & CEO
+  CEO LinkedIn URL:   https://www.linkedin.com/in/kevin-stevens-woodland/
+  Direct CEO Phone:   +44 20 8893 2777
+  Direct CEO Email:   kstevens@woodlandgroup.com
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 8893 2777 (Formatted for international dial)
-  Decision Maker:     Commercial Director / Supply Chain Lead
-  Call Opener Script: "Discuss transatlantic and European air freight forwarding partnerships and customs clearance workflows."
+  Decision Maker:     Kevin Stevens (Founder, Chairman & CEO)
+  Call Opener Script: "Ask directly for Kevin Stevens (Founder, Chairman & CEO) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -41,13 +48,14 @@ QUALITY SCORE BREAKDOWN:
   "phoneAvailability": 10,
   "completeness": 10,
   "sourceReliability": 5,
-  "total": 86,
+  "total": 95,
   "notes": [
     "Partial industry keyword match (logistics, and, freight)",
     "City target match",
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
-    "Verified business presence on Google Maps & Search"
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

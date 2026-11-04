@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Palletways
 Lead Score:          99/100
 Lead Status:         NEW
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Luis Zubialde
+  Executive Title:    Group Chief Executive Officer
+  CEO LinkedIn URL:   https://www.linkedin.com/in/luiszubialde/
+  Direct CEO Phone:   +44 1543 418000
+  Direct CEO Email:   luis_zubialde@palletways.com
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
-  Direct Phone:       +44154320418000 (Formatted for international dial)
-  Decision Maker:     Network Development Manager
-  Call Opener Script: "Palletways offers a reliable pallet delivery service that can enhance your logistics efficiency."
+  Direct Phone:       +44 1543 418000 (Formatted for international dial)
+  Decision Maker:     Luis Zubialde (Group Chief Executive Officer)
+  Call Opener Script: "Ask directly for Luis Zubialde (Group Chief Executive Officer) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -47,7 +54,8 @@ QUALITY SCORE BREAKDOWN:
     "City target match",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory"
+    "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

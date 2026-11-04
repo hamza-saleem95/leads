@@ -14,6 +14,8 @@ import {
   Trash2,
   CheckSquare,
   MapPin,
+  Linkedin,
+  UserCheck,
 } from 'lucide-react';
 
 interface LeadsTableProps {
@@ -116,6 +118,12 @@ export const LeadsTable: React.FC<LeadsTableProps> = ({
                   <ArrowUpDown className="w-3 h-3" />
                 </div>
               </th>
+              <th className="py-3.5 px-4">
+                <div className="flex items-center gap-1.5">
+                  <UserCheck className="w-3 h-3 text-sky-400" />
+                  <span>CEO / Owner (LinkedIn)</span>
+                </div>
+              </th>
               <th className="py-3.5 px-4">Location</th>
               <th className="py-3.5 px-4">Contact Details</th>
               <th
@@ -136,7 +144,7 @@ export const LeadsTable: React.FC<LeadsTableProps> = ({
           <tbody className="divide-y divide-slate-800/60">
             {leads.length === 0 ? (
               <tr>
-                <td colSpan={9} className="py-12 text-center text-slate-400">
+                <td colSpan={10} className="py-12 text-center text-slate-400">
                   No business leads match your filter criteria.
                 </td>
               </tr>
@@ -182,6 +190,42 @@ export const LeadsTable: React.FC<LeadsTableProps> = ({
                         <div className="text-[11px] text-slate-400 font-normal truncate max-w-xs">
                           {lead.industry || 'General B2B'}
                         </div>
+                      </div>
+                    </td>
+
+                    <td className="py-3.5 px-4" onClick={() => onLeadClick(lead)}>
+                      <div className="space-y-1">
+                        <div className="font-semibold text-white flex items-center gap-1.5">
+                          <span>{lead.ceoName || lead.decisionMakerRole?.split('(')[0]?.trim() || 'Executive Leadership'}</span>
+                          {lead.ceoLinkedinUrl && (
+                            <a
+                              href={lead.ceoLinkedinUrl}
+                              target="_blank"
+                              rel="noreferrer"
+                              onClick={(e) => e.stopPropagation()}
+                              className="text-sky-400 hover:text-sky-300 p-0.5 rounded hover:bg-sky-500/10 transition-colors"
+                              title="Direct LinkedIn Profile"
+                            >
+                              <Linkedin className="w-3.5 h-3.5" />
+                            </a>
+                          )}
+                        </div>
+                        <div className="text-[10px] text-slate-400 truncate max-w-[170px]">
+                          {lead.ceoTitle || lead.decisionMakerRole || 'Managing Director / CEO'}
+                        </div>
+                        {(lead.ceoPhone || lead.phone) && (
+                          <div className="flex items-center gap-1">
+                            <a
+                              href={`tel:${lead.ceoPhone || lead.phone}`}
+                              onClick={(e) => e.stopPropagation()}
+                              className="inline-flex items-center gap-1 px-1.5 py-0.5 rounded bg-sky-500/10 hover:bg-sky-500/20 text-sky-300 border border-sky-500/30 text-[10px] font-mono font-medium transition-colors"
+                              title="Direct phone to CEO / Executive"
+                            >
+                              <Phone className="w-2.5 h-2.5 text-sky-400" />
+                              <span>{lead.ceoPhone || lead.phone}</span>
+                            </a>
+                          </div>
+                        )}
                       </div>
                     </td>
 

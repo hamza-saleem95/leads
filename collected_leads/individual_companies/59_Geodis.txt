@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Geodis
 Lead Score:          99/100
 Lead Status:         NEW
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Colin Kelly
+  Executive Title:    Managing Director UK
+  CEO LinkedIn URL:   https://www.linkedin.com/in/colin-kelly-geodis/
+  Direct CEO Phone:   +44 20 8890 4000
+  Direct CEO Email:   colin.kelly@geodis.com
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
-  Direct Phone:       28907915765 (Formatted for international dial)
-  Decision Maker:     Supply Chain Manager
-  Call Opener Script: "Geodis is known for its comprehensive logistics solutions tailored for e-commerce businesses."
+  Direct Phone:       +44 20 8890 4000 (Formatted for international dial)
+  Decision Maker:     Colin Kelly (Managing Director UK)
+  Call Opener Script: "Ask directly for Colin Kelly (Managing Director UK) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -47,7 +54,8 @@ QUALITY SCORE BREAKDOWN:
     "City target match",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory"
+    "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

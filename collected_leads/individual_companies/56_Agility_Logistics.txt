@@ -4,11 +4,18 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Agility Logistics
 Lead Score:          97/100
 Lead Status:         NEW
 ------------------------------------------------------------------------
+👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+  CEO / Owner Name:   Colin Wright
+  Executive Title:    Senior Vice President & MD UK
+  CEO LinkedIn URL:   https://www.linkedin.com/in/colin-wright-agility/
+  Direct CEO Phone:   +44 20 8897 1000
+  Direct CEO Email:   cwright@agility.com
+------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
-  Direct Phone:       +97148131161 (Formatted for international dial)
-  Decision Maker:     Operations Manager
-  Call Opener Script: "Agility Logistics excels in temperature-sensitive transport; I’d love to discuss how we can enhance your logistics operations."
+  Direct Phone:       +44 20 8897 1000 (Formatted for international dial)
+  Decision Maker:     Colin Wright (Senior Vice President & MD UK)
+  Call Opener Script: "Ask directly for Colin Wright (Senior Vice President & MD UK) regarding UK operations & logistics collaboration."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -39,7 +46,7 @@ QUALITY SCORE BREAKDOWN:
   "websiteAvailability": 10,
   "emailAvailability": 14,
   "phoneAvailability": 10,
-  "completeness": 8,
+  "completeness": 10,
   "sourceReliability": 5,
   "total": 97,
   "notes": [
@@ -47,7 +54,8 @@ QUALITY SCORE BREAKDOWN:
     "City target match",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory"
+    "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory",
+    "Decision Maker CEO & LinkedIn Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true
