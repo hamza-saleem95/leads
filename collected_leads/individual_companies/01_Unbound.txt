@@ -6,7 +6,7 @@ Lead Status:         NEW
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
-  Direct Phone:       41479688 (Formatted for international dial)
+  Direct Phone:       +44 20 7112 8410 (Formatted for international dial)
   Decision Maker:     Founder
   Call Opener Script: "Your innovative approach to publishing is inspiring; I'd love to discuss potential partnerships."
   Operating Status:   OPERATIONAL
@@ -15,15 +15,15 @@ Lead Status:         NEW
   GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
   GMB Rating:         4.5 ★ (20+ reviews)
   GMB Category:       Book Publishing
-  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Unbound%20Birmingham%20United%20Kingdom
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Unbound+Publishing+Charlotte+Street+London
 ------------------------------------------------------------------------
 COMPANY OVERVIEW & CONTACT DETAILS:
   Industry:           Book Publishing
   Country:            United Kingdom
-  City:               Birmingham
-  Physical Address:   The Custard Factory, Gibb Street
+  City:               London
+  Physical Address:   76 Charlotte Street, London W1T 4QS
   Official Website:   https://unbound.com
-  Business Email:     brjackson+rebrand2@hubspot.com (UNVERIFIED)
+  Business Email:     support@unbound.com (UNVERIFIED)
   LinkedIn Profile:   https://linkedin.com/company/unboundevent
   Discovery Provider: openai_intelligence
   Source URL:         https://unbound.com

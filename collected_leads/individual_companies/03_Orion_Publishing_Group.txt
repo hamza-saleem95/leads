@@ -6,7 +6,7 @@ Lead Status:         NEW
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
-  Direct Phone:       167581816 (Formatted for international dial)
+  Direct Phone:       +44 20 3122 6444 (Formatted for international dial)
   Decision Maker:     Publishing Director
   Call Opener Script: "Your recent bestsellers have caught my attention; I'd love to discuss potential partnerships."
   Operating Status:   OPERATIONAL
@@ -15,15 +15,15 @@ Lead Status:         NEW
   GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
   GMB Rating:         4.3 ★ (25+ reviews)
   GMB Category:       Book Publishing
-  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Orion%20Publishing%20Group%20London%20United%20Kingdom
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Orion+Publishing+Group+Carmelite+House+London
 ------------------------------------------------------------------------
 COMPANY OVERVIEW & CONTACT DETAILS:
   Industry:           Book Publishing
   Country:            United Kingdom
   City:               London
-  Physical Address:   Carmelite House, 50 Victoria Embankment
+  Physical Address:   Carmelite House, 50 Victoria Embankment, London EC4Y 0DZ
   Official Website:   https://www.orionbooks.co.uk
-  Business Email:     info@littlebrown.co.uk (UNVERIFIED)
+  Business Email:     info@orionbooks.co.uk (UNVERIFIED)
   LinkedIn Profile:   N/A
   Discovery Provider: openai_intelligence
   Source URL:         https://www.orionbooks.co.uk

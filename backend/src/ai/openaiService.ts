@@ -35,7 +35,7 @@ YOU MUST ONLY RETURN 100% REAL, GENUINE, COMMERCIALLY ACTIVE REGISTERED BUSINESS
 ABSOLUTELY NEVER INVENT, FABRICATE, OR HALLUCINATE FICTITIOUS COMPANY NAMES OR DUMMY DATA.
 Every single business must be an actual, verified enterprise with:
 - companyName: Real, officially registered business name (e.g. Bloomsbury Publishing, Penguin Random House, Faber & Faber, etc.)
-- website: Real official website URL that actually exists online
+- website: Official website URL directly listed on the company's verified Google My Business (GMB) / Google Maps profile. ABSOLUTELY NEVER GUESS, INVENT, OR FABRICATE A DOMAIN. If you are not 100% sure of their verified GMB website, leave as null.
 - industry: Target industry category
 - businessDescription: Comprehensive summary of their real commercial operations, publishing imprints, or services
 - phone: Real corporate telephone number with international code (e.g. +44 20 ..., +1 ...), verified and ready to dial for cold calling

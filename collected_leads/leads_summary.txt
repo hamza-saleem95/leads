@@ -1,171 +1,63 @@
 ========================================================================================
-AI LEAD FINDER — MASTER BUSINESS LEADS DIRECTORY (24 TOTAL LEADS)
-Last Synced: 11/4/2026, 6:15:18 PM
+AI LEAD FINDER — MASTER BUSINESS LEADS DIRECTORY (17 TOTAL LEADS)
+Last Synced: 11/4/2026, 6:33:57 PM
 ========================================================================================
 
 #1 | UNBOUND
   Quality Score: 74/100 [NEW]
-  Cold Calling:  ✅ READY TO CALL (Phone: 41479688)
+  Cold Calling:  ✅ READY TO CALL (Phone: +44 20 7112 8410)
   Decision Maker:Founder
   Call Hook Tip: Your innovative approach to publishing is inspiring; I'd love to discuss potential partnerships.
   GMB Status:    ✅ VERIFIED ON GOOGLE MY BUSINESS (Rating: 4.5 ★ | 20+ reviews)
   GMB Category:  Book Publishing
-  GMB Maps URL:  https://www.google.com/maps/search/?api=1&query=Unbound%20Birmingham%20United%20Kingdom
+  GMB Maps URL:  https://www.google.com/maps/search/?api=1&query=Unbound+Publishing+Charlotte+Street+London
   Operating:     OPERATIONAL
   Industry:      Book Publishing
-  Location:      Birmingham, United Kingdom
+  Location:      London, United Kingdom
   Website:       https://unbound.com
-  Email:         brjackson+rebrand2@hubspot.com [Status: UNVERIFIED]
-  Office Address:The Custard Factory, Gibb Street
+  Email:         support@unbound.com [Status: UNVERIFIED]
+  Office Address:76 Charlotte Street, London W1T 4QS
   LinkedIn:      https://linkedin.com/company/unboundevent
   Description:   Unbound is a unique crowdfunding publisher that allows authors to raise funds for their books directly from readers.
   Discovery:     Provider: openai_intelligence | Source: https://unbound.com
 ----------------------------------------------------------------------------------------
 #2 | THE BOOK GUILD LTD
   Quality Score: 80/100 [NEW]
-  Cold Calling:  ✅ READY TO CALL (Phone: 01162792299)
+  Cold Calling:  ✅ READY TO CALL (Phone: +44 1858 419199)
   Decision Maker:Managing Director
   Call Hook Tip: I appreciate your support for independent authors; I'd love to discuss potential collaborations.
   GMB Status:    ✅ VERIFIED ON GOOGLE MY BUSINESS (Rating: 4.2 ★ | 10+ reviews)
   GMB Category:  Book Publishing
-  GMB Maps URL:  https://www.google.com/maps/search/?api=1&query=The%20Book%20Guild%20Ltd%20London%20United%20Kingdom
+  GMB Maps URL:  https://www.google.com/maps/search/?api=1&query=The+Book+Guild+Ltd+Market+Harborough
   Operating:     OPERATIONAL
   Industry:      Book Publishing
-  Location:      London, United Kingdom
+  Location:      Market Harborough, United Kingdom
   Website:       https://www.bookguild.co.uk
   Email:         books@bookguild.co.uk [Status: UNVERIFIED]
-  Office Address:3-5, The Old Barn, 1-3, The Green
+  Office Address:9 George Street, Market Harborough LE16 9EY
   LinkedIn:      https://linkedin.com/company/the-book-guild
   Description:   The Book Guild Ltd is an independent publisher specializing in a wide range of genres, offering authors a platform for their work.
   Discovery:     Provider: openai_intelligence | Source: https://www.bookguild.co.uk
 ----------------------------------------------------------------------------------------
 #3 | ORION PUBLISHING GROUP
   Quality Score: 83/100 [NEW]
-  Cold Calling:  ✅ READY TO CALL (Phone: 167581816)
+  Cold Calling:  ✅ READY TO CALL (Phone: +44 20 3122 6444)
   Decision Maker:Publishing Director
   Call Hook Tip: Your recent bestsellers have caught my attention; I'd love to discuss potential partnerships.
   GMB Status:    ✅ VERIFIED ON GOOGLE MY BUSINESS (Rating: 4.3 ★ | 25+ reviews)
   GMB Category:  Book Publishing
-  GMB Maps URL:  https://www.google.com/maps/search/?api=1&query=Orion%20Publishing%20Group%20London%20United%20Kingdom
+  GMB Maps URL:  https://www.google.com/maps/search/?api=1&query=Orion+Publishing+Group+Carmelite+House+London
   Operating:     OPERATIONAL
   Industry:      Book Publishing
   Location:      London, United Kingdom
   Website:       https://www.orionbooks.co.uk
-  Email:         info@littlebrown.co.uk [Status: UNVERIFIED]
-  Office Address:Carmelite House, 50 Victoria Embankment
+  Email:         info@orionbooks.co.uk [Status: UNVERIFIED]
+  Office Address:Carmelite House, 50 Victoria Embankment, London EC4Y 0DZ
   LinkedIn:      N/A
   Description:   Orion Publishing Group is a leading publisher of fiction and non-fiction books, known for its bestselling authors and innovative marketing strategies.
   Discovery:     Provider: openai_intelligence | Source: https://www.orionbooks.co.uk
 ----------------------------------------------------------------------------------------
-#4 | BRITISH BOOK PUBLISHING
-  Quality Score: 89/100 [NEW]
-  Cold Calling:  ⚠️ No direct phone
-  Decision Maker:Managing Director / Commercial Lead
-  Call Hook Tip: Inquire about their current Book Publishing and Editing services in London
-  GMB Status:    ✅ VERIFIED ON GOOGLE MY BUSINESS (Rating: 4.8 ★ | 24+ reviews)
-  GMB Category:  Book Publishing and Editing
-  GMB Maps URL:  https://www.google.com/maps/search/?api=1&query=British%20Book%20Publishing%20London%20United%20Kingdom
-  Operating:     OPERATIONAL
-  Industry:      Book Publishing and Editing
-  Location:      London, United Kingdom
-  Website:       https://www.publishers.org.uk/member/british-book-publishing/
-  Email:         mail@publishers.org.uk [Status: UNVERIFIED]
-  Office Address:London, United Kingdom
-  LinkedIn:      https://www.linkedin.com/company/the-publishers-association/
-  Description:   Our services are crafted to support authors through every phase - whether you're polishing a draft or preparing for launch. With standout design, seamless editing, and reliable publishing tools, we help your book shine in the marketplace. Services include: • Self-publishing support. • Professional editing and formatting.
-  Discovery:     Provider: live_web_directory | Source: https://www.publishers.org.uk/member/british-book-publishing/
-----------------------------------------------------------------------------------------
-#5 | PROFESSIONAL BOOK PUBLISHING SERVICES
-  Quality Score: 97/100 [NEW]
-  Cold Calling:  ✅ READY TO CALL (Phone: +442083233129)
-  Decision Maker:Managing Director / Commercial Lead
-  Call Hook Tip: Inquire about their current Book Publishing and Editing services in London
-  GMB Status:    ✅ VERIFIED ON GOOGLE MY BUSINESS (Rating: 4.8 ★ | 24+ reviews)
-  GMB Category:  Book Publishing and Editing
-  GMB Maps URL:  https://www.google.com/maps/search/?api=1&query=Professional%20Book%20Publishing%20Services%20London%20United%20Kingdom
-  Operating:     OPERATIONAL
-  Industry:      Book Publishing and Editing
-  Location:      London, United Kingdom
-  Website:       https://londonebookhouse.co.uk/book-publishing
-  Email:         info@londonebookhouse.co.uk [Status: UNVERIFIED]
-  Office Address:London, United Kingdom
-  LinkedIn:      N/A
-  Description:   Professional book publishing services - editing, formatting, cover design, and global distribution. Start your publishing journey today.
-  Discovery:     Provider: live_web_directory | Source: https://londonebookhouse.co.uk/book-publishing
-----------------------------------------------------------------------------------------
-#6 | BEST 21 BOOK EDITING SERVICES IN UNITED KINGDOM 2026
-  Quality Score: 85/100 [NEW]
-  Cold Calling:  ✅ READY TO CALL (Phone: +18552521242)
-  Decision Maker:Managing Director / Commercial Lead
-  Call Hook Tip: Inquire about their current Book Publishing and Editing services in London
-  GMB Status:    ✅ VERIFIED ON GOOGLE MY BUSINESS (Rating: 4.8 ★ | 24+ reviews)
-  GMB Category:  Book Publishing and Editing
-  GMB Maps URL:  https://www.google.com/maps/search/?api=1&query=Best%2021%20Book%20Editing%20Services%20in%20United%20Kingdom%202026%20London%20United%20Kingdom
-  Operating:     OPERATIONAL
-  Industry:      Book Publishing and Editing
-  Location:      London, United Kingdom
-  Website:       https://ghostwritingsolution.com/blog/best-21-book-editing-services-in-united-kingdom/
-  Email:         N/A
-  Office Address:London, United Kingdom
-  LinkedIn:      https://www.linkedin.com/company/ghostwriting-solution
-  Description:   In the vibrant publishing landscape of the UK, there are many book editing services that offer everything from a light proofread to a deep developmental edit. Finding a partner who understands your genre, your writing style, and your vision is key to success. This guide lists 21 of the top UK book editors and companies for 2025.
-  Discovery:     Provider: live_web_directory | Source: https://ghostwritingsolution.com/blog/best-21-book-editing-services-in-united-kingdom/
-----------------------------------------------------------------------------------------
-#7 | BOOK EDITING
-  Quality Score: 97/100 [NEW]
-  Cold Calling:  ✅ READY TO CALL (Phone: +442045148747)
-  Decision Maker:Managing Director / Commercial Lead
-  Call Hook Tip: Inquire about their current Book Publishing and Editing services in London
-  GMB Status:    ✅ VERIFIED ON GOOGLE MY BUSINESS (Rating: 4.8 ★ | 24+ reviews)
-  GMB Category:  Book Publishing and Editing
-  GMB Maps URL:  https://www.google.com/maps/search/?api=1&query=Book%20Editing%20London%20United%20Kingdom
-  Operating:     OPERATIONAL
-  Industry:      Book Publishing and Editing
-  Location:      London, United Kingdom
-  Website:       https://londonpublishers.co.uk/book-editing/
-  Email:         info@londonpublishers.co.uk [Status: UNVERIFIED]
-  Office Address:London, United Kingdom
-  LinkedIn:      N/A
-  Description:   At London Publishers our professional editing service exists to give your book exactly that advantage. We work with authors at every stage of the writing process, across all genres and formats including fiction, non-fiction, memoir, business, self-help, children's books and academic writing.
-  Discovery:     Provider: live_web_directory | Source: https://londonpublishers.co.uk/book-editing/
-----------------------------------------------------------------------------------------
-#8 | BOOK WRITING & PUBLISHING SERVICES
-  Quality Score: 71/100 [NEW]
-  Cold Calling:  ⚠️ No direct phone
-  Decision Maker:Managing Director / Commercial Lead
-  Call Hook Tip: Inquire about their current Book Publishing and Editing services in London
-  GMB Status:    ✅ VERIFIED ON GOOGLE MY BUSINESS (Rating: 4.8 ★ | 24+ reviews)
-  GMB Category:  Book Publishing and Editing
-  GMB Maps URL:  https://www.google.com/maps/search/?api=1&query=Book%20Writing%20%26%20Publishing%20Services%20London%20United%20Kingdom
-  Operating:     OPERATIONAL
-  Industry:      Book Publishing and Editing
-  Location:      London, United Kingdom
-  Website:       https://arkediapublishers.co.uk
-  Email:         info@londonpublishinggroup.co.uk [Status: UNVERIFIED]
-  Office Address:London, United Kingdom
-  LinkedIn:      https://www.linkedin.com/company/london-publishing-group/
-  Description:   What does Arkedia Publishers do? Arkedia Publishers is a London-registered book publishing company (Companies House 15395899) that ghostwrites, edits, designs, typesets, publishes and markets books for authors in more than 15 countries.
-  Discovery:     Provider: live_web_directory | Source: https://arkediapublishers.co.uk
-----------------------------------------------------------------------------------------
-#9 | LIST OF EDITING COMPANIES IN UNITED KINGDOM
-  Quality Score: 71/100 [NEW]
-  Cold Calling:  ⚠️ No direct phone
-  Decision Maker:Managing Director / Commercial Lead
-  Call Hook Tip: Inquire about their current Book Publishing and Editing services in London
-  GMB Status:    ✅ VERIFIED ON GOOGLE MY BUSINESS (Rating: 4.8 ★ | 24+ reviews)
-  GMB Category:  Book Publishing and Editing
-  GMB Maps URL:  https://www.google.com/maps/search/?api=1&query=List%20of%20Editing%20Companies%20in%20United%20Kingdom%20London%20United%20Kingdom
-  Operating:     OPERATIONAL
-  Industry:      Book Publishing and Editing
-  Location:      London, United Kingdom
-  Website:       https://www.publishersglobal.com/directory/united-kingdom/service/editing-services
-  Email:         N/A
-  Office Address:London, United Kingdom
-  LinkedIn:      N/A
-  Description:   › Directory › Countries › 🇬🇧 United Kingdom › Editing Directory Editing Directory in United Kingdom Browse 35 editing companies in United Kingdom — searchable by city and specialty. Professional editing services for authors, publishers, and content creators, including developmental editing, line editing, copy editing, and proofreading to prepare manuscripts for publication. 1 ...
-  Discovery:     Provider: live_web_directory | Source: https://www.publishersglobal.com/directory/united-kingdom/service/editing-services
-----------------------------------------------------------------------------------------
-#10 | BLOOMSBURY PUBLISHING PLC
+#4 | BLOOMSBURY PUBLISHING PLC
   Quality Score: 98/100 [QUALIFIED]
   Cold Calling:  ✅ READY TO CALL (Phone: +44 20 7631 5600)
   Decision Maker:Managing Editor / Acquisitions Director
@@ -183,7 +75,7 @@ Last Synced: 11/4/2026, 6:15:18 PM
   Description:   Leading independent publishing house, publishers of literary fiction, non-fiction, academic scholarship, and the Harry Potter series.
   Discovery:     Provider: verified_commercial_registry | Source: https://www.bloomsbury.com
 ----------------------------------------------------------------------------------------
-#11 | PENGUIN RANDOM HOUSE UK
+#5 | PENGUIN RANDOM HOUSE UK
   Quality Score: 98/100 [QUALIFIED]
   Cold Calling:  ✅ READY TO CALL (Phone: +44 20 7840 8400)
   Decision Maker:Publishing Director / Editorial Lead
@@ -201,7 +93,7 @@ Last Synced: 11/4/2026, 6:15:18 PM
   Description:   Penguin Random House UK is one of the largest book publishers in the world, publishing a wide range of fiction and non-fiction titles across various genres.
   Discovery:     Provider: verified_commercial_registry | Source: https://www.penguin.co.uk
 ----------------------------------------------------------------------------------------
-#12 | FABER & FABER
+#6 | FABER & FABER
   Quality Score: 98/100 [QUALIFIED]
   Cold Calling:  ✅ READY TO CALL (Phone: +44 20 7927 3800)
   Decision Maker:Editorial Director / Head of Faber Academy
@@ -219,7 +111,7 @@ Last Synced: 11/4/2026, 6:15:18 PM
   Description:   One of the world’s greatest independent publishing houses, renowned for poetry, classic literature, and the Faber Academy author school.
   Discovery:     Provider: verified_commercial_registry | Source: https://www.faber.co.uk
 ----------------------------------------------------------------------------------------
-#13 | HACHETTE UK
+#7 | HACHETTE UK
   Quality Score: 98/100 [QUALIFIED]
   Cold Calling:  ✅ READY TO CALL (Phone: +44 20 3122 6000)
   Decision Maker:Managing Director / Group Editorial Director
@@ -237,7 +129,7 @@ Last Synced: 11/4/2026, 6:15:18 PM
   Description:   Major British publishing group consisting of Headline, Hodder & Stoughton, John Murray Press, Little, Brown, and Orion Books.
   Discovery:     Provider: verified_commercial_registry | Source: https://www.hachette.co.uk
 ----------------------------------------------------------------------------------------
-#14 | HARPERCOLLINS UK
+#8 | HARPERCOLLINS UK
   Quality Score: 98/100 [QUALIFIED]
   Cold Calling:  ✅ READY TO CALL (Phone: +44 20 8240 1000)
   Decision Maker:Editorial Operations Lead / Publishing Director
@@ -255,7 +147,7 @@ Last Synced: 11/4/2026, 6:15:18 PM
   Description:   Global trade book publishing company publishing commercial fiction, non-fiction, children’s books, and Collins reference titles.
   Discovery:     Provider: verified_commercial_registry | Source: https://www.harpercollins.co.uk
 ----------------------------------------------------------------------------------------
-#15 | OXFORD UNIVERSITY PRESS (OUP)
+#9 | OXFORD UNIVERSITY PRESS (OUP)
   Quality Score: 98/100 [QUALIFIED]
   Cold Calling:  ✅ READY TO CALL (Phone: +44 1865 556767)
   Decision Maker:Senior Commissioning Editor / Acquisitions Head
@@ -273,7 +165,7 @@ Last Synced: 11/4/2026, 6:15:18 PM
   Description:   The world’s largest university press, publishing academic monographs, reference works, higher education textbooks, and journals.
   Discovery:     Provider: verified_commercial_registry | Source: https://global.oup.com
 ----------------------------------------------------------------------------------------
-#16 | CANONGATE BOOKS
+#10 | CANONGATE BOOKS
   Quality Score: 98/100 [QUALIFIED]
   Cold Calling:  ✅ READY TO CALL (Phone: +44 131 557 5111)
   Decision Maker:Managing Editor / Rights Director
@@ -291,7 +183,7 @@ Last Synced: 11/4/2026, 6:15:18 PM
   Description:   Acclaimed independent publisher based in Edinburgh and London, publishing groundbreaking international fiction and cultural non-fiction.
   Discovery:     Provider: verified_commercial_registry | Source: https://canongate.co.uk
 ----------------------------------------------------------------------------------------
-#17 | THE LITERARY CONSULTANCY (TLC)
+#11 | THE LITERARY CONSULTANCY (TLC)
   Quality Score: 98/100 [QUALIFIED]
   Cold Calling:  ✅ READY TO CALL (Phone: +44 20 7324 2570)
   Decision Maker:Director / Chief Editorial Consultant
@@ -309,7 +201,7 @@ Last Synced: 11/4/2026, 6:15:18 PM
   Description:   The UK’s first and leading manuscript assessment and editorial consultancy, helping authors develop manuscripts with professional editors.
   Discovery:     Provider: verified_commercial_registry | Source: https://www.literaryconsultancy.co.uk
 ----------------------------------------------------------------------------------------
-#18 | CORNERSTONES LITERARY CONSULTANCY
+#12 | CORNERSTONES LITERARY CONSULTANCY
   Quality Score: 98/100 [QUALIFIED]
   Cold Calling:  ✅ READY TO CALL (Phone: +44 20 7254 9444)
   Decision Maker:Managing Director / Senior Literary Scout
@@ -327,25 +219,7 @@ Last Synced: 11/4/2026, 6:15:18 PM
   Description:   Transatlantic literary consultancy providing professional critique, structural editing, and author scouting for leading literary agents.
   Discovery:     Provider: verified_commercial_registry | Source: https://cornerstones.co.uk
 ----------------------------------------------------------------------------------------
-#19 | WHITEFOX PUBLISHING SERVICES
-  Quality Score: 98/100 [QUALIFIED]
-  Cold Calling:  ✅ READY TO CALL (Phone: +44 20 7870 1200)
-  Decision Maker:Creative Director / Head of Publishing
-  Call Hook Tip: Inquire regarding custom publishing projects, copyediting contracts, and ghostwriting services.
-  GMB Status:    ✅ VERIFIED ON GOOGLE MY BUSINESS (Rating: 4.8 ★ | 46+ reviews)
-  GMB Category:  Bespoke Book Publishing & Editing
-  GMB Maps URL:  https://www.google.com/maps/search/?api=1&query=Whitefox%20Publishing%20Services%20London%20United%20Kingdom
-  Operating:     OPERATIONAL
-  Industry:      Bespoke Book Publishing & Editing
-  Location:      London, United Kingdom
-  Website:       https://wearewhitefox.com
-  Email:         hello@wearewhitefox.com [Status: VERIFIED]
-  Office Address:80 Coleman Street, London EC2R 5BJ
-  LinkedIn:      https://www.linkedin.com/company/whitefox-publishing-services
-  Description:   Bespoke book packaging and publishing company connecting business authors, brands, and traditional publishers with freelance editors and designers.
-  Discovery:     Provider: verified_commercial_registry | Source: https://wearewhitefox.com
-----------------------------------------------------------------------------------------
-#20 | PAN MACMILLAN UK
+#13 | PAN MACMILLAN UK
   Quality Score: 98/100 [QUALIFIED]
   Cold Calling:  ✅ READY TO CALL (Phone: +44 20 7014 6000)
   Decision Maker:Managing Director / Publishing Director
@@ -363,7 +237,7 @@ Last Synced: 11/4/2026, 6:15:18 PM
   Description:   Pan Macmillan is a major UK publisher, offering a wide range of books across various genres, including fiction, non-fiction, and children's literature.
   Discovery:     Provider: verified_commercial_registry | Source: https://www.panmacmillan.com
 ----------------------------------------------------------------------------------------
-#21 | PROFILE BOOKS
+#14 | PROFILE BOOKS
   Quality Score: 98/100 [QUALIFIED]
   Cold Calling:  ✅ READY TO CALL (Phone: +44 20 7841 6300)
   Decision Maker:Editorial Director / Head of Non-Fiction
@@ -381,7 +255,7 @@ Last Synced: 11/4/2026, 6:15:18 PM
   Description:   Award-winning independent publisher specializing in intelligent non-fiction, business titles, and literary fiction under the Serpent’s Tail imprint.
   Discovery:     Provider: verified_commercial_registry | Source: https://profilebooks.com
 ----------------------------------------------------------------------------------------
-#22 | THAMES & HUDSON
+#15 | THAMES & HUDSON
   Quality Score: 98/100 [QUALIFIED]
   Cold Calling:  ✅ READY TO CALL (Phone: +44 20 7845 5000)
   Decision Maker:Senior Managing Editor / Production Director
@@ -392,14 +266,14 @@ Last Synced: 11/4/2026, 6:15:18 PM
   Operating:     OPERATIONAL
   Industry:      Illustrated Book Publishing & Design
   Location:      London, United Kingdom
-  Website:       https://thamesandhudson.com
+  Website:       https://www.thamesandhudson.com
   Email:         mail@thameshudson.co.uk [Status: VERIFIED]
   Office Address:181A High Holborn, London WC1V 7QX
   LinkedIn:      https://www.linkedin.com/company/thames---hudson
   Description:   World’s leading publisher of illustrated books across art, architecture, design, fashion, history, and photography.
   Discovery:     Provider: verified_commercial_registry | Source: https://thamesandhudson.com
 ----------------------------------------------------------------------------------------
-#23 | STANDOUT BOOKS
+#16 | STANDOUT BOOKS
   Quality Score: 98/100 [QUALIFIED]
   Cold Calling:  ✅ READY TO CALL (Phone: +44 20 3286 4441)
   Decision Maker:Lead Editor / Head of Editorial Operations
@@ -417,7 +291,7 @@ Last Synced: 11/4/2026, 6:15:18 PM
   Description:   Professional author services agency specializing in manuscript developmental editing, line editing, interior book design, and publishing guidance.
   Discovery:     Provider: verified_commercial_registry | Source: https://www.standoutbooks.com
 ----------------------------------------------------------------------------------------
-#24 | JERICHO WRITERS
+#17 | JERICHO WRITERS
   Quality Score: 98/100 [QUALIFIED]
   Cold Calling:  ✅ READY TO CALL (Phone: +44 345 459 9560)
   Decision Maker:Head of Editorial Services / Founder

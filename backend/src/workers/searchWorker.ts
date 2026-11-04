@@ -5,6 +5,7 @@ import { DataNormalizer } from '../processors/normalizer.js';
 import { DeduplicationEngine } from '../processors/deduplicator.js';
 import { LeadScoringEngine } from '../scoring/leadScorer.js';
 import { EmailVerifier } from '../verification/emailVerifier.js';
+import { DomainVerifier } from '../verification/domainVerifier.js';
 import { OpenAIService } from '../ai/openaiService.js';
 import { config } from '../config/index.js';
 import { db } from '../database/db.js';
@@ -227,13 +228,16 @@ export class SearchWorker {
         const decisionMakerRole = (item.rawMetadata?.decisionMakerRole as string) || 'Managing Director / Commercial Lead';
         const callOpenerTip = (item.rawMetadata?.callOpenerTip as string) || `Inquire about their current ${strategy.industry} services in ${item.city || strategy.country}`;
 
+        // Website verification via public DNS & GMB validation
+        const verifiedWebsite = await DomainVerifier.filterValidWebsite(item.website);
+
         const candidateLead: Partial<BusinessLeadDTO> = {
           userId,
           searchProjectId,
           companyName: item.companyName,
           industry: item.industry || strategy.industry,
           businessDescription: item.businessDescription,
-          website: item.website,
+          website: verifiedWebsite,
           email: finalEmail || undefined,
           emailStatus,
           phone: finalPhone || undefined,
@@ -250,8 +254,8 @@ export class SearchWorker {
           city: item.city || strategy.cities[0],
           country: strategy.country,
           linkedinCompanyUrl: linkedinUrl || undefined,
-          contactPageUrl: contactPageUrl || undefined,
-          sourceUrl: item.sourceUrl,
+          contactPageUrl: verifiedWebsite ? (contactPageUrl || undefined) : undefined,
+          sourceUrl: verifiedWebsite || item.sourceUrl,
           sourceProvider: item.sourceProvider,
           leadStatus: 'NEW',
           extractionStatus: 'COMPLETED',
