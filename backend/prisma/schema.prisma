@@ -1,0 +1,274 @@
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+enum Role {
+  USER
+  ADMIN
+}
+
+enum LeadStatus {
+  NEW
+  REVIEWED
+  QUALIFIED
+  CONTACTED
+  CONVERTED
+  REJECTED
+}
+
+enum EmailStatus {
+  VERIFIED
+  INVALID
+  UNVERIFIED
+  UNKNOWN
+}
+
+enum JobStatus {
+  PENDING
+  PROCESSING
+  PAUSED
+  COMPLETED
+  FAILED
+  CANCELLED
+}
+
+enum ExtractionStatus {
+  PENDING
+  PROCESSING
+  COMPLETED
+  FAILED
+  BLOCKED
+}
+
+model User {
+  id                    String                  @id @default(uuid())
+  email                 String                  @unique
+  passwordHash          String
+  name                  String
+  role                  Role                    @default(USER)
+  createdAt             DateTime                @default(now())
+  updatedAt             DateTime                @updatedAt
+
+  searchProjects        SearchProject[]
+  savedLeads            SavedLead[]
+  leadNotes             LeadNote[]
+  apiUsages             APIUsage[]
+  providerConfigs       ProviderConfiguration[]
+  auditLogs             AuditLog[]
+  businessLeads         BusinessLead[]
+
+  @@map("users")
+}
+
+model SearchProject {
+  id                    String                @id @default(uuid())
+  userId                String
+  name                  String
+  industry              String
+  country               String
+  status                String                @default("ACTIVE")
+  totalFound            Int                   @default(0)
+  createdAt             DateTime              @default(now())
+  updatedAt             DateTime              @updatedAt
+
+  user                  User                  @relation(fields: [userId], references: [id], onDelete: Cascade)
+  configuration         SearchConfiguration?
+  queries               SearchQuery[]
+  jobs                  SearchJob[]
+  leads                 BusinessLead[]
+
+  @@map("search_projects")
+}
+
+model SearchConfiguration {
+  id                    String          @id @default(uuid())
+  searchProjectId       String          @unique
+  cities                String[]        @default([])
+  quantity              Int             @default(50)
+  businessType          String?
+  requiredFields        String[]        @default([])
+  providers             String[]        @default(["tavily", "serpapi", "google_places", "bing"])
+  additionalRequirements String?
+  promptSummary         String?
+  filters               Json?
+
+  searchProject         SearchProject   @relation(fields: [searchProjectId], references: [id], onDelete: Cascade)
+
+  @@map("search_configurations")
+}
+
+model SearchQuery {
+  id                    String          @id @default(uuid())
+  searchProjectId       String
+  queryText             String
+  provider              String
+  resultsCount          Int             @default(0)
+  status                String          @default("COMPLETED")
+  createdAt             DateTime        @default(now())
+
+  searchProject         SearchProject   @relation(fields: [searchProjectId], references: [id], onDelete: Cascade)
+
+  @@map("search_queries")
+}
+
+model SearchJob {
+  id                    String          @id @default(uuid())
+  searchProjectId       String
+  type                  String          @default("DISCOVERY_AND_EXTRACTION")
+  status                JobStatus       @default(PENDING)
+  progress              Int             @default(0)
+  totalItems            Int             @default(0)
+  processedItems        Int             @default(0)
+  errors                Json?
+  startedAt             DateTime?
+  completedAt           DateTime?
+  createdAt             DateTime        @default(now())
+  updatedAt             DateTime        @updatedAt
+
+  searchProject         SearchProject   @relation(fields: [searchProjectId], references: [id], onDelete: Cascade)
+
+  @@map("search_jobs")
+}
+
+model BusinessLead {
+  id                    String          @id @default(uuid())
+  userId                String
+  searchProjectId       String?
+  companyName           String
+  industry              String?
+  businessDescription   String?
+  website               String?
+  email                 String?
+  emailStatus           EmailStatus     @default(UNKNOWN)
+  phone                 String?
+  address               String?
+  city                  String?
+  state                 String?
+  country               String?
+  linkedinCompanyUrl    String?
+  contactPageUrl        String?
+  leadScore             Float           @default(0)
+  scoreBreakdown        Json?
+  leadStatus            LeadStatus      @default(NEW)
+  sourceUrl             String?
+  sourceProvider        String?
+  extractionStatus      ExtractionStatus @default(COMPLETED)
+  collectedAt           DateTime        @default(now())
+  updatedAt             DateTime        @updatedAt
+
+  user                  User            @relation(fields: [userId], references: [id], onDelete: Cascade)
+  searchProject         SearchProject?  @relation(fields: [searchProjectId], references: [id], onDelete: SetNull)
+  sources               LeadSource[]
+  notes                 LeadNote[]
+  savedIn               SavedLead[]
+
+  @@index([userId])
+  @@index([searchProjectId])
+  @@index([companyName])
+  @@index([website])
+  @@index([email])
+  @@index([leadScore])
+  @@index([leadStatus])
+  @@map("business_leads")
+}
+
+model LeadSource {
+  id                    String          @id @default(uuid())
+  leadId                String
+  provider              String
+  sourceUrl             String
+  rawData               Json?
+  collectedAt           DateTime        @default(now())
+
+  lead                  BusinessLead    @relation(fields: [leadId], references: [id], onDelete: Cascade)
+
+  @@map("lead_sources")
+}
+
+model LeadNote {
+  id                    String          @id @default(uuid())
+  leadId                String
+  userId                String
+  note                  String
+  createdAt             DateTime        @default(now())
+  updatedAt             DateTime        @updatedAt
+
+  lead                  BusinessLead    @relation(fields: [leadId], references: [id], onDelete: Cascade)
+  user                  User            @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("lead_notes")
+}
+
+model SavedLead {
+  id                    String          @id @default(uuid())
+  userId                String
+  leadId                String
+  tags                  String[]        @default([])
+  savedAt               DateTime        @default(now())
+
+  user                  User            @relation(fields: [userId], references: [id], onDelete: Cascade)
+  lead                  BusinessLead    @relation(fields: [leadId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, leadId])
+  @@map("saved_leads")
+}
+
+model APIUsage {
+  id                    String          @id @default(uuid())
+  userId                String
+  provider              String
+  endpoint              String
+  tokensUsed            Int             @default(0)
+  estimatedCost         Float           @default(0.0)
+  status                String          @default("SUCCESS")
+  metadata              Json?
+  createdAt             DateTime        @default(now())
+
+  user                  User            @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@index([provider])
+  @@map("api_usages")
+}
+
+model ProviderConfiguration {
+  id                    String          @id @default(uuid())
+  userId                String
+  providerName          String
+  isEnabled             Boolean         @default(true)
+  apiKeyMasked          String?
+  apiKeyEncrypted       String?
+  settings              Json?
+  lastTestedAt          DateTime?
+  testStatus            String          @default("PENDING") // CONNECTED, ERROR, PENDING, AWAITING_CREDENTIALS
+  lastError             String?
+  createdAt             DateTime        @default(now())
+  updatedAt             DateTime        @updatedAt
+
+  user                  User            @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, providerName])
+  @@map("provider_configurations")
+}
+
+model AuditLog {
+  id                    String          @id @default(uuid())
+  userId                String?
+  action                String
+  entity                String
+  entityId              String?
+  details               Json?
+  ipAddress             String?
+  createdAt             DateTime        @default(now())
+
+  user                  User?           @relation(fields: [userId], references: [id], onDelete: SetNull)
+
+  @@index([userId])
+  @@index([action])
+  @@map("audit_logs")
+}

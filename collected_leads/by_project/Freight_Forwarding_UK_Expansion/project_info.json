@@ -1,0 +1,31 @@
+{
+  "id": "proj-seed-freight-uk",
+  "userId": "user-default-admin-01",
+  "name": "Freight Forwarding UK Expansion",
+  "industry": "Freight Forwarding",
+  "country": "United Kingdom",
+  "status": "COMPLETED",
+  "totalFound": 6,
+  "configuration": {
+    "cities": [
+      "London",
+      "Manchester"
+    ],
+    "quantity": 50,
+    "requiredFields": [
+      "company_name",
+      "website",
+      "business_email",
+      "business_phone",
+      "address"
+    ],
+    "providers": [
+      "tavily",
+      "serpapi",
+      "google_places",
+      "bing"
+    ]
+  },
+  "createdAt": "2026-11-02T10:16:05.964Z",
+  "updatedAt": "2026-11-04T10:16:05.964Z"
+}

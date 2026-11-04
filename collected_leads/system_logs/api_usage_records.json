@@ -1,0 +1,128 @@
+[
+  {
+    "id": "use-1",
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "chat/completions",
+    "tokensUsed": 840,
+    "estimatedCost": 0.00034,
+    "status": "SUCCESS",
+    "createdAt": "2026-11-04T10:16:05.964Z"
+  },
+  {
+    "id": "use-2",
+    "userId": "user-default-admin-01",
+    "provider": "tavily",
+    "endpoint": "search",
+    "tokensUsed": 0,
+    "estimatedCost": 0.005,
+    "status": "SUCCESS",
+    "createdAt": "2026-11-04T10:16:05.964Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "chat/completions",
+    "tokensUsed": 541,
+    "estimatedCost": 0.00021640000000000003,
+    "status": "SUCCESS",
+    "metadata": {
+      "model": "gpt-4o-mini"
+    },
+    "id": "use-1793790019199-cc388",
+    "createdAt": "2026-11-04T11:00:19.199Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "chat/completions",
+    "tokensUsed": 408,
+    "estimatedCost": 0.0001632,
+    "status": "SUCCESS",
+    "metadata": {
+      "model": "gpt-4o-mini"
+    },
+    "id": "use-1793790043723-uuvnk",
+    "createdAt": "2026-11-04T11:00:43.723Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "chat/completions",
+    "tokensUsed": 626,
+    "estimatedCost": 0.0002504,
+    "status": "SUCCESS",
+    "metadata": {
+      "model": "gpt-4o-mini"
+    },
+    "id": "use-1793790143290-zv5hs",
+    "createdAt": "2026-11-04T11:02:23.290Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "chat/completions",
+    "tokensUsed": 673,
+    "estimatedCost": 0.0002692,
+    "status": "SUCCESS",
+    "metadata": {
+      "model": "gpt-4o-mini"
+    },
+    "id": "use-1793790249059-qe73g",
+    "createdAt": "2026-11-04T11:04:09.059Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "chat/completions",
+    "tokensUsed": 679,
+    "estimatedCost": 0.00027160000000000004,
+    "status": "SUCCESS",
+    "metadata": {
+      "model": "gpt-4o-mini"
+    },
+    "id": "use-1793790263722-cxda9",
+    "createdAt": "2026-11-04T11:04:23.722Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "chat/completions",
+    "tokensUsed": 680,
+    "estimatedCost": 0.00027200000000000005,
+    "status": "SUCCESS",
+    "metadata": {
+      "model": "gpt-4o-mini"
+    },
+    "id": "use-1793792175807-vvmyv",
+    "createdAt": "2026-11-04T11:36:15.807Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "intelligence/discovery",
+    "tokensUsed": 3346,
+    "estimatedCost": 0.0013384,
+    "status": "SUCCESS",
+    "metadata": {
+      "count": 25,
+      "industry": "Education and Academic Research",
+      "country": "United Kingdom"
+    },
+    "id": "use-1793792256648-wuxxh",
+    "createdAt": "2026-11-04T11:37:36.648Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "chat/completions",
+    "tokensUsed": 663,
+    "estimatedCost": 0.0002652,
+    "status": "SUCCESS",
+    "metadata": {
+      "model": "gpt-4o-mini"
+    },
+    "id": "use-1793792515680-tvomv",
+    "createdAt": "2026-11-04T11:41:55.680Z"
+  }
+]

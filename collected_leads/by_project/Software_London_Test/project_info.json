@@ -1,0 +1,60 @@
+{
+  "id": "proj-1793787412141-bwc3y",
+  "userId": "user-default-admin-01",
+  "name": "Software London Test",
+  "industry": "Software",
+  "country": "United Kingdom",
+  "status": "COMPLETED",
+  "totalFound": 5,
+  "configuration": {
+    "industry": "Software",
+    "country": "United Kingdom",
+    "cities": [
+      "London"
+    ],
+    "quantity": 5,
+    "businessType": "Commercial B2B",
+    "requiredFields": [
+      "company_name",
+      "website",
+      "business_email",
+      "business_phone",
+      "address"
+    ],
+    "additionalRequirements": "",
+    "targetKeywords": [
+      "Software",
+      "Software companies",
+      "Software services",
+      "Software suppliers",
+      "Software corporate directory"
+    ],
+    "searchQueries": [
+      {
+        "query": "Software companies in London United Kingdom directory",
+        "provider": "tavily"
+      },
+      {
+        "query": "top Software firms United Kingdom official website",
+        "provider": "serpapi"
+      },
+      {
+        "query": "Software in London",
+        "provider": "google_places"
+      },
+      {
+        "query": "list of Software companies United Kingdom contact",
+        "provider": "bing"
+      }
+    ],
+    "suggestedProviders": [
+      "tavily",
+      "serpapi",
+      "google_places",
+      "bing"
+    ],
+    "rationale": "Targeting registered Software businesses across London. Utilizing multi-source discovery (Google Places for verified physical locations, SerpAPI and Tavily for official company domains, Bing for corporate indexes). Extractor will parse public contact records, corporate domains, and verified emails."
+  },
+  "createdAt": "2026-11-04T10:16:52.141Z",
+  "updatedAt": "2026-11-04T10:17:00.037Z"
+}

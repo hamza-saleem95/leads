@@ -1,0 +1,65 @@
+{
+  "id": "proj-1793792221123-txonh",
+  "userId": "user-default-admin-01",
+  "name": "Education and Academic Research (United Kingdom)",
+  "industry": "Education and Academic Research",
+  "country": "United Kingdom",
+  "status": "COMPLETED",
+  "totalFound": 8,
+  "configuration": {
+    "industry": "Education and Academic Research",
+    "country": "United Kingdom",
+    "cities": [
+      "London",
+      "Manchester",
+      "Birmingham",
+      "Edinburgh",
+      "Cambridge"
+    ],
+    "quantity": 50,
+    "businessType": "B2B",
+    "requiredFields": [
+      "company_name",
+      "website",
+      "business_email",
+      "business_phone",
+      "address"
+    ],
+    "additionalRequirements": "Looking for researchers and professors specifically in need of editing services.",
+    "targetKeywords": [
+      "academic researchers",
+      "university professors",
+      "medical scholars",
+      "manuscript editing",
+      "journal publication",
+      "book editing"
+    ],
+    "searchQueries": [
+      {
+        "query": "academic researchers looking for manuscript editing site:.ac.uk",
+        "provider": "tavily"
+      },
+      {
+        "query": "university professors needing journal publication assistance site:.edu",
+        "provider": "serpapi"
+      },
+      {
+        "query": "medical scholars seeking book editing services site:.ac.uk",
+        "provider": "google_places"
+      },
+      {
+        "query": "academic researchers manuscript editing assistance in the UK and USA",
+        "provider": "bing"
+      }
+    ],
+    "suggestedProviders": [
+      "tavily",
+      "serpapi",
+      "google_places",
+      "bing"
+    ],
+    "rationale": "The search strategy focuses on targeting academic professionals in the UK and USA who are likely to require editing services. By utilizing specific search strings that include institutional domains (.ac.uk and .edu), we can filter results to find verified contacts. The selected keywords align with the services offered, ensuring relevance in the search results."
+  },
+  "createdAt": "2026-11-04T11:37:01.123Z",
+  "updatedAt": "2026-11-04T11:37:46.043Z"
+}

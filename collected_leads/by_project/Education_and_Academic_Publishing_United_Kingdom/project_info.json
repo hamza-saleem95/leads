@@ -1,0 +1,65 @@
+{
+  "id": "proj-1793792517914-dp24t",
+  "userId": "user-default-admin-01",
+  "name": "Education and Academic Publishing (United Kingdom)",
+  "industry": "Education and Academic Publishing",
+  "country": "United Kingdom",
+  "status": "COMPLETED",
+  "totalFound": 8,
+  "configuration": {
+    "industry": "Education and Academic Publishing",
+    "country": "United Kingdom",
+    "cities": [
+      "London",
+      "Manchester",
+      "Birmingham",
+      "Edinburgh",
+      "Glasgow"
+    ],
+    "quantity": 50,
+    "businessType": "B2B",
+    "requiredFields": [
+      "company_name",
+      "website",
+      "business_email",
+      "business_phone",
+      "address"
+    ],
+    "additionalRequirements": "Looking for verified institutional emails.",
+    "targetKeywords": [
+      "academic researchers",
+      "university professors",
+      "medical scholars",
+      "manuscript editing",
+      "journal publication",
+      "book editing"
+    ],
+    "searchQueries": [
+      {
+        "query": "academic researchers looking for manuscript editing site:.ac.uk",
+        "provider": "tavily"
+      },
+      {
+        "query": "university professors seeking journal publication assistance site:.edu",
+        "provider": "serpapi"
+      },
+      {
+        "query": "medical scholars needing book editing services site:.ac.uk",
+        "provider": "google_places"
+      },
+      {
+        "query": "academic professionals manuscript editing assistance UK USA",
+        "provider": "bing"
+      }
+    ],
+    "suggestedProviders": [
+      "tavily",
+      "serpapi",
+      "google_places",
+      "bing"
+    ],
+    "rationale": "The search strategy focuses on targeting academic professionals in the UK and USA who may require editing services. By using specific search queries that include institutional domains (.ac.uk and .edu), we aim to find individuals with verified institutional emails, ensuring the leads are relevant and credible."
+  },
+  "createdAt": "2026-11-04T11:41:57.914Z",
+  "updatedAt": "2026-11-04T11:42:37.174Z"
+}

@@ -1,0 +1,90 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: ai_lead_finder_db
+    restart: always
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-ai_lead_finder}
+      POSTGRES_USER: ${POSTGRES_USER:-postgres}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-postgres_secure_pass_2026}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-postgres}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis:7-alpine
+    container_name: ai_lead_finder_redis
+    restart: always
+    command: redis-server --appendonly yes
+    volumes:
+      - redis_data:/data
+    ports:
+      - "6379:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: ../docker/Dockerfile.backend
+    container_name: ai_lead_finder_backend
+    restart: always
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    environment:
+      PORT: 5000
+      NODE_ENV: production
+      DATABASE_URL: postgresql://${POSTGRES_USER:-postgres}:${POSTGRES_PASSWORD:-postgres_secure_pass_2026}@postgres:5432/${POSTGRES_DB:-ai_lead_finder}?schema=public
+      REDIS_URL: redis://redis:6379
+      JWT_SECRET: ${JWT_SECRET:-super-jwt-secret-replace-in-production}
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+      OPENAI_MODEL: ${OPENAI_MODEL:-gpt-4o-mini}
+      TAVILY_API_KEY: ${TAVILY_API_KEY}
+      SERPAPI_API_KEY: ${SERPAPI_API_KEY}
+      BING_API_KEY: ${BING_API_KEY}
+      GOOGLE_PLACES_API_KEY: ${GOOGLE_PLACES_API_KEY}
+      EMAIL_VERIFIER_API_KEY: ${EMAIL_VERIFIER_API_KEY}
+    volumes:
+      - backend_data:/app/data
+    ports:
+      - "5000:5000"
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: ../docker/Dockerfile.frontend
+    container_name: ai_lead_finder_frontend
+    restart: always
+    ports:
+      - "3000:80"
+
+  nginx:
+    image: nginx:alpine
+    container_name: ai_lead_finder_proxy
+    restart: always
+    depends_on:
+      - backend
+      - frontend
+    ports:
+      - "80:80"
+    volumes:
+      - ./docker/nginx.conf:/etc/nginx/nginx.conf:ro
+
+volumes:
+  postgres_data:
+  redis_data:
+  backend_data:
