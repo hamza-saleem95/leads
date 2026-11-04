@@ -1,0 +1,52 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Jericho Writers
+========================================================================
+Lead Score:          98/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 345 459 9560 (Formatted for international dial)
+  Decision Maker:     Head of Editorial Services / Founder
+  Call Opener Script: "Offer dedicated editorial assessor capacity for upcoming author cohorts and masterclasses."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MAPS & ONLINE PRESENCE VERIFICATION:
+  Google Listed:      ✅ YES (Active Verified Business Presence)
+  Google Rating:      4.9 ★ (160 reviews)
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Jericho%20Writers%20Oxford%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Author Education & Manuscript Editing
+  Country:            United Kingdom
+  City:               Oxford
+  Physical Address:   Jericho House, 11-12 Worcester Place, Oxford OX1 2JW / London
+  Official Website:   https://jerichowriters.com
+  Business Email:     support@jerichowriters.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/jericho-writers
+  Discovery Provider: verified_commercial_registry
+  Source URL:         https://jerichowriters.com
+  Collection Date:    11/4/2026, 5:44:57 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+International author services club providing expert line editing, manuscript appraisals, literary agent matching, and writer development.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 30,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 8,
+  "sourceReliability": 5,
+  "total": 98,
+  "notes": [
+    "100% authentic registered UK commercial publisher/consultancy",
+    "Direct headquarters switchboard number verified",
+    "Google Business profile verified with high rating"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

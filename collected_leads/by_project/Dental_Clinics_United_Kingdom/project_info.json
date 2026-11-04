@@ -4,8 +4,8 @@
   "name": "Dental Clinics (United Kingdom)",
   "industry": "Dental Clinics",
   "country": "United Kingdom",
-  "status": "ACTIVE",
-  "totalFound": 0,
+  "status": "COMPLETED",
+  "totalFound": 8,
   "configuration": {
     "industry": "Dental Clinics",
     "country": "United Kingdom",
@@ -54,5 +54,5 @@
     "rationale": "The search strategy focuses on identifying dental clinics in London through multiple providers to ensure comprehensive coverage of available data. The queries are tailored to extract contact details and CEO names, which are essential for B2B outreach."
   },
   "createdAt": "2026-11-04T12:39:25.818Z",
-  "updatedAt": "2026-11-04T12:39:25.818Z"
+  "updatedAt": "2026-11-04T12:40:04.363Z"
 }

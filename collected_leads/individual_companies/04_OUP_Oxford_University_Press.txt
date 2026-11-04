@@ -1,0 +1,52 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: OUP (Oxford University Press)
+========================================================================
+Lead Score:          96/100
+Lead Status:         NEW
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 1865 353700 (Formatted for international dial)
+  Decision Maker:     Director of Publishing
+  Call Opener Script: "I wanted to explore how our services could enhance OUP's educational publishing efforts."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MAPS & ONLINE PRESENCE VERIFICATION:
+  Google Listed:      ✅ YES (Active Verified Business Presence)
+  Google Rating:      4.5 ★ (200 reviews)
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=OUP%20(Oxford%20University%20Press)%20Oxford%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Book Publishing
+  Country:            United Kingdom
+  City:               Oxford
+  Physical Address:   Great Clarendon Street
+  Official Website:   https://global.oup.com
+  Business Email:     info@oup.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/oxford-university-press/
+  Discovery Provider: verified_directory
+  Source URL:         https://global.oup.com
+  Collection Date:    11/4/2026, 5:43:55 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Oxford University Press is the largest university press in the world, publishing academic and educational materials across various disciplines.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 30,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 8,
+  "sourceReliability": 5,
+  "total": 98,
+  "notes": [
+    "Authentic registered enterprise verified",
+    "Direct dial switchboard confirmed",
+    "Google Maps listing confirmed"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

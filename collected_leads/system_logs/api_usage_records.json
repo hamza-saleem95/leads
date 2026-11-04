@@ -137,5 +137,20 @@
     },
     "id": "use-1793795956647-rtiq1",
     "createdAt": "2026-11-04T12:39:16.647Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "intelligence/discovery",
+    "tokensUsed": 2911,
+    "estimatedCost": 0.0011644000000000001,
+    "status": "SUCCESS",
+    "metadata": {
+      "count": 10,
+      "industry": "Book Publishing, Editing & Literary Services",
+      "country": "United Kingdom"
+    },
+    "id": "use-1793796235336-vj0dg",
+    "createdAt": "2026-11-04T12:43:55.336Z"
   }
 ]
