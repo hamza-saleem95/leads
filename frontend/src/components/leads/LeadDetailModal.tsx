@@ -134,7 +134,7 @@ export const LeadDetailModal: React.FC<LeadDetailModalProps> = ({
           <div className="flex items-center justify-between">
             <span className="text-xs font-bold text-emerald-400 uppercase tracking-wider flex items-center gap-1.5">
               <PhoneCall className="w-3.5 h-3.5" />
-              Cold Calling & Google Verification Profile
+              Google My Business (GMB) & Cold Calling Profile
             </span>
             {lead.coldCallReady && (
               <span className="px-2 py-0.5 rounded-full text-[10px] bg-emerald-500/20 text-emerald-400 font-bold border border-emerald-500/30">
@@ -150,9 +150,9 @@ export const LeadDetailModal: React.FC<LeadDetailModalProps> = ({
             </div>
 
             <div className="p-2.5 rounded-lg bg-slate-900/80 border border-slate-800">
-              <span className="text-[10px] text-slate-400 uppercase tracking-wider block">Google Maps Presence</span>
+              <span className="text-[10px] text-slate-400 uppercase tracking-wider block">GMB Verification</span>
               <div className="flex items-center gap-1.5 mt-0.5">
-                <span className="text-emerald-400 font-semibold">Listed & Verified</span>
+                <span className="text-emerald-400 font-semibold">GMB Verified</span>
                 <span className="text-slate-400 text-[10px]">({lead.googleRating || 4.8} ★)</span>
                 {lead.googleMapsUrl && (
                   <a

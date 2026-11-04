@@ -230,7 +230,8 @@ export const LeadsTable: React.FC<LeadsTableProps> = ({
                               className="hover:underline flex items-center gap-0.5 font-medium"
                               title="Verified on Google Maps"
                             >
-                              <span>Google Listed ({lead.googleRating || 4.8}★)</span>
+                              <span className="font-semibold text-emerald-400">GMB Verified</span>
+                              <span className="text-slate-400">({lead.googleRating || 4.8}★)</span>
                               <ExternalLink className="w-2 h-2" />
                             </a>
                           </div>

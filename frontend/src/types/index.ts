@@ -45,6 +45,8 @@ export interface BusinessLead {
   phone?: string | null;
   phoneStatus?: 'VERIFIED' | 'VALID_FORMAT' | 'UNVERIFIED' | 'INVALID';
   isGoogleListed?: boolean;
+  gmbVerified?: boolean;
+  gmbCategory?: string | null;
   googleMapsUrl?: string | null;
   googleRating?: number | null;
   googleReviewCount?: number | null;

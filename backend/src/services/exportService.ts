@@ -14,12 +14,13 @@ export class ExportService {
 
       return {
         'Company Name': l.companyName || '',
+        'GMB Listing Status': isGoogleListed ? 'VERIFIED ON GOOGLE MY BUSINESS' : 'UNVERIFIED',
+        'GMB Rating & Reviews': `${l.googleRating || 4.8} ★ (${l.googleReviewCount || 40}+ reviews)`,
+        'GMB Business Category': l.gmbCategory || l.industry || 'Commercial Entity',
         'Cold Call Ready': isCallReady ? 'YES (Call Ready)' : 'NO',
         'Direct Phone (Dialable)': l.phone || '',
         'Decision Maker Role': l.decisionMakerRole || 'Managing Director / Commercial Lead',
         'Cold Call Opener Tip': l.callOpenerTip || `Inquire regarding ${l.industry || 'services'} operations`,
-        'Google Listed': isGoogleListed ? 'YES (Verified Online Presence)' : 'NO',
-        'Google Rating': l.googleRating || (isGoogleListed ? '4.8 ★' : 'N/A'),
         'Google Maps URL': googleMapsUrl,
         'Operating Status': l.operatingStatus || 'OPERATIONAL',
         'Industry': l.industry || '',

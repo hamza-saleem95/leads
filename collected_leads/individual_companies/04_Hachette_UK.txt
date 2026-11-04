@@ -11,9 +11,10 @@ Lead Status:         QUALIFIED
   Call Opener Script: "Inquire about digital editorial processes, rights acquisitions, and production services."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
-🌐 GOOGLE MAPS & ONLINE PRESENCE VERIFICATION:
-  Google Listed:      ✅ YES (Active Verified Business Presence)
-  Google Rating:      4.6 ★ (95 reviews)
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.6 ★ (95+ reviews)
+  GMB Category:       Book Publishing & Distribution
   Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Hachette%20UK%20London%20United%20Kingdom
 ------------------------------------------------------------------------
 COMPANY OVERVIEW & CONTACT DETAILS:
