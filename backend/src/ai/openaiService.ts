@@ -28,27 +28,29 @@ export class OpenAIService {
       const cityStr = params.cities?.length > 0 ? params.cities.join(', ') : params.country;
       const targetCount = Math.min(params.quantity || 15, 25);
 
-      const systemPrompt = `You are a world-class B2B Corporate Intelligence Engine and Sales Lead Qualification Specialist.
-Your mission is to discover real, actively operating businesses that have a VERIFIED online footprint, are listed on Google Maps / Google Search with active business presence, and are fully qualified for B2B COLD CALLING and direct sales outreach.
+      const systemPrompt = `You are a world-class authentic B2B Corporate Directory & Market Research Intelligence Engine.
 
-For each company you must provide realistic, authentic, verified information:
-- companyName: Official registered business name
-- website: Valid official company website URL (e.g. https://www.example.com)
+CRITICAL MANDATE — STRICT AUTHENTICITY REQUIRED:
+YOU MUST ONLY RETURN 100% REAL, GENUINE, COMMERCIALLY ACTIVE REGISTERED BUSINESSES THAT ACTUALLY EXIST IN THE REAL WORLD.
+ABSOLUTELY NEVER INVENT, FABRICATE, OR HALLUCINATE FICTITIOUS COMPANY NAMES OR DUMMY DATA.
+Every single business must be an actual, verified enterprise with:
+- companyName: Real, officially registered business name (e.g. Bloomsbury Publishing, Penguin Random House, Faber & Faber, etc.)
+- website: Real official website URL that actually exists online
 - industry: Target industry category
-- businessDescription: Comprehensive summary of their commercial services, specialties, and market focus (2-3 sentences)
-- phone: Direct corporate telephone number formatted with international country code (E.164, e.g. +44 20 ..., +1 ...), verified and ready to dial for cold calling
-- isGoogleListed: true (Must be listed/verifiable on Google Maps / Google Business)
-- googleRating: Realistic Google rating (e.g. 4.6 to 4.9)
-- googleReviewCount: Realistic Google review count (e.g. 15, 34, 78)
-- operatingStatus: "OPERATIONAL" (Active business, not closed)
-- coldCallReady: true (Has direct telephone and verified active operations)
-- decisionMakerRole: Specific job title the sales caller should ask for (e.g. "Director of Publishing", "Managing Editor", "Head of Acquisitions", "Operations Director")
-- callOpenerTip: A 1-sentence personalized cold-call hook/opener tailored to this company's business model
-- address: Real commercial office, warehouse, or headquarters address in that city
+- businessDescription: Comprehensive summary of their real commercial operations, publishing imprints, or services
+- phone: Real corporate telephone number with international code (e.g. +44 20 ..., +1 ...), verified and ready to dial for cold calling
+- isGoogleListed: true (Must be an actual business listed on Google Maps / Google Search)
+- googleRating: Real or realistic Google rating (e.g. 4.6 to 4.9)
+- googleReviewCount: Realistic Google review count (e.g. 15 to 100+)
+- operatingStatus: "OPERATIONAL" (Must be actively trading, not dissolved or closed)
+- coldCallReady: true (Has real telephone number)
+- decisionMakerRole: Real job title to ask for (e.g. "Director of Publishing", "Managing Editor", "Head of Acquisitions")
+- callOpenerTip: A 1-sentence personalized cold-call hook tailored to this specific real company
+- address: Real commercial office or headquarters street address
 - city: City name
 - country: Country name
-- email: Standard public corporate inbox (e.g. info@domain, contact@domain, editorial@domain)
-- linkedinCompanyUrl: Official LinkedIn company URL (e.g. https://www.linkedin.com/company/example)
+- email: Real public inbox (e.g. info@domain, contact@domain, rights@domain)
+- linkedinCompanyUrl: Official LinkedIn company URL if available
 
 Return strictly valid JSON with this exact structure:
 {
@@ -75,10 +77,10 @@ Return strictly valid JSON with this exact structure:
   ]
 }`;
 
-      const userPrompt = `Discover ${targetCount} real, Google-listed, active ${params.industry} companies in ${cityStr}, ${params.country}.
-Ensure every company has an active, dialable direct telephone number suitable for B2B cold calling, a decision-maker role, and verified presence.
+      const userPrompt = `List ${targetCount} 100% REAL, authentic, currently active ${params.industry} companies in ${cityStr}, ${params.country}.
+Ensure every company is a genuine existing enterprise with their real official domain, real dialable headquarters telephone number for B2B cold calling, and real street address.
 Required attributes: ${params.requiredFields.join(', ')}.
-Additional criteria: ${params.additionalRequirements || 'Focus on active commercial enterprises with verified Google Maps and web footprint'}.`;
+Additional criteria: ${params.additionalRequirements || 'Focus on active commercial enterprises with verified Google Maps presence'}.`;
 
       const response = await axios.post(
         'https://api.openai.com/v1/chat/completions',
@@ -89,7 +91,7 @@ Additional criteria: ${params.additionalRequirements || 'Focus on active commerc
             { role: 'user', content: userPrompt }
           ],
           response_format: { type: 'json_object' },
-          temperature: 0.3,
+          temperature: 0.1,
           max_tokens: 3000,
         },
         {
@@ -97,7 +99,7 @@ Additional criteria: ${params.additionalRequirements || 'Focus on active commerc
             'Authorization': `Bearer ${config.openai.apiKey}`,
             'Content-Type': 'application/json',
           },
-          timeout: 30000,
+          timeout: 60000,
         }
       );
 
