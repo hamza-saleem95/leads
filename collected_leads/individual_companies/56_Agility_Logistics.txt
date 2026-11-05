@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Agility Logistics
 Lead Score:          97/100
 Lead Status:         NEW
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Colin Wright
   Executive Title:    Senior Vice President & MD UK
   CEO LinkedIn URL:   https://www.linkedin.com/in/colin-wright-agility/
   Direct CEO Phone:   +44 20 8897 1000
   Direct CEO Email:   cwright@agility.com
+  Technical Head/CTO: Henadi Al-Saleh
+  Technical Title:    Chairperson & Technology Strategy Lead
+  Tech LinkedIn URL:  https://www.linkedin.com/in/henadi-al-saleh/
+  Direct Tech Phone:  +44 20 8897 1010
+  Direct Tech Email:  henadi@agility.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 8897 1000 (Formatted for international dial)
-  Decision Maker:     Colin Wright (Senior Vice President & MD UK)
-  Call Opener Script: "Ask directly for Colin Wright (Senior Vice President & MD UK) regarding UK operations & logistics collaboration."
+  Decision Maker:     Colin Wright (Senior Vice President & MD UK) | Tech: Henadi Al-Saleh (Chairperson & Technology Strategy Lead)
+  Call Opener Script: "Call Direct: +44 20 8897 1000 (Ask for Colin Wright) or Tech Direct: +44 20 8897 1010 (Ask for Henadi Al-Saleh - Chairperson & Technology Strategy Lead) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
     "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

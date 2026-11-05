@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Whistl UK Ltd
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Ian Keilty
   Executive Title:    Chief Executive Officer (CEO)
   CEO LinkedIn URL:   https://www.linkedin.com/in/ian-keilty/
   Direct CEO Phone:   +44 1628 702702
   Direct CEO Email:   ian.keilty@whistl.co.uk
+  Technical Head/CTO: Jason Powell
+  Technical Title:    IT Director (Head of Technology)
+  Tech LinkedIn URL:  https://www.linkedin.com/in/jason-powell-whistl/
+  Direct Tech Phone:  +44 1628 702700
+  Direct Tech Email:  jason.powell@whistl.co.uk
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 1628 702702 (Formatted for international dial)
-  Decision Maker:     Ian Keilty (Chief Executive Officer (CEO))
-  Call Opener Script: "Ask directly for Ian Keilty (Chief Executive Officer (CEO)) regarding UK operations & logistics collaboration."
+  Decision Maker:     Ian Keilty (Chief Executive Officer (CEO)) | Tech: Jason Powell (IT Director (Head of Technology))
+  Call Opener Script: "Call Direct: +44 1628 702702 (Ask for Ian Keilty) or Tech Direct: +44 1628 702700 (Ask for Jason Powell - IT Director (Head of Technology)) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

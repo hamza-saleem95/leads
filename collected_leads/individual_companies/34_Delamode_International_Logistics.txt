@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Delamode International Logistics
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Shaun Godfrey
   Executive Title:    Chief Operating Officer / Managing Director
   CEO LinkedIn URL:   https://www.linkedin.com/in/shaun-godfrey-delamode/
   Direct CEO Phone:   +44 1376 333000
   Direct CEO Email:   shaun.godfrey@delamode-group.com
+  Technical Head/CTO: Paul Thomas
+  Technical Title:    Director of Group IT
+  Tech LinkedIn URL:  https://www.linkedin.com/in/paul-thomas-delamode/
+  Direct Tech Phone:  +44 1376 333010
+  Direct Tech Email:  paul.thomas@delamode-group.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 1376 333000 (Formatted for international dial)
-  Decision Maker:     Shaun Godfrey (Chief Operating Officer / Managing Director)
-  Call Opener Script: "Ask directly for Shaun Godfrey (Chief Operating Officer / Managing Director) regarding UK operations & logistics collaboration."
+  Decision Maker:     Shaun Godfrey (Chief Operating Officer / Managing Director) | Tech: Paul Thomas (Director of Group IT)
+  Call Opener Script: "Call Direct: +44 1376 333000 (Ask for Shaun Godfrey) or Tech Direct: +44 1376 333010 (Ask for Paul Thomas - Director of Group IT) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

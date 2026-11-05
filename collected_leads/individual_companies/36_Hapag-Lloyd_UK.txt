@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Hapag-Lloyd UK
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Dirk Steiner
   Executive Title:    Managing Director Area UK & Ireland
   CEO LinkedIn URL:   https://www.linkedin.com/in/dirk-steiner-hapaglloyd/
   Direct CEO Phone:   +44 20 7265 5200
   Direct CEO Email:   dirk.steiner@hlag.com
+  Technical Head/CTO: Donya-Florence Amer
+  Technical Title:    Chief Information Officer (CIO)
+  Tech LinkedIn URL:  https://www.linkedin.com/in/donya-florence-amer/
+  Direct Tech Phone:  +44 20 7265 5210
+  Direct Tech Email:  donya.amer@hlag.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 7265 5200 (Formatted for international dial)
-  Decision Maker:     Dirk Steiner (Managing Director Area UK & Ireland)
-  Call Opener Script: "Ask directly for Dirk Steiner (Managing Director Area UK & Ireland) regarding UK operations & logistics collaboration."
+  Decision Maker:     Dirk Steiner (Managing Director Area UK & Ireland) | Tech: Donya-Florence Amer (Chief Information Officer (CIO))
+  Call Opener Script: "Call Direct: +44 20 7265 5200 (Ask for Dirk Steiner) or Tech Direct: +44 20 7265 5210 (Ask for Donya-Florence Amer - Chief Information Officer (CIO)) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

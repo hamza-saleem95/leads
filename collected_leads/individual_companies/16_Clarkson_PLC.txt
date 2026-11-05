@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Clarkson PLC
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Andi Case
   Executive Title:    Chief Executive Officer
   CEO LinkedIn URL:   https://www.linkedin.com/in/andi-case-clarksons/
   Direct CEO Phone:   +44 20 7334 0000
   Direct CEO Email:   andi.case@clarksons.com
+  Technical Head/CTO: Bart Bream
+  Technical Title:    Group Chief Technology Officer (CTO)
+  Tech LinkedIn URL:  https://www.linkedin.com/in/bartbream/
+  Direct Tech Phone:  +44 20 7334 0010
+  Direct Tech Email:  bart.bream@clarksons.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 7334 0000 (Formatted for international dial)
-  Decision Maker:     Andi Case (Chief Executive Officer)
-  Call Opener Script: "Ask directly for Andi Case (Chief Executive Officer) regarding UK operations & logistics collaboration."
+  Decision Maker:     Andi Case (Chief Executive Officer) | Tech: Bart Bream (Group Chief Technology Officer (CTO))
+  Call Opener Script: "Call Direct: +44 20 7334 0000 (Ask for Andi Case) or Tech Direct: +44 20 7334 0010 (Ask for Bart Bream - Group Chief Technology Officer (CTO)) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

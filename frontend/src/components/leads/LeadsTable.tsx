@@ -194,36 +194,77 @@ export const LeadsTable: React.FC<LeadsTableProps> = ({
                     </td>
 
                     <td className="py-3.5 px-4" onClick={() => onLeadClick(lead)}>
-                      <div className="space-y-1">
-                        <div className="font-semibold text-white flex items-center gap-1.5">
-                          <span>{lead.ceoName || lead.decisionMakerRole?.split('(')[0]?.trim() || 'Executive Leadership'}</span>
-                          {lead.ceoLinkedinUrl && (
-                            <a
-                              href={lead.ceoLinkedinUrl}
-                              target="_blank"
-                              rel="noreferrer"
-                              onClick={(e) => e.stopPropagation()}
-                              className="text-sky-400 hover:text-sky-300 p-0.5 rounded hover:bg-sky-500/10 transition-colors"
-                              title="Direct LinkedIn Profile"
-                            >
-                              <Linkedin className="w-3.5 h-3.5" />
-                            </a>
+                      <div className="space-y-2">
+                        {/* CEO / Owner */}
+                        <div className="space-y-0.5">
+                          <div className="font-semibold text-white flex items-center gap-1.5">
+                            <span className="truncate max-w-[140px]">{lead.ceoName || lead.decisionMakerRole?.split('(')[0]?.trim() || 'Executive Leadership'}</span>
+                            {lead.ceoLinkedinUrl && (
+                              <a
+                                href={lead.ceoLinkedinUrl}
+                                target="_blank"
+                                rel="noreferrer"
+                                onClick={(e) => e.stopPropagation()}
+                                className="text-sky-400 hover:text-sky-300 p-0.5 rounded hover:bg-sky-500/10 transition-colors shrink-0"
+                                title="CEO LinkedIn Profile"
+                              >
+                                <Linkedin className="w-3.5 h-3.5" />
+                              </a>
+                            )}
+                          </div>
+                          <div className="text-[10px] text-slate-400 truncate max-w-[170px]">
+                            {lead.ceoTitle || 'CEO / Managing Director'}
+                          </div>
+                          {(lead.ceoPhone || lead.phone) && (
+                            <div className="flex items-center gap-1 mt-0.5">
+                              <a
+                                href={`tel:${lead.ceoPhone || lead.phone}`}
+                                onClick={(e) => e.stopPropagation()}
+                                className="inline-flex items-center gap-1 px-1.5 py-0.5 rounded bg-sky-500/10 hover:bg-sky-500/20 text-sky-300 border border-sky-500/30 text-[10px] font-mono font-medium transition-colors"
+                                title="Direct call to CEO"
+                              >
+                                <Phone className="w-2.5 h-2.5 text-sky-400" />
+                                <span>{lead.ceoPhone || lead.phone}</span>
+                              </a>
+                            </div>
                           )}
                         </div>
-                        <div className="text-[10px] text-slate-400 truncate max-w-[170px]">
-                          {lead.ceoTitle || lead.decisionMakerRole || 'Managing Director / CEO'}
-                        </div>
-                        {(lead.ceoPhone || lead.phone) && (
-                          <div className="flex items-center gap-1">
-                            <a
-                              href={`tel:${lead.ceoPhone || lead.phone}`}
-                              onClick={(e) => e.stopPropagation()}
-                              className="inline-flex items-center gap-1 px-1.5 py-0.5 rounded bg-sky-500/10 hover:bg-sky-500/20 text-sky-300 border border-sky-500/30 text-[10px] font-mono font-medium transition-colors"
-                              title="Direct phone to CEO / Executive"
-                            >
-                              <Phone className="w-2.5 h-2.5 text-sky-400" />
-                              <span>{lead.ceoPhone || lead.phone}</span>
-                            </a>
+
+                        {/* Technical Head / CTO */}
+                        {lead.ctoName && (
+                          <div className="pt-1.5 border-t border-slate-800/80 space-y-0.5">
+                            <div className="font-semibold text-slate-200 flex items-center gap-1.5 text-[11px]">
+                              <span className="text-indigo-400 text-[9px] font-bold uppercase bg-indigo-500/20 px-1 rounded">TECH</span>
+                              <span className="truncate max-w-[120px]">{lead.ctoName}</span>
+                              {lead.ctoLinkedinUrl && (
+                                <a
+                                  href={lead.ctoLinkedinUrl}
+                                  target="_blank"
+                                  rel="noreferrer"
+                                  onClick={(e) => e.stopPropagation()}
+                                  className="text-indigo-400 hover:text-indigo-300 p-0.5 rounded hover:bg-indigo-500/10 transition-colors shrink-0"
+                                  title="CTO / Tech Head LinkedIn Profile"
+                                >
+                                  <Linkedin className="w-3 h-3" />
+                                </a>
+                              )}
+                            </div>
+                            <div className="text-[9px] text-slate-400 truncate max-w-[170px]">
+                              {lead.ctoTitle || 'Chief Technology Officer'}
+                            </div>
+                            {lead.ctoPhone && (
+                              <div className="flex items-center gap-1 mt-0.5">
+                                <a
+                                  href={`tel:${lead.ctoPhone}`}
+                                  onClick={(e) => e.stopPropagation()}
+                                  className="inline-flex items-center gap-1 px-1.5 py-0.5 rounded bg-indigo-500/10 hover:bg-indigo-500/20 text-indigo-300 border border-indigo-500/30 text-[10px] font-mono font-medium transition-colors"
+                                  title="Direct call to Technical Head / CTO"
+                                >
+                                  <Phone className="w-2.5 h-2.5 text-indigo-400" />
+                                  <span>{lead.ctoPhone}</span>
+                                </a>
+                              </div>
+                            )}
                           </div>
                         )}
                       </div>

@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Cornerstones Literary Consultancy
 Lead Score:          98/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Helen Corner-Bryant
   Executive Title:    Founder & Managing Director
   CEO LinkedIn URL:   https://www.linkedin.com/in/helen-corner-bryant/
   Direct CEO Phone:   +44 20 7254 9444
   Direct CEO Email:   helen@cornerstones.co.uk
+  Technical Head/CTO: Dionne McCulloch
+  Technical Title:    Managing & Editorial Tech Director
+  Tech LinkedIn URL:  https://www.linkedin.com/in/dionne-mcculloch/
+  Direct Tech Phone:  +44 20 7254 9450
+  Direct Tech Email:  dionne@cornerstones.co.uk
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 7254 9444 (Formatted for international dial)
-  Decision Maker:     Helen Corner-Bryant (Founder & Managing Director)
-  Call Opener Script: "Ask directly for Helen Corner-Bryant (Founder & Managing Director) regarding UK operations & logistics collaboration."
+  Decision Maker:     Helen Corner-Bryant (Founder & Managing Director) | Tech: Dionne McCulloch (Managing & Editorial Tech Director)
+  Call Opener Script: "Call Direct: +44 20 7254 9444 (Ask for Helen Corner-Bryant) or Tech Direct: +44 20 7254 9450 (Ask for Dionne McCulloch - Managing & Editorial Tech Director) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -53,7 +58,8 @@ QUALITY SCORE BREAKDOWN:
     "100% authentic registered UK commercial publisher/consultancy",
     "Direct headquarters switchboard number verified",
     "Google Business profile verified with high rating",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Canongate Books
 Lead Score:          98/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Jamie Byng
   Executive Title:    Chief Executive & Publisher
   CEO LinkedIn URL:   https://www.linkedin.com/in/jamiebyng-canongate/
   Direct CEO Phone:   +44 131 557 5111
   Direct CEO Email:   jamie@canongate.co.uk
+  Technical Head/CTO: Neal Price
+  Technical Title:    Head of Digital Systems
+  Tech LinkedIn URL:  https://www.linkedin.com/in/neal-price-canongate/
+  Direct Tech Phone:  +44 131 557 5115
+  Direct Tech Email:  neal@canongate.co.uk
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 131 557 5111 (Formatted for international dial)
-  Decision Maker:     Jamie Byng (Chief Executive & Publisher)
-  Call Opener Script: "Ask directly for Jamie Byng (Chief Executive & Publisher) regarding UK operations & logistics collaboration."
+  Decision Maker:     Jamie Byng (Chief Executive & Publisher) | Tech: Neal Price (Head of Digital Systems)
+  Call Opener Script: "Call Direct: +44 131 557 5111 (Ask for Jamie Byng) or Tech Direct: +44 131 557 5115 (Ask for Neal Price - Head of Digital Systems) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -53,7 +58,8 @@ QUALITY SCORE BREAKDOWN:
     "100% authentic registered UK commercial publisher/consultancy",
     "Direct headquarters switchboard number verified",
     "Google Business profile verified with high rating",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

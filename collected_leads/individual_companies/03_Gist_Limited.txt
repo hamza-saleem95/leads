@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Gist Limited
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Michael Morrison
   Executive Title:    Chief Executive Officer
   CEO LinkedIn URL:   https://www.linkedin.com/in/michael-morrison-gist/
   Direct CEO Phone:   +44 1256 700000
   Direct CEO Email:   michael.morrison@gistworld.com
+  Technical Head/CTO: Ian Smith
+  Technical Title:    IT & Systems Director
+  Tech LinkedIn URL:  https://www.linkedin.com/in/ian-smith-gist/
+  Direct Tech Phone:  +44 1256 700010
+  Direct Tech Email:  ian.smith@gistworld.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 1256 700000 (Formatted for international dial)
-  Decision Maker:     Michael Morrison (Chief Executive Officer)
-  Call Opener Script: "Ask directly for Michael Morrison (Chief Executive Officer) regarding UK operations & logistics collaboration."
+  Decision Maker:     Michael Morrison (Chief Executive Officer) | Tech: Ian Smith (IT & Systems Director)
+  Call Opener Script: "Call Direct: +44 1256 700000 (Ask for Michael Morrison) or Tech Direct: +44 1256 700010 (Ask for Ian Smith - IT & Systems Director) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

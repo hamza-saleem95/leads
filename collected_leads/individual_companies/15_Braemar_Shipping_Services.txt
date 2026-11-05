@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Braemar Shipping Services
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   James Gundy
   Executive Title:    Group Chief Executive Officer
   CEO LinkedIn URL:   https://www.linkedin.com/in/james-gundy-braemar/
   Direct CEO Phone:   +44 20 3142 4100
   Direct CEO Email:   james.gundy@braemar.com
+  Technical Head/CTO: Miz Rahman
+  Technical Title:    Chief Technology Officer (CTO)
+  Tech LinkedIn URL:  https://www.linkedin.com/in/miz-rahman/
+  Direct Tech Phone:  +44 20 3142 4120
+  Direct Tech Email:  miz.rahman@braemar.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 3142 4100 (Formatted for international dial)
-  Decision Maker:     James Gundy (Group Chief Executive Officer)
-  Call Opener Script: "Ask directly for James Gundy (Group Chief Executive Officer) regarding UK operations & logistics collaboration."
+  Decision Maker:     James Gundy (Group Chief Executive Officer) | Tech: Miz Rahman (Chief Technology Officer (CTO))
+  Call Opener Script: "Call Direct: +44 20 3142 4100 (Ask for James Gundy) or Tech Direct: +44 20 3142 4120 (Ask for Miz Rahman - Chief Technology Officer (CTO)) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

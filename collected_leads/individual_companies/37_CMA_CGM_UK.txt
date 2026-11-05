@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: CMA CGM UK
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   John Trenchard
   Executive Title:    Managing Director UK
   CEO LinkedIn URL:   https://www.linkedin.com/in/john-trenchard-cmacgm/
   Direct CEO Phone:   +44 20 7265 5000
   Direct CEO Email:   lon.jtrenchard@cma-cgm.com
+  Technical Head/CTO: Nicolas Sekkaki
+  Technical Title:    Executive VP IT, Digital & Central Services
+  Tech LinkedIn URL:  https://www.linkedin.com/in/nicolas-sekkaki/
+  Direct Tech Phone:  +44 20 7265 5010
+  Direct Tech Email:  n.sekkaki@cma-cgm.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 7265 5000 (Formatted for international dial)
-  Decision Maker:     John Trenchard (Managing Director UK)
-  Call Opener Script: "Ask directly for John Trenchard (Managing Director UK) regarding UK operations & logistics collaboration."
+  Decision Maker:     John Trenchard (Managing Director UK) | Tech: Nicolas Sekkaki (Executive VP IT, Digital & Central Services)
+  Call Opener Script: "Call Direct: +44 20 7265 5000 (Ask for John Trenchard) or Tech Direct: +44 20 7265 5010 (Ask for Nicolas Sekkaki - Executive VP IT, Digital & Central Services) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

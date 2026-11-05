@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: BDP International UK
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Neil Crighton
   Executive Title:    Managing Director UK & Ireland
   CEO LinkedIn URL:   https://www.linkedin.com/in/neilcrighton/
   Direct CEO Phone:   +44 20 7488 4000
   Direct CEO Email:   neil.crighton@bdpint.com
+  Technical Head/CTO: Andy Brousseau
+  Technical Title:    Chief Information Officer (CIO)
+  Tech LinkedIn URL:  https://www.linkedin.com/in/andy-brousseau/
+  Direct Tech Phone:  +44 20 7488 4010
+  Direct Tech Email:  andy.brousseau@bdpint.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 7488 4000 (Formatted for international dial)
-  Decision Maker:     Neil Crighton (Managing Director UK & Ireland)
-  Call Opener Script: "Ask directly for Neil Crighton (Managing Director UK & Ireland) regarding UK operations & logistics collaboration."
+  Decision Maker:     Neil Crighton (Managing Director UK & Ireland) | Tech: Andy Brousseau (Chief Information Officer (CIO))
+  Call Opener Script: "Call Direct: +44 20 7488 4000 (Ask for Neil Crighton) or Tech Direct: +44 20 7488 4010 (Ask for Andy Brousseau - Chief Information Officer (CIO)) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

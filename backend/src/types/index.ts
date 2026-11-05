@@ -45,6 +45,12 @@ export interface BusinessLeadDTO {
   ceoLinkedinUrl?: string | null;
   ceoPhone?: string | null;
   ceoEmail?: string | null;
+  // Technical Leadership & Technology Head (CTO / Head of IT / Tech Lead)
+  ctoName?: string | null;
+  ctoTitle?: string | null;
+  ctoLinkedinUrl?: string | null;
+  ctoPhone?: string | null;
+  ctoEmail?: string | null;
   address?: string | null;
   city?: string | null;
   state?: string | null;

@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Freightliner Group Ltd
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Tim Shoveller
   Executive Title:    Chief Executive Officer
   CEO LinkedIn URL:   https://www.linkedin.com/in/tim-shoveller/
   Direct CEO Phone:   +44 20 7200 3900
   Direct CEO Email:   tshoveller@freightliner.co.uk
+  Technical Head/CTO: Peter Ward
+  Technical Title:    Head of IT & Systems Infrastructure
+  Tech LinkedIn URL:  https://www.linkedin.com/in/peter-ward-freightliner/
+  Direct Tech Phone:  +44 20 7200 3915
+  Direct Tech Email:  pward@freightliner.co.uk
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 7200 3900 (Formatted for international dial)
-  Decision Maker:     Tim Shoveller (Chief Executive Officer)
-  Call Opener Script: "Ask directly for Tim Shoveller (Chief Executive Officer) regarding UK operations & logistics collaboration."
+  Decision Maker:     Tim Shoveller (Chief Executive Officer) | Tech: Peter Ward (Head of IT & Systems Infrastructure)
+  Call Opener Script: "Call Direct: +44 20 7200 3900 (Ask for Tim Shoveller) or Tech Direct: +44 20 7200 3915 (Ask for Peter Ward - Head of IT & Systems Infrastructure) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Profile Books
 Lead Score:          98/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Andrew Franklin
   Executive Title:    Founder & Managing Director
   CEO LinkedIn URL:   https://www.linkedin.com/in/andrew-franklin-profile/
   Direct CEO Phone:   +44 20 7841 6300
   Direct CEO Email:   andrew.franklin@profilebooks.com
+  Technical Head/CTO: Sarah Benton
+  Technical Title:    Head of Digital Systems
+  Tech LinkedIn URL:  https://www.linkedin.com/in/sarah-benton-profile/
+  Direct Tech Phone:  +44 20 7841 6310
+  Direct Tech Email:  sarah.benton@profilebooks.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 7841 6300 (Formatted for international dial)
-  Decision Maker:     Andrew Franklin (Founder & Managing Director)
-  Call Opener Script: "Ask directly for Andrew Franklin (Founder & Managing Director) regarding UK operations & logistics collaboration."
+  Decision Maker:     Andrew Franklin (Founder & Managing Director) | Tech: Sarah Benton (Head of Digital Systems)
+  Call Opener Script: "Call Direct: +44 20 7841 6300 (Ask for Andrew Franklin) or Tech Direct: +44 20 7841 6310 (Ask for Sarah Benton - Head of Digital Systems) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -53,7 +58,8 @@ QUALITY SCORE BREAKDOWN:
     "100% authentic registered UK commercial publisher/consultancy",
     "Direct headquarters switchboard number verified",
     "Google Business profile verified with high rating",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

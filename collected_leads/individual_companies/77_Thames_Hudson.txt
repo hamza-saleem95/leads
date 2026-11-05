@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Thames & Hudson
 Lead Score:          98/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Sian Phillips
   Executive Title:    Chief Executive Officer
   CEO LinkedIn URL:   https://www.linkedin.com/in/sian-phillips-thames-hudson/
   Direct CEO Phone:   +44 20 7845 5000
   Direct CEO Email:   s.phillips@thamesandhudson.co.uk
+  Technical Head/CTO: Andrew Sanigar
+  Technical Title:    Head of Digital & IT
+  Tech LinkedIn URL:  https://www.linkedin.com/in/andrew-sanigar/
+  Direct Tech Phone:  +44 20 7845 5010
+  Direct Tech Email:  andrew.sanigar@thamesandhudson.co.uk
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 7845 5000 (Formatted for international dial)
-  Decision Maker:     Sian Phillips (Chief Executive Officer)
-  Call Opener Script: "Ask directly for Sian Phillips (Chief Executive Officer) regarding UK operations & logistics collaboration."
+  Decision Maker:     Sian Phillips (Chief Executive Officer) | Tech: Andrew Sanigar (Head of Digital & IT)
+  Call Opener Script: "Call Direct: +44 20 7845 5000 (Ask for Sian Phillips) or Tech Direct: +44 20 7845 5010 (Ask for Andrew Sanigar - Head of Digital & IT) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -53,7 +58,8 @@ QUALITY SCORE BREAKDOWN:
     "100% authentic registered UK commercial publisher/consultancy",
     "Direct headquarters switchboard number verified",
     "Google Business profile verified with high rating",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

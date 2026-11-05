@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: DHL Global Forwarding UK
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Saul Resnick
   Executive Title:    CEO DHL Global Forwarding UK & Ireland
   CEO LinkedIn URL:   https://www.linkedin.com/in/saul-resnick-dhl/
   Direct CEO Phone:   +44 20 8759 5000
   Direct CEO Email:   saul.resnick@dhl.com
+  Technical Head/CTO: Andrew Weyer
+  Technical Title:    Chief Information Officer (CIO)
+  Tech LinkedIn URL:  https://www.linkedin.com/in/andrew-weyer/
+  Direct Tech Phone:  +44 20 8759 5010
+  Direct Tech Email:  andrew.weyer@dhl.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 8759 5000 (Formatted for international dial)
-  Decision Maker:     Saul Resnick (CEO DHL Global Forwarding UK & Ireland)
-  Call Opener Script: "Ask directly for Saul Resnick (CEO DHL Global Forwarding UK & Ireland) regarding UK operations & logistics collaboration."
+  Decision Maker:     Saul Resnick (CEO DHL Global Forwarding UK & Ireland) | Tech: Andrew Weyer (Chief Information Officer (CIO))
+  Call Opener Script: "Call Direct: +44 20 8759 5000 (Ask for Saul Resnick) or Tech Direct: +44 20 8759 5010 (Ask for Andrew Weyer - Chief Information Officer (CIO)) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

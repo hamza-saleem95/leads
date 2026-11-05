@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Woodland Group Ltd
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Kevin Stevens
   Executive Title:    Founder, Chairman & CEO
   CEO LinkedIn URL:   https://www.linkedin.com/in/kevin-stevens-woodland/
   Direct CEO Phone:   +44 20 8893 2777
   Direct CEO Email:   kstevens@woodlandgroup.com
+  Technical Head/CTO: Jason Theobald
+  Technical Title:    Head of IT & Systems Development
+  Tech LinkedIn URL:  https://www.linkedin.com/in/jason-theobald/
+  Direct Tech Phone:  +44 20 8893 2780
+  Direct Tech Email:  jtheobald@woodlandgroup.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 8893 2777 (Formatted for international dial)
-  Decision Maker:     Kevin Stevens (Founder, Chairman & CEO)
-  Call Opener Script: "Ask directly for Kevin Stevens (Founder, Chairman & CEO) regarding UK operations & logistics collaboration."
+  Decision Maker:     Kevin Stevens (Founder, Chairman & CEO) | Tech: Jason Theobald (Head of IT & Systems Development)
+  Call Opener Script: "Call Direct: +44 20 8893 2777 (Ask for Kevin Stevens) or Tech Direct: +44 20 8893 2780 (Ask for Jason Theobald - Head of IT & Systems Development) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

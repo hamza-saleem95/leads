@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Rhenus Logistics UK Ltd
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   David Williams
   Executive Title:    Managing Director UK
   CEO LinkedIn URL:   https://www.linkedin.com/in/david-williams-rhenus/
   Direct CEO Phone:   +44 20 8759 2000
   Direct CEO Email:   david.williams@rhenus.com
+  Technical Head/CTO: Stefan Hohm
+  Technical Title:    Chief Information & Digital Officer
+  Tech LinkedIn URL:  https://www.linkedin.com/in/stefan-hohm/
+  Direct Tech Phone:  +44 20 8759 2010
+  Direct Tech Email:  stefan.hohm@rhenus.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 8759 2000 (Formatted for international dial)
-  Decision Maker:     David Williams (Managing Director UK)
-  Call Opener Script: "Ask directly for David Williams (Managing Director UK) regarding UK operations & logistics collaboration."
+  Decision Maker:     David Williams (Managing Director UK) | Tech: Stefan Hohm (Chief Information & Digital Officer)
+  Call Opener Script: "Call Direct: +44 20 8759 2000 (Ask for David Williams) or Tech Direct: +44 20 8759 2010 (Ask for Stefan Hohm - Chief Information & Digital Officer) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

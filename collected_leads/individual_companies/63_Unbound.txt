@@ -1,21 +1,26 @@
 ========================================================================
 COMPANY DOSSIER & COLD CALLING PROFILE: Unbound
 ========================================================================
-Lead Score:          92/100
+Lead Score:          95/100
 Lead Status:         NEW
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Dan Kieran
   Executive Title:    Co-Founder & CEO
   CEO LinkedIn URL:   https://www.linkedin.com/in/dankieran/
   Direct CEO Phone:   +44 20 7112 8410
   Direct CEO Email:   dan@unbound.com
+  Technical Head/CTO: Jason Cooper
+  Technical Title:    Chief Technology Officer (CTO)
+  Tech LinkedIn URL:  https://www.linkedin.com/in/jason-cooper-unbound/
+  Direct Tech Phone:  +44 20 7112 8415
+  Direct Tech Email:  jason@unbound.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 7112 8410 (Formatted for international dial)
-  Decision Maker:     Dan Kieran (Co-Founder & CEO)
-  Call Opener Script: "Ask directly for Dan Kieran (Co-Founder & CEO) regarding UK operations & logistics collaboration."
+  Decision Maker:     Dan Kieran (Co-Founder & CEO) | Tech: Jason Cooper (Chief Technology Officer (CTO))
+  Call Opener Script: "Call Direct: +44 20 7112 8410 (Ask for Dan Kieran) or Tech Direct: +44 20 7112 8415 (Ask for Jason Cooper - Chief Technology Officer (CTO)) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -48,12 +53,13 @@ QUALITY SCORE BREAKDOWN:
   "phoneAvailability": 10,
   "completeness": 10,
   "sourceReliability": 5,
-  "total": 92,
+  "total": 95,
   "notes": [
     "Partial industry keyword match (book, publishing)",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

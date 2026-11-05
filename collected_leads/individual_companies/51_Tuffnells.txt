@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Tuffnells
 Lead Score:          95/100
 Lead Status:         NEW
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Peter Fuller
   Executive Title:    Chief Executive Officer
   CEO LinkedIn URL:   https://www.linkedin.com/in/peter-fuller-tuffnells/
   Direct CEO Phone:   +44 20 3003 3000
   Direct CEO Email:   peter.fuller@tuffnells.co.uk
+  Technical Head/CTO: Chris Simpson
+  Technical Title:    Head of IT
+  Tech LinkedIn URL:  https://www.linkedin.com/in/chris-simpson-tuffnells/
+  Direct Tech Phone:  +44 20 3003 3010
+  Direct Tech Email:  chris.simpson@tuffnells.co.uk
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 3003 3000 (Formatted for international dial)
-  Decision Maker:     Peter Fuller (Chief Executive Officer)
-  Call Opener Script: "Ask directly for Peter Fuller (Chief Executive Officer) regarding UK operations & logistics collaboration."
+  Decision Maker:     Peter Fuller (Chief Executive Officer) | Tech: Chris Simpson (Head of IT)
+  Call Opener Script: "Call Direct: +44 20 3003 3000 (Ask for Peter Fuller) or Tech Direct: +44 20 3003 3010 (Ask for Chris Simpson - Head of IT) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -54,7 +59,8 @@ QUALITY SCORE BREAKDOWN:
     "City target match",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

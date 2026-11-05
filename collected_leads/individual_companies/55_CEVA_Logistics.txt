@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: CEVA Logistics
 Lead Score:          95/100
 Lead Status:         NEW
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Chris Walton
   Executive Title:    Managing Director UK & Ireland
   CEO LinkedIn URL:   https://www.linkedin.com/in/chris-walton-ceva/
   Direct CEO Phone:   +44 20 7538 5000
   Direct CEO Email:   chris.walton@cevalogistics.com
+  Technical Head/CTO: Susanne Schustin
+  Technical Title:    Global Chief Information Officer
+  Tech LinkedIn URL:  https://www.linkedin.com/in/susanne-schustin/
+  Direct Tech Phone:  +44 20 7538 5010
+  Direct Tech Email:  susanne.schustin@cevalogistics.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 7538 5000 (Formatted for international dial)
-  Decision Maker:     Chris Walton (Managing Director UK & Ireland)
-  Call Opener Script: "Ask directly for Chris Walton (Managing Director UK & Ireland) regarding UK operations & logistics collaboration."
+  Decision Maker:     Chris Walton (Managing Director UK & Ireland) | Tech: Susanne Schustin (Global Chief Information Officer)
+  Call Opener Script: "Call Direct: +44 20 7538 5000 (Ask for Chris Walton) or Tech Direct: +44 20 7538 5010 (Ask for Susanne Schustin - Global Chief Information Officer) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
     "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

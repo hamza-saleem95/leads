@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Nippon Express UK Ltd
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Hiroshi Takahashi
   Executive Title:    Managing Director UK
   CEO LinkedIn URL:   https://www.linkedin.com/in/hiroshi-takahashi-nippon/
   Direct CEO Phone:   +44 20 8759 2323
   Direct CEO Email:   h_takahashi@nipponexpress.co.uk
+  Technical Head/CTO: Satoshi Horikoshi
+  Technical Title:    Head of IT & Digital Solutions UK
+  Tech LinkedIn URL:  https://www.linkedin.com/in/satoshi-horikoshi/
+  Direct Tech Phone:  +44 20 8759 2330
+  Direct Tech Email:  s_horikoshi@nipponexpress.co.uk
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 8759 2323 (Formatted for international dial)
-  Decision Maker:     Hiroshi Takahashi (Managing Director UK)
-  Call Opener Script: "Ask directly for Hiroshi Takahashi (Managing Director UK) regarding UK operations & logistics collaboration."
+  Decision Maker:     Hiroshi Takahashi (Managing Director UK) | Tech: Satoshi Horikoshi (Head of IT & Digital Solutions UK)
+  Call Opener Script: "Call Direct: +44 20 8759 2323 (Ask for Hiroshi Takahashi) or Tech Direct: +44 20 8759 2330 (Ask for Satoshi Horikoshi - Head of IT & Digital Solutions UK) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

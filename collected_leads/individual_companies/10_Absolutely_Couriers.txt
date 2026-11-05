@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Absolutely Couriers
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Stuart Godman
   Executive Title:    Managing Director
   CEO LinkedIn URL:   https://www.linkedin.com/in/stuartgodman/
   Direct CEO Phone:   +44 20 7685 1400
   Direct CEO Email:   stuart.godman@absolutelycourier.com
+  Technical Head/CTO: Alan Henderson
+  Technical Title:    Head of IT & Systems Dispatch
+  Tech LinkedIn URL:  https://www.linkedin.com/in/alan-henderson-courier/
+  Direct Tech Phone:  +44 20 7685 1410
+  Direct Tech Email:  alan.henderson@absolutelycourier.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 7685 1400 (Formatted for international dial)
-  Decision Maker:     Stuart Godman (Managing Director)
-  Call Opener Script: "Ask directly for Stuart Godman (Managing Director) regarding UK operations & logistics collaboration."
+  Decision Maker:     Stuart Godman (Managing Director) | Tech: Alan Henderson (Head of IT & Systems Dispatch)
+  Call Opener Script: "Call Direct: +44 20 7685 1400 (Ask for Stuart Godman) or Tech Direct: +44 20 7685 1410 (Ask for Alan Henderson - Head of IT & Systems Dispatch) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

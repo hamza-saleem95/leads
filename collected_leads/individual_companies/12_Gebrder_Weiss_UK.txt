@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Gebrüder Weiss UK
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Marianne Broadbent
   Executive Title:    Country Manager / Managing Director UK
   CEO LinkedIn URL:   https://www.linkedin.com/in/marianne-broadbent-gw/
   Direct CEO Phone:   +44 20 8890 3000
   Direct CEO Email:   marianne.broadbent@gw-world.com
+  Technical Head/CTO: Werner Dettenthaler
+  Technical Title:    Director of IT & Supply Chain Tech
+  Tech LinkedIn URL:  https://www.linkedin.com/in/werner-dettenthaler/
+  Direct Tech Phone:  +44 20 8890 3010
+  Direct Tech Email:  werner.dettenthaler@gw-world.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 8890 3000 (Formatted for international dial)
-  Decision Maker:     Marianne Broadbent (Country Manager / Managing Director UK)
-  Call Opener Script: "Ask directly for Marianne Broadbent (Country Manager / Managing Director UK) regarding UK operations & logistics collaboration."
+  Decision Maker:     Marianne Broadbent (Country Manager / Managing Director UK) | Tech: Werner Dettenthaler (Director of IT & Supply Chain Tech)
+  Call Opener Script: "Call Direct: +44 20 8890 3000 (Ask for Marianne Broadbent) or Tech Direct: +44 20 8890 3010 (Ask for Werner Dettenthaler - Director of IT & Supply Chain Tech) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

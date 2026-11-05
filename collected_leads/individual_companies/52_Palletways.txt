@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Palletways
 Lead Score:          99/100
 Lead Status:         NEW
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Luis Zubialde
   Executive Title:    Group Chief Executive Officer
   CEO LinkedIn URL:   https://www.linkedin.com/in/luiszubialde/
   Direct CEO Phone:   +44 1543 418000
   Direct CEO Email:   luis_zubialde@palletways.com
+  Technical Head/CTO: Richard Miller
+  Technical Title:    Head of IT UK
+  Tech LinkedIn URL:  https://www.linkedin.com/in/richard-miller-palletways/
+  Direct Tech Phone:  +44 1543 418010
+  Direct Tech Email:  richard_miller@palletways.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 1543 418000 (Formatted for international dial)
-  Decision Maker:     Luis Zubialde (Group Chief Executive Officer)
-  Call Opener Script: "Ask directly for Luis Zubialde (Group Chief Executive Officer) regarding UK operations & logistics collaboration."
+  Decision Maker:     Luis Zubialde (Group Chief Executive Officer) | Tech: Richard Miller (Head of IT UK)
+  Call Opener Script: "Call Direct: +44 1543 418000 (Ask for Luis Zubialde) or Tech Direct: +44 1543 418010 (Ask for Richard Miller - Head of IT UK) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
     "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

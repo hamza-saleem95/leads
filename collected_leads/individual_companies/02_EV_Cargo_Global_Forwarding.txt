@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: EV Cargo Global Forwarding
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Heath Zarin
   Executive Title:    Founder, Chairman & CEO
   CEO LinkedIn URL:   https://www.linkedin.com/in/heathzarin/
   Direct CEO Phone:   +44 20 8759 5500
   Direct CEO Email:   heath.zarin@evcargo.com
+  Technical Head/CTO: Michael Hazelden
+  Technical Title:    Chief Technology Officer (CTO)
+  Tech LinkedIn URL:  https://www.linkedin.com/in/michaelhazelden/
+  Direct Tech Phone:  +44 20 8759 5510
+  Direct Tech Email:  michael.hazelden@evcargo.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 8759 5500 (Formatted for international dial)
-  Decision Maker:     Heath Zarin (Founder, Chairman & CEO)
-  Call Opener Script: "Ask directly for Heath Zarin (Founder, Chairman & CEO) regarding UK operations & logistics collaboration."
+  Decision Maker:     Heath Zarin (Founder, Chairman & CEO) | Tech: Michael Hazelden (Chief Technology Officer (CTO))
+  Call Opener Script: "Call Direct: +44 20 8759 5500 (Ask for Heath Zarin) or Tech Direct: +44 20 8759 5510 (Ask for Michael Hazelden - Chief Technology Officer (CTO)) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

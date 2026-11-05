@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Evri (Hermes UK)
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Martijn de Lange
   Executive Title:    Chief Executive Officer
   CEO LinkedIn URL:   https://www.linkedin.com/in/martijndelange/
   Direct CEO Phone:   +44 330 808 5456
   Direct CEO Email:   martijn.delange@evri.com
+  Technical Head/CTO: Marcus Hunter
+  Technical Title:    Chief Technology Officer (CTO)
+  Tech LinkedIn URL:  https://www.linkedin.com/in/marcushunter/
+  Direct Tech Phone:  +44 330 808 5460
+  Direct Tech Email:  marcus.hunter@evri.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 330 808 5456 (Formatted for international dial)
-  Decision Maker:     Martijn de Lange (Chief Executive Officer)
-  Call Opener Script: "Ask directly for Martijn de Lange (Chief Executive Officer) regarding UK operations & logistics collaboration."
+  Decision Maker:     Martijn de Lange (Chief Executive Officer) | Tech: Marcus Hunter (Chief Technology Officer (CTO))
+  Call Opener Script: "Call Direct: +44 330 808 5456 (Ask for Martijn de Lange) or Tech Direct: +44 330 808 5460 (Ask for Marcus Hunter - Chief Technology Officer (CTO)) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

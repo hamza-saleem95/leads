@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Davies Turner & Co Ltd
 Lead Score:          100/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Philip Stephenson
   Executive Title:    Chairman & Owner
   CEO LinkedIn URL:   https://www.linkedin.com/in/philip-stephenson-davies-turner/
   Direct CEO Phone:   +44 20 7622 3361
   Direct CEO Email:   pstephenson@daviesturner.co.uk
+  Technical Head/CTO: Michael Stephenson
+  Technical Title:    Director of Systems & IT
+  Tech LinkedIn URL:  https://www.linkedin.com/in/michael-stephenson-davies-turner/
+  Direct Tech Phone:  +44 20 7622 3370
+  Direct Tech Email:  mstephenson@daviesturner.co.uk
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 7622 3361 (Formatted for international dial)
-  Decision Maker:     Philip Stephenson (Chairman & Owner)
-  Call Opener Script: "Ask directly for Philip Stephenson (Chairman & Owner) regarding UK operations & logistics collaboration."
+  Decision Maker:     Philip Stephenson (Chairman & Owner) | Tech: Michael Stephenson (Director of Systems & IT)
+  Call Opener Script: "Call Direct: +44 20 7622 3361 (Ask for Philip Stephenson) or Tech Direct: +44 20 7622 3370 (Ask for Michael Stephenson - Director of Systems & IT) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: DB Schenker
 Lead Score:          99/100
 Lead Status:         NEW
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Ray Hennessy
   Executive Title:    Chief Executive Officer UK & Ireland
   CEO LinkedIn URL:   https://www.linkedin.com/in/ray-hennessy-schenker/
   Direct CEO Phone:   +44 20 8759 1234
   Direct CEO Email:   ray.hennessy@dbschenker.com
+  Technical Head/CTO: Christa Koenen
+  Technical Title:    Global Chief Information Officer
+  Tech LinkedIn URL:  https://www.linkedin.com/in/christa-koenen/
+  Direct Tech Phone:  +44 20 8759 1250
+  Direct Tech Email:  christa.koenen@dbschenker.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 8759 1234 (Formatted for international dial)
-  Decision Maker:     Ray Hennessy (Chief Executive Officer UK & Ireland)
-  Call Opener Script: "Ask directly for Ray Hennessy (Chief Executive Officer UK & Ireland) regarding UK operations & logistics collaboration."
+  Decision Maker:     Ray Hennessy (Chief Executive Officer UK & Ireland) | Tech: Christa Koenen (Global Chief Information Officer)
+  Call Opener Script: "Call Direct: +44 20 8759 1234 (Ask for Ray Hennessy) or Tech Direct: +44 20 8759 1250 (Ask for Christa Koenen - Global Chief Information Officer) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
     "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

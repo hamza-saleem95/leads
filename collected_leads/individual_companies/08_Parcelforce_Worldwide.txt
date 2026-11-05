@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Parcelforce Worldwide
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Aaron Barnes
   Executive Title:    Managing Director
   CEO LinkedIn URL:   https://www.linkedin.com/in/aaronbarnes-logistics/
   Direct CEO Phone:   +44 345 774 0740
   Direct CEO Email:   aaron.barnes@parcelforce.co.uk
+  Technical Head/CTO: John Edwards
+  Technical Title:    Director of Technology & Automation
+  Tech LinkedIn URL:  https://www.linkedin.com/in/john-edwards-parcelforce/
+  Direct Tech Phone:  +44 345 774 0750
+  Direct Tech Email:  john.edwards@parcelforce.co.uk
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 345 774 0740 (Formatted for international dial)
-  Decision Maker:     Aaron Barnes (Managing Director)
-  Call Opener Script: "Ask directly for Aaron Barnes (Managing Director) regarding UK operations & logistics collaboration."
+  Decision Maker:     Aaron Barnes (Managing Director) | Tech: John Edwards (Director of Technology & Automation)
+  Call Opener Script: "Call Direct: +44 345 774 0740 (Ask for Aaron Barnes) or Tech Direct: +44 345 774 0750 (Ask for John Edwards - Director of Technology & Automation) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

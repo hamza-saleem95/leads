@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: DP World London Gateway
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Ernst Schulze
   Executive Title:    UK Chief Executive Officer
   CEO LinkedIn URL:   https://www.linkedin.com/in/ernst-schulze-dpworld/
   Direct CEO Phone:   +44 1375 648300
   Direct CEO Email:   ernst.schulze@dpworld.com
+  Technical Head/CTO: Que Tran
+  Technical Title:    VP Technology Europe & Regional CIO
+  Tech LinkedIn URL:  https://www.linkedin.com/in/que-tran-cio/
+  Direct Tech Phone:  +44 1375 648310
+  Direct Tech Email:  que.tran@dpworld.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 1375 648300 (Formatted for international dial)
-  Decision Maker:     Ernst Schulze (UK Chief Executive Officer)
-  Call Opener Script: "Ask directly for Ernst Schulze (UK Chief Executive Officer) regarding UK operations & logistics collaboration."
+  Decision Maker:     Ernst Schulze (UK Chief Executive Officer) | Tech: Que Tran (VP Technology Europe & Regional CIO)
+  Call Opener Script: "Call Direct: +44 1375 648300 (Ask for Ernst Schulze) or Tech Direct: +44 1375 648310 (Ask for Que Tran - VP Technology Europe & Regional CIO) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

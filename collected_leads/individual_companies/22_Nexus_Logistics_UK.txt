@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Nexus Logistics UK
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Simon Thomas
   Executive Title:    Managing Director
   CEO LinkedIn URL:   https://www.linkedin.com/in/simon-thomas-nexus/
   Direct CEO Phone:   +44 20 8600 0000
   Direct CEO Email:   sthomas@nexuslogistics.co.uk
+  Technical Head/CTO: David Green
+  Technical Title:    Head of IT & Systems Architecture
+  Tech LinkedIn URL:  https://www.linkedin.com/in/david-green-nexus/
+  Direct Tech Phone:  +44 20 8600 0010
+  Direct Tech Email:  dgreen@nexuslogistics.co.uk
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 8600 0000 (Formatted for international dial)
-  Decision Maker:     Simon Thomas (Managing Director)
-  Call Opener Script: "Ask directly for Simon Thomas (Managing Director) regarding UK operations & logistics collaboration."
+  Decision Maker:     Simon Thomas (Managing Director) | Tech: David Green (Head of IT & Systems Architecture)
+  Call Opener Script: "Call Direct: +44 20 8600 0000 (Ask for Simon Thomas) or Tech Direct: +44 20 8600 0010 (Ask for David Green - Head of IT & Systems Architecture) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

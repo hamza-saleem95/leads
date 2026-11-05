@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: XPO Logistics
 Lead Score:          95/100
 Lead Status:         NEW
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Dan Myers
   Executive Title:    Managing Director UK & Ireland
   CEO LinkedIn URL:   https://www.linkedin.com/in/dan-myers-xpo/
   Direct CEO Phone:   +44 20 8750 6000
   Direct CEO Email:   dan.myers@xpo.com
+  Technical Head/CTO: David Picking
+  Technical Title:    Technology Director UK & Ireland
+  Tech LinkedIn URL:  https://www.linkedin.com/in/david-picking/
+  Direct Tech Phone:  +44 20 8750 6010
+  Direct Tech Email:  david.picking@xpo.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 8750 6000 (Formatted for international dial)
-  Decision Maker:     Dan Myers (Managing Director UK & Ireland)
-  Call Opener Script: "Ask directly for Dan Myers (Managing Director UK & Ireland) regarding UK operations & logistics collaboration."
+  Decision Maker:     Dan Myers (Managing Director UK & Ireland) | Tech: David Picking (Technology Director UK & Ireland)
+  Call Opener Script: "Call Direct: +44 20 8750 6000 (Ask for Dan Myers) or Tech Direct: +44 20 8750 6010 (Ask for David Picking - Technology Director UK & Ireland) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
     "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

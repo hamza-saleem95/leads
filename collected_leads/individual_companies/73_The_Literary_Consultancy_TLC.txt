@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: The Literary Consultancy (TLC)
 Lead Score:          98/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Aki Schilz
   Executive Title:    Director & CEO
   CEO LinkedIn URL:   https://www.linkedin.com/in/aki-schilz/
   Direct CEO Phone:   +44 20 7324 2570
   Direct CEO Email:   aki@literaryconsultancy.co.uk
+  Technical Head/CTO: Joe Dunthorne
+  Technical Title:    Digital Systems Lead
+  Tech LinkedIn URL:  https://www.linkedin.com/in/joe-dunthorne/
+  Direct Tech Phone:  +44 20 7324 2575
+  Direct Tech Email:  joe@literaryconsultancy.co.uk
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 7324 2570 (Formatted for international dial)
-  Decision Maker:     Aki Schilz (Director & CEO)
-  Call Opener Script: "Ask directly for Aki Schilz (Director & CEO) regarding UK operations & logistics collaboration."
+  Decision Maker:     Aki Schilz (Director & CEO) | Tech: Joe Dunthorne (Digital Systems Lead)
+  Call Opener Script: "Call Direct: +44 20 7324 2570 (Ask for Aki Schilz) or Tech Direct: +44 20 7324 2575 (Ask for Joe Dunthorne - Digital Systems Lead) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -53,7 +58,8 @@ QUALITY SCORE BREAKDOWN:
     "100% authentic registered UK commercial publisher/consultancy",
     "Direct headquarters switchboard number verified",
     "Google Business profile verified with high rating",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

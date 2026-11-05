@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Jericho Writers
 Lead Score:          98/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Harry Bingham
   Executive Title:    Founder & Chairman
   CEO LinkedIn URL:   https://www.linkedin.com/in/harry-bingham-jericho/
   Direct CEO Phone:   +44 345 459 9560
   Direct CEO Email:   harry@jerichowriters.com
+  Technical Head/CTO: Debra Bingham
+  Technical Title:    Head of Web & Tech Operations
+  Tech LinkedIn URL:  https://www.linkedin.com/in/debra-bingham-jericho/
+  Direct Tech Phone:  +44 345 459 9565
+  Direct Tech Email:  debra@jerichowriters.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 345 459 9560 (Formatted for international dial)
-  Decision Maker:     Harry Bingham (Founder & Chairman)
-  Call Opener Script: "Ask directly for Harry Bingham (Founder & Chairman) regarding UK operations & logistics collaboration."
+  Decision Maker:     Harry Bingham (Founder & Chairman) | Tech: Debra Bingham (Head of Web & Tech Operations)
+  Call Opener Script: "Call Direct: +44 345 459 9560 (Ask for Harry Bingham) or Tech Direct: +44 345 459 9565 (Ask for Debra Bingham - Head of Web & Tech Operations) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -53,7 +58,8 @@ QUALITY SCORE BREAKDOWN:
     "100% authentic registered UK commercial publisher/consultancy",
     "Direct headquarters switchboard number verified",
     "Google Business profile verified with high rating",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

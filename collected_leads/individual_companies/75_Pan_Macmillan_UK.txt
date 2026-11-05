@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Pan Macmillan UK
 Lead Score:          98/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Joanna Prior
   Executive Title:    Chief Executive Officer
   CEO LinkedIn URL:   https://www.linkedin.com/in/joanna-prior/
   Direct CEO Phone:   +44 20 7014 6000
   Direct CEO Email:   joanna.prior@macmillan.com
+  Technical Head/CTO: James Long
+  Technical Title:    Chief Technology Officer (CTO)
+  Tech LinkedIn URL:  https://www.linkedin.com/in/james-long-macmillan/
+  Direct Tech Phone:  +44 20 7014 6010
+  Direct Tech Email:  james.long@macmillan.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 7014 6000 (Formatted for international dial)
-  Decision Maker:     Joanna Prior (Chief Executive Officer)
-  Call Opener Script: "Ask directly for Joanna Prior (Chief Executive Officer) regarding UK operations & logistics collaboration."
+  Decision Maker:     Joanna Prior (Chief Executive Officer) | Tech: James Long (Chief Technology Officer (CTO))
+  Call Opener Script: "Call Direct: +44 20 7014 6000 (Ask for Joanna Prior) or Tech Direct: +44 20 7014 6010 (Ask for James Long - Chief Technology Officer (CTO)) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -53,7 +58,8 @@ QUALITY SCORE BREAKDOWN:
     "100% authentic registered UK commercial publisher/consultancy",
     "Direct headquarters switchboard number verified",
     "Google Business profile verified with high rating",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

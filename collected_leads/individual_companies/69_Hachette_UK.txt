@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Hachette UK
 Lead Score:          98/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   David Shelley
   Executive Title:    Chief Executive Officer
   CEO LinkedIn URL:   https://www.linkedin.com/in/davidshelley-hachette/
   Direct CEO Phone:   +44 20 3122 6000
   Direct CEO Email:   david.shelley@hachette.co.uk
+  Technical Head/CTO: Chris Bell
+  Technical Title:    Chief Information Officer (CIO)
+  Tech LinkedIn URL:  https://www.linkedin.com/in/chris-bell-hachette/
+  Direct Tech Phone:  +44 20 3122 6010
+  Direct Tech Email:  chris.bell@hachette.co.uk
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 3122 6000 (Formatted for international dial)
-  Decision Maker:     David Shelley (Chief Executive Officer)
-  Call Opener Script: "Ask directly for David Shelley (Chief Executive Officer) regarding UK operations & logistics collaboration."
+  Decision Maker:     David Shelley (Chief Executive Officer) | Tech: Chris Bell (Chief Information Officer (CIO))
+  Call Opener Script: "Call Direct: +44 20 3122 6000 (Ask for David Shelley) or Tech Direct: +44 20 3122 6010 (Ask for Chris Bell - Chief Information Officer (CIO)) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -53,7 +58,8 @@ QUALITY SCORE BREAKDOWN:
     "100% authentic registered UK commercial publisher/consultancy",
     "Direct headquarters switchboard number verified",
     "Google Business profile verified with high rating",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

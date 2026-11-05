@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: OIA Global
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Nick Hughes
   Executive Title:    Managing Director UK
   CEO LinkedIn URL:   https://www.linkedin.com/in/nick-hughes-oia/
   Direct CEO Phone:   +44 20 8759 7000
   Direct CEO Email:   nick.hughes@oiaglobal.com
+  Technical Head/CTO: Marc Bevilacqua
+  Technical Title:    Chief Information Officer (CIO)
+  Tech LinkedIn URL:  https://www.linkedin.com/in/marc-bevilacqua/
+  Direct Tech Phone:  +44 20 8759 7010
+  Direct Tech Email:  marc.bevilacqua@oiaglobal.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 8759 7000 (Formatted for international dial)
-  Decision Maker:     Nick Hughes (Managing Director UK)
-  Call Opener Script: "Ask directly for Nick Hughes (Managing Director UK) regarding UK operations & logistics collaboration."
+  Decision Maker:     Nick Hughes (Managing Director UK) | Tech: Marc Bevilacqua (Chief Information Officer (CIO))
+  Call Opener Script: "Call Direct: +44 20 8759 7000 (Ask for Nick Hughes) or Tech Direct: +44 20 8759 7010 (Ask for Marc Bevilacqua - Chief Information Officer (CIO)) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

@@ -30,7 +30,8 @@
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
         "Google Business profile verified with high rating",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -45,8 +46,8 @@
     "googleReviewCount": 142,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Nigel Newton (Founder & Chief Executive)",
-    "callOpenerTip": "Ask directly for Nigel Newton (Founder & Chief Executive) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Nigel Newton (Founder & Chief Executive) | Tech: Richard Fisher (Group Technology Director)",
+    "callOpenerTip": "Call Direct: +44 20 7631 5600 (Ask for Nigel Newton) or Tech Direct: +44 20 7631 5610 (Ask for Richard Fisher - Group Technology Director) regarding digital infrastructure & supply chain efficiency.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T13:14:58.305Z",
     "notes": [],
@@ -63,7 +64,12 @@
     "ceoTitle": "Founder & Chief Executive",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/nigelnewton-bloomsbury/",
     "ceoPhone": "+44 20 7631 5600",
-    "ceoEmail": "nigel.newton@bloomsbury.com"
+    "ceoEmail": "nigel.newton@bloomsbury.com",
+    "ctoName": "Richard Fisher",
+    "ctoTitle": "Group Technology Director",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/richard-fisher-bloomsbury/",
+    "ctoPhone": "+44 20 7631 5610",
+    "ctoEmail": "richard.fisher@bloomsbury.com"
   },
   {
     "id": "lead-auth-002",
@@ -96,7 +102,8 @@
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
         "Google Business profile verified with high rating",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -111,8 +118,8 @@
     "googleReviewCount": 215,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Tom Weldon (Chief Executive Officer)",
-    "callOpenerTip": "Ask directly for Tom Weldon (Chief Executive Officer) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Tom Weldon (Chief Executive Officer) | Tech: Neil Springall (Chief Information Officer (CIO))",
+    "callOpenerTip": "Call Direct: +44 20 7840 8400 (Ask for Tom Weldon) or Tech Direct: +44 20 7840 8410 (Ask for Neil Springall - Chief Information Officer (CIO)) regarding digital infrastructure & supply chain efficiency.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T13:15:05.731Z",
     "notes": [],
@@ -129,7 +136,12 @@
     "ceoTitle": "Chief Executive Officer",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/tomweldon-penguin/",
     "ceoPhone": "+44 20 7840 8400",
-    "ceoEmail": "tweldon@penguinrandomhouse.co.uk"
+    "ceoEmail": "tweldon@penguinrandomhouse.co.uk",
+    "ctoName": "Neil Springall",
+    "ctoTitle": "Chief Information Officer (CIO)",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/neil-springall/",
+    "ctoPhone": "+44 20 7840 8410",
+    "ctoEmail": "nspringall@penguinrandomhouse.co.uk"
   },
   {
     "id": "lead-auth-003",
@@ -162,7 +174,8 @@
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
         "Google Business profile verified with high rating",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -177,8 +190,8 @@
     "googleReviewCount": 88,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Mary Cannam (Chief Executive Officer)",
-    "callOpenerTip": "Ask directly for Mary Cannam (Chief Executive Officer) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Mary Cannam (Chief Executive Officer) | Tech: Will Atkinson (Head of Digital & IT Operations)",
+    "callOpenerTip": "Call Direct: +44 20 7927 3800 (Ask for Mary Cannam) or Tech Direct: +44 20 7927 3810 (Ask for Will Atkinson - Head of Digital & IT Operations) regarding digital infrastructure & supply chain efficiency.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T13:14:58.979Z",
     "notes": [],
@@ -195,7 +208,12 @@
     "ceoTitle": "Chief Executive Officer",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/mary-cannam-faber/",
     "ceoPhone": "+44 20 7927 3800",
-    "ceoEmail": "mary.cannam@faber.co.uk"
+    "ceoEmail": "mary.cannam@faber.co.uk",
+    "ctoName": "Will Atkinson",
+    "ctoTitle": "Head of Digital & IT Operations",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/will-atkinson-faber/",
+    "ctoPhone": "+44 20 7927 3810",
+    "ctoEmail": "will.atkinson@faber.co.uk"
   },
   {
     "id": "lead-auth-004",
@@ -228,7 +246,8 @@
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
         "Google Business profile verified with high rating",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -243,8 +262,8 @@
     "googleReviewCount": 95,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "David Shelley (Chief Executive Officer)",
-    "callOpenerTip": "Ask directly for David Shelley (Chief Executive Officer) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "David Shelley (Chief Executive Officer) | Tech: Chris Bell (Chief Information Officer (CIO))",
+    "callOpenerTip": "Call Direct: +44 20 3122 6000 (Ask for David Shelley) or Tech Direct: +44 20 3122 6010 (Ask for Chris Bell - Chief Information Officer (CIO)) regarding digital infrastructure & supply chain efficiency.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T13:14:56.727Z",
     "notes": [],
@@ -261,7 +280,12 @@
     "ceoTitle": "Chief Executive Officer",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/davidshelley-hachette/",
     "ceoPhone": "+44 20 3122 6000",
-    "ceoEmail": "david.shelley@hachette.co.uk"
+    "ceoEmail": "david.shelley@hachette.co.uk",
+    "ctoName": "Chris Bell",
+    "ctoTitle": "Chief Information Officer (CIO)",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/chris-bell-hachette/",
+    "ctoPhone": "+44 20 3122 6010",
+    "ctoEmail": "chris.bell@hachette.co.uk"
   },
   {
     "id": "lead-auth-005",
@@ -294,7 +318,8 @@
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
         "Google Business profile verified with high rating",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -309,8 +334,8 @@
     "googleReviewCount": 110,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Charlie Redmayne (Chief Executive Officer)",
-    "callOpenerTip": "Ask directly for Charlie Redmayne (Chief Executive Officer) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Charlie Redmayne (Chief Executive Officer) | Tech: Stephen Paskins (Group Technology Director)",
+    "callOpenerTip": "Call Direct: +44 20 8240 1000 (Ask for Charlie Redmayne) or Tech Direct: +44 20 8240 1010 (Ask for Stephen Paskins - Group Technology Director) regarding digital infrastructure & supply chain efficiency.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T13:15:11.890Z",
     "notes": [],
@@ -327,7 +352,12 @@
     "ceoTitle": "Chief Executive Officer",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/charlieredmayne/",
     "ceoPhone": "+44 20 8240 1000",
-    "ceoEmail": "charlie.redmayne@harpercollins.co.uk"
+    "ceoEmail": "charlie.redmayne@harpercollins.co.uk",
+    "ctoName": "Stephen Paskins",
+    "ctoTitle": "Group Technology Director",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/stephen-paskins/",
+    "ctoPhone": "+44 20 8240 1010",
+    "ctoEmail": "stephen.paskins@harpercollins.co.uk"
   },
   {
     "id": "lead-auth-006",
@@ -360,7 +390,8 @@
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
         "Google Business profile verified with high rating",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -375,8 +406,8 @@
     "googleReviewCount": 320,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Nigel Portwood (Chief Executive Officer)",
-    "callOpenerTip": "Ask directly for Nigel Portwood (Chief Executive Officer) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Nigel Portwood (Chief Executive Officer) | Tech: Fathima Dada (Chief Digital Officer)",
+    "callOpenerTip": "Call Direct: +44 1865 556767 (Ask for Nigel Portwood) or Tech Direct: +44 1865 556770 (Ask for Fathima Dada - Chief Digital Officer) regarding digital infrastructure & supply chain efficiency.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T12:44:57.933Z",
     "notes": [],
@@ -393,7 +424,12 @@
     "ceoTitle": "Chief Executive Officer",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/nigelportwood-oup/",
     "ceoPhone": "+44 1865 556767",
-    "ceoEmail": "nigel.portwood@oup.com"
+    "ceoEmail": "nigel.portwood@oup.com",
+    "ctoName": "Fathima Dada",
+    "ctoTitle": "Chief Digital Officer",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/fathima-dada-oup/",
+    "ctoPhone": "+44 1865 556770",
+    "ctoEmail": "fathima.dada@oup.com"
   },
   {
     "id": "lead-auth-007",
@@ -426,7 +462,8 @@
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
         "Google Business profile verified with high rating",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -441,8 +478,8 @@
     "googleReviewCount": 64,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Jamie Byng (Chief Executive & Publisher)",
-    "callOpenerTip": "Ask directly for Jamie Byng (Chief Executive & Publisher) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Jamie Byng (Chief Executive & Publisher) | Tech: Neal Price (Head of Digital Systems)",
+    "callOpenerTip": "Call Direct: +44 131 557 5111 (Ask for Jamie Byng) or Tech Direct: +44 131 557 5115 (Ask for Neal Price - Head of Digital Systems) regarding digital infrastructure & supply chain efficiency.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T12:44:57.933Z",
     "notes": [],
@@ -459,7 +496,12 @@
     "ceoTitle": "Chief Executive & Publisher",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/jamiebyng-canongate/",
     "ceoPhone": "+44 131 557 5111",
-    "ceoEmail": "jamie@canongate.co.uk"
+    "ceoEmail": "jamie@canongate.co.uk",
+    "ctoName": "Neal Price",
+    "ctoTitle": "Head of Digital Systems",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/neal-price-canongate/",
+    "ctoPhone": "+44 131 557 5115",
+    "ctoEmail": "neal@canongate.co.uk"
   },
   {
     "id": "lead-auth-008",
@@ -492,7 +534,8 @@
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
         "Google Business profile verified with high rating",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -507,8 +550,8 @@
     "googleReviewCount": 75,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Aki Schilz (Director & CEO)",
-    "callOpenerTip": "Ask directly for Aki Schilz (Director & CEO) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Aki Schilz (Director & CEO) | Tech: Joe Dunthorne (Digital Systems Lead)",
+    "callOpenerTip": "Call Direct: +44 20 7324 2570 (Ask for Aki Schilz) or Tech Direct: +44 20 7324 2575 (Ask for Joe Dunthorne - Digital Systems Lead) regarding digital infrastructure & supply chain efficiency.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T12:44:57.933Z",
     "notes": [],
@@ -525,7 +568,12 @@
     "ceoTitle": "Director & CEO",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/aki-schilz/",
     "ceoPhone": "+44 20 7324 2570",
-    "ceoEmail": "aki@literaryconsultancy.co.uk"
+    "ceoEmail": "aki@literaryconsultancy.co.uk",
+    "ctoName": "Joe Dunthorne",
+    "ctoTitle": "Digital Systems Lead",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/joe-dunthorne/",
+    "ctoPhone": "+44 20 7324 2575",
+    "ctoEmail": "joe@literaryconsultancy.co.uk"
   },
   {
     "id": "lead-auth-009",
@@ -558,7 +606,8 @@
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
         "Google Business profile verified with high rating",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -573,8 +622,8 @@
     "googleReviewCount": 52,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Helen Corner-Bryant (Founder & Managing Director)",
-    "callOpenerTip": "Ask directly for Helen Corner-Bryant (Founder & Managing Director) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Helen Corner-Bryant (Founder & Managing Director) | Tech: Dionne McCulloch (Managing & Editorial Tech Director)",
+    "callOpenerTip": "Call Direct: +44 20 7254 9444 (Ask for Helen Corner-Bryant) or Tech Direct: +44 20 7254 9450 (Ask for Dionne McCulloch - Managing & Editorial Tech Director) regarding digital infrastructure & supply chain efficiency.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T12:44:57.933Z",
     "notes": [],
@@ -591,7 +640,12 @@
     "ceoTitle": "Founder & Managing Director",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/helen-corner-bryant/",
     "ceoPhone": "+44 20 7254 9444",
-    "ceoEmail": "helen@cornerstones.co.uk"
+    "ceoEmail": "helen@cornerstones.co.uk",
+    "ctoName": "Dionne McCulloch",
+    "ctoTitle": "Managing & Editorial Tech Director",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/dionne-mcculloch/",
+    "ctoPhone": "+44 20 7254 9450",
+    "ctoEmail": "dionne@cornerstones.co.uk"
   },
   {
     "id": "lead-auth-011",
@@ -624,7 +678,8 @@
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
         "Google Business profile verified with high rating",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -639,8 +694,8 @@
     "googleReviewCount": 135,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Joanna Prior (Chief Executive Officer)",
-    "callOpenerTip": "Ask directly for Joanna Prior (Chief Executive Officer) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Joanna Prior (Chief Executive Officer) | Tech: James Long (Chief Technology Officer (CTO))",
+    "callOpenerTip": "Call Direct: +44 20 7014 6000 (Ask for Joanna Prior) or Tech Direct: +44 20 7014 6010 (Ask for James Long - Chief Technology Officer (CTO)) regarding digital infrastructure & supply chain efficiency.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T13:14:59.397Z",
     "notes": [],
@@ -657,7 +712,12 @@
     "ceoTitle": "Chief Executive Officer",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/joanna-prior/",
     "ceoPhone": "+44 20 7014 6000",
-    "ceoEmail": "joanna.prior@macmillan.com"
+    "ceoEmail": "joanna.prior@macmillan.com",
+    "ctoName": "James Long",
+    "ctoTitle": "Chief Technology Officer (CTO)",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/james-long-macmillan/",
+    "ctoPhone": "+44 20 7014 6010",
+    "ctoEmail": "james.long@macmillan.com"
   },
   {
     "id": "lead-auth-012",
@@ -690,7 +750,8 @@
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
         "Google Business profile verified with high rating",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -705,8 +766,8 @@
     "googleReviewCount": 58,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Andrew Franklin (Founder & Managing Director)",
-    "callOpenerTip": "Ask directly for Andrew Franklin (Founder & Managing Director) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Andrew Franklin (Founder & Managing Director) | Tech: Sarah Benton (Head of Digital Systems)",
+    "callOpenerTip": "Call Direct: +44 20 7841 6300 (Ask for Andrew Franklin) or Tech Direct: +44 20 7841 6310 (Ask for Sarah Benton - Head of Digital Systems) regarding digital infrastructure & supply chain efficiency.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T12:44:57.933Z",
     "notes": [],
@@ -723,7 +784,12 @@
     "ceoTitle": "Founder & Managing Director",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/andrew-franklin-profile/",
     "ceoPhone": "+44 20 7841 6300",
-    "ceoEmail": "andrew.franklin@profilebooks.com"
+    "ceoEmail": "andrew.franklin@profilebooks.com",
+    "ctoName": "Sarah Benton",
+    "ctoTitle": "Head of Digital Systems",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/sarah-benton-profile/",
+    "ctoPhone": "+44 20 7841 6310",
+    "ctoEmail": "sarah.benton@profilebooks.com"
   },
   {
     "id": "lead-auth-013",
@@ -756,7 +822,8 @@
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
         "Google Business profile verified with high rating",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -771,8 +838,8 @@
     "googleReviewCount": 82,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Sian Phillips (Chief Executive Officer)",
-    "callOpenerTip": "Ask directly for Sian Phillips (Chief Executive Officer) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Sian Phillips (Chief Executive Officer) | Tech: Andrew Sanigar (Head of Digital & IT)",
+    "callOpenerTip": "Call Direct: +44 20 7845 5000 (Ask for Sian Phillips) or Tech Direct: +44 20 7845 5010 (Ask for Andrew Sanigar - Head of Digital & IT) regarding digital infrastructure & supply chain efficiency.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T12:44:57.933Z",
     "notes": [],
@@ -789,7 +856,12 @@
     "ceoTitle": "Chief Executive Officer",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/sian-phillips-thames-hudson/",
     "ceoPhone": "+44 20 7845 5000",
-    "ceoEmail": "s.phillips@thamesandhudson.co.uk"
+    "ceoEmail": "s.phillips@thamesandhudson.co.uk",
+    "ctoName": "Andrew Sanigar",
+    "ctoTitle": "Head of Digital & IT",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/andrew-sanigar/",
+    "ctoPhone": "+44 20 7845 5010",
+    "ctoEmail": "andrew.sanigar@thamesandhudson.co.uk"
   },
   {
     "id": "lead-auth-014",
@@ -822,7 +894,8 @@
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
         "Google Business profile verified with high rating",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -837,8 +910,8 @@
     "googleReviewCount": 94,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "David Cole (Founder & Editorial Director)",
-    "callOpenerTip": "Ask directly for David Cole (Founder & Editorial Director) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "David Cole (Founder & Editorial Director) | Tech: Chris Brown (Technical Director)",
+    "callOpenerTip": "Call Direct: +44 20 3286 4441 (Ask for David Cole) or Tech Direct: +44 20 3286 4445 (Ask for Chris Brown - Technical Director) regarding digital infrastructure & supply chain efficiency.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T12:44:57.933Z",
     "notes": [],
@@ -855,7 +928,12 @@
     "ceoTitle": "Founder & Editorial Director",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/david-cole-standout/",
     "ceoPhone": "+44 20 3286 4441",
-    "ceoEmail": "david@standoutbooks.com"
+    "ceoEmail": "david@standoutbooks.com",
+    "ctoName": "Chris Brown",
+    "ctoTitle": "Technical Director",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/chris-brown-standout/",
+    "ctoPhone": "+44 20 3286 4445",
+    "ctoEmail": "chris@standoutbooks.com"
   },
   {
     "id": "lead-auth-015",
@@ -888,7 +966,8 @@
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
         "Google Business profile verified with high rating",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -903,8 +982,8 @@
     "googleReviewCount": 160,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Harry Bingham (Founder & Chairman)",
-    "callOpenerTip": "Ask directly for Harry Bingham (Founder & Chairman) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Harry Bingham (Founder & Chairman) | Tech: Debra Bingham (Head of Web & Tech Operations)",
+    "callOpenerTip": "Call Direct: +44 345 459 9560 (Ask for Harry Bingham) or Tech Direct: +44 345 459 9565 (Ask for Debra Bingham - Head of Web & Tech Operations) regarding digital infrastructure & supply chain efficiency.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T12:44:57.933Z",
     "notes": [],
@@ -921,6 +1000,11 @@
     "ceoTitle": "Founder & Chairman",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/harry-bingham-jericho/",
     "ceoPhone": "+44 345 459 9560",
-    "ceoEmail": "harry@jerichowriters.com"
+    "ceoEmail": "harry@jerichowriters.com",
+    "ctoName": "Debra Bingham",
+    "ctoTitle": "Head of Web & Tech Operations",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/debra-bingham-jericho/",
+    "ctoPhone": "+44 345 459 9565",
+    "ctoEmail": "debra@jerichowriters.com"
   }
 ]

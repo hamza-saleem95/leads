@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Mainfreight UK
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Jason Braid
   Executive Title:    Country Manager UK
   CEO LinkedIn URL:   https://www.linkedin.com/in/jason-braid-mainfreight/
   Direct CEO Phone:   +44 1322 314000
   Direct CEO Email:   jason.braid@mainfreight.com
+  Technical Head/CTO: Kevin Drinkwater
+  Technical Title:    Group Chief Information Officer (CIO)
+  Tech LinkedIn URL:  https://www.linkedin.com/in/kevin-drinkwater/
+  Direct Tech Phone:  +44 1322 314010
+  Direct Tech Email:  kevin.drinkwater@mainfreight.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 1322 314000 (Formatted for international dial)
-  Decision Maker:     Jason Braid (Country Manager UK)
-  Call Opener Script: "Ask directly for Jason Braid (Country Manager UK) regarding UK operations & logistics collaboration."
+  Decision Maker:     Jason Braid (Country Manager UK) | Tech: Kevin Drinkwater (Group Chief Information Officer (CIO))
+  Call Opener Script: "Call Direct: +44 1322 314000 (Ask for Jason Braid) or Tech Direct: +44 1322 314010 (Ask for Kevin Drinkwater - Group Chief Information Officer (CIO)) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

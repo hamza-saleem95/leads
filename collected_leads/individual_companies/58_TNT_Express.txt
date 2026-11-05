@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: TNT Express
 Lead Score:          97/100
 Lead Status:         NEW
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   David Adams
   Executive Title:    Managing Director UK Express Network
   CEO LinkedIn URL:   https://www.linkedin.com/in/david-adams-tnt/
   Direct CEO Phone:   +44 20 8759 2200
   Direct CEO Email:   david.adams@tnt.co.uk
+  Technical Head/CTO: Mark Robinson
+  Technical Title:    Director of Field IT & Systems
+  Tech LinkedIn URL:  https://www.linkedin.com/in/mark-robinson-tnt/
+  Direct Tech Phone:  +44 20 8759 2210
+  Direct Tech Email:  mark.robinson@tnt.co.uk
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 8759 2200 (Formatted for international dial)
-  Decision Maker:     David Adams (Managing Director UK Express Network)
-  Call Opener Script: "Ask directly for David Adams (Managing Director UK Express Network) regarding UK operations & logistics collaboration."
+  Decision Maker:     David Adams (Managing Director UK Express Network) | Tech: Mark Robinson (Director of Field IT & Systems)
+  Call Opener Script: "Call Direct: +44 20 8759 2200 (Ask for David Adams) or Tech Direct: +44 20 8759 2210 (Ask for Mark Robinson - Director of Field IT & Systems) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
     "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

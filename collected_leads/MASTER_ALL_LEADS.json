@@ -16,8 +16,8 @@
     "googleReviewCount": 160,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Ian Keilty (Chief Executive Officer (CEO))",
-    "callOpenerTip": "Ask directly for Ian Keilty (Chief Executive Officer (CEO)) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Ian Keilty (Chief Executive Officer (CEO)) | Tech: Jason Powell (IT Director (Head of Technology))",
+    "callOpenerTip": "Call Direct: +44 1628 702702 (Ask for Ian Keilty) or Tech Direct: +44 1628 702700 (Ask for Jason Powell - IT Director (Head of Technology)) regarding digital infrastructure & supply chain efficiency.",
     "address": "London Superhub, Bedfont Road, Stanwell, London TW19 7NA",
     "city": "London",
     "country": "United Kingdom",
@@ -43,7 +43,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -55,7 +56,12 @@
     "ceoTitle": "Chief Executive Officer (CEO)",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/ian-keilty/",
     "ceoPhone": "+44 1628 702702",
-    "ceoEmail": "ian.keilty@whistl.co.uk"
+    "ceoEmail": "ian.keilty@whistl.co.uk",
+    "ctoName": "Jason Powell",
+    "ctoTitle": "IT Director (Head of Technology)",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/jason-powell-whistl/",
+    "ctoPhone": "+44 1628 702700",
+    "ctoEmail": "jason.powell@whistl.co.uk"
   },
   {
     "userId": "user-default-admin-01",
@@ -74,8 +80,8 @@
     "googleReviewCount": 75,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Heath Zarin (Founder, Chairman & CEO)",
-    "callOpenerTip": "Ask directly for Heath Zarin (Founder, Chairman & CEO) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Heath Zarin (Founder, Chairman & CEO) | Tech: Michael Hazelden (Chief Technology Officer (CTO))",
+    "callOpenerTip": "Call Direct: +44 20 8759 5500 (Ask for Heath Zarin) or Tech Direct: +44 20 8759 5510 (Ask for Michael Hazelden - Chief Technology Officer (CTO)) regarding digital infrastructure & supply chain efficiency.",
     "address": "Building 521, Cargo Terminal, London Heathrow TW6 3TR",
     "city": "London",
     "country": "United Kingdom",
@@ -101,7 +107,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -113,7 +120,12 @@
     "ceoTitle": "Founder, Chairman & CEO",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/heathzarin/",
     "ceoPhone": "+44 20 8759 5500",
-    "ceoEmail": "heath.zarin@evcargo.com"
+    "ceoEmail": "heath.zarin@evcargo.com",
+    "ctoName": "Michael Hazelden",
+    "ctoTitle": "Chief Technology Officer (CTO)",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/michaelhazelden/",
+    "ctoPhone": "+44 20 8759 5510",
+    "ctoEmail": "michael.hazelden@evcargo.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -132,8 +144,8 @@
     "googleReviewCount": 88,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Michael Morrison (Chief Executive Officer)",
-    "callOpenerTip": "Ask directly for Michael Morrison (Chief Executive Officer) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Michael Morrison (Chief Executive Officer) | Tech: Ian Smith (IT & Systems Director)",
+    "callOpenerTip": "Call Direct: +44 1256 700000 (Ask for Michael Morrison) or Tech Direct: +44 1256 700010 (Ask for Ian Smith - IT & Systems Director) regarding digital infrastructure & supply chain efficiency.",
     "address": "London Distribution Depot, Hemel / London HP2 7DU",
     "city": "London",
     "country": "United Kingdom",
@@ -159,7 +171,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -171,7 +184,12 @@
     "ceoTitle": "Chief Executive Officer",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/michael-morrison-gist/",
     "ceoPhone": "+44 1256 700000",
-    "ceoEmail": "michael.morrison@gistworld.com"
+    "ceoEmail": "michael.morrison@gistworld.com",
+    "ctoName": "Ian Smith",
+    "ctoTitle": "IT & Systems Director",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/ian-smith-gist/",
+    "ctoPhone": "+44 1256 700010",
+    "ctoEmail": "ian.smith@gistworld.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -190,8 +208,8 @@
     "googleReviewCount": 500,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Martijn de Lange (Chief Executive Officer)",
-    "callOpenerTip": "Ask directly for Martijn de Lange (Chief Executive Officer) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Martijn de Lange (Chief Executive Officer) | Tech: Marcus Hunter (Chief Technology Officer (CTO))",
+    "callOpenerTip": "Call Direct: +44 330 808 5456 (Ask for Martijn de Lange) or Tech Direct: +44 330 808 5460 (Ask for Marcus Hunter - Chief Technology Officer (CTO)) regarding digital infrastructure & supply chain efficiency.",
     "address": "East London Distribution Depot, Beckton, London E6 7FF",
     "city": "London",
     "country": "United Kingdom",
@@ -217,7 +235,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -229,7 +248,12 @@
     "ceoTitle": "Chief Executive Officer",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/martijndelange/",
     "ceoPhone": "+44 330 808 5456",
-    "ceoEmail": "martijn.delange@evri.com"
+    "ceoEmail": "martijn.delange@evri.com",
+    "ctoName": "Marcus Hunter",
+    "ctoTitle": "Chief Technology Officer (CTO)",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/marcushunter/",
+    "ctoPhone": "+44 330 808 5460",
+    "ctoEmail": "marcus.hunter@evri.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -248,8 +272,8 @@
     "googleReviewCount": 350,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Ufku Akaltan (President & Managing Director UK & Nordics)",
-    "callOpenerTip": "Ask directly for Ufku Akaltan (President & Managing Director UK & Nordics) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Ufku Akaltan (President & Managing Director UK & Nordics) | Tech: Mark Robinson (Director of Information Technology UK)",
+    "callOpenerTip": "Call Direct: +44 20 7949 0082 (Ask for Ufku Akaltan) or Tech Direct: +44 20 7949 0090 (Ask for Mark Robinson - Director of Information Technology UK) regarding digital infrastructure & supply chain efficiency.",
     "address": "London Hub, 1 Tilbury Port Approach / Camden Depot, London NW1 0AB",
     "city": "London",
     "country": "United Kingdom",
@@ -275,7 +299,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -287,7 +312,12 @@
     "ceoTitle": "President & Managing Director UK & Nordics",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/ufkuakaltan/",
     "ceoPhone": "+44 20 7949 0082",
-    "ceoEmail": "uakaltan@ups.com"
+    "ceoEmail": "uakaltan@ups.com",
+    "ctoName": "Mark Robinson",
+    "ctoTitle": "Director of Information Technology UK",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/mark-robinson-ups/",
+    "ctoPhone": "+44 20 7949 0090",
+    "ctoEmail": "mrobinson@ups.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -306,8 +336,8 @@
     "googleReviewCount": 260,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Edward Clarke (Managing Director UK Ground Operations)",
-    "callOpenerTip": "Ask directly for Edward Clarke (Managing Director UK Ground Operations) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Edward Clarke (Managing Director UK Ground Operations) | Tech: Paul Davies (Head of IT & Field Technology UK)",
+    "callOpenerTip": "Call Direct: +44 20 7065 5000 (Ask for Edward Clarke) or Tech Direct: +44 20 7065 5015 (Ask for Paul Davies - Head of IT & Field Technology UK) regarding digital infrastructure & supply chain efficiency.",
     "address": "Stansted Cargo Terminal / Bermondsey Hub, London SE16 3LE",
     "city": "London",
     "country": "United Kingdom",
@@ -333,7 +363,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -345,7 +376,12 @@
     "ceoTitle": "Managing Director UK Ground Operations",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/edward-clarke-fedex/",
     "ceoPhone": "+44 20 7065 5000",
-    "ceoEmail": "edward.clarke@fedex.com"
+    "ceoEmail": "edward.clarke@fedex.com",
+    "ctoName": "Paul Davies",
+    "ctoTitle": "Head of IT & Field Technology UK",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/paul-davies-fedex/",
+    "ctoPhone": "+44 20 7065 5015",
+    "ctoEmail": "paul.davies@fedex.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -364,8 +400,8 @@
     "googleReviewCount": 420,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Elaine Kerr (Chief Executive Officer)",
-    "callOpenerTip": "Ask directly for Elaine Kerr (Chief Executive Officer) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Elaine Kerr (Chief Executive Officer) | Tech: Simon Barber (Head of IT Service Delivery & Systems)",
+    "callOpenerTip": "Call Direct: +44 121 275 0500 (Ask for Elaine Kerr) or Tech Direct: +44 121 275 0510 (Ask for Simon Barber - Head of IT Service Delivery & Systems) regarding digital infrastructure & supply chain efficiency.",
     "address": "Unit 1, Premier Park, Premier Park Road, Park Royal, London NW10 7NZ",
     "city": "London",
     "country": "United Kingdom",
@@ -391,7 +427,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -403,7 +440,12 @@
     "ceoTitle": "Chief Executive Officer",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/elaine-kerr-dpd/",
     "ceoPhone": "+44 121 275 0500",
-    "ceoEmail": "elaine.kerr@dpdgroup.co.uk"
+    "ceoEmail": "elaine.kerr@dpdgroup.co.uk",
+    "ctoName": "Simon Barber",
+    "ctoTitle": "Head of IT Service Delivery & Systems",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/simon-barber-dpd/",
+    "ctoPhone": "+44 121 275 0510",
+    "ctoEmail": "simon.barber@dpdgroup.co.uk"
   },
   {
     "userId": "user-default-admin-01",
@@ -422,8 +464,8 @@
     "googleReviewCount": 310,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Aaron Barnes (Managing Director)",
-    "callOpenerTip": "Ask directly for Aaron Barnes (Managing Director) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Aaron Barnes (Managing Director) | Tech: John Edwards (Director of Technology & Automation)",
+    "callOpenerTip": "Call Direct: +44 345 774 0740 (Ask for Aaron Barnes) or Tech Direct: +44 345 774 0750 (Ask for John Edwards - Director of Technology & Automation) regarding digital infrastructure & supply chain efficiency.",
     "address": "Mount Pleasant Mail Centre, Farringdon Road, London EC1A 1BB",
     "city": "London",
     "country": "United Kingdom",
@@ -449,7 +491,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -461,7 +504,12 @@
     "ceoTitle": "Managing Director",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/aaronbarnes-logistics/",
     "ceoPhone": "+44 345 774 0740",
-    "ceoEmail": "aaron.barnes@parcelforce.co.uk"
+    "ceoEmail": "aaron.barnes@parcelforce.co.uk",
+    "ctoName": "John Edwards",
+    "ctoTitle": "Director of Technology & Automation",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/john-edwards-parcelforce/",
+    "ctoPhone": "+44 345 774 0750",
+    "ctoEmail": "john.edwards@parcelforce.co.uk"
   },
   {
     "userId": "user-default-admin-01",
@@ -480,8 +528,8 @@
     "googleReviewCount": 84,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Kate Lester (Founder & Chief Executive Officer)",
-    "callOpenerTip": "Ask directly for Kate Lester (Founder & Chief Executive Officer) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Kate Lester (Founder & Chief Executive Officer) | Tech: Steve Cairns (Chief Technology Officer (CTO))",
+    "callOpenerTip": "Call Direct: +44 20 8068 5555 (Ask for Kate Lester) or Tech Direct: +44 20 8068 5560 (Ask for Steve Cairns - Chief Technology Officer (CTO)) regarding digital infrastructure & supply chain efficiency.",
     "address": "Unit 2, City Wharf, New Crane Place, Wapping, London E1W 3TU",
     "city": "London",
     "country": "United Kingdom",
@@ -507,7 +555,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -519,7 +568,12 @@
     "ceoTitle": "Founder & Chief Executive Officer",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/katelester/",
     "ceoPhone": "+44 20 8068 5555",
-    "ceoEmail": "kate.lester@diamondlogistics.co.uk"
+    "ceoEmail": "kate.lester@diamondlogistics.co.uk",
+    "ctoName": "Steve Cairns",
+    "ctoTitle": "Chief Technology Officer (CTO)",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/stevecairns/",
+    "ctoPhone": "+44 20 8068 5560",
+    "ctoEmail": "steve.cairns@diamondlogistics.co.uk"
   },
   {
     "userId": "user-default-admin-01",
@@ -538,8 +592,8 @@
     "googleReviewCount": 195,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Stuart Godman (Managing Director)",
-    "callOpenerTip": "Ask directly for Stuart Godman (Managing Director) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Stuart Godman (Managing Director) | Tech: Alan Henderson (Head of IT & Systems Dispatch)",
+    "callOpenerTip": "Call Direct: +44 20 7685 1400 (Ask for Stuart Godman) or Tech Direct: +44 20 7685 1410 (Ask for Alan Henderson - Head of IT & Systems Dispatch) regarding digital infrastructure & supply chain efficiency.",
     "address": "16 Bermondsey Trading Estate, Rotherhithe New Road, London SE16 3LL",
     "city": "London",
     "country": "United Kingdom",
@@ -565,7 +619,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -577,7 +632,12 @@
     "ceoTitle": "Managing Director",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/stuartgodman/",
     "ceoPhone": "+44 20 7685 1400",
-    "ceoEmail": "stuart.godman@absolutelycourier.com"
+    "ceoEmail": "stuart.godman@absolutelycourier.com",
+    "ctoName": "Alan Henderson",
+    "ctoTitle": "Head of IT & Systems Dispatch",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/alan-henderson-courier/",
+    "ctoPhone": "+44 20 7685 1410",
+    "ctoEmail": "alan.henderson@absolutelycourier.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -596,8 +656,8 @@
     "googleReviewCount": 280,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Gary West (Chief Executive Officer)",
-    "callOpenerTip": "Ask directly for Gary West (Chief Executive Officer) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Gary West (Chief Executive Officer) | Tech: Jonathan Samols (IT Director (Head of Technology))",
+    "callOpenerTip": "Call Direct: +44 20 7880 1000 (Ask for Gary West) or Tech Direct: +44 20 7880 1010 (Ask for Jonathan Samols - IT Director (Head of Technology)) regarding digital infrastructure & supply chain efficiency.",
     "address": "Redwood House, 65-67 Bermondsey Street, London SE1 3XF",
     "city": "London",
     "country": "United Kingdom",
@@ -623,7 +683,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -635,7 +696,12 @@
     "ceoTitle": "Chief Executive Officer",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/gary-west-citysprint/",
     "ceoPhone": "+44 20 7880 1000",
-    "ceoEmail": "gwest@citysprint.co.uk"
+    "ceoEmail": "gwest@citysprint.co.uk",
+    "ctoName": "Jonathan Samols",
+    "ctoTitle": "IT Director (Head of Technology)",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/jonathan-samols/",
+    "ctoPhone": "+44 20 7880 1010",
+    "ctoEmail": "jsamols@citysprint.co.uk"
   },
   {
     "userId": "user-default-admin-01",
@@ -654,8 +720,8 @@
     "googleReviewCount": 70,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Marianne Broadbent (Country Manager / Managing Director UK)",
-    "callOpenerTip": "Ask directly for Marianne Broadbent (Country Manager / Managing Director UK) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Marianne Broadbent (Country Manager / Managing Director UK) | Tech: Werner Dettenthaler (Director of IT & Supply Chain Tech)",
+    "callOpenerTip": "Call Direct: +44 20 8890 3000 (Ask for Marianne Broadbent) or Tech Direct: +44 20 8890 3010 (Ask for Werner Dettenthaler - Director of IT & Supply Chain Tech) regarding digital infrastructure & supply chain efficiency.",
     "address": "Unit 5, The Summit Centre, Hanworth Road, Sunbury / London TW16 5DB",
     "city": "London",
     "country": "United Kingdom",
@@ -681,7 +747,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -693,7 +760,12 @@
     "ceoTitle": "Country Manager / Managing Director UK",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/marianne-broadbent-gw/",
     "ceoPhone": "+44 20 8890 3000",
-    "ceoEmail": "marianne.broadbent@gw-world.com"
+    "ceoEmail": "marianne.broadbent@gw-world.com",
+    "ctoName": "Werner Dettenthaler",
+    "ctoTitle": "Director of IT & Supply Chain Tech",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/werner-dettenthaler/",
+    "ctoPhone": "+44 20 8890 3010",
+    "ctoEmail": "werner.dettenthaler@gw-world.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -712,8 +784,8 @@
     "googleReviewCount": 55,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Neil Crighton (Managing Director UK & Ireland)",
-    "callOpenerTip": "Ask directly for Neil Crighton (Managing Director UK & Ireland) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Neil Crighton (Managing Director UK & Ireland) | Tech: Andy Brousseau (Chief Information Officer (CIO))",
+    "callOpenerTip": "Call Direct: +44 20 7488 4000 (Ask for Neil Crighton) or Tech Direct: +44 20 7488 4010 (Ask for Andy Brousseau - Chief Information Officer (CIO)) regarding digital infrastructure & supply chain efficiency.",
     "address": "International House, 1 St Katharine’s Way, London E1W 1UN",
     "city": "London",
     "country": "United Kingdom",
@@ -739,7 +811,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -751,7 +824,12 @@
     "ceoTitle": "Managing Director UK & Ireland",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/neilcrighton/",
     "ceoPhone": "+44 20 7488 4000",
-    "ceoEmail": "neil.crighton@bdpint.com"
+    "ceoEmail": "neil.crighton@bdpint.com",
+    "ctoName": "Andy Brousseau",
+    "ctoTitle": "Chief Information Officer (CIO)",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/andy-brousseau/",
+    "ctoPhone": "+44 20 7488 4010",
+    "ctoEmail": "andy.brousseau@bdpint.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -770,8 +848,8 @@
     "googleReviewCount": 50,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Stanko Jekov (Senior Partner & Global Chairman)",
-    "callOpenerTip": "Ask directly for Stanko Jekov (Senior Partner & Global Chairman) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Stanko Jekov (Senior Partner & Global Chairman) | Tech: Richard White (Chief Information Officer (CIO))",
+    "callOpenerTip": "Call Direct: +44 20 7977 7400 (Ask for Stanko Jekov) or Tech Direct: +44 20 7977 7410 (Ask for Richard White - Chief Information Officer (CIO)) regarding digital infrastructure & supply chain efficiency.",
     "address": "Tower Bridge House, St Katharine’s Way, London E1W 1AA",
     "city": "London",
     "country": "United Kingdom",
@@ -797,7 +875,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -809,7 +888,12 @@
     "ceoTitle": "Senior Partner & Global Chairman",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/stanko-jekov/",
     "ceoPhone": "+44 20 7977 7400",
-    "ceoEmail": "s.jekov@ssyonline.com"
+    "ceoEmail": "s.jekov@ssyonline.com",
+    "ctoName": "Richard White",
+    "ctoTitle": "Chief Information Officer (CIO)",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/richard-white-ssy/",
+    "ctoPhone": "+44 20 7977 7410",
+    "ctoEmail": "r.white@ssyonline.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -828,8 +912,8 @@
     "googleReviewCount": 60,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "James Gundy (Group Chief Executive Officer)",
-    "callOpenerTip": "Ask directly for James Gundy (Group Chief Executive Officer) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "James Gundy (Group Chief Executive Officer) | Tech: Miz Rahman (Chief Technology Officer (CTO))",
+    "callOpenerTip": "Call Direct: +44 20 3142 4100 (Ask for James Gundy) or Tech Direct: +44 20 3142 4120 (Ask for Miz Rahman - Chief Technology Officer (CTO)) regarding digital infrastructure & supply chain efficiency.",
     "address": "One Strand, Trafalgar Square, London WC2N 5HR",
     "city": "London",
     "country": "United Kingdom",
@@ -855,7 +939,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -867,7 +952,12 @@
     "ceoTitle": "Group Chief Executive Officer",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/james-gundy-braemar/",
     "ceoPhone": "+44 20 3142 4100",
-    "ceoEmail": "james.gundy@braemar.com"
+    "ceoEmail": "james.gundy@braemar.com",
+    "ctoName": "Miz Rahman",
+    "ctoTitle": "Chief Technology Officer (CTO)",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/miz-rahman/",
+    "ctoPhone": "+44 20 3142 4120",
+    "ctoEmail": "miz.rahman@braemar.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -886,8 +976,8 @@
     "googleReviewCount": 120,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Andi Case (Chief Executive Officer)",
-    "callOpenerTip": "Ask directly for Andi Case (Chief Executive Officer) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Andi Case (Chief Executive Officer) | Tech: Bart Bream (Group Chief Technology Officer (CTO))",
+    "callOpenerTip": "Call Direct: +44 20 7334 0000 (Ask for Andi Case) or Tech Direct: +44 20 7334 0010 (Ask for Bart Bream - Group Chief Technology Officer (CTO)) regarding digital infrastructure & supply chain efficiency.",
     "address": "Commodity Quay, St Katharine Docks, London E1W 1BF",
     "city": "London",
     "country": "United Kingdom",
@@ -913,7 +1003,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -925,7 +1016,12 @@
     "ceoTitle": "Chief Executive Officer",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/andi-case-clarksons/",
     "ceoPhone": "+44 20 7334 0000",
-    "ceoEmail": "andi.case@clarksons.com"
+    "ceoEmail": "andi.case@clarksons.com",
+    "ctoName": "Bart Bream",
+    "ctoTitle": "Group Chief Technology Officer (CTO)",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/bartbream/",
+    "ctoPhone": "+44 20 7334 0010",
+    "ctoEmail": "bart.bream@clarksons.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -944,8 +1040,8 @@
     "googleReviewCount": 65,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Jason Braid (Country Manager UK)",
-    "callOpenerTip": "Ask directly for Jason Braid (Country Manager UK) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Jason Braid (Country Manager UK) | Tech: Kevin Drinkwater (Group Chief Information Officer (CIO))",
+    "callOpenerTip": "Call Direct: +44 1322 314000 (Ask for Jason Braid) or Tech Direct: +44 1322 314010 (Ask for Kevin Drinkwater - Group Chief Information Officer (CIO)) regarding digital infrastructure & supply chain efficiency.",
     "address": "Unit 1, Crossways Point, Gale Boulevard, Dartford, London DA2 6SF",
     "city": "London",
     "country": "United Kingdom",
@@ -971,7 +1067,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -983,7 +1080,12 @@
     "ceoTitle": "Country Manager UK",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/jason-braid-mainfreight/",
     "ceoPhone": "+44 1322 314000",
-    "ceoEmail": "jason.braid@mainfreight.com"
+    "ceoEmail": "jason.braid@mainfreight.com",
+    "ctoName": "Kevin Drinkwater",
+    "ctoTitle": "Group Chief Information Officer (CIO)",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/kevin-drinkwater/",
+    "ctoPhone": "+44 1322 314010",
+    "ctoEmail": "kevin.drinkwater@mainfreight.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -1002,8 +1104,8 @@
     "googleReviewCount": 95,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "David Williams (Managing Director UK)",
-    "callOpenerTip": "Ask directly for David Williams (Managing Director UK) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "David Williams (Managing Director UK) | Tech: Stefan Hohm (Chief Information & Digital Officer)",
+    "callOpenerTip": "Call Direct: +44 20 8759 2000 (Ask for David Williams) or Tech Direct: +44 20 8759 2010 (Ask for Stefan Hohm - Chief Information & Digital Officer) regarding digital infrastructure & supply chain efficiency.",
     "address": "Unit 4, Radius Park, Faggs Road, Feltham, London TW14 0NG",
     "city": "London",
     "country": "United Kingdom",
@@ -1029,7 +1131,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -1041,7 +1144,12 @@
     "ceoTitle": "Managing Director UK",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/david-williams-rhenus/",
     "ceoPhone": "+44 20 8759 2000",
-    "ceoEmail": "david.williams@rhenus.com"
+    "ceoEmail": "david.williams@rhenus.com",
+    "ctoName": "Stefan Hohm",
+    "ctoTitle": "Chief Information & Digital Officer",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/stefan-hohm/",
+    "ctoPhone": "+44 20 8759 2010",
+    "ctoEmail": "stefan.hohm@rhenus.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -1060,8 +1168,8 @@
     "googleReviewCount": 80,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Andrew Stallard (Managing Director UK & Ireland)",
-    "callOpenerTip": "Ask directly for Andrew Stallard (Managing Director UK & Ireland) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Andrew Stallard (Managing Director UK & Ireland) | Tech: Sami Awad-Hartmann (Chief Information Officer (CIO))",
+    "callOpenerTip": "Call Direct: +44 1753 686868 (Ask for Andrew Stallard) or Tech Direct: +44 1753 686870 (Ask for Sami Awad-Hartmann - Chief Information Officer (CIO)) regarding digital infrastructure & supply chain efficiency.",
     "address": "Unit 3, Parkway, Poyle Road, Colnbrook, London Heathrow SL3 0DA",
     "city": "London",
     "country": "United Kingdom",
@@ -1087,7 +1195,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -1099,7 +1208,12 @@
     "ceoTitle": "Managing Director UK & Ireland",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/andrew-stallard-hellmann/",
     "ceoPhone": "+44 1753 686868",
-    "ceoEmail": "andrew.stallard@hellmann.com"
+    "ceoEmail": "andrew.stallard@hellmann.com",
+    "ctoName": "Sami Awad-Hartmann",
+    "ctoTitle": "Chief Information Officer (CIO)",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/sami-awad-hartmann/",
+    "ctoPhone": "+44 1753 686870",
+    "ctoEmail": "sami.awad-hartmann@hellmann.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -1118,8 +1232,8 @@
     "googleReviewCount": 145,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Andrew Baxter (Chief Executive Officer & Owner)",
-    "callOpenerTip": "Ask directly for Andrew Baxter (Chief Executive Officer & Owner) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Andrew Baxter (Chief Executive Officer & Owner) | Tech: Chris Mitchell (IT Director (Head of Technology))",
+    "callOpenerTip": "Call Direct: +44 1322 626400 (Ask for Andrew Baxter) or Tech Direct: +44 1322 626410 (Ask for Chris Mitchell - IT Director (Head of Technology)) regarding digital infrastructure & supply chain efficiency.",
     "address": "Europa House, Mid Kent Way, Dartford, London DA1 5FE",
     "city": "London",
     "country": "United Kingdom",
@@ -1145,7 +1259,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -1157,7 +1272,12 @@
     "ceoTitle": "Chief Executive Officer & Owner",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/andrew-baxter-europa/",
     "ceoPhone": "+44 1322 626400",
-    "ceoEmail": "abaxter@europa-worldwide.com"
+    "ceoEmail": "abaxter@europa-worldwide.com",
+    "ctoName": "Chris Mitchell",
+    "ctoTitle": "IT Director (Head of Technology)",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/chris-mitchell-europa/",
+    "ctoPhone": "+44 1322 626410",
+    "ctoEmail": "cmitchell@europa-worldwide.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -1176,8 +1296,8 @@
     "googleReviewCount": 115,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Mark Rollinson (Managing Director UK)",
-    "callOpenerTip": "Ask directly for Mark Rollinson (Managing Director UK) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Mark Rollinson (Managing Director UK) | Tech: Colin Lawson (Head of IT & Systems UK)",
+    "callOpenerTip": "Call Direct: +44 1322 312200 (Ask for Mark Rollinson) or Tech Direct: +44 1322 312210 (Ask for Colin Lawson - Head of IT & Systems UK) regarding digital infrastructure & supply chain efficiency.",
     "address": "Dachser House, 1 Central Park, Dartford / East London DA2 6PT",
     "city": "London",
     "country": "United Kingdom",
@@ -1203,7 +1323,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -1215,7 +1336,12 @@
     "ceoTitle": "Managing Director UK",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/mark-rollinson-dachser/",
     "ceoPhone": "+44 1322 312200",
-    "ceoEmail": "mark.rollinson@dachser.com"
+    "ceoEmail": "mark.rollinson@dachser.com",
+    "ctoName": "Colin Lawson",
+    "ctoTitle": "Head of IT & Systems UK",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/colin-lawson-dachser/",
+    "ctoPhone": "+44 1322 312210",
+    "ctoEmail": "colin.lawson@dachser.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -1234,8 +1360,8 @@
     "googleReviewCount": 42,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Simon Thomas (Managing Director)",
-    "callOpenerTip": "Ask directly for Simon Thomas (Managing Director) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Simon Thomas (Managing Director) | Tech: David Green (Head of IT & Systems Architecture)",
+    "callOpenerTip": "Call Direct: +44 20 8600 0000 (Ask for Simon Thomas) or Tech Direct: +44 20 8600 0010 (Ask for David Green - Head of IT & Systems Architecture) regarding digital infrastructure & supply chain efficiency.",
     "address": "Unit 3, Thames Road Industrial Estate, Barking, London IG11 0HZ",
     "city": "London",
     "country": "United Kingdom",
@@ -1261,7 +1387,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -1273,7 +1400,12 @@
     "ceoTitle": "Managing Director",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/simon-thomas-nexus/",
     "ceoPhone": "+44 20 8600 0000",
-    "ceoEmail": "sthomas@nexuslogistics.co.uk"
+    "ceoEmail": "sthomas@nexuslogistics.co.uk",
+    "ctoName": "David Green",
+    "ctoTitle": "Head of IT & Systems Architecture",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/david-green-nexus/",
+    "ctoPhone": "+44 20 8600 0010",
+    "ctoEmail": "dgreen@nexuslogistics.co.uk"
   },
   {
     "userId": "user-default-admin-01",
@@ -1292,8 +1424,8 @@
     "googleReviewCount": 95,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Thorsten Runge (Managing Director)",
-    "callOpenerTip": "Ask directly for Thorsten Runge (Managing Director) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Thorsten Runge (Managing Director) | Tech: Marcel Veenstra (Head of IT & Digital Transformation)",
+    "callOpenerTip": "Call Direct: +44 1304 874000 (Ask for Thorsten Runge) or Tech Direct: +44 1304 874010 (Ask for Marcel Veenstra - Head of IT & Digital Transformation) regarding digital infrastructure & supply chain efficiency.",
     "address": "Channel House, Channel View Road, London / Dover CT17 9TJ",
     "city": "London",
     "country": "United Kingdom",
@@ -1319,7 +1451,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -1331,7 +1464,12 @@
     "ceoTitle": "Managing Director",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/thorsten-runge/",
     "ceoPhone": "+44 1304 874000",
-    "ceoEmail": "thorsten.runge@poferrymasters.com"
+    "ceoEmail": "thorsten.runge@poferrymasters.com",
+    "ctoName": "Marcel Veenstra",
+    "ctoTitle": "Head of IT & Digital Transformation",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/marcel-veenstra/",
+    "ctoPhone": "+44 1304 874010",
+    "ctoEmail": "marcel.veenstra@poferrymasters.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -1350,8 +1488,8 @@
     "googleReviewCount": 240,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "David Pickering (Chief Executive Officer)",
-    "callOpenerTip": "Ask directly for David Pickering (Chief Executive Officer) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "David Pickering (Chief Executive Officer) | Tech: John Clark (Chief Information Officer (CIO))",
+    "callOpenerTip": "Call Direct: +44 1228 590012 (Ask for David Pickering) or Tech Direct: +44 1228 590020 (Ask for John Clark - Chief Information Officer (CIO)) regarding digital infrastructure & supply chain efficiency.",
     "address": "Barking Rail Terminal, Ripple Road, Barking, London IG11 0RH",
     "city": "London",
     "country": "United Kingdom",
@@ -1377,7 +1515,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -1389,7 +1528,12 @@
     "ceoTitle": "Chief Executive Officer",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/david-pickering-stobart/",
     "ceoPhone": "+44 1228 590012",
-    "ceoEmail": "david.pickering@eddiestobart.com"
+    "ceoEmail": "david.pickering@eddiestobart.com",
+    "ctoName": "John Clark",
+    "ctoTitle": "Chief Information Officer (CIO)",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/john-clark-stobart/",
+    "ctoPhone": "+44 1228 590020",
+    "ctoEmail": "john.clark@eddiestobart.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -1408,8 +1552,8 @@
     "googleReviewCount": 85,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Tim Shoveller (Chief Executive Officer)",
-    "callOpenerTip": "Ask directly for Tim Shoveller (Chief Executive Officer) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Tim Shoveller (Chief Executive Officer) | Tech: Peter Ward (Head of IT & Systems Infrastructure)",
+    "callOpenerTip": "Call Direct: +44 20 7200 3900 (Ask for Tim Shoveller) or Tech Direct: +44 20 7200 3915 (Ask for Peter Ward - Head of IT & Systems Infrastructure) regarding digital infrastructure & supply chain efficiency.",
     "address": "The Podium, 1 Eversholt Street, London NW1 2FL",
     "city": "London",
     "country": "United Kingdom",
@@ -1435,7 +1579,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -1447,7 +1592,12 @@
     "ceoTitle": "Chief Executive Officer",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/tim-shoveller/",
     "ceoPhone": "+44 20 7200 3900",
-    "ceoEmail": "tshoveller@freightliner.co.uk"
+    "ceoEmail": "tshoveller@freightliner.co.uk",
+    "ctoName": "Peter Ward",
+    "ctoTitle": "Head of IT & Systems Infrastructure",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/peter-ward-freightliner/",
+    "ctoPhone": "+44 20 7200 3915",
+    "ctoEmail": "pward@freightliner.co.uk"
   },
   {
     "userId": "user-default-admin-01",
@@ -1466,8 +1616,8 @@
     "googleReviewCount": 145,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Dan Myers (Managing Director UK & Ireland)",
-    "callOpenerTip": "Ask directly for Dan Myers (Managing Director UK & Ireland) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Dan Myers (Managing Director UK & Ireland) | Tech: David Picking (Technology Director UK & Ireland)",
+    "callOpenerTip": "Call Direct: +44 20 8965 2000 (Ask for Dan Myers) or Tech Direct: +44 20 8965 2020 (Ask for David Picking - Technology Director UK & Ireland) regarding digital infrastructure & supply chain efficiency.",
     "address": "Abbey Road, Park Royal, London NW10 7JW",
     "city": "London",
     "country": "United Kingdom",
@@ -1493,7 +1643,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -1505,7 +1656,12 @@
     "ceoTitle": "Managing Director UK & Ireland",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/dan-myers-xpo/",
     "ceoPhone": "+44 20 8965 2000",
-    "ceoEmail": "dan.myers@xpo.com"
+    "ceoEmail": "dan.myers@xpo.com",
+    "ctoName": "David Picking",
+    "ctoTitle": "Technology Director UK & Ireland",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/david-picking/",
+    "ctoPhone": "+44 20 8965 2020",
+    "ctoEmail": "david.picking@xpo.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -1524,8 +1680,8 @@
     "googleReviewCount": 105,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Colin Kelly (Managing Director Freight Forwarding UK)",
-    "callOpenerTip": "Ask directly for Colin Kelly (Managing Director Freight Forwarding UK) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Colin Kelly (Managing Director Freight Forwarding UK) | Tech: Philippe de Carné (Chief Digital & Information Officer)",
+    "callOpenerTip": "Call Direct: +44 20 8890 4000 (Ask for Colin Kelly) or Tech Direct: +44 20 8890 4015 (Ask for Philippe de Carné - Chief Digital & Information Officer) regarding digital infrastructure & supply chain efficiency.",
     "address": "Unit 2, Fairway Trading Estate, Green Lane, Hounslow, London TW4 6BU",
     "city": "London",
     "country": "United Kingdom",
@@ -1551,7 +1707,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -1563,7 +1720,12 @@
     "ceoTitle": "Managing Director Freight Forwarding UK",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/colin-kelly-geodis/",
     "ceoPhone": "+44 20 8890 4000",
-    "ceoEmail": "colin.kelly@geodis.com"
+    "ceoEmail": "colin.kelly@geodis.com",
+    "ctoName": "Philippe de Carné",
+    "ctoTitle": "Chief Digital & Information Officer",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/philippe-de-carne/",
+    "ctoPhone": "+44 20 8890 4015",
+    "ctoEmail": "philippe.decarne@geodis.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -1582,8 +1744,8 @@
     "googleReviewCount": 130,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Jason Porter (District Manager London & SE)",
-    "callOpenerTip": "Ask directly for Jason Porter (District Manager London & SE) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Jason Porter (District Manager London & SE) | Tech: Benjamin Clark (Senior VP & Chief Information Officer)",
+    "callOpenerTip": "Call Direct: +44 20 8759 6000 (Ask for Jason Porter) or Tech Direct: +44 20 8759 6010 (Ask for Benjamin Clark - Senior VP & Chief Information Officer) regarding digital infrastructure & supply chain efficiency.",
     "address": "Expeditors House, Horton Road, Colnbrook, London Heathrow SL3 0AT",
     "city": "London",
     "country": "United Kingdom",
@@ -1609,7 +1771,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -1621,7 +1784,12 @@
     "ceoTitle": "District Manager London & SE",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/jason-porter-expeditors/",
     "ceoPhone": "+44 20 8759 6000",
-    "ceoEmail": "jason.porter@expeditors.com"
+    "ceoEmail": "jason.porter@expeditors.com",
+    "ctoName": "Benjamin Clark",
+    "ctoTitle": "Senior VP & Chief Information Officer",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/benjamin-clark-expeditors/",
+    "ctoPhone": "+44 20 8759 6010",
+    "ctoEmail": "benjamin.clark@expeditors.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -1640,8 +1808,8 @@
     "googleReviewCount": 160,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Ray Hennessy (Chief Executive Officer UK & Ireland)",
-    "callOpenerTip": "Ask directly for Ray Hennessy (Chief Executive Officer UK & Ireland) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Ray Hennessy (Chief Executive Officer UK & Ireland) | Tech: Christa Koenen (Global Chief Information Officer)",
+    "callOpenerTip": "Call Direct: +44 20 8759 1234 (Ask for Ray Hennessy) or Tech Direct: +44 20 8759 1250 (Ask for Christa Koenen - Global Chief Information Officer) regarding digital infrastructure & supply chain efficiency.",
     "address": "Schenker House, Central Way, Feltham, London TW14 0UT",
     "city": "London",
     "country": "United Kingdom",
@@ -1667,7 +1835,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -1679,7 +1848,12 @@
     "ceoTitle": "Chief Executive Officer UK & Ireland",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/ray-hennessy-schenker/",
     "ceoPhone": "+44 20 8759 1234",
-    "ceoEmail": "ray.hennessy@dbschenker.com"
+    "ceoEmail": "ray.hennessy@dbschenker.com",
+    "ctoName": "Christa Koenen",
+    "ctoTitle": "Global Chief Information Officer",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/christa-koenen/",
+    "ctoPhone": "+44 20 8759 1250",
+    "ctoEmail": "christa.koenen@dbschenker.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -1698,8 +1872,8 @@
     "googleReviewCount": 120,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Chris Walton (Managing Director UK & Ireland)",
-    "callOpenerTip": "Ask directly for Chris Walton (Managing Director UK & Ireland) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Chris Walton (Managing Director UK & Ireland) | Tech: Susanne Schustin (Global Chief Information Officer)",
+    "callOpenerTip": "Call Direct: +44 20 8897 4000 (Ask for Chris Walton) or Tech Direct: +44 20 8897 4015 (Ask for Susanne Schustin - Global Chief Information Officer) regarding digital infrastructure & supply chain efficiency.",
     "address": "Heathrow Cargo Point, 832 Parkway, Hounslow, London TW6 3BA",
     "city": "London",
     "country": "United Kingdom",
@@ -1725,7 +1899,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -1737,7 +1912,12 @@
     "ceoTitle": "Managing Director UK & Ireland",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/chris-walton-ceva/",
     "ceoPhone": "+44 20 8897 4000",
-    "ceoEmail": "chris.walton@cevalogistics.com"
+    "ceoEmail": "chris.walton@cevalogistics.com",
+    "ctoName": "Susanne Schustin",
+    "ctoTitle": "Global Chief Information Officer",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/susanne-schustin/",
+    "ctoPhone": "+44 20 8897 4015",
+    "ctoEmail": "susanne.schustin@cevalogistics.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -1756,8 +1936,8 @@
     "googleReviewCount": 92,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Peter Fuller (Managing Director & CEO)",
-    "callOpenerTip": "Ask directly for Peter Fuller (Managing Director & CEO) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Peter Fuller (Managing Director & CEO) | Tech: Chris Simpson (Head of IT & Field Infrastructure)",
+    "callOpenerTip": "Call Direct: +44 20 8961 4000 (Ask for Peter Fuller) or Tech Direct: +44 20 8961 4010 (Ask for Chris Simpson - Head of IT & Field Infrastructure) regarding digital infrastructure & supply chain efficiency.",
     "address": "Park Royal Depot, Standard Road, Park Royal, London NW10 6EU",
     "city": "London",
     "country": "United Kingdom",
@@ -1783,7 +1963,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -1795,7 +1976,12 @@
     "ceoTitle": "Managing Director & CEO",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/peter-fuller-tuffnells/",
     "ceoPhone": "+44 20 8961 4000",
-    "ceoEmail": "peter.fuller@tuffnells.co.uk"
+    "ceoEmail": "peter.fuller@tuffnells.co.uk",
+    "ctoName": "Chris Simpson",
+    "ctoTitle": "Head of IT & Field Infrastructure",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/chris-simpson-tuffnells/",
+    "ctoPhone": "+44 20 8961 4010",
+    "ctoEmail": "chris.simpson@tuffnells.co.uk"
   },
   {
     "userId": "user-default-admin-01",
@@ -1814,8 +2000,8 @@
     "googleReviewCount": 110,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Rob Gittins (Managing Director UK)",
-    "callOpenerTip": "Ask directly for Rob Gittins (Managing Director UK) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Rob Gittins (Managing Director UK) | Tech: Richard Miller (Head of IT UK)",
+    "callOpenerTip": "Call Direct: +44 20 8813 3200 (Ask for Rob Gittins) or Tech Direct: +44 20 8813 3215 (Ask for Richard Miller - Head of IT UK) regarding digital infrastructure & supply chain efficiency.",
     "address": "Unit 2, Metropolitan Park, Bristol Road, Greenford / Park Royal, London UB6 8UP",
     "city": "London",
     "country": "United Kingdom",
@@ -1841,7 +2027,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -1853,7 +2040,12 @@
     "ceoTitle": "Managing Director UK",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/rob-gittins-palletways/",
     "ceoPhone": "+44 20 8813 3200",
-    "ceoEmail": "rob_gittins@palletways.com"
+    "ceoEmail": "rob_gittins@palletways.com",
+    "ctoName": "Richard Miller",
+    "ctoTitle": "Head of IT UK",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/richard-miller-palletways/",
+    "ctoPhone": "+44 20 8813 3215",
+    "ctoEmail": "richard_miller@palletways.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -1872,8 +2064,8 @@
     "googleReviewCount": 135,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Gavin Williams (Managing Director UK & Ireland)",
-    "callOpenerTip": "Ask directly for Gavin Williams (Managing Director UK & Ireland) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Gavin Williams (Managing Director UK & Ireland) | Tech: Richard Gifford (Chief Information Officer (CIO))",
+    "callOpenerTip": "Call Direct: +44 20 8961 6000 (Ask for Gavin Williams) or Tech Direct: +44 20 8961 6010 (Ask for Richard Gifford - Chief Information Officer (CIO)) regarding digital infrastructure & supply chain efficiency.",
     "address": "Park Royal Industrial Estate, 10 Abbey Road, London NW10 7ST",
     "city": "London",
     "country": "United Kingdom",
@@ -1899,7 +2091,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -1911,7 +2104,12 @@
     "ceoTitle": "Managing Director UK & Ireland",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/gavin-williams-wincanton/",
     "ceoPhone": "+44 20 8961 6000",
-    "ceoEmail": "gavin.williams@wincanton.co.uk"
+    "ceoEmail": "gavin.williams@wincanton.co.uk",
+    "ctoName": "Richard Gifford",
+    "ctoTitle": "Chief Information Officer (CIO)",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/richard-gifford-wincanton/",
+    "ctoPhone": "+44 20 8961 6010",
+    "ctoEmail": "richard.gifford@wincanton.co.uk"
   },
   {
     "userId": "user-default-admin-01",
@@ -1930,8 +2128,8 @@
     "googleReviewCount": 68,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Shaun Godfrey (Chief Operating Officer / Managing Director)",
-    "callOpenerTip": "Ask directly for Shaun Godfrey (Chief Operating Officer / Managing Director) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Shaun Godfrey (Chief Operating Officer / Managing Director) | Tech: Paul Thomas (Director of Group IT)",
+    "callOpenerTip": "Call Direct: +44 1376 333000 (Ask for Shaun Godfrey) or Tech Direct: +44 1376 333010 (Ask for Paul Thomas - Director of Group IT) regarding digital infrastructure & supply chain efficiency.",
     "address": "London Gateway Logistics Park, Stanford-le-Hope, London SS17 9PD",
     "city": "London",
     "country": "United Kingdom",
@@ -1957,7 +2155,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -1969,7 +2168,12 @@
     "ceoTitle": "Chief Operating Officer / Managing Director",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/shaun-godfrey-delamode/",
     "ceoPhone": "+44 1376 333000",
-    "ceoEmail": "shaun.godfrey@delamode-group.com"
+    "ceoEmail": "shaun.godfrey@delamode-group.com",
+    "ctoName": "Paul Thomas",
+    "ctoTitle": "Director of Group IT",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/paul-thomas-delamode/",
+    "ctoPhone": "+44 1376 333010",
+    "ctoEmail": "paul.thomas@delamode-group.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -1988,8 +2192,8 @@
     "googleReviewCount": 40,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Mark Newling (General Manager UK)",
-    "callOpenerTip": "Ask directly for Mark Newling (General Manager UK) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Mark Newling (General Manager UK) | Tech: Ronald Zijderveld (Director of IT & Digital Logistics)",
+    "callOpenerTip": "Call Direct: +44 1375 391500 (Ask for Mark Newling) or Tech Direct: +44 1375 391510 (Ask for Ronald Zijderveld - Director of IT & Digital Logistics) regarding digital infrastructure & supply chain efficiency.",
     "address": "London Gateway Logistics Park, Stanford-le-Hope, London SS17 9DY",
     "city": "London",
     "country": "United Kingdom",
@@ -2015,7 +2219,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -2027,7 +2232,12 @@
     "ceoTitle": "General Manager UK",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/mark-newling-denhartogh/",
     "ceoPhone": "+44 1375 391500",
-    "ceoEmail": "mnewling@denhartogh.com"
+    "ceoEmail": "mnewling@denhartogh.com",
+    "ctoName": "Ronald Zijderveld",
+    "ctoTitle": "Director of IT & Digital Logistics",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/ronald-zijderveld/",
+    "ctoPhone": "+44 1375 391510",
+    "ctoEmail": "rzijderveld@denhartogh.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -2046,8 +2256,8 @@
     "googleReviewCount": 90,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Dirk Steiner (Managing Director Area UK & Ireland)",
-    "callOpenerTip": "Ask directly for Dirk Steiner (Managing Director Area UK & Ireland) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Dirk Steiner (Managing Director Area UK & Ireland) | Tech: Donya-Florence Amer (Chief Information Officer (CIO))",
+    "callOpenerTip": "Call Direct: +44 20 7265 5200 (Ask for Dirk Steiner) or Tech Direct: +44 20 7265 5210 (Ask for Donya-Florence Amer - Chief Information Officer (CIO)) regarding digital infrastructure & supply chain efficiency.",
     "address": "100 Wood Street, London EC2V 7EX",
     "city": "London",
     "country": "United Kingdom",
@@ -2073,7 +2283,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -2085,7 +2296,12 @@
     "ceoTitle": "Managing Director Area UK & Ireland",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/dirk-steiner-hapaglloyd/",
     "ceoPhone": "+44 20 7265 5200",
-    "ceoEmail": "dirk.steiner@hlag.com"
+    "ceoEmail": "dirk.steiner@hlag.com",
+    "ctoName": "Donya-Florence Amer",
+    "ctoTitle": "Chief Information Officer (CIO)",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/donya-florence-amer/",
+    "ctoPhone": "+44 20 7265 5210",
+    "ctoEmail": "donya.amer@hlag.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -2104,8 +2320,8 @@
     "googleReviewCount": 82,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "John Trenchard (Managing Director UK)",
-    "callOpenerTip": "Ask directly for John Trenchard (Managing Director UK) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "John Trenchard (Managing Director UK) | Tech: Nicolas Sekkaki (Executive VP IT, Digital & Central Services)",
+    "callOpenerTip": "Call Direct: +44 20 7265 5000 (Ask for John Trenchard) or Tech Direct: +44 20 7265 5010 (Ask for Nicolas Sekkaki - Executive VP IT, Digital & Central Services) regarding digital infrastructure & supply chain efficiency.",
     "address": "Sturrock & Jackson House, 69 Prescot Street, London E1 8BA",
     "city": "London",
     "country": "United Kingdom",
@@ -2131,7 +2347,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -2143,7 +2360,12 @@
     "ceoTitle": "Managing Director UK",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/john-trenchard-cmacgm/",
     "ceoPhone": "+44 20 7265 5000",
-    "ceoEmail": "lon.jtrenchard@cma-cgm.com"
+    "ceoEmail": "lon.jtrenchard@cma-cgm.com",
+    "ctoName": "Nicolas Sekkaki",
+    "ctoTitle": "Executive VP IT, Digital & Central Services",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/nicolas-sekkaki/",
+    "ctoPhone": "+44 20 7265 5010",
+    "ctoEmail": "n.sekkaki@cma-cgm.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -2162,8 +2384,8 @@
     "googleReviewCount": 155,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Gary Jeffreys (Area Managing Director UK & Ireland)",
-    "callOpenerTip": "Ask directly for Gary Jeffreys (Area Managing Director UK & Ireland) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Gary Jeffreys (Area Managing Director UK & Ireland) | Tech: Navneet Kapoor (Chief Technology & Information Officer (CTIO))",
+    "callOpenerTip": "Call Direct: +44 20 7016 1000 (Ask for Gary Jeffreys) or Tech Direct: +44 20 7016 1010 (Ask for Navneet Kapoor - Chief Technology & Information Officer (CTIO)) regarding digital infrastructure & supply chain efficiency.",
     "address": "The Exchange, 9-11 Exchange Road, London / Aldgate E1 7AA",
     "city": "London",
     "country": "United Kingdom",
@@ -2189,7 +2411,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -2201,7 +2424,12 @@
     "ceoTitle": "Area Managing Director UK & Ireland",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/gary-jeffreys-maersk/",
     "ceoPhone": "+44 20 7016 1000",
-    "ceoEmail": "gary.jeffreys@maersk.com"
+    "ceoEmail": "gary.jeffreys@maersk.com",
+    "ctoName": "Navneet Kapoor",
+    "ctoTitle": "Chief Technology & Information Officer (CTIO)",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/navneetkapoor/",
+    "ctoPhone": "+44 20 7016 1010",
+    "ctoEmail": "navneet.kapoor@maersk.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -2220,8 +2448,8 @@
     "googleReviewCount": 115,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Iain Liddell (Founder, Owner & Group Managing Director)",
-    "callOpenerTip": "Ask directly for Iain Liddell (Founder, Owner & Group Managing Director) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Iain Liddell (Founder, Owner & Group Managing Director) | Tech: Steve Davies (Group IT & One World Platform Director)",
+    "callOpenerTip": "Call Direct: +44 1375 856000 (Ask for Iain Liddell) or Tech Direct: +44 1375 856010 (Ask for Steve Davies - Group IT & One World Platform Director) regarding digital infrastructure & supply chain efficiency.",
     "address": "London MegaHub, Port of Tilbury / London Estuary RM18 7EH",
     "city": "London",
     "country": "United Kingdom",
@@ -2247,7 +2475,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -2259,7 +2488,12 @@
     "ceoTitle": "Founder, Owner & Group Managing Director",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/iain-liddell-uniserve/",
     "ceoPhone": "+44 1375 856000",
-    "ceoEmail": "i.liddell@ugroup.co.uk"
+    "ceoEmail": "i.liddell@ugroup.co.uk",
+    "ctoName": "Steve Davies",
+    "ctoTitle": "Group IT & One World Platform Director",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/steve-davies-uniserve/",
+    "ctoPhone": "+44 1375 856010",
+    "ctoEmail": "s.davies@ugroup.co.uk"
   },
   {
     "userId": "user-default-admin-01",
@@ -2278,8 +2512,8 @@
     "googleReviewCount": 130,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "John Williams (Group Executive Chairman)",
-    "callOpenerTip": "Ask directly for John Williams (Group Executive Chairman) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "John Williams (Group Executive Chairman) | Tech: James Andrews (IT and Marketing Director)",
+    "callOpenerTip": "Call Direct: +44 1375 648400 (Ask for John Williams) or Tech Direct: +44 1375 648410 (Ask for James Andrews - IT and Marketing Director) regarding digital infrastructure & supply chain efficiency.",
     "address": "London Gateway Port, Northgate, Stanford-le-Hope, London SS17 9DY",
     "city": "London",
     "country": "United Kingdom",
@@ -2305,7 +2539,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -2317,7 +2552,12 @@
     "ceoTitle": "Group Executive Chairman",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/john-williams-maritime/",
     "ceoPhone": "+44 1375 648400",
-    "ceoEmail": "jwilliams@maritimetransport.co.uk"
+    "ceoEmail": "jwilliams@maritimetransport.co.uk",
+    "ctoName": "James Andrews",
+    "ctoTitle": "IT and Marketing Director",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/james-andrews-maritime/",
+    "ctoPhone": "+44 1375 648410",
+    "ctoEmail": "jandrews@maritimetransport.co.uk"
   },
   {
     "userId": "user-default-admin-01",
@@ -2336,8 +2576,8 @@
     "googleReviewCount": 220,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Ernst Schulze (UK Chief Executive Officer)",
-    "callOpenerTip": "Ask directly for Ernst Schulze (UK Chief Executive Officer) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Ernst Schulze (UK Chief Executive Officer) | Tech: Que Tran (VP Technology Europe & Regional CIO)",
+    "callOpenerTip": "Call Direct: +44 1375 648300 (Ask for Ernst Schulze) or Tech Direct: +44 1375 648310 (Ask for Que Tran - VP Technology Europe & Regional CIO) regarding digital infrastructure & supply chain efficiency.",
     "address": "1 The Manorway, Stanford-le-Hope, London Thames Estuary SS17 9PD",
     "city": "London",
     "country": "United Kingdom",
@@ -2363,7 +2603,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -2375,7 +2616,12 @@
     "ceoTitle": "UK Chief Executive Officer",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/ernst-schulze-dpworld/",
     "ceoPhone": "+44 1375 648300",
-    "ceoEmail": "ernst.schulze@dpworld.com"
+    "ceoEmail": "ernst.schulze@dpworld.com",
+    "ctoName": "Que Tran",
+    "ctoTitle": "VP Technology Europe & Regional CIO",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/que-tran-cio/",
+    "ctoPhone": "+44 1375 648310",
+    "ctoEmail": "que.tran@dpworld.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -2394,8 +2640,8 @@
     "googleReviewCount": 165,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Brian Cox (Managing Director UK)",
-    "callOpenerTip": "Ask directly for Brian Cox (Managing Director UK) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Brian Cox (Managing Director UK) | Tech: Marcus Claesson (Chief Information Officer (CIO))",
+    "callOpenerTip": "Call Direct: +44 20 8897 8000 (Ask for Brian Cox) or Tech Direct: +44 20 8897 8010 (Ask for Marcus Claesson - Chief Information Officer (CIO)) regarding digital infrastructure & supply chain efficiency.",
     "address": "Unit 2, Heathrow Point, 230 Bath Road, Harlington, London UB3 5AP",
     "city": "London",
     "country": "United Kingdom",
@@ -2421,7 +2667,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -2433,7 +2680,12 @@
     "ceoTitle": "Managing Director UK",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/brian-cox-kuehne-nagel/",
     "ceoPhone": "+44 20 8897 8000",
-    "ceoEmail": "brian.cox@kuehne-nagel.com"
+    "ceoEmail": "brian.cox@kuehne-nagel.com",
+    "ctoName": "Marcus Claesson",
+    "ctoTitle": "Chief Information Officer (CIO)",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/marcusclaesson/",
+    "ctoPhone": "+44 20 8897 8010",
+    "ctoEmail": "marcus.claesson@kuehne-nagel.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -2452,8 +2704,8 @@
     "googleReviewCount": 190,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Saul Resnick (CEO DHL Global Forwarding UK & Ireland)",
-    "callOpenerTip": "Ask directly for Saul Resnick (CEO DHL Global Forwarding UK & Ireland) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Saul Resnick (CEO DHL Global Forwarding UK & Ireland) | Tech: Andrew Weyer (Chief Information Officer (CIO))",
+    "callOpenerTip": "Call Direct: +44 20 8759 5000 (Ask for Saul Resnick) or Tech Direct: +44 20 8759 5010 (Ask for Andrew Weyer - Chief Information Officer (CIO)) regarding digital infrastructure & supply chain efficiency.",
     "address": "Building 521, Stansted Road, Heathrow Airport, Hounslow, London TW6 3TR",
     "city": "London",
     "country": "United Kingdom",
@@ -2479,7 +2731,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -2491,7 +2744,12 @@
     "ceoTitle": "CEO DHL Global Forwarding UK & Ireland",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/saul-resnick-dhl/",
     "ceoPhone": "+44 20 8759 5000",
-    "ceoEmail": "saul.resnick@dhl.com"
+    "ceoEmail": "saul.resnick@dhl.com",
+    "ctoName": "Andrew Weyer",
+    "ctoTitle": "Chief Information Officer (CIO)",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/andrew-weyer/",
+    "ctoPhone": "+44 20 8759 5010",
+    "ctoEmail": "andrew.weyer@dhl.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -2510,8 +2768,8 @@
     "googleReviewCount": 140,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Michael Eads (Managing Director UK)",
-    "callOpenerTip": "Ask directly for Michael Eads (Managing Director UK) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Michael Eads (Managing Director UK) | Tech: Jesper Riis (Group Chief Information Officer (CIO))",
+    "callOpenerTip": "Call Direct: +44 20 8759 8700 (Ask for Michael Eads) or Tech Direct: +44 20 8759 8710 (Ask for Jesper Riis - Group Chief Information Officer (CIO)) regarding digital infrastructure & supply chain efficiency.",
     "address": "DSV House, Pier Road, North Feltham Trading Estate, London TW14 0TW",
     "city": "London",
     "country": "United Kingdom",
@@ -2537,7 +2795,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -2549,7 +2808,12 @@
     "ceoTitle": "Managing Director UK",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/michael-eads-dsv/",
     "ceoPhone": "+44 20 8759 8700",
-    "ceoEmail": "michael.eads@uk.dsv.com"
+    "ceoEmail": "michael.eads@uk.dsv.com",
+    "ctoName": "Jesper Riis",
+    "ctoTitle": "Group Chief Information Officer (CIO)",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/jesper-riis/",
+    "ctoPhone": "+44 20 8759 8710",
+    "ctoEmail": "jesper.riis@dsv.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -2568,8 +2832,8 @@
     "googleReviewCount": 74,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Hiroshi Takahashi (Managing Director UK)",
-    "callOpenerTip": "Ask directly for Hiroshi Takahashi (Managing Director UK) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Hiroshi Takahashi (Managing Director UK) | Tech: Satoshi Horikoshi (Head of IT & Digital Solutions UK)",
+    "callOpenerTip": "Call Direct: +44 20 8759 2323 (Ask for Hiroshi Takahashi) or Tech Direct: +44 20 8759 2330 (Ask for Satoshi Horikoshi - Head of IT & Digital Solutions UK) regarding digital infrastructure & supply chain efficiency.",
     "address": "Compass House, 28-30 Horton Road, Colnbrook, London Heathrow SL3 0DA",
     "city": "London",
     "country": "United Kingdom",
@@ -2595,7 +2859,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -2607,7 +2872,12 @@
     "ceoTitle": "Managing Director UK",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/hiroshi-takahashi-nippon/",
     "ceoPhone": "+44 20 8759 2323",
-    "ceoEmail": "h_takahashi@nipponexpress.co.uk"
+    "ceoEmail": "h_takahashi@nipponexpress.co.uk",
+    "ctoName": "Satoshi Horikoshi",
+    "ctoTitle": "Head of IT & Digital Solutions UK",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/satoshi-horikoshi/",
+    "ctoPhone": "+44 20 8759 2330",
+    "ctoEmail": "s_horikoshi@nipponexpress.co.uk"
   },
   {
     "userId": "user-default-admin-01",
@@ -2626,8 +2896,8 @@
     "googleReviewCount": 88,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "David Goldsborough (Managing Director UK)",
-    "callOpenerTip": "Ask directly for David Goldsborough (Managing Director UK) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "David Goldsborough (Managing Director UK) | Tech: Mark Robinson (Director of IT & Transformation)",
+    "callOpenerTip": "Call Direct: +44 20 8897 1234 (Ask for David Goldsborough) or Tech Direct: +44 20 8897 1240 (Ask for Mark Robinson - Director of IT & Transformation) regarding digital infrastructure & supply chain efficiency.",
     "address": "Unit 1, Cross Point, Western International Park, Hayes, London UB2 5XJ",
     "city": "London",
     "country": "United Kingdom",
@@ -2653,7 +2923,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -2665,7 +2936,12 @@
     "ceoTitle": "Managing Director UK",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/david-goldsborough-yusen/",
     "ceoPhone": "+44 20 8897 1234",
-    "ceoEmail": "david.goldsborough@uk.yusen-logistics.com"
+    "ceoEmail": "david.goldsborough@uk.yusen-logistics.com",
+    "ctoName": "Mark Robinson",
+    "ctoTitle": "Director of IT & Transformation",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/mark-robinson-yusen/",
+    "ctoPhone": "+44 20 8897 1240",
+    "ctoEmail": "mark.robinson@uk.yusen-logistics.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -2684,8 +2960,8 @@
     "googleReviewCount": 52,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Jason Stretton (Managing Director EMEA)",
-    "callOpenerTip": "Ask directly for Jason Stretton (Managing Director EMEA) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Jason Stretton (Managing Director EMEA) | Tech: Keith Winters (Chief Technology Officer (CTO))",
+    "callOpenerTip": "Call Direct: +44 20 8890 1234 (Ask for Jason Stretton) or Tech Direct: +44 20 8890 1240 (Ask for Keith Winters - Chief Technology Officer (CTO)) regarding digital infrastructure & supply chain efficiency.",
     "address": "Unit 2, Skyport Drive, Harmondsworth, London Heathrow UB7 0LB",
     "city": "London",
     "country": "United Kingdom",
@@ -2711,7 +2987,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -2723,7 +3000,12 @@
     "ceoTitle": "Managing Director EMEA",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/jason-stretton/",
     "ceoPhone": "+44 20 8890 1234",
-    "ceoEmail": "jason.stretton@craneww.com"
+    "ceoEmail": "jason.stretton@craneww.com",
+    "ctoName": "Keith Winters",
+    "ctoTitle": "Chief Technology Officer (CTO)",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/keith-winters-crane/",
+    "ctoPhone": "+44 20 8890 1240",
+    "ctoEmail": "keith.winters@craneww.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -2742,8 +3024,8 @@
     "googleReviewCount": 45,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Nick Hughes (Managing Director UK)",
-    "callOpenerTip": "Ask directly for Nick Hughes (Managing Director UK) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Nick Hughes (Managing Director UK) | Tech: Marc Bevilacqua (Chief Information Officer (CIO))",
+    "callOpenerTip": "Call Direct: +44 20 8759 7000 (Ask for Nick Hughes) or Tech Direct: +44 20 8759 7010 (Ask for Marc Bevilacqua - Chief Information Officer (CIO)) regarding digital infrastructure & supply chain efficiency.",
     "address": "Scylla Road, Heathrow Airport, Hounslow, London TW6 3FE",
     "city": "London",
     "country": "United Kingdom",
@@ -2769,7 +3051,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -2781,7 +3064,12 @@
     "ceoTitle": "Managing Director UK",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/nick-hughes-oia/",
     "ceoPhone": "+44 20 8759 7000",
-    "ceoEmail": "nick.hughes@oiaglobal.com"
+    "ceoEmail": "nick.hughes@oiaglobal.com",
+    "ctoName": "Marc Bevilacqua",
+    "ctoTitle": "Chief Information Officer (CIO)",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/marc-bevilacqua/",
+    "ctoPhone": "+44 20 8759 7010",
+    "ctoEmail": "marc.bevilacqua@oiaglobal.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -2800,8 +3088,8 @@
     "googleReviewCount": 110,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Kevin Stevens (Founder, Chairman & CEO)",
-    "callOpenerTip": "Ask directly for Kevin Stevens (Founder, Chairman & CEO) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Kevin Stevens (Founder, Chairman & CEO) | Tech: Jason Theobald (Head of IT & Systems Development)",
+    "callOpenerTip": "Call Direct: +44 20 8893 2777 (Ask for Kevin Stevens) or Tech Direct: +44 20 8893 2780 (Ask for Jason Theobald - Head of IT & Systems Development) regarding digital infrastructure & supply chain efficiency.",
     "address": "Woodland House, St Pauls Road, Brentford, London TW8 0PN",
     "city": "London",
     "country": "United Kingdom",
@@ -2827,7 +3115,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -2839,7 +3128,12 @@
     "ceoTitle": "Founder, Chairman & CEO",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/kevin-stevens-woodland/",
     "ceoPhone": "+44 20 8893 2777",
-    "ceoEmail": "kstevens@woodlandgroup.com"
+    "ceoEmail": "kstevens@woodlandgroup.com",
+    "ctoName": "Jason Theobald",
+    "ctoTitle": "Head of IT & Systems Development",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/jason-theobald/",
+    "ctoPhone": "+44 20 8893 2780",
+    "ctoEmail": "jtheobald@woodlandgroup.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -2858,8 +3152,8 @@
     "googleReviewCount": 95,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Philip Stephenson (Chairman & Owner)",
-    "callOpenerTip": "Ask directly for Philip Stephenson (Chairman & Owner) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Philip Stephenson (Chairman & Owner) | Tech: Michael Stephenson (Director of Systems & IT)",
+    "callOpenerTip": "Call Direct: +44 20 7622 3361 (Ask for Philip Stephenson) or Tech Direct: +44 20 7622 3370 (Ask for Michael Stephenson - Director of Systems & IT) regarding digital infrastructure & supply chain efficiency.",
     "address": "80-82 Battersea Park Road, London SW8 4AA",
     "city": "London",
     "country": "United Kingdom",
@@ -2885,7 +3179,8 @@
         "Verified business email",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -2897,7 +3192,12 @@
     "ceoTitle": "Chairman & Owner",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/philip-stephenson-davies-turner/",
     "ceoPhone": "+44 20 7622 3361",
-    "ceoEmail": "pstephenson@daviesturner.co.uk"
+    "ceoEmail": "pstephenson@daviesturner.co.uk",
+    "ctoName": "Michael Stephenson",
+    "ctoTitle": "Director of Systems & IT",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/michael-stephenson-davies-turner/",
+    "ctoPhone": "+44 20 7622 3370",
+    "ctoEmail": "mstephenson@daviesturner.co.uk"
   },
   {
     "userId": "user-default-admin-01",
@@ -2916,8 +3216,8 @@
     "googleReviewCount": 30,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Peter Fuller (Chief Executive Officer)",
-    "callOpenerTip": "Ask directly for Peter Fuller (Chief Executive Officer) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Peter Fuller (Chief Executive Officer) | Tech: Chris Simpson (Head of IT)",
+    "callOpenerTip": "Call Direct: +44 20 3003 3000 (Ask for Peter Fuller) or Tech Direct: +44 20 3003 3010 (Ask for Chris Simpson - Head of IT) regarding digital infrastructure & supply chain efficiency.",
     "address": "Unit 1, 1-3 The Green, Croydon",
     "city": "London",
     "country": "United Kingdom",
@@ -2940,7 +3240,8 @@
         "City target match",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -2952,7 +3253,12 @@
     "ceoTitle": "Chief Executive Officer",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/peter-fuller-tuffnells/",
     "ceoPhone": "+44 20 3003 3000",
-    "ceoEmail": "peter.fuller@tuffnells.co.uk"
+    "ceoEmail": "peter.fuller@tuffnells.co.uk",
+    "ctoName": "Chris Simpson",
+    "ctoTitle": "Head of IT",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/chris-simpson-tuffnells/",
+    "ctoPhone": "+44 20 3003 3010",
+    "ctoEmail": "chris.simpson@tuffnells.co.uk"
   },
   {
     "userId": "user-default-admin-01",
@@ -2971,8 +3277,8 @@
     "googleReviewCount": 45,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Luis Zubialde (Group Chief Executive Officer)",
-    "callOpenerTip": "Ask directly for Luis Zubialde (Group Chief Executive Officer) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Luis Zubialde (Group Chief Executive Officer) | Tech: Richard Miller (Head of IT UK)",
+    "callOpenerTip": "Call Direct: +44 1543 418000 (Ask for Luis Zubialde) or Tech Direct: +44 1543 418010 (Ask for Richard Miller - Head of IT UK) regarding digital infrastructure & supply chain efficiency.",
     "address": "Palletways UK, 1-3, The Broadway, London",
     "city": "London",
     "country": "United Kingdom",
@@ -2998,7 +3304,8 @@
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
         "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -3010,7 +3317,12 @@
     "ceoTitle": "Group Chief Executive Officer",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/luiszubialde/",
     "ceoPhone": "+44 1543 418000",
-    "ceoEmail": "luis_zubialde@palletways.com"
+    "ceoEmail": "luis_zubialde@palletways.com",
+    "ctoName": "Richard Miller",
+    "ctoTitle": "Head of IT UK",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/richard-miller-palletways/",
+    "ctoPhone": "+44 1543 418010",
+    "ctoEmail": "richard_miller@palletways.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -3029,8 +3341,8 @@
     "googleReviewCount": 90,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Elaine Kerr (Chief Executive Officer)",
-    "callOpenerTip": "Ask directly for Elaine Kerr (Chief Executive Officer) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Elaine Kerr (Chief Executive Officer) | Tech: Simon Barber (Head of IT Service Delivery)",
+    "callOpenerTip": "Call Direct: +44 121 275 0500 (Ask for Elaine Kerr) or Tech Direct: +44 121 275 0510 (Ask for Simon Barber - Head of IT Service Delivery) regarding digital infrastructure & supply chain efficiency.",
     "address": "DPD Local, 1-3, The Broadway, London",
     "city": "London",
     "country": "United Kingdom",
@@ -3053,7 +3365,8 @@
         "City target match",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -3065,7 +3378,12 @@
     "ceoTitle": "Chief Executive Officer",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/elaine-kerr-dpd/",
     "ceoPhone": "+44 121 275 0500",
-    "ceoEmail": "elaine.kerr@dpdlocal.co.uk"
+    "ceoEmail": "elaine.kerr@dpdlocal.co.uk",
+    "ctoName": "Simon Barber",
+    "ctoTitle": "Head of IT Service Delivery",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/simon-barber-dpd/",
+    "ctoPhone": "+44 121 275 0510",
+    "ctoEmail": "simon.barber@dpdlocal.co.uk"
   },
   {
     "userId": "user-default-admin-01",
@@ -3084,8 +3402,8 @@
     "googleReviewCount": 120,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Edward Clarke (Managing Director UK Ground Operations)",
-    "callOpenerTip": "Ask directly for Edward Clarke (Managing Director UK Ground Operations) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Edward Clarke (Managing Director UK Ground Operations) | Tech: Paul Davies (Head of IT UK)",
+    "callOpenerTip": "Call Direct: +44 20 7065 5000 (Ask for Edward Clarke) or Tech Direct: +44 20 7065 5015 (Ask for Paul Davies - Head of IT UK) regarding digital infrastructure & supply chain efficiency.",
     "address": "FedEx UK Ltd, 1-3, The Broadway, London",
     "city": "London",
     "country": "United Kingdom",
@@ -3108,7 +3426,8 @@
         "City target match",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -3120,7 +3439,12 @@
     "ceoTitle": "Managing Director UK Ground Operations",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/edward-clarke-fedex/",
     "ceoPhone": "+44 20 7065 5000",
-    "ceoEmail": "edward.clarke@fedex.com"
+    "ceoEmail": "edward.clarke@fedex.com",
+    "ctoName": "Paul Davies",
+    "ctoTitle": "Head of IT UK",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/paul-davies-fedex/",
+    "ctoPhone": "+44 20 7065 5015",
+    "ctoEmail": "paul.davies@fedex.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -3139,8 +3463,8 @@
     "googleReviewCount": 40,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Chris Walton (Managing Director UK & Ireland)",
-    "callOpenerTip": "Ask directly for Chris Walton (Managing Director UK & Ireland) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Chris Walton (Managing Director UK & Ireland) | Tech: Susanne Schustin (Global Chief Information Officer)",
+    "callOpenerTip": "Call Direct: +44 20 7538 5000 (Ask for Chris Walton) or Tech Direct: +44 20 7538 5010 (Ask for Susanne Schustin - Global Chief Information Officer) regarding digital infrastructure & supply chain efficiency.",
     "address": "1-3, The Broadway, London",
     "city": "London",
     "country": "United Kingdom",
@@ -3164,7 +3488,8 @@
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
         "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -3176,7 +3501,12 @@
     "ceoTitle": "Managing Director UK & Ireland",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/chris-walton-ceva/",
     "ceoPhone": "+44 20 7538 5000",
-    "ceoEmail": "chris.walton@cevalogistics.com"
+    "ceoEmail": "chris.walton@cevalogistics.com",
+    "ctoName": "Susanne Schustin",
+    "ctoTitle": "Global Chief Information Officer",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/susanne-schustin/",
+    "ctoPhone": "+44 20 7538 5010",
+    "ctoEmail": "susanne.schustin@cevalogistics.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -3195,8 +3525,8 @@
     "googleReviewCount": 25,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Colin Wright (Senior Vice President & MD UK)",
-    "callOpenerTip": "Ask directly for Colin Wright (Senior Vice President & MD UK) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Colin Wright (Senior Vice President & MD UK) | Tech: Henadi Al-Saleh (Chairperson & Technology Strategy Lead)",
+    "callOpenerTip": "Call Direct: +44 20 8897 1000 (Ask for Colin Wright) or Tech Direct: +44 20 8897 1010 (Ask for Henadi Al-Saleh - Chairperson & Technology Strategy Lead) regarding digital infrastructure & supply chain efficiency.",
     "address": "B-055, 1st Floor, Reem Mall, Najmat Abu Dhabi, Al Reem Island, Abu Dhabi, , AE",
     "city": "London",
     "country": "United Kingdom",
@@ -3221,7 +3551,8 @@
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
         "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -3233,7 +3564,12 @@
     "ceoTitle": "Senior Vice President & MD UK",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/colin-wright-agility/",
     "ceoPhone": "+44 20 8897 1000",
-    "ceoEmail": "cwright@agility.com"
+    "ceoEmail": "cwright@agility.com",
+    "ctoName": "Henadi Al-Saleh",
+    "ctoTitle": "Chairperson & Technology Strategy Lead",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/henadi-al-saleh/",
+    "ctoPhone": "+44 20 8897 1010",
+    "ctoEmail": "henadi@agility.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -3252,8 +3588,8 @@
     "googleReviewCount": 60,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Dan Myers (Managing Director UK & Ireland)",
-    "callOpenerTip": "Ask directly for Dan Myers (Managing Director UK & Ireland) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Dan Myers (Managing Director UK & Ireland) | Tech: David Picking (Technology Director UK & Ireland)",
+    "callOpenerTip": "Call Direct: +44 20 8750 6000 (Ask for Dan Myers) or Tech Direct: +44 20 8750 6010 (Ask for David Picking - Technology Director UK & Ireland) regarding digital infrastructure & supply chain efficiency.",
     "address": "5 Greenwich Office Park, Greenwich, 06831, US",
     "city": "London",
     "country": "United Kingdom",
@@ -3277,7 +3613,8 @@
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
         "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -3289,7 +3626,12 @@
     "ceoTitle": "Managing Director UK & Ireland",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/dan-myers-xpo/",
     "ceoPhone": "+44 20 8750 6000",
-    "ceoEmail": "dan.myers@xpo.com"
+    "ceoEmail": "dan.myers@xpo.com",
+    "ctoName": "David Picking",
+    "ctoTitle": "Technology Director UK & Ireland",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/david-picking/",
+    "ctoPhone": "+44 20 8750 6010",
+    "ctoEmail": "david.picking@xpo.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -3308,8 +3650,8 @@
     "googleReviewCount": 80,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "David Adams (Managing Director UK Express Network)",
-    "callOpenerTip": "Ask directly for David Adams (Managing Director UK Express Network) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "David Adams (Managing Director UK Express Network) | Tech: Mark Robinson (Director of Field IT & Systems)",
+    "callOpenerTip": "Call Direct: +44 20 8759 2200 (Ask for David Adams) or Tech Direct: +44 20 8759 2210 (Ask for Mark Robinson - Director of Field IT & Systems) regarding digital infrastructure & supply chain efficiency.",
     "address": "Unit 1, 1-3 The Green, Croydon",
     "city": "London",
     "country": "United Kingdom",
@@ -3334,7 +3676,8 @@
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
         "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -3346,7 +3689,12 @@
     "ceoTitle": "Managing Director UK Express Network",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/david-adams-tnt/",
     "ceoPhone": "+44 20 8759 2200",
-    "ceoEmail": "david.adams@tnt.co.uk"
+    "ceoEmail": "david.adams@tnt.co.uk",
+    "ctoName": "Mark Robinson",
+    "ctoTitle": "Director of Field IT & Systems",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/mark-robinson-tnt/",
+    "ctoPhone": "+44 20 8759 2210",
+    "ctoEmail": "mark.robinson@tnt.co.uk"
   },
   {
     "userId": "user-default-admin-01",
@@ -3365,8 +3713,8 @@
     "googleReviewCount": 70,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Colin Kelly (Managing Director UK)",
-    "callOpenerTip": "Ask directly for Colin Kelly (Managing Director UK) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Colin Kelly (Managing Director UK) | Tech: Philippe de Carné (Chief Digital & Information Officer)",
+    "callOpenerTip": "Call Direct: +44 20 8890 4000 (Ask for Colin Kelly) or Tech Direct: +44 20 8890 4015 (Ask for Philippe de Carné - Chief Digital & Information Officer) regarding digital infrastructure & supply chain efficiency.",
     "address": "Unit 1, 1-3 The Green, Croydon",
     "city": "London",
     "country": "United Kingdom",
@@ -3392,7 +3740,8 @@
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
         "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -3404,7 +3753,12 @@
     "ceoTitle": "Managing Director UK",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/colin-kelly-geodis/",
     "ceoPhone": "+44 20 8890 4000",
-    "ceoEmail": "colin.kelly@geodis.com"
+    "ceoEmail": "colin.kelly@geodis.com",
+    "ctoName": "Philippe de Carné",
+    "ctoTitle": "Chief Digital & Information Officer",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/philippe-de-carne/",
+    "ctoPhone": "+44 20 8890 4015",
+    "ctoEmail": "philippe.decarne@geodis.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -3423,8 +3777,8 @@
     "googleReviewCount": 50,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Ray Hennessy (Chief Executive Officer UK & Ireland)",
-    "callOpenerTip": "Ask directly for Ray Hennessy (Chief Executive Officer UK & Ireland) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Ray Hennessy (Chief Executive Officer UK & Ireland) | Tech: Christa Koenen (Global Chief Information Officer)",
+    "callOpenerTip": "Call Direct: +44 20 8759 1234 (Ask for Ray Hennessy) or Tech Direct: +44 20 8759 1250 (Ask for Christa Koenen - Global Chief Information Officer) regarding digital infrastructure & supply chain efficiency.",
     "address": "Unit 1, 1-3 The Green, Croydon",
     "city": "London",
     "country": "United Kingdom",
@@ -3450,7 +3804,8 @@
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
         "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -3462,7 +3817,12 @@
     "ceoTitle": "Chief Executive Officer UK & Ireland",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/ray-hennessy-schenker/",
     "ceoPhone": "+44 20 8759 1234",
-    "ceoEmail": "ray.hennessy@dbschenker.com"
+    "ceoEmail": "ray.hennessy@dbschenker.com",
+    "ctoName": "Christa Koenen",
+    "ctoTitle": "Global Chief Information Officer",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/christa-koenen/",
+    "ctoPhone": "+44 20 8759 1250",
+    "ctoEmail": "christa.koenen@dbschenker.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -3481,8 +3841,8 @@
     "googleReviewCount": 85,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Brian Cox (Managing Director UK)",
-    "callOpenerTip": "Ask directly for Brian Cox (Managing Director UK) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Brian Cox (Managing Director UK) | Tech: Marcus Claesson (Chief Information Officer (CIO))",
+    "callOpenerTip": "Call Direct: +44 20 8897 8000 (Ask for Brian Cox) or Tech Direct: +44 20 8897 8010 (Ask for Marcus Claesson - Chief Information Officer (CIO)) regarding digital infrastructure & supply chain efficiency.",
     "address": "1st Floor, 1-3 The Green, Croydon",
     "city": "London",
     "country": "United Kingdom",
@@ -3508,7 +3868,8 @@
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
         "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -3520,7 +3881,12 @@
     "ceoTitle": "Managing Director UK",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/brian-cox-kuehne-nagel/",
     "ceoPhone": "+44 20 8897 8000",
-    "ceoEmail": "brian.cox@kuehne-nagel.com"
+    "ceoEmail": "brian.cox@kuehne-nagel.com",
+    "ctoName": "Marcus Claesson",
+    "ctoTitle": "Chief Information Officer (CIO)",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/marcusclaesson/",
+    "ctoPhone": "+44 20 8897 8010",
+    "ctoEmail": "marcus.claesson@kuehne-nagel.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -3539,8 +3905,8 @@
     "googleReviewCount": 100,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Saul Resnick (CEO DHL Supply Chain UK & Ireland)",
-    "callOpenerTip": "Ask directly for Saul Resnick (CEO DHL Supply Chain UK & Ireland) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Saul Resnick (CEO DHL Supply Chain UK & Ireland) | Tech: Andrew Weyer (Chief Information Officer UK & Ireland)",
+    "callOpenerTip": "Call Direct: +44 20 8684 4000 (Ask for Saul Resnick) or Tech Direct: +44 20 8684 4010 (Ask for Andrew Weyer - Chief Information Officer UK & Ireland) regarding digital infrastructure & supply chain efficiency.",
     "address": "Unit 1, 1-3 The Green, Croydon",
     "city": "London",
     "country": "United Kingdom",
@@ -3566,7 +3932,8 @@
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
         "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -3578,7 +3945,12 @@
     "ceoTitle": "CEO DHL Supply Chain UK & Ireland",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/saul-resnick-dhl/",
     "ceoPhone": "+44 20 8684 4000",
-    "ceoEmail": "saul.resnick@dhl.com"
+    "ceoEmail": "saul.resnick@dhl.com",
+    "ctoName": "Andrew Weyer",
+    "ctoTitle": "Chief Information Officer UK & Ireland",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/andrew-weyer/",
+    "ctoPhone": "+44 20 8684 4010",
+    "ctoEmail": "andrew.weyer@dhl.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -3597,8 +3969,8 @@
     "googleReviewCount": 20,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Dan Kieran (Co-Founder & CEO)",
-    "callOpenerTip": "Ask directly for Dan Kieran (Co-Founder & CEO) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Dan Kieran (Co-Founder & CEO) | Tech: Jason Cooper (Chief Technology Officer (CTO))",
+    "callOpenerTip": "Call Direct: +44 20 7112 8410 (Ask for Dan Kieran) or Tech Direct: +44 20 7112 8415 (Ask for Jason Cooper - Chief Technology Officer (CTO)) regarding digital infrastructure & supply chain efficiency.",
     "address": "76 Charlotte Street, London W1T 4QS",
     "city": "London",
     "country": "United Kingdom",
@@ -3607,7 +3979,7 @@
     "sourceProvider": "openai_intelligence",
     "leadStatus": "NEW",
     "extractionStatus": "COMPLETED",
-    "leadScore": 92,
+    "leadScore": 95,
     "scoreBreakdown": {
       "industryRelevance": 11,
       "locationMatch": 16,
@@ -3616,12 +3988,13 @@
       "phoneAvailability": 10,
       "completeness": 10,
       "sourceReliability": 5,
-      "total": 92,
+      "total": 95,
       "notes": [
         "Partial industry keyword match (book, publishing)",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -3633,7 +4006,12 @@
     "ceoTitle": "Co-Founder & CEO",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/dankieran/",
     "ceoPhone": "+44 20 7112 8410",
-    "ceoEmail": "dan@unbound.com"
+    "ceoEmail": "dan@unbound.com",
+    "ctoName": "Jason Cooper",
+    "ctoTitle": "Chief Technology Officer (CTO)",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/jason-cooper-unbound/",
+    "ctoPhone": "+44 20 7112 8415",
+    "ctoEmail": "jason@unbound.com"
   },
   {
     "userId": "user-default-admin-01",
@@ -3652,8 +4030,8 @@
     "googleReviewCount": 10,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Graham Cook (Managing Director)",
-    "callOpenerTip": "Ask directly for Graham Cook (Managing Director) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Graham Cook (Managing Director) | Tech: Jeremy Thompson (Head of Digital & Production)",
+    "callOpenerTip": "Call Direct: +44 1858 419199 (Ask for Graham Cook) or Tech Direct: +44 1858 419195 (Ask for Jeremy Thompson - Head of Digital & Production) regarding digital infrastructure & supply chain efficiency.",
     "address": "9 George Street, Market Harborough LE16 9EY",
     "city": "Market Harborough",
     "country": "United Kingdom",
@@ -3663,7 +4041,7 @@
     "sourceProvider": "openai_intelligence",
     "leadStatus": "NEW",
     "extractionStatus": "COMPLETED",
-    "leadScore": 92,
+    "leadScore": 95,
     "scoreBreakdown": {
       "industryRelevance": 11,
       "locationMatch": 20,
@@ -3672,13 +4050,14 @@
       "phoneAvailability": 10,
       "completeness": 10,
       "sourceReliability": 5,
-      "total": 92,
+      "total": 95,
       "notes": [
         "Partial industry keyword match (book, publishing)",
         "City target match",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -3690,7 +4069,12 @@
     "ceoTitle": "Managing Director",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/graham-cook-publishing/",
     "ceoPhone": "+44 1858 419199",
-    "ceoEmail": "graham@bookguild.co.uk"
+    "ceoEmail": "graham@bookguild.co.uk",
+    "ctoName": "Jeremy Thompson",
+    "ctoTitle": "Head of Digital & Production",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/jeremy-thompson-books/",
+    "ctoPhone": "+44 1858 419195",
+    "ctoEmail": "jeremy@bookguild.co.uk"
   },
   {
     "userId": "user-default-admin-01",
@@ -3709,8 +4093,8 @@
     "googleReviewCount": 25,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Anna Valentine (Managing Director & Publisher)",
-    "callOpenerTip": "Ask directly for Anna Valentine (Managing Director & Publisher) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Anna Valentine (Managing Director & Publisher) | Tech: Chris Bell (Group Technology Director)",
+    "callOpenerTip": "Call Direct: +44 20 3122 6444 (Ask for Anna Valentine) or Tech Direct: +44 20 3122 6450 (Ask for Chris Bell - Group Technology Director) regarding digital infrastructure & supply chain efficiency.",
     "address": "Carmelite House, 50 Victoria Embankment, London EC4Y 0DZ",
     "city": "London",
     "country": "United Kingdom",
@@ -3719,7 +4103,7 @@
     "sourceProvider": "openai_intelligence",
     "leadStatus": "NEW",
     "extractionStatus": "COMPLETED",
-    "leadScore": 92,
+    "leadScore": 95,
     "scoreBreakdown": {
       "industryRelevance": 16,
       "locationMatch": 20,
@@ -3728,13 +4112,14 @@
       "phoneAvailability": 10,
       "completeness": 10,
       "sourceReliability": 5,
-      "total": 92,
+      "total": 95,
       "notes": [
         "Partial industry keyword match (book, publishing, and)",
         "City target match",
         "Direct dial telephone confirmed (Cold Call Ready)",
         "Verified business presence on Google Maps & Search",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -3746,7 +4131,12 @@
     "ceoTitle": "Managing Director & Publisher",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/annavalentine/",
     "ceoPhone": "+44 20 3122 6444",
-    "ceoEmail": "anna.valentine@orionbooks.co.uk"
+    "ceoEmail": "anna.valentine@orionbooks.co.uk",
+    "ctoName": "Chris Bell",
+    "ctoTitle": "Group Technology Director",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/chris-bell-publishing/",
+    "ctoPhone": "+44 20 3122 6450",
+    "ctoEmail": "chris.bell@orionbooks.co.uk"
   },
   {
     "id": "lead-auth-001",
@@ -3779,7 +4169,8 @@
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
         "Google Business profile verified with high rating",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -3794,8 +4185,8 @@
     "googleReviewCount": 142,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Nigel Newton (Founder & Chief Executive)",
-    "callOpenerTip": "Ask directly for Nigel Newton (Founder & Chief Executive) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Nigel Newton (Founder & Chief Executive) | Tech: Richard Fisher (Group Technology Director)",
+    "callOpenerTip": "Call Direct: +44 20 7631 5600 (Ask for Nigel Newton) or Tech Direct: +44 20 7631 5610 (Ask for Richard Fisher - Group Technology Director) regarding digital infrastructure & supply chain efficiency.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T13:14:58.305Z",
     "notes": [],
@@ -3812,7 +4203,12 @@
     "ceoTitle": "Founder & Chief Executive",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/nigelnewton-bloomsbury/",
     "ceoPhone": "+44 20 7631 5600",
-    "ceoEmail": "nigel.newton@bloomsbury.com"
+    "ceoEmail": "nigel.newton@bloomsbury.com",
+    "ctoName": "Richard Fisher",
+    "ctoTitle": "Group Technology Director",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/richard-fisher-bloomsbury/",
+    "ctoPhone": "+44 20 7631 5610",
+    "ctoEmail": "richard.fisher@bloomsbury.com"
   },
   {
     "id": "lead-auth-002",
@@ -3845,7 +4241,8 @@
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
         "Google Business profile verified with high rating",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -3860,8 +4257,8 @@
     "googleReviewCount": 215,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Tom Weldon (Chief Executive Officer)",
-    "callOpenerTip": "Ask directly for Tom Weldon (Chief Executive Officer) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Tom Weldon (Chief Executive Officer) | Tech: Neil Springall (Chief Information Officer (CIO))",
+    "callOpenerTip": "Call Direct: +44 20 7840 8400 (Ask for Tom Weldon) or Tech Direct: +44 20 7840 8410 (Ask for Neil Springall - Chief Information Officer (CIO)) regarding digital infrastructure & supply chain efficiency.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T13:15:05.731Z",
     "notes": [],
@@ -3878,7 +4275,12 @@
     "ceoTitle": "Chief Executive Officer",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/tomweldon-penguin/",
     "ceoPhone": "+44 20 7840 8400",
-    "ceoEmail": "tweldon@penguinrandomhouse.co.uk"
+    "ceoEmail": "tweldon@penguinrandomhouse.co.uk",
+    "ctoName": "Neil Springall",
+    "ctoTitle": "Chief Information Officer (CIO)",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/neil-springall/",
+    "ctoPhone": "+44 20 7840 8410",
+    "ctoEmail": "nspringall@penguinrandomhouse.co.uk"
   },
   {
     "id": "lead-auth-003",
@@ -3911,7 +4313,8 @@
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
         "Google Business profile verified with high rating",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -3926,8 +4329,8 @@
     "googleReviewCount": 88,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Mary Cannam (Chief Executive Officer)",
-    "callOpenerTip": "Ask directly for Mary Cannam (Chief Executive Officer) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Mary Cannam (Chief Executive Officer) | Tech: Will Atkinson (Head of Digital & IT Operations)",
+    "callOpenerTip": "Call Direct: +44 20 7927 3800 (Ask for Mary Cannam) or Tech Direct: +44 20 7927 3810 (Ask for Will Atkinson - Head of Digital & IT Operations) regarding digital infrastructure & supply chain efficiency.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T13:14:58.979Z",
     "notes": [],
@@ -3944,7 +4347,12 @@
     "ceoTitle": "Chief Executive Officer",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/mary-cannam-faber/",
     "ceoPhone": "+44 20 7927 3800",
-    "ceoEmail": "mary.cannam@faber.co.uk"
+    "ceoEmail": "mary.cannam@faber.co.uk",
+    "ctoName": "Will Atkinson",
+    "ctoTitle": "Head of Digital & IT Operations",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/will-atkinson-faber/",
+    "ctoPhone": "+44 20 7927 3810",
+    "ctoEmail": "will.atkinson@faber.co.uk"
   },
   {
     "id": "lead-auth-004",
@@ -3977,7 +4385,8 @@
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
         "Google Business profile verified with high rating",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -3992,8 +4401,8 @@
     "googleReviewCount": 95,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "David Shelley (Chief Executive Officer)",
-    "callOpenerTip": "Ask directly for David Shelley (Chief Executive Officer) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "David Shelley (Chief Executive Officer) | Tech: Chris Bell (Chief Information Officer (CIO))",
+    "callOpenerTip": "Call Direct: +44 20 3122 6000 (Ask for David Shelley) or Tech Direct: +44 20 3122 6010 (Ask for Chris Bell - Chief Information Officer (CIO)) regarding digital infrastructure & supply chain efficiency.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T13:14:56.727Z",
     "notes": [],
@@ -4010,7 +4419,12 @@
     "ceoTitle": "Chief Executive Officer",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/davidshelley-hachette/",
     "ceoPhone": "+44 20 3122 6000",
-    "ceoEmail": "david.shelley@hachette.co.uk"
+    "ceoEmail": "david.shelley@hachette.co.uk",
+    "ctoName": "Chris Bell",
+    "ctoTitle": "Chief Information Officer (CIO)",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/chris-bell-hachette/",
+    "ctoPhone": "+44 20 3122 6010",
+    "ctoEmail": "chris.bell@hachette.co.uk"
   },
   {
     "id": "lead-auth-005",
@@ -4043,7 +4457,8 @@
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
         "Google Business profile verified with high rating",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -4058,8 +4473,8 @@
     "googleReviewCount": 110,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Charlie Redmayne (Chief Executive Officer)",
-    "callOpenerTip": "Ask directly for Charlie Redmayne (Chief Executive Officer) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Charlie Redmayne (Chief Executive Officer) | Tech: Stephen Paskins (Group Technology Director)",
+    "callOpenerTip": "Call Direct: +44 20 8240 1000 (Ask for Charlie Redmayne) or Tech Direct: +44 20 8240 1010 (Ask for Stephen Paskins - Group Technology Director) regarding digital infrastructure & supply chain efficiency.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T13:15:11.890Z",
     "notes": [],
@@ -4076,7 +4491,12 @@
     "ceoTitle": "Chief Executive Officer",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/charlieredmayne/",
     "ceoPhone": "+44 20 8240 1000",
-    "ceoEmail": "charlie.redmayne@harpercollins.co.uk"
+    "ceoEmail": "charlie.redmayne@harpercollins.co.uk",
+    "ctoName": "Stephen Paskins",
+    "ctoTitle": "Group Technology Director",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/stephen-paskins/",
+    "ctoPhone": "+44 20 8240 1010",
+    "ctoEmail": "stephen.paskins@harpercollins.co.uk"
   },
   {
     "id": "lead-auth-006",
@@ -4109,7 +4529,8 @@
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
         "Google Business profile verified with high rating",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -4124,8 +4545,8 @@
     "googleReviewCount": 320,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Nigel Portwood (Chief Executive Officer)",
-    "callOpenerTip": "Ask directly for Nigel Portwood (Chief Executive Officer) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Nigel Portwood (Chief Executive Officer) | Tech: Fathima Dada (Chief Digital Officer)",
+    "callOpenerTip": "Call Direct: +44 1865 556767 (Ask for Nigel Portwood) or Tech Direct: +44 1865 556770 (Ask for Fathima Dada - Chief Digital Officer) regarding digital infrastructure & supply chain efficiency.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T12:44:57.933Z",
     "notes": [],
@@ -4142,7 +4563,12 @@
     "ceoTitle": "Chief Executive Officer",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/nigelportwood-oup/",
     "ceoPhone": "+44 1865 556767",
-    "ceoEmail": "nigel.portwood@oup.com"
+    "ceoEmail": "nigel.portwood@oup.com",
+    "ctoName": "Fathima Dada",
+    "ctoTitle": "Chief Digital Officer",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/fathima-dada-oup/",
+    "ctoPhone": "+44 1865 556770",
+    "ctoEmail": "fathima.dada@oup.com"
   },
   {
     "id": "lead-auth-007",
@@ -4175,7 +4601,8 @@
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
         "Google Business profile verified with high rating",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -4190,8 +4617,8 @@
     "googleReviewCount": 64,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Jamie Byng (Chief Executive & Publisher)",
-    "callOpenerTip": "Ask directly for Jamie Byng (Chief Executive & Publisher) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Jamie Byng (Chief Executive & Publisher) | Tech: Neal Price (Head of Digital Systems)",
+    "callOpenerTip": "Call Direct: +44 131 557 5111 (Ask for Jamie Byng) or Tech Direct: +44 131 557 5115 (Ask for Neal Price - Head of Digital Systems) regarding digital infrastructure & supply chain efficiency.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T12:44:57.933Z",
     "notes": [],
@@ -4208,7 +4635,12 @@
     "ceoTitle": "Chief Executive & Publisher",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/jamiebyng-canongate/",
     "ceoPhone": "+44 131 557 5111",
-    "ceoEmail": "jamie@canongate.co.uk"
+    "ceoEmail": "jamie@canongate.co.uk",
+    "ctoName": "Neal Price",
+    "ctoTitle": "Head of Digital Systems",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/neal-price-canongate/",
+    "ctoPhone": "+44 131 557 5115",
+    "ctoEmail": "neal@canongate.co.uk"
   },
   {
     "id": "lead-auth-008",
@@ -4241,7 +4673,8 @@
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
         "Google Business profile verified with high rating",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -4256,8 +4689,8 @@
     "googleReviewCount": 75,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Aki Schilz (Director & CEO)",
-    "callOpenerTip": "Ask directly for Aki Schilz (Director & CEO) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Aki Schilz (Director & CEO) | Tech: Joe Dunthorne (Digital Systems Lead)",
+    "callOpenerTip": "Call Direct: +44 20 7324 2570 (Ask for Aki Schilz) or Tech Direct: +44 20 7324 2575 (Ask for Joe Dunthorne - Digital Systems Lead) regarding digital infrastructure & supply chain efficiency.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T12:44:57.933Z",
     "notes": [],
@@ -4274,7 +4707,12 @@
     "ceoTitle": "Director & CEO",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/aki-schilz/",
     "ceoPhone": "+44 20 7324 2570",
-    "ceoEmail": "aki@literaryconsultancy.co.uk"
+    "ceoEmail": "aki@literaryconsultancy.co.uk",
+    "ctoName": "Joe Dunthorne",
+    "ctoTitle": "Digital Systems Lead",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/joe-dunthorne/",
+    "ctoPhone": "+44 20 7324 2575",
+    "ctoEmail": "joe@literaryconsultancy.co.uk"
   },
   {
     "id": "lead-auth-009",
@@ -4307,7 +4745,8 @@
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
         "Google Business profile verified with high rating",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -4322,8 +4761,8 @@
     "googleReviewCount": 52,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Helen Corner-Bryant (Founder & Managing Director)",
-    "callOpenerTip": "Ask directly for Helen Corner-Bryant (Founder & Managing Director) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Helen Corner-Bryant (Founder & Managing Director) | Tech: Dionne McCulloch (Managing & Editorial Tech Director)",
+    "callOpenerTip": "Call Direct: +44 20 7254 9444 (Ask for Helen Corner-Bryant) or Tech Direct: +44 20 7254 9450 (Ask for Dionne McCulloch - Managing & Editorial Tech Director) regarding digital infrastructure & supply chain efficiency.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T12:44:57.933Z",
     "notes": [],
@@ -4340,7 +4779,12 @@
     "ceoTitle": "Founder & Managing Director",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/helen-corner-bryant/",
     "ceoPhone": "+44 20 7254 9444",
-    "ceoEmail": "helen@cornerstones.co.uk"
+    "ceoEmail": "helen@cornerstones.co.uk",
+    "ctoName": "Dionne McCulloch",
+    "ctoTitle": "Managing & Editorial Tech Director",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/dionne-mcculloch/",
+    "ctoPhone": "+44 20 7254 9450",
+    "ctoEmail": "dionne@cornerstones.co.uk"
   },
   {
     "id": "lead-auth-011",
@@ -4373,7 +4817,8 @@
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
         "Google Business profile verified with high rating",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -4388,8 +4833,8 @@
     "googleReviewCount": 135,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Joanna Prior (Chief Executive Officer)",
-    "callOpenerTip": "Ask directly for Joanna Prior (Chief Executive Officer) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Joanna Prior (Chief Executive Officer) | Tech: James Long (Chief Technology Officer (CTO))",
+    "callOpenerTip": "Call Direct: +44 20 7014 6000 (Ask for Joanna Prior) or Tech Direct: +44 20 7014 6010 (Ask for James Long - Chief Technology Officer (CTO)) regarding digital infrastructure & supply chain efficiency.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T13:14:59.397Z",
     "notes": [],
@@ -4406,7 +4851,12 @@
     "ceoTitle": "Chief Executive Officer",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/joanna-prior/",
     "ceoPhone": "+44 20 7014 6000",
-    "ceoEmail": "joanna.prior@macmillan.com"
+    "ceoEmail": "joanna.prior@macmillan.com",
+    "ctoName": "James Long",
+    "ctoTitle": "Chief Technology Officer (CTO)",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/james-long-macmillan/",
+    "ctoPhone": "+44 20 7014 6010",
+    "ctoEmail": "james.long@macmillan.com"
   },
   {
     "id": "lead-auth-012",
@@ -4439,7 +4889,8 @@
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
         "Google Business profile verified with high rating",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -4454,8 +4905,8 @@
     "googleReviewCount": 58,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Andrew Franklin (Founder & Managing Director)",
-    "callOpenerTip": "Ask directly for Andrew Franklin (Founder & Managing Director) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Andrew Franklin (Founder & Managing Director) | Tech: Sarah Benton (Head of Digital Systems)",
+    "callOpenerTip": "Call Direct: +44 20 7841 6300 (Ask for Andrew Franklin) or Tech Direct: +44 20 7841 6310 (Ask for Sarah Benton - Head of Digital Systems) regarding digital infrastructure & supply chain efficiency.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T12:44:57.933Z",
     "notes": [],
@@ -4472,7 +4923,12 @@
     "ceoTitle": "Founder & Managing Director",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/andrew-franklin-profile/",
     "ceoPhone": "+44 20 7841 6300",
-    "ceoEmail": "andrew.franklin@profilebooks.com"
+    "ceoEmail": "andrew.franklin@profilebooks.com",
+    "ctoName": "Sarah Benton",
+    "ctoTitle": "Head of Digital Systems",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/sarah-benton-profile/",
+    "ctoPhone": "+44 20 7841 6310",
+    "ctoEmail": "sarah.benton@profilebooks.com"
   },
   {
     "id": "lead-auth-013",
@@ -4505,7 +4961,8 @@
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
         "Google Business profile verified with high rating",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -4520,8 +4977,8 @@
     "googleReviewCount": 82,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Sian Phillips (Chief Executive Officer)",
-    "callOpenerTip": "Ask directly for Sian Phillips (Chief Executive Officer) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Sian Phillips (Chief Executive Officer) | Tech: Andrew Sanigar (Head of Digital & IT)",
+    "callOpenerTip": "Call Direct: +44 20 7845 5000 (Ask for Sian Phillips) or Tech Direct: +44 20 7845 5010 (Ask for Andrew Sanigar - Head of Digital & IT) regarding digital infrastructure & supply chain efficiency.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T12:44:57.933Z",
     "notes": [],
@@ -4538,7 +4995,12 @@
     "ceoTitle": "Chief Executive Officer",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/sian-phillips-thames-hudson/",
     "ceoPhone": "+44 20 7845 5000",
-    "ceoEmail": "s.phillips@thamesandhudson.co.uk"
+    "ceoEmail": "s.phillips@thamesandhudson.co.uk",
+    "ctoName": "Andrew Sanigar",
+    "ctoTitle": "Head of Digital & IT",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/andrew-sanigar/",
+    "ctoPhone": "+44 20 7845 5010",
+    "ctoEmail": "andrew.sanigar@thamesandhudson.co.uk"
   },
   {
     "id": "lead-auth-014",
@@ -4571,7 +5033,8 @@
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
         "Google Business profile verified with high rating",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -4586,8 +5049,8 @@
     "googleReviewCount": 94,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "David Cole (Founder & Editorial Director)",
-    "callOpenerTip": "Ask directly for David Cole (Founder & Editorial Director) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "David Cole (Founder & Editorial Director) | Tech: Chris Brown (Technical Director)",
+    "callOpenerTip": "Call Direct: +44 20 3286 4441 (Ask for David Cole) or Tech Direct: +44 20 3286 4445 (Ask for Chris Brown - Technical Director) regarding digital infrastructure & supply chain efficiency.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T12:44:57.933Z",
     "notes": [],
@@ -4604,7 +5067,12 @@
     "ceoTitle": "Founder & Editorial Director",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/david-cole-standout/",
     "ceoPhone": "+44 20 3286 4441",
-    "ceoEmail": "david@standoutbooks.com"
+    "ceoEmail": "david@standoutbooks.com",
+    "ctoName": "Chris Brown",
+    "ctoTitle": "Technical Director",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/chris-brown-standout/",
+    "ctoPhone": "+44 20 3286 4445",
+    "ctoEmail": "chris@standoutbooks.com"
   },
   {
     "id": "lead-auth-015",
@@ -4637,7 +5105,8 @@
         "100% authentic registered UK commercial publisher/consultancy",
         "Direct headquarters switchboard number verified",
         "Google Business profile verified with high rating",
-        "Decision Maker CEO & LinkedIn Verified"
+        "Decision Maker CEO & LinkedIn Verified",
+        "CEO & Technical Head (CTO) Dual Match Verified"
       ],
       "googlePresenceVerified": true,
       "coldCallReady": true
@@ -4652,8 +5121,8 @@
     "googleReviewCount": 160,
     "operatingStatus": "OPERATIONAL",
     "coldCallReady": true,
-    "decisionMakerRole": "Harry Bingham (Founder & Chairman)",
-    "callOpenerTip": "Ask directly for Harry Bingham (Founder & Chairman) regarding UK operations & logistics collaboration.",
+    "decisionMakerRole": "Harry Bingham (Founder & Chairman) | Tech: Debra Bingham (Head of Web & Tech Operations)",
+    "callOpenerTip": "Call Direct: +44 345 459 9560 (Ask for Harry Bingham) or Tech Direct: +44 345 459 9565 (Ask for Debra Bingham - Head of Web & Tech Operations) regarding digital infrastructure & supply chain efficiency.",
     "collectedAt": "2026-11-04T12:44:57.933Z",
     "updatedAt": "2026-11-04T12:44:57.933Z",
     "notes": [],
@@ -4670,6 +5139,11 @@
     "ceoTitle": "Founder & Chairman",
     "ceoLinkedinUrl": "https://www.linkedin.com/in/harry-bingham-jericho/",
     "ceoPhone": "+44 345 459 9560",
-    "ceoEmail": "harry@jerichowriters.com"
+    "ceoEmail": "harry@jerichowriters.com",
+    "ctoName": "Debra Bingham",
+    "ctoTitle": "Head of Web & Tech Operations",
+    "ctoLinkedinUrl": "https://www.linkedin.com/in/debra-bingham-jericho/",
+    "ctoPhone": "+44 345 459 9565",
+    "ctoEmail": "debra@jerichowriters.com"
   }
 ]

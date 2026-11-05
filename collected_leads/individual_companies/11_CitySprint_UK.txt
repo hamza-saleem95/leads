@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: CitySprint UK
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Gary West
   Executive Title:    Chief Executive Officer
   CEO LinkedIn URL:   https://www.linkedin.com/in/gary-west-citysprint/
   Direct CEO Phone:   +44 20 7880 1000
   Direct CEO Email:   gwest@citysprint.co.uk
+  Technical Head/CTO: Jonathan Samols
+  Technical Title:    IT Director (Head of Technology)
+  Tech LinkedIn URL:  https://www.linkedin.com/in/jonathan-samols/
+  Direct Tech Phone:  +44 20 7880 1010
+  Direct Tech Email:  jsamols@citysprint.co.uk
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 7880 1000 (Formatted for international dial)
-  Decision Maker:     Gary West (Chief Executive Officer)
-  Call Opener Script: "Ask directly for Gary West (Chief Executive Officer) regarding UK operations & logistics collaboration."
+  Decision Maker:     Gary West (Chief Executive Officer) | Tech: Jonathan Samols (IT Director (Head of Technology))
+  Call Opener Script: "Call Direct: +44 20 7880 1000 (Ask for Gary West) or Tech Direct: +44 20 7880 1010 (Ask for Jonathan Samols - IT Director (Head of Technology)) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

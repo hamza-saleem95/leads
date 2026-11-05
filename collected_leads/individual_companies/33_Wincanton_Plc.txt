@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Wincanton Plc
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Gavin Williams
   Executive Title:    Managing Director UK & Ireland
   CEO LinkedIn URL:   https://www.linkedin.com/in/gavin-williams-wincanton/
   Direct CEO Phone:   +44 20 8961 6000
   Direct CEO Email:   gavin.williams@wincanton.co.uk
+  Technical Head/CTO: Richard Gifford
+  Technical Title:    Chief Information Officer (CIO)
+  Tech LinkedIn URL:  https://www.linkedin.com/in/richard-gifford-wincanton/
+  Direct Tech Phone:  +44 20 8961 6010
+  Direct Tech Email:  richard.gifford@wincanton.co.uk
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 8961 6000 (Formatted for international dial)
-  Decision Maker:     Gavin Williams (Managing Director UK & Ireland)
-  Call Opener Script: "Ask directly for Gavin Williams (Managing Director UK & Ireland) regarding UK operations & logistics collaboration."
+  Decision Maker:     Gavin Williams (Managing Director UK & Ireland) | Tech: Richard Gifford (Chief Information Officer (CIO))
+  Call Opener Script: "Call Direct: +44 20 8961 6000 (Ask for Gavin Williams) or Tech Direct: +44 20 8961 6010 (Ask for Richard Gifford - Chief Information Officer (CIO)) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

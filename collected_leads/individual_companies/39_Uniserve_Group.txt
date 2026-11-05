@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Uniserve Group
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Iain Liddell
   Executive Title:    Founder, Owner & Group Managing Director
   CEO LinkedIn URL:   https://www.linkedin.com/in/iain-liddell-uniserve/
   Direct CEO Phone:   +44 1375 856000
   Direct CEO Email:   i.liddell@ugroup.co.uk
+  Technical Head/CTO: Steve Davies
+  Technical Title:    Group IT & One World Platform Director
+  Tech LinkedIn URL:  https://www.linkedin.com/in/steve-davies-uniserve/
+  Direct Tech Phone:  +44 1375 856010
+  Direct Tech Email:  s.davies@ugroup.co.uk
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 1375 856000 (Formatted for international dial)
-  Decision Maker:     Iain Liddell (Founder, Owner & Group Managing Director)
-  Call Opener Script: "Ask directly for Iain Liddell (Founder, Owner & Group Managing Director) regarding UK operations & logistics collaboration."
+  Decision Maker:     Iain Liddell (Founder, Owner & Group Managing Director) | Tech: Steve Davies (Group IT & One World Platform Director)
+  Call Opener Script: "Call Direct: +44 1375 856000 (Ask for Iain Liddell) or Tech Direct: +44 1375 856010 (Ask for Steve Davies - Group IT & One World Platform Director) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

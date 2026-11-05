@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Palletways London
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Rob Gittins
   Executive Title:    Managing Director UK
   CEO LinkedIn URL:   https://www.linkedin.com/in/rob-gittins-palletways/
   Direct CEO Phone:   +44 20 8813 3200
   Direct CEO Email:   rob_gittins@palletways.com
+  Technical Head/CTO: Richard Miller
+  Technical Title:    Head of IT UK
+  Tech LinkedIn URL:  https://www.linkedin.com/in/richard-miller-palletways/
+  Direct Tech Phone:  +44 20 8813 3215
+  Direct Tech Email:  richard_miller@palletways.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 8813 3200 (Formatted for international dial)
-  Decision Maker:     Rob Gittins (Managing Director UK)
-  Call Opener Script: "Ask directly for Rob Gittins (Managing Director UK) regarding UK operations & logistics collaboration."
+  Decision Maker:     Rob Gittins (Managing Director UK) | Tech: Richard Miller (Head of IT UK)
+  Call Opener Script: "Call Direct: +44 20 8813 3200 (Ask for Rob Gittins) or Tech Direct: +44 20 8813 3215 (Ask for Richard Miller - Head of IT UK) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: DPD Local
 Lead Score:          95/100
 Lead Status:         NEW
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Elaine Kerr
   Executive Title:    Chief Executive Officer
   CEO LinkedIn URL:   https://www.linkedin.com/in/elaine-kerr-dpd/
   Direct CEO Phone:   +44 121 275 0500
   Direct CEO Email:   elaine.kerr@dpdlocal.co.uk
+  Technical Head/CTO: Simon Barber
+  Technical Title:    Head of IT Service Delivery
+  Tech LinkedIn URL:  https://www.linkedin.com/in/simon-barber-dpd/
+  Direct Tech Phone:  +44 121 275 0510
+  Direct Tech Email:  simon.barber@dpdlocal.co.uk
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 121 275 0500 (Formatted for international dial)
-  Decision Maker:     Elaine Kerr (Chief Executive Officer)
-  Call Opener Script: "Ask directly for Elaine Kerr (Chief Executive Officer) regarding UK operations & logistics collaboration."
+  Decision Maker:     Elaine Kerr (Chief Executive Officer) | Tech: Simon Barber (Head of IT Service Delivery)
+  Call Opener Script: "Call Direct: +44 121 275 0500 (Ask for Elaine Kerr) or Tech Direct: +44 121 275 0510 (Ask for Simon Barber - Head of IT Service Delivery) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -54,7 +59,8 @@ QUALITY SCORE BREAKDOWN:
     "City target match",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

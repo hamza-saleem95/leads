@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Den Hartogh Logistics UK
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Mark Newling
   Executive Title:    General Manager UK
   CEO LinkedIn URL:   https://www.linkedin.com/in/mark-newling-denhartogh/
   Direct CEO Phone:   +44 1375 391500
   Direct CEO Email:   mnewling@denhartogh.com
+  Technical Head/CTO: Ronald Zijderveld
+  Technical Title:    Director of IT & Digital Logistics
+  Tech LinkedIn URL:  https://www.linkedin.com/in/ronald-zijderveld/
+  Direct Tech Phone:  +44 1375 391510
+  Direct Tech Email:  rzijderveld@denhartogh.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 1375 391500 (Formatted for international dial)
-  Decision Maker:     Mark Newling (General Manager UK)
-  Call Opener Script: "Ask directly for Mark Newling (General Manager UK) regarding UK operations & logistics collaboration."
+  Decision Maker:     Mark Newling (General Manager UK) | Tech: Ronald Zijderveld (Director of IT & Digital Logistics)
+  Call Opener Script: "Call Direct: +44 1375 391500 (Ask for Mark Newling) or Tech Direct: +44 1375 391510 (Ask for Ronald Zijderveld - Director of IT & Digital Logistics) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

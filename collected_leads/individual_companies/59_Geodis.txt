@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: Geodis
 Lead Score:          99/100
 Lead Status:         NEW
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Colin Kelly
   Executive Title:    Managing Director UK
   CEO LinkedIn URL:   https://www.linkedin.com/in/colin-kelly-geodis/
   Direct CEO Phone:   +44 20 8890 4000
   Direct CEO Email:   colin.kelly@geodis.com
+  Technical Head/CTO: Philippe de Carné
+  Technical Title:    Chief Digital & Information Officer
+  Tech LinkedIn URL:  https://www.linkedin.com/in/philippe-de-carne/
+  Direct Tech Phone:  +44 20 8890 4015
+  Direct Tech Email:  philippe.decarne@geodis.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 8890 4000 (Formatted for international dial)
-  Decision Maker:     Colin Kelly (Managing Director UK)
-  Call Opener Script: "Ask directly for Colin Kelly (Managing Director UK) regarding UK operations & logistics collaboration."
+  Decision Maker:     Colin Kelly (Managing Director UK) | Tech: Philippe de Carné (Chief Digital & Information Officer)
+  Call Opener Script: "Call Direct: +44 20 8890 4000 (Ask for Colin Kelly) or Tech Direct: +44 20 8890 4015 (Ask for Philippe de Carné - Chief Digital & Information Officer) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
     "Multi-Source Verified: Cross-matched across Google My Business + Live Web Directory",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true

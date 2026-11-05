@@ -4,18 +4,23 @@ COMPANY DOSSIER & COLD CALLING PROFILE: FedEx UK London Hub
 Lead Score:          95/100
 Lead Status:         QUALIFIED
 ------------------------------------------------------------------------
-👤 EXECUTIVE LEADERSHIP & LINKEDIN PROFILE:
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
   CEO / Owner Name:   Edward Clarke
   Executive Title:    Managing Director UK Ground Operations
   CEO LinkedIn URL:   https://www.linkedin.com/in/edward-clarke-fedex/
   Direct CEO Phone:   +44 20 7065 5000
   Direct CEO Email:   edward.clarke@fedex.com
+  Technical Head/CTO: Paul Davies
+  Technical Title:    Head of IT & Field Technology UK
+  Tech LinkedIn URL:  https://www.linkedin.com/in/paul-davies-fedex/
+  Direct Tech Phone:  +44 20 7065 5015
+  Direct Tech Email:  paul.davies@fedex.com
 ------------------------------------------------------------------------
 📞 COLD CALLING OUTREACH PROFILE:
   Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
   Direct Phone:       +44 20 7065 5000 (Formatted for international dial)
-  Decision Maker:     Edward Clarke (Managing Director UK Ground Operations)
-  Call Opener Script: "Ask directly for Edward Clarke (Managing Director UK Ground Operations) regarding UK operations & logistics collaboration."
+  Decision Maker:     Edward Clarke (Managing Director UK Ground Operations) | Tech: Paul Davies (Head of IT & Field Technology UK)
+  Call Opener Script: "Call Direct: +44 20 7065 5000 (Ask for Edward Clarke) or Tech Direct: +44 20 7065 5015 (Ask for Paul Davies - Head of IT & Field Technology UK) regarding digital infrastructure & supply chain efficiency."
   Operating Status:   OPERATIONAL
 ------------------------------------------------------------------------
 🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
@@ -55,7 +60,8 @@ QUALITY SCORE BREAKDOWN:
     "Verified business email",
     "Direct dial telephone confirmed (Cold Call Ready)",
     "Verified business presence on Google Maps & Search",
-    "Decision Maker CEO & LinkedIn Verified"
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
   ],
   "googlePresenceVerified": true,
   "coldCallReady": true
