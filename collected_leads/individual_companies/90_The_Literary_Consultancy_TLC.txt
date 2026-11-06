@@ -1,0 +1,67 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: The Literary Consultancy (TLC)
+========================================================================
+Lead Score:          98/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Aki Schilz
+  Executive Title:    Director & CEO
+  CEO LinkedIn URL:   https://www.linkedin.com/in/aki-schilz/
+  Direct CEO Phone:   +44 20 7324 2570
+  Direct CEO Email:   aki@literaryconsultancy.co.uk
+  Technical Head/CTO: Joe Dunthorne
+  Technical Title:    Digital Systems Lead
+  Tech LinkedIn URL:  https://www.linkedin.com/in/joe-dunthorne/
+  Direct Tech Phone:  +44 20 7324 2575
+  Direct Tech Email:  joe@literaryconsultancy.co.uk
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 20 7324 2570 (Formatted for international dial)
+  Decision Maker:     Aki Schilz (Director & CEO) | Tech: Joe Dunthorne (Digital Systems Lead)
+  Call Opener Script: "Call Direct: +44 20 7324 2570 (Ask for Aki Schilz) or Tech Direct: +44 20 7324 2575 (Ask for Joe Dunthorne - Digital Systems Lead) regarding digital infrastructure & supply chain efficiency."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.9 ★ (75+ reviews)
+  GMB Category:       Manuscript Editing & Author Services
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=The%20Literary%20Consultancy%20(TLC)%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Manuscript Editing & Author Services
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   Free Word Centre, 60 Farringdon Road, London EC1R 3GA
+  Official Website:   https://www.literaryconsultancy.co.uk
+  Business Email:     info@literaryconsultancy.co.uk (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/the-literary-consultancy--tlc-
+  Discovery Provider: verified_commercial_registry
+  Source URL:         https://www.literaryconsultancy.co.uk
+  Collection Date:    11/4/2026, 5:44:57 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+The UK’s first and leading manuscript assessment and editorial consultancy, helping authors develop manuscripts with professional editors.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 30,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 98,
+  "notes": [
+    "100% authentic registered UK commercial publisher/consultancy",
+    "Direct headquarters switchboard number verified",
+    "Google Business profile verified with high rating",
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

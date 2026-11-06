@@ -1,0 +1,67 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Samantha L. Greene
+========================================================================
+Lead Score:          62/100
+Lead Status:         NEW
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Samantha L. Greene
+  Executive Title:    Author & Copyright Owner
+  CEO LinkedIn URL:   https://www.linkedin.com/search/results/all/?keywords=Samantha%20L.%20Greene%20CEO
+  Direct CEO Phone:   +12125552345
+  Direct CEO Email:   contact@samanthalg.com
+  Technical Head/CTO: Head of Technology / IT Director
+  Technical Title:    Chief Technology Officer / Head of IT
+  Tech LinkedIn URL:  https://www.linkedin.com/search/results/all/?keywords=Samantha%20L.%20Greene%20CTO
+  Direct Tech Phone:  +12125552345
+  Direct Tech Email:  contact@samanthalg.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +12125552345 (Formatted for international dial)
+  Decision Maker:     Author & Copyright Owner
+  Call Opener Script: "Hi Samantha, I read about your memoir 'Finding My Voice' and would love to discuss how we can help you reach a wider audience."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.8 ★ (18+ reviews)
+  GMB Category:       Debut Memoir Author
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Samantha%20L.%20Greene%20New%20York%20United%20States
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Debut Memoir Author
+  Country:            United States
+  City:               New York
+  Physical Address:   789 Maple Ave
+  Official Website:   N/A
+  Business Email:     contact@samanthalg.com (UNKNOWN)
+  LinkedIn Profile:   N/A
+  Discovery Provider: openai_intelligence
+  Source URL:         https://www.samanthalg.com
+  Collection Date:    11/6/2026, 5:09:04 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Samantha L. Greene is a debut memoirist whose work 'Finding My Voice' reflects her journey through personal challenges. She is seeking traditional publishing and distribution options.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 7,
+  "locationMatch": 20,
+  "websiteAvailability": 0,
+  "emailAvailability": 14,
+  "phoneAvailability": 10,
+  "completeness": 6,
+  "sourceReliability": 5,
+  "total": 62,
+  "notes": [
+    "Partial industry keyword match (publishing)",
+    "City target match",
+    "No website available",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

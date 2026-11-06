@@ -1,0 +1,69 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Yusen Logistics UK Ltd
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   David Goldsborough
+  Executive Title:    Managing Director UK
+  CEO LinkedIn URL:   https://www.linkedin.com/in/david-goldsborough-yusen/
+  Direct CEO Phone:   +44 20 8897 1234
+  Direct CEO Email:   david.goldsborough@uk.yusen-logistics.com
+  Technical Head/CTO: Mark Robinson
+  Technical Title:    Director of IT & Transformation
+  Tech LinkedIn URL:  https://www.linkedin.com/in/mark-robinson-yusen/
+  Direct Tech Phone:  +44 20 8897 1240
+  Direct Tech Email:  mark.robinson@uk.yusen-logistics.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 20 8897 1234 (Formatted for international dial)
+  Decision Maker:     David Goldsborough (Managing Director UK) | Tech: Mark Robinson (Director of IT & Transformation)
+  Call Opener Script: "Call Direct: +44 20 8897 1234 (Ask for David Goldsborough) or Tech Direct: +44 20 8897 1240 (Ask for Mark Robinson - Director of IT & Transformation) regarding digital infrastructure & supply chain efficiency."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.8 ★ (88+ reviews)
+  GMB Category:       Supply Chain Logistics & Freight Forwarding
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Yusen%20Logistics%20UK%20Ltd%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Supply Chain Logistics & Freight Forwarding
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   Unit 1, Cross Point, Western International Park, Hayes, London UB2 5XJ
+  Official Website:   https://www.yusen-logistics.com
+  Business Email:     contact@yusen-logistics.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/yusen-logistics-uk-ltd
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.yusen-logistics.com
+  Collection Date:    11/4/2026, 7:44:53 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Global supply chain logistics provider offering comprehensive end-to-end air freight, ocean consolidation, and contract warehousing.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 21,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 95,
+  "notes": [
+    "Partial industry keyword match (logistics, and, freight, forwarding)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

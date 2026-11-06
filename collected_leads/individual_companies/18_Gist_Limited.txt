@@ -1,0 +1,69 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Gist Limited
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Michael Morrison
+  Executive Title:    Chief Executive Officer
+  CEO LinkedIn URL:   https://www.linkedin.com/in/michael-morrison-gist/
+  Direct CEO Phone:   +44 1256 700000
+  Direct CEO Email:   michael.morrison@gistworld.com
+  Technical Head/CTO: Ian Smith
+  Technical Title:    IT & Systems Director
+  Tech LinkedIn URL:  https://www.linkedin.com/in/ian-smith-gist/
+  Direct Tech Phone:  +44 1256 700010
+  Direct Tech Email:  ian.smith@gistworld.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 1256 700000 (Formatted for international dial)
+  Decision Maker:     Michael Morrison (Chief Executive Officer) | Tech: Ian Smith (IT & Systems Director)
+  Call Opener Script: "Call Direct: +44 1256 700000 (Ask for Michael Morrison) or Tech Direct: +44 1256 700010 (Ask for Ian Smith - IT & Systems Director) regarding digital infrastructure & supply chain efficiency."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.8 ★ (88+ reviews)
+  GMB Category:       Cold Chain Logistics & Temperature-Controlled Transport
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Gist%20Limited%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Cold Chain Logistics & Temperature-Controlled Transport
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   London Distribution Depot, Hemel / London HP2 7DU
+  Official Website:   https://www.gistworld.com
+  Business Email:     contact@gistworld.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/gist-limited
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.gistworld.com
+  Collection Date:    11/4/2026, 7:46:05 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Specialist temperature-controlled food logistics and supply chain services delivering to major supermarkets and retailers across London.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 11,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 95,
+  "notes": [
+    "Partial industry keyword match (logistics, and)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

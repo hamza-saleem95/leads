@@ -1,0 +1,69 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: CEVA Logistics UK
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Chris Walton
+  Executive Title:    Managing Director UK & Ireland
+  CEO LinkedIn URL:   https://www.linkedin.com/in/chris-walton-ceva/
+  Direct CEO Phone:   +44 20 8897 4000
+  Direct CEO Email:   chris.walton@cevalogistics.com
+  Technical Head/CTO: Susanne Schustin
+  Technical Title:    Global Chief Information Officer
+  Tech LinkedIn URL:  https://www.linkedin.com/in/susanne-schustin/
+  Direct Tech Phone:  +44 20 8897 4015
+  Direct Tech Email:  susanne.schustin@cevalogistics.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 20 8897 4000 (Formatted for international dial)
+  Decision Maker:     Chris Walton (Managing Director UK & Ireland) | Tech: Susanne Schustin (Global Chief Information Officer)
+  Call Opener Script: "Call Direct: +44 20 8897 4000 (Ask for Chris Walton) or Tech Direct: +44 20 8897 4015 (Ask for Susanne Schustin - Global Chief Information Officer) regarding digital infrastructure & supply chain efficiency."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.7 ★ (120+ reviews)
+  GMB Category:       Contract Logistics & Global Freight
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=CEVA%20Logistics%20UK%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Contract Logistics & Global Freight
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   Heathrow Cargo Point, 832 Parkway, Hounslow, London TW6 3BA
+  Official Website:   https://www.cevalogistics.com
+  Business Email:     contact@cevalogistics.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/ceva-logistics-uk
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.cevalogistics.com
+  Collection Date:    11/4/2026, 7:44:58 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Global non-asset based supply chain management company providing air, ocean, ground freight management and comprehensive contract logistics.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 16,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 95,
+  "notes": [
+    "Partial industry keyword match (logistics, and, freight)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

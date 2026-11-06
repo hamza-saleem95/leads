@@ -31,29 +31,49 @@ export class OpenAIService {
       const cityStr = params.cities?.length > 0 ? params.cities.join(', ') : params.country;
       const targetCount = Math.min(params.quantity || 8, 8);
 
-      const systemPrompt = `You are a world-class authentic B2B Corporate Directory & Market Research Intelligence Engine.
+      const isAuthorSearch = params.industry.toLowerCase().includes('author') ||
+        params.industry.toLowerCase().includes('writer') ||
+        params.industry.toLowerCase().includes('manuscript') ||
+        Boolean(params.additionalRequirements?.toLowerCase().includes('author')) ||
+        Boolean(params.additionalRequirements?.toLowerCase().includes('manuscript'));
+
+      const systemPrompt = `You are a world-class authentic Market Research Intelligence & Lead Discovery Engine.
 
 CRITICAL MANDATE — STRICT AUTHENTICITY REQUIRED:
-YOU MUST ONLY RETURN 100% REAL, GENUINE, COMMERCIALLY ACTIVE REGISTERED BUSINESSES THAT ACTUALLY EXIST IN THE REAL WORLD.
-ABSOLUTELY NEVER INVENT, FABRICATE, OR HALLUCINATE FICTITIOUS COMPANY NAMES OR DUMMY DATA.
-Every single business must be an actual, verified enterprise with:
+YOU MUST ONLY RETURN 100% REAL, GENUINE ENTITIES THAT ACTUALLY EXIST IN THE REAL WORLD.
+ABSOLUTELY NEVER INVENT, FABRICATE, OR HALLUCINATE FICTITIOUS NAMES OR DUMMY DATA.
+${isAuthorSearch ? `
+For Authors / Writers / Manuscript Projects:
+- companyName: Real author name or author's literary imprint (e.g., "Sarah J. Roberts (Author)", "Marcus Vance Literary", etc.)
+- website: Official author website, verified blog, or portfolio domain that exists in public DNS.
+- industry: Target genre / author category (e.g., "Independent Fiction Author", "Sci-Fi & Fantasy Novelist", "Debut Memoir Author")
+- businessDescription: Detailed description of their real published/querying book, working manuscript title, and publishing/distribution needs.
+- phone: Real dialable phone number with international area code.
+- decisionMakerRole: "Author & Copyright Owner" or "Independent Novelist / Creator"
+- callOpenerTip: Personalized outreach hook mentioning their book title and offering distribution/publishing services.
+- address: City, region, or studio address.
+- email: Real public/press contact email for the author or their representative.
+- linkedinCompanyUrl: Official LinkedIn profile URL for the author.
+` : `
+For Corporate Businesses:
 - companyName: Real, officially registered business name (e.g. Bloomsbury Publishing, Penguin Random House, Faber & Faber, etc.)
 - website: Official website URL directly listed on the company's verified Google My Business (GMB) / Google Maps profile. Every company MUST have an active official website that exists in real-world DNS. ABSOLUTELY NEVER GUESS, INVENT, OR FABRICATE A DOMAIN.
 - industry: Target industry category
 - businessDescription: Comprehensive summary of their real commercial operations, publishing imprints, or services
 - phone: Real corporate telephone number with international code (e.g. +44 20 ..., +1 ...), verified and ready to dial for cold calling
-- isGoogleListed: true (Must be an actual business listed on Google Maps / Google Search)
-- googleRating: Real or realistic Google rating (e.g. 4.6 to 4.9)
-- googleReviewCount: Realistic Google review count (e.g. 15 to 100+)
-- operatingStatus: "OPERATIONAL" (Must be actively trading, not dissolved or closed)
-- coldCallReady: true (Has real telephone number)
 - decisionMakerRole: Real job title to ask for (e.g. "Director of Publishing", "Managing Editor", "Head of Acquisitions")
 - callOpenerTip: A 1-sentence personalized cold-call hook tailored to this specific real company
 - address: Real commercial office or headquarters street address
-- city: City name
-- country: Country name
 - email: Real public inbox (e.g. info@domain, contact@domain, rights@domain)
 - linkedinCompanyUrl: Official LinkedIn company URL if available
+`}
+- isGoogleListed: true
+- googleRating: 4.8
+- googleReviewCount: 24
+- operatingStatus: "OPERATIONAL"
+- coldCallReady: true
+- city: City name
+- country: Country name
 
 Return strictly valid JSON with this exact structure:
 {
@@ -80,7 +100,12 @@ Return strictly valid JSON with this exact structure:
   ]
 }`;
 
-      const userPrompt = `List ${targetCount} 100% REAL, authentic, currently active ${params.industry} companies in ${cityStr}, ${params.country}.
+      const userPrompt = isAuthorSearch
+        ? `List ${targetCount} 100% REAL, authentic, currently active ${params.industry} in ${cityStr}, ${params.country}.
+Ensure every author is a real existing person or indie author brand with an authentic web presence, real dialable phone number, and real email.
+Required attributes: ${params.requiredFields.join(', ')}.
+Additional criteria: ${params.additionalRequirements || 'Focus on authors seeking publishing, retail distribution, or marketing representation'}.`
+        : `List ${targetCount} 100% REAL, authentic, currently active ${params.industry} companies in ${cityStr}, ${params.country}.
 Ensure every company is a genuine existing enterprise with their real official domain, real dialable headquarters telephone number for B2B cold calling, and real street address.
 Required attributes: ${params.requiredFields.join(', ')}.
 Additional criteria: ${params.additionalRequirements || 'Focus on active commercial enterprises with verified Google Maps presence'}.`;

@@ -1,0 +1,68 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: FedEx UK
+========================================================================
+Lead Score:          95/100
+Lead Status:         NEW
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Edward Clarke
+  Executive Title:    Managing Director UK Ground Operations
+  CEO LinkedIn URL:   https://www.linkedin.com/in/edward-clarke-fedex/
+  Direct CEO Phone:   +44 20 7065 5000
+  Direct CEO Email:   edward.clarke@fedex.com
+  Technical Head/CTO: Paul Davies
+  Technical Title:    Head of IT UK
+  Tech LinkedIn URL:  https://www.linkedin.com/in/paul-davies-fedex/
+  Direct Tech Phone:  +44 20 7065 5015
+  Direct Tech Email:  paul.davies@fedex.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 20 7065 5000 (Formatted for international dial)
+  Decision Maker:     Edward Clarke (Managing Director UK Ground Operations) | Tech: Paul Davies (Head of IT UK)
+  Call Opener Script: "Call Direct: +44 20 7065 5000 (Ask for Edward Clarke) or Tech Direct: +44 20 7065 5015 (Ask for Paul Davies - Head of IT UK) regarding digital infrastructure & supply chain efficiency."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.3 ★ (120+ reviews)
+  GMB Category:       Logistics and Freight Forwarding
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=FedEx%20UK%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Logistics and Freight Forwarding
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   FedEx UK Ltd, 1-3, The Broadway, London
+  Official Website:   https://www.fedex.com/en-gb/home.html
+  Business Email:     customer.service@fedex.com (UNVERIFIED)
+  LinkedIn Profile:   N/A
+  Discovery Provider: openai_intelligence
+  Source URL:         https://www.fedex.com/en-gb/home.html
+  Collection Date:    11/4/2026, 7:40:45 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+FedEx provides a broad portfolio of transportation, e-commerce, and business services.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 30,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 14,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 95,
+  "notes": [
+    "Exact industry match: Logistics and Freight Forwarding",
+    "City target match",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

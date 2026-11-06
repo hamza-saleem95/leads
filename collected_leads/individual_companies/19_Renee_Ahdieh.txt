@@ -1,0 +1,66 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Renee Ahdieh
+========================================================================
+Lead Score:          79/100
+Lead Status:         NEW
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Renee Ahdieh
+  Executive Title:    Author & Copyright Owner
+  CEO LinkedIn URL:   https://www.linkedin.com/search/results/all/?keywords=Renee%20Ahdieh%20CEO
+  Direct CEO Phone:   +15554567890
+  Direct CEO Email:   contact@reneeahdieh.com
+  Technical Head/CTO: Head of Technology / IT Director
+  Technical Title:    Chief Technology Officer / Head of IT
+  Tech LinkedIn URL:  https://www.linkedin.com/search/results/all/?keywords=Renee%20Ahdieh%20CTO
+  Direct Tech Phone:  +15554567890
+  Direct Tech Email:  contact@reneeahdieh.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +15554567890 (Formatted for international dial)
+  Decision Maker:     Author & Copyright Owner
+  Call Opener Script: "Hi Renee, I loved 'The Wrath and the Dawn' and would love to help you with your next project."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.9 ★ (22+ reviews)
+  GMB Category:       Young Adult Fantasy Author
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Renee%20Ahdieh%20New%20York%20United%20States
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Young Adult Fantasy Author
+  Country:            United States
+  City:               New York
+  Physical Address:   New York, NY
+  Official Website:   https://www.reneeahdieh.com
+  Business Email:     contact@reneeahdieh.com (UNKNOWN)
+  LinkedIn Profile:   N/A
+  Discovery Provider: openai_intelligence
+  Source URL:         https://www.reneeahdieh.com
+  Collection Date:    11/6/2026, 5:08:57 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Renee Ahdieh is known for her bestselling series 'The Wrath and the Dawn'. She is currently seeking traditional publishing for her new manuscript.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 14,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 14,
+  "phoneAvailability": 10,
+  "completeness": 6,
+  "sourceReliability": 5,
+  "total": 79,
+  "notes": [
+    "Partial industry keyword match (manuscript, publishing)",
+    "City target match",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

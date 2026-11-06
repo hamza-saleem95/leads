@@ -1,0 +1,69 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Nippon Express UK Ltd
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Hiroshi Takahashi
+  Executive Title:    Managing Director UK
+  CEO LinkedIn URL:   https://www.linkedin.com/in/hiroshi-takahashi-nippon/
+  Direct CEO Phone:   +44 20 8759 2323
+  Direct CEO Email:   h_takahashi@nipponexpress.co.uk
+  Technical Head/CTO: Satoshi Horikoshi
+  Technical Title:    Head of IT & Digital Solutions UK
+  Tech LinkedIn URL:  https://www.linkedin.com/in/satoshi-horikoshi/
+  Direct Tech Phone:  +44 20 8759 2330
+  Direct Tech Email:  s_horikoshi@nipponexpress.co.uk
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 20 8759 2323 (Formatted for international dial)
+  Decision Maker:     Hiroshi Takahashi (Managing Director UK) | Tech: Satoshi Horikoshi (Head of IT & Digital Solutions UK)
+  Call Opener Script: "Call Direct: +44 20 8759 2323 (Ask for Hiroshi Takahashi) or Tech Direct: +44 20 8759 2330 (Ask for Satoshi Horikoshi - Head of IT & Digital Solutions UK) regarding digital infrastructure & supply chain efficiency."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.7 ★ (74+ reviews)
+  GMB Category:       International Air & Ocean Freight Forwarding
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Nippon%20Express%20UK%20Ltd%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           International Air & Ocean Freight Forwarding
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   Compass House, 28-30 Horton Road, Colnbrook, London Heathrow SL3 0DA
+  Official Website:   https://www.nipponexpress.com
+  Business Email:     contact@nipponexpress.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/nippon-express-uk-ltd
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.nipponexpress.com
+  Collection Date:    11/4/2026, 7:44:53 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+One of the world’s largest global logistics companies, providing heavy freight forwarding, high-tech cargo, and bonded customs storage.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 21,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 95,
+  "notes": [
+    "Partial industry keyword match (logistics, and, freight, forwarding)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

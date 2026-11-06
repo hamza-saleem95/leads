@@ -1,0 +1,69 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Davies Turner & Co Ltd
+========================================================================
+Lead Score:          100/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Philip Stephenson
+  Executive Title:    Chairman & Owner
+  CEO LinkedIn URL:   https://www.linkedin.com/in/philip-stephenson-davies-turner/
+  Direct CEO Phone:   +44 20 7622 3361
+  Direct CEO Email:   pstephenson@daviesturner.co.uk
+  Technical Head/CTO: Michael Stephenson
+  Technical Title:    Director of Systems & IT
+  Tech LinkedIn URL:  https://www.linkedin.com/in/michael-stephenson-davies-turner/
+  Direct Tech Phone:  +44 20 7622 3370
+  Direct Tech Email:  mstephenson@daviesturner.co.uk
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 20 7622 3361 (Formatted for international dial)
+  Decision Maker:     Philip Stephenson (Chairman & Owner) | Tech: Michael Stephenson (Director of Systems & IT)
+  Call Opener Script: "Call Direct: +44 20 7622 3361 (Ask for Philip Stephenson) or Tech Direct: +44 20 7622 3370 (Ask for Michael Stephenson - Director of Systems & IT) regarding digital infrastructure & supply chain efficiency."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.8 ★ (95+ reviews)
+  GMB Category:       Logistics and Freight Forwarding
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Davies%20Turner%20%26%20Co%20Ltd%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Logistics and Freight Forwarding
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   80-82 Battersea Park Road, London SW8 4AA
+  Official Website:   https://www.daviesturner.com
+  Business Email:     contact@daviesturner.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/davies-turner-co-ltd
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.daviesturner.com
+  Collection Date:    11/4/2026, 7:44:49 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+One of the UK’s leading independent freight forwarding, multimodal air/sea cargo and contract warehousing providers.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 30,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 100,
+  "notes": [
+    "Exact industry match: Logistics and Freight Forwarding",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

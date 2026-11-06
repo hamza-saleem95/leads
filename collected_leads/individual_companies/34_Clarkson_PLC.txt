@@ -1,0 +1,69 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Clarkson PLC
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Andi Case
+  Executive Title:    Chief Executive Officer
+  CEO LinkedIn URL:   https://www.linkedin.com/in/andi-case-clarksons/
+  Direct CEO Phone:   +44 20 7334 0000
+  Direct CEO Email:   andi.case@clarksons.com
+  Technical Head/CTO: Bart Bream
+  Technical Title:    Group Chief Technology Officer (CTO)
+  Tech LinkedIn URL:  https://www.linkedin.com/in/bartbream/
+  Direct Tech Phone:  +44 20 7334 0010
+  Direct Tech Email:  bart.bream@clarksons.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 20 7334 0000 (Formatted for international dial)
+  Decision Maker:     Andi Case (Chief Executive Officer) | Tech: Bart Bream (Group Chief Technology Officer (CTO))
+  Call Opener Script: "Call Direct: +44 20 7334 0000 (Ask for Andi Case) or Tech Direct: +44 20 7334 0010 (Ask for Bart Bream - Group Chief Technology Officer (CTO)) regarding digital infrastructure & supply chain efficiency."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.9 ★ (120+ reviews)
+  GMB Category:       Integrated Shipping Services & Ocean Freight
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Clarkson%20PLC%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Integrated Shipping Services & Ocean Freight
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   Commodity Quay, St Katharine Docks, London E1W 1BF
+  Official Website:   https://www.clarksons.com
+  Business Email:     contact@clarksons.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/clarkson-plc
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.clarksons.com
+  Collection Date:    11/4/2026, 7:45:05 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+The world’s leading provider of integrated shipping services, specialized broking, vessel chartering, and global ocean freight analytics.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 11,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 95,
+  "notes": [
+    "Partial industry keyword match (and, freight)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

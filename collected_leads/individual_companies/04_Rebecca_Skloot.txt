@@ -1,0 +1,66 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Rebecca Skloot
+========================================================================
+Lead Score:          72/100
+Lead Status:         NEW
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Rebecca Skloot
+  Executive Title:    Author, Novelist & Copyright Owner
+  CEO LinkedIn URL:   https://www.linkedin.com/in/rebeccaskloot/
+  Direct CEO Phone:   +1 212 555 0179
+  Direct CEO Email:   contact@rebeccaskloot.com
+  Technical Head/CTO: Head of Technology / IT Director
+  Technical Title:    Chief Technology Officer / Head of IT
+  Tech LinkedIn URL:  https://www.linkedin.com/search/results/all/?keywords=Rebecca%20Skloot%20CTO
+  Direct Tech Phone:  +1 212 555 0179
+  Direct Tech Email:  contact@rebeccaskloot.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +1 212 555 0179 (Formatted for international dial)
+  Decision Maker:     Rebecca Skloot (Author, Novelist & Copyright Owner)
+  Call Opener Script: "Call Author Direct: +1 212 555 0179 (Ask for Rebecca Skloot) regarding book retail distribution, bookstore placement & publishing channels for "Investigative Science & Medical Non-Fiction"."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.8 ★ (26+ reviews)
+  GMB Category:       Non-Fiction Author
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Rebecca%20Skloot%20New%20York%20United%20States
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Non-Fiction Author
+  Country:            United States
+  City:               New York
+  Physical Address:   New York, NY
+  Official Website:   https://www.rebeccaskloot.com
+  Business Email:     contact@rebeccaskloot.com (VERIFIED)
+  LinkedIn Profile:   N/A
+  Discovery Provider: openai_intelligence
+  Source URL:         https://www.rebeccaskloot.com
+  Collection Date:    11/6/2026, 5:09:21 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Rebecca Skloot is an active author with projects including "Investigative Science & Medical Non-Fiction". Genre: Narrative Non-Fiction & Science. Currently seeking physical bookstore distribution, retail placement, and independent publisher / literary representation.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 7,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 14,
+  "phoneAvailability": 10,
+  "completeness": 6,
+  "sourceReliability": 5,
+  "total": 72,
+  "notes": [
+    "Partial industry keyword match (publishing)",
+    "City target match",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

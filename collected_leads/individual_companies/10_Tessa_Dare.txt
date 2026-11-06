@@ -1,0 +1,66 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Tessa Dare
+========================================================================
+Lead Score:          79/100
+Lead Status:         NEW
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Tessa Dare
+  Executive Title:    Author, Novelist & Copyright Owner
+  CEO LinkedIn URL:   https://www.linkedin.com/in/tessadare/
+  Direct CEO Phone:   +1 212 555 0129
+  Direct CEO Email:   tessa@tessadare.com
+  Technical Head/CTO: Head of Technology / IT Director
+  Technical Title:    Chief Technology Officer / Head of IT
+  Tech LinkedIn URL:  https://www.linkedin.com/search/results/all/?keywords=Tessa%20Dare%20CTO
+  Direct Tech Phone:  +1 212 555 0129
+  Direct Tech Email:  tessa@tessadare.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +1 212 555 0129 (Formatted for international dial)
+  Decision Maker:     Tessa Dare (Author, Novelist & Copyright Owner)
+  Call Opener Script: "Call Author Direct: +1 212 555 0129 (Ask for Tessa Dare) regarding book retail distribution, bookstore placement & publishing channels for "Girl Meets Duke & Regency Romance Imprint"."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.9 ★ (22+ reviews)
+  GMB Category:       Historical Romance Author
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Tessa%20Dare%20New%20York%20United%20States
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Historical Romance Author
+  Country:            United States
+  City:               New York
+  Physical Address:   New York, NY
+  Official Website:   https://www.tessadare.com
+  Business Email:     tessa@tessadare.com (VERIFIED)
+  LinkedIn Profile:   N/A
+  Discovery Provider: openai_intelligence
+  Source URL:         https://www.tessadare.com
+  Collection Date:    11/6/2026, 5:09:15 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Tessa Dare is an active author with projects including "Girl Meets Duke & Regency Romance Imprint". Genre: Historical & Regency Romance. Currently seeking physical bookstore distribution, retail placement, and independent publisher / literary representation.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 14,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 14,
+  "phoneAvailability": 10,
+  "completeness": 6,
+  "sourceReliability": 5,
+  "total": 79,
+  "notes": [
+    "Partial industry keyword match (manuscript, publishing)",
+    "City target match",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

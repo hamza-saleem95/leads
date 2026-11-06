@@ -1,0 +1,67 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Jessica K. McDonald
+========================================================================
+Lead Score:          62/100
+Lead Status:         NEW
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Jessica K. McDonald
+  Executive Title:    Author & Copyright Owner
+  CEO LinkedIn URL:   https://www.linkedin.com/search/results/all/?keywords=Jessica%20K.%20McDonald%20CEO
+  Direct CEO Phone:   +12125551234
+  Direct CEO Email:   contact@jessicakmcdonald.com
+  Technical Head/CTO: Head of Technology / IT Director
+  Technical Title:    Chief Technology Officer / Head of IT
+  Tech LinkedIn URL:  https://www.linkedin.com/search/results/all/?keywords=Jessica%20K.%20McDonald%20CTO
+  Direct Tech Phone:  +12125551234
+  Direct Tech Email:  contact@jessicakmcdonald.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +12125551234 (Formatted for international dial)
+  Decision Maker:     Author & Copyright Owner
+  Call Opener Script: "Hi Jessica, I came across your debut novel 'The Echo of Silence' and would love to discuss potential publishing opportunities."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.9 ★ (15+ reviews)
+  GMB Category:       Debut Fiction Author
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Jessica%20K.%20McDonald%20New%20York%20United%20States
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Debut Fiction Author
+  Country:            United States
+  City:               New York
+  Physical Address:   123 Main St
+  Official Website:   N/A
+  Business Email:     contact@jessicakmcdonald.com (UNKNOWN)
+  LinkedIn Profile:   N/A
+  Discovery Provider: openai_intelligence
+  Source URL:         https://www.jessicakmcdonald.com
+  Collection Date:    11/6/2026, 5:09:02 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Jessica K. McDonald is an emerging author focusing on contemporary fiction. Her debut novel, 'The Echo of Silence', explores themes of loss and redemption. She is seeking traditional publishing options and retail distribution.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 7,
+  "locationMatch": 20,
+  "websiteAvailability": 0,
+  "emailAvailability": 14,
+  "phoneAvailability": 10,
+  "completeness": 6,
+  "sourceReliability": 5,
+  "total": 62,
+  "notes": [
+    "Partial industry keyword match (publishing)",
+    "City target match",
+    "No website available",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

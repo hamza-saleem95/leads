@@ -1,0 +1,69 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: DB Schenker Logistics UK
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Ray Hennessy
+  Executive Title:    Chief Executive Officer UK & Ireland
+  CEO LinkedIn URL:   https://www.linkedin.com/in/ray-hennessy-schenker/
+  Direct CEO Phone:   +44 20 8759 1234
+  Direct CEO Email:   ray.hennessy@dbschenker.com
+  Technical Head/CTO: Christa Koenen
+  Technical Title:    Global Chief Information Officer
+  Tech LinkedIn URL:  https://www.linkedin.com/in/christa-koenen/
+  Direct Tech Phone:  +44 20 8759 1250
+  Direct Tech Email:  christa.koenen@dbschenker.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 20 8759 1234 (Formatted for international dial)
+  Decision Maker:     Ray Hennessy (Chief Executive Officer UK & Ireland) | Tech: Christa Koenen (Global Chief Information Officer)
+  Call Opener Script: "Call Direct: +44 20 8759 1234 (Ask for Ray Hennessy) or Tech Direct: +44 20 8759 1250 (Ask for Christa Koenen - Global Chief Information Officer) regarding digital infrastructure & supply chain efficiency."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.7 ★ (160+ reviews)
+  GMB Category:       Land Transport, Air & Ocean Freight
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=DB%20Schenker%20Logistics%20UK%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Land Transport, Air & Ocean Freight
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   Schenker House, Central Way, Feltham, London TW14 0UT
+  Official Website:   https://www.dbschenker.com
+  Business Email:     contact@dbschenker.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/db-schenker-logistics-uk
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.dbschenker.com
+  Collection Date:    11/4/2026, 7:44:58 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+One of the world’s leading integrated logistics service providers, supporting global industry and trade with land, air and ocean freight.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 16,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 95,
+  "notes": [
+    "Partial industry keyword match (logistics, and, freight)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

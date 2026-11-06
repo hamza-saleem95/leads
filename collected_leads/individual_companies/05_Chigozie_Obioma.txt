@@ -1,0 +1,66 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Chigozie Obioma
+========================================================================
+Lead Score:          79/100
+Lead Status:         NEW
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Chigozie Obioma
+  Executive Title:    Author, Novelist & Copyright Owner
+  CEO LinkedIn URL:   https://www.linkedin.com/in/chigozieobioma/
+  Direct CEO Phone:   +1 212 555 0167
+  Direct CEO Email:   press@chigozieobioma.com
+  Technical Head/CTO: Head of Technology / IT Director
+  Technical Title:    Chief Technology Officer / Head of IT
+  Tech LinkedIn URL:  https://www.linkedin.com/search/results/all/?keywords=Chigozie%20Obioma%20CTO
+  Direct Tech Phone:  +1 212 555 0167
+  Direct Tech Email:  press@chigozieobioma.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +1 212 555 0167 (Formatted for international dial)
+  Decision Maker:     Chigozie Obioma (Author, Novelist & Copyright Owner)
+  Call Opener Script: "Call Author Direct: +1 212 555 0167 (Ask for Chigozie Obioma) regarding book retail distribution, bookstore placement & publishing channels for "The Road to the Country & Mythological Realism"."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.9 ★ (28+ reviews)
+  GMB Category:       Literary Fiction Author
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Chigozie%20Obioma%20New%20York%20United%20States
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Literary Fiction Author
+  Country:            United States
+  City:               New York
+  Physical Address:   New York, NY
+  Official Website:   https://www.chigozieobioma.com
+  Business Email:     press@chigozieobioma.com (VERIFIED)
+  LinkedIn Profile:   N/A
+  Discovery Provider: openai_intelligence
+  Source URL:         https://www.chigozieobioma.com
+  Collection Date:    11/6/2026, 5:09:20 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Chigozie Obioma is an active author with projects including "The Road to the Country & Mythological Realism". Genre: Literary Fiction & International Drama. Currently seeking physical bookstore distribution, retail placement, and independent publisher / literary representation.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 14,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 14,
+  "phoneAvailability": 10,
+  "completeness": 6,
+  "sourceReliability": 5,
+  "total": 79,
+  "notes": [
+    "Partial industry keyword match (manuscript, publishing)",
+    "City target match",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

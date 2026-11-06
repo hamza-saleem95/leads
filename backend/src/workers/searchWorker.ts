@@ -102,16 +102,27 @@ export class SearchWorker {
         });
 
         const targetQuantity = strategy.quantity || 50;
-        const subSectors = [
-          'Global Freight Forwarding, Air & Maritime Cargo Logistics',
-          'Contract Logistics, Warehousing & 3PL Supply Chain Distribution',
-          'Express Courier, Fleet Haulage & Last Mile Delivery Services',
-          'Intermodal Container Shipping, Customs Clearance & Port Logistics',
-          'Cold Chain, Pharmaceutical & Specialized Temperature Transport',
-          'E-Commerce Fulfillment, Pallet Networks & Road Freight Logistics',
-          'Aviation Cargo Handling, Heathrow Freight Hub & Airport Transport',
-          'Heavy Haulage, Project Forwarding & Bulk Cargo Logistics'
-        ];
+        const isLogistics = strategy.industry.toLowerCase().includes('freight') || strategy.industry.toLowerCase().includes('logistics');
+        const subSectors = strategy.targetKeywords && strategy.targetKeywords.length > 0
+          ? strategy.targetKeywords
+          : isLogistics
+            ? [
+                'Global Freight Forwarding, Air & Maritime Cargo Logistics',
+                'Contract Logistics, Warehousing & 3PL Supply Chain Distribution',
+                'Express Courier, Fleet Haulage & Last Mile Delivery Services',
+                'Intermodal Container Shipping, Customs Clearance & Port Logistics',
+                'Cold Chain, Pharmaceutical & Specialized Temperature Transport',
+                'E-Commerce Fulfillment, Pallet Networks & Road Freight Logistics',
+                'Aviation Cargo Handling, Heathrow Freight Hub & Airport Transport',
+                'Heavy Haulage, Project Forwarding & Bulk Cargo Logistics'
+              ]
+            : [
+                strategy.industry,
+                `${strategy.industry} Independent Creators & Authors`,
+                `${strategy.industry} Manuscript & Book Projects`,
+                `${strategy.industry} Seeking Distribution & Representation`,
+                `${strategy.industry} Debut & Self-Published Creators`,
+              ];
 
         let sectorIdx = 0;
         while (candidateMap.size < targetQuantity && sectorIdx < subSectors.length) {
@@ -124,7 +135,7 @@ export class SearchWorker {
               cities: strategy.cities,
               quantity: needed,
               requiredFields: strategy.requiredFields,
-              additionalRequirements: `${strategy.additionalRequirements || ''}. Every single business MUST have a verified working official website that resolves in public DNS and an active Google Maps profile in ${strategy.cities?.[0] || 'London'}.`,
+              additionalRequirements: `${strategy.additionalRequirements || ''}. Every single entry MUST have a verified working official website or portfolio, active contact channels, and be located in ${strategy.cities?.[0] || strategy.country}.`,
               userId,
             });
 
@@ -280,6 +291,11 @@ export class SearchWorker {
           sourceProvider: item.sourceProvider,
           leadStatus: 'NEW',
           extractionStatus: 'COMPLETED',
+          ceoName: (item.rawMetadata?.ceoName as string) || (item.rawMetadata?.authorName as string) || (decisionMakerRole.includes('Author') ? item.companyName.replace(/\(Author\)/i, '').trim() : undefined),
+          ceoTitle: (item.rawMetadata?.ceoTitle as string) || (decisionMakerRole.includes('Author') ? 'Author & Copyright Owner' : 'Chief Executive Officer (CEO)'),
+          ceoLinkedinUrl: (item.rawMetadata?.ceoLinkedinUrl as string) || linkedinUrl || undefined,
+          ceoPhone: (item.rawMetadata?.ceoPhone as string) || finalPhone || undefined,
+          ceoEmail: (item.rawMetadata?.ceoEmail as string) || finalEmail || undefined,
         };
 
         // Step 5: Deduplication

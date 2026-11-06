@@ -1,0 +1,66 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Chloe Benjamin
+========================================================================
+Lead Score:          79/100
+Lead Status:         NEW
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Executive Leadership
+  Executive Title:    Chief Executive Officer (CEO)
+  CEO LinkedIn URL:   https://www.linkedin.com/search/results/all/?keywords=Chloe%20Benjamin%20CEO
+  Direct CEO Phone:   +12125550158
+  Direct CEO Email:   contact@chloebenjamin.com
+  Technical Head/CTO: Head of Technology / IT Director
+  Technical Title:    Chief Technology Officer / Head of IT
+  Tech LinkedIn URL:  https://www.linkedin.com/search/results/all/?keywords=Chloe%20Benjamin%20CTO
+  Direct Tech Phone:  +12125550158
+  Direct Tech Email:  contact@chloebenjamin.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +12125550158 (Formatted for international dial)
+  Decision Maker:     Independent Novelist / Creator
+  Call Opener Script: "Hello Chloe, I found your work fascinating and would love to discuss your new manuscript with you."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.8 ★ (21+ reviews)
+  GMB Category:       Fiction Author
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Chloe%20Benjamin%20New%20York%20United%20States
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Fiction Author
+  Country:            United States
+  City:               New York
+  Physical Address:   New York, NY
+  Official Website:   https://www.chloebenjamin.com
+  Business Email:     contact@chloebenjamin.com (UNKNOWN)
+  LinkedIn Profile:   N/A
+  Discovery Provider: openai_intelligence
+  Source URL:         https://www.chloebenjamin.com
+  Collection Date:    11/6/2026, 5:09:17 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Chloe Benjamin is a fiction author known for her thought-provoking narratives. She is currently working on a new manuscript and is seeking traditional publishing options.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 14,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 14,
+  "phoneAvailability": 10,
+  "completeness": 6,
+  "sourceReliability": 5,
+  "total": 79,
+  "notes": [
+    "Partial industry keyword match (manuscript, publishing)",
+    "City target match",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

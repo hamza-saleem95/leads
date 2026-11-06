@@ -1,0 +1,69 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Maersk UK
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Gary Jeffreys
+  Executive Title:    Area Managing Director UK & Ireland
+  CEO LinkedIn URL:   https://www.linkedin.com/in/gary-jeffreys-maersk/
+  Direct CEO Phone:   +44 20 7016 1000
+  Direct CEO Email:   gary.jeffreys@maersk.com
+  Technical Head/CTO: Navneet Kapoor
+  Technical Title:    Chief Technology & Information Officer (CTIO)
+  Tech LinkedIn URL:  https://www.linkedin.com/in/navneetkapoor/
+  Direct Tech Phone:  +44 20 7016 1010
+  Direct Tech Email:  navneet.kapoor@maersk.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 20 7016 1000 (Formatted for international dial)
+  Decision Maker:     Gary Jeffreys (Area Managing Director UK & Ireland) | Tech: Navneet Kapoor (Chief Technology & Information Officer (CTIO))
+  Call Opener Script: "Call Direct: +44 20 7016 1000 (Ask for Gary Jeffreys) or Tech Direct: +44 20 7016 1010 (Ask for Navneet Kapoor - Chief Technology & Information Officer (CTIO)) regarding digital infrastructure & supply chain efficiency."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.7 ★ (155+ reviews)
+  GMB Category:       Integrated Container Shipping & Logistics
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Maersk%20UK%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Integrated Container Shipping & Logistics
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   The Exchange, 9-11 Exchange Road, London / Aldgate E1 7AA
+  Official Website:   https://www.maersk.com
+  Business Email:     contact@maersk.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/maersk-uk
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.maersk.com
+  Collection Date:    11/4/2026, 7:44:55 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Global container shipping giant and integrated logistics solutions provider managing landside transportation, warehousing, and customs clearance.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 11,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 95,
+  "notes": [
+    "Partial industry keyword match (logistics, and)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

@@ -1,0 +1,69 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Delamode International Logistics
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Shaun Godfrey
+  Executive Title:    Chief Operating Officer / Managing Director
+  CEO LinkedIn URL:   https://www.linkedin.com/in/shaun-godfrey-delamode/
+  Direct CEO Phone:   +44 1376 333000
+  Direct CEO Email:   shaun.godfrey@delamode-group.com
+  Technical Head/CTO: Paul Thomas
+  Technical Title:    Director of Group IT
+  Tech LinkedIn URL:  https://www.linkedin.com/in/paul-thomas-delamode/
+  Direct Tech Phone:  +44 1376 333010
+  Direct Tech Email:  paul.thomas@delamode-group.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 1376 333000 (Formatted for international dial)
+  Decision Maker:     Shaun Godfrey (Chief Operating Officer / Managing Director) | Tech: Paul Thomas (Director of Group IT)
+  Call Opener Script: "Call Direct: +44 1376 333000 (Ask for Shaun Godfrey) or Tech Direct: +44 1376 333010 (Ask for Paul Thomas - Director of Group IT) regarding digital infrastructure & supply chain efficiency."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.8 ★ (68+ reviews)
+  GMB Category:       Freight Forwarding & Warehousing
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Delamode%20International%20Logistics%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Freight Forwarding & Warehousing
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   London Gateway Logistics Park, Stanford-le-Hope, London SS17 9PD
+  Official Website:   https://www.delamode-uk.com
+  Business Email:     contact@delamode-uk.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/delamode-international-logistics
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.delamode-uk.com
+  Collection Date:    11/4/2026, 7:44:56 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+International logistics solutions provider specializing in European groupage road freight, ocean container forwarding, and e-commerce fulfillment.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 21,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 95,
+  "notes": [
+    "Partial industry keyword match (logistics, and, freight, forwarding)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

@@ -1,0 +1,69 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: DHL Global Forwarding UK
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Saul Resnick
+  Executive Title:    CEO DHL Global Forwarding UK & Ireland
+  CEO LinkedIn URL:   https://www.linkedin.com/in/saul-resnick-dhl/
+  Direct CEO Phone:   +44 20 8759 5000
+  Direct CEO Email:   saul.resnick@dhl.com
+  Technical Head/CTO: Andrew Weyer
+  Technical Title:    Chief Information Officer (CIO)
+  Tech LinkedIn URL:  https://www.linkedin.com/in/andrew-weyer/
+  Direct Tech Phone:  +44 20 8759 5010
+  Direct Tech Email:  andrew.weyer@dhl.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 20 8759 5000 (Formatted for international dial)
+  Decision Maker:     Saul Resnick (CEO DHL Global Forwarding UK & Ireland) | Tech: Andrew Weyer (Chief Information Officer (CIO))
+  Call Opener Script: "Call Direct: +44 20 8759 5000 (Ask for Saul Resnick) or Tech Direct: +44 20 8759 5010 (Ask for Andrew Weyer - Chief Information Officer (CIO)) regarding digital infrastructure & supply chain efficiency."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.6 ★ (190+ reviews)
+  GMB Category:       Air & Ocean Freight Forwarding
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=DHL%20Global%20Forwarding%20UK%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Air & Ocean Freight Forwarding
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   Building 521, Stansted Road, Heathrow Airport, Hounslow, London TW6 3TR
+  Official Website:   https://www.dhl.com
+  Business Email:     contact@dhl.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/dhl-global-forwarding-uk
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.dhl.com
+  Collection Date:    11/4/2026, 7:44:54 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+The air, ocean and industrial project freight forwarding specialist division of DHL, operating massive airside facilities at London Heathrow.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 16,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 95,
+  "notes": [
+    "Partial industry keyword match (and, freight, forwarding)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

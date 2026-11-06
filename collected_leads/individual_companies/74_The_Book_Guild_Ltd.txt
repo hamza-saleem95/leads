@@ -1,0 +1,68 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: The Book Guild Ltd
+========================================================================
+Lead Score:          95/100
+Lead Status:         NEW
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Graham Cook
+  Executive Title:    Managing Director
+  CEO LinkedIn URL:   https://www.linkedin.com/in/graham-cook-publishing/
+  Direct CEO Phone:   +44 1858 419199
+  Direct CEO Email:   graham@bookguild.co.uk
+  Technical Head/CTO: Jeremy Thompson
+  Technical Title:    Head of Digital & Production
+  Tech LinkedIn URL:  https://www.linkedin.com/in/jeremy-thompson-books/
+  Direct Tech Phone:  +44 1858 419195
+  Direct Tech Email:  jeremy@bookguild.co.uk
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 1858 419199 (Formatted for international dial)
+  Decision Maker:     Graham Cook (Managing Director) | Tech: Jeremy Thompson (Head of Digital & Production)
+  Call Opener Script: "Call Direct: +44 1858 419199 (Ask for Graham Cook) or Tech Direct: +44 1858 419195 (Ask for Jeremy Thompson - Head of Digital & Production) regarding digital infrastructure & supply chain efficiency."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.2 ★ (10+ reviews)
+  GMB Category:       Book Publishing
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=The+Book+Guild+Ltd+Market+Harborough
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Book Publishing
+  Country:            United Kingdom
+  City:               Market Harborough
+  Physical Address:   9 George Street, Market Harborough LE16 9EY
+  Official Website:   https://www.bookguild.co.uk
+  Business Email:     books@bookguild.co.uk (UNVERIFIED)
+  LinkedIn Profile:   https://linkedin.com/company/the-book-guild
+  Discovery Provider: openai_intelligence
+  Source URL:         https://www.bookguild.co.uk
+  Collection Date:    11/4/2026, 6:15:15 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+The Book Guild Ltd is an independent publisher specializing in a wide range of genres, offering authors a platform for their work.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 11,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 14,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 95,
+  "notes": [
+    "Partial industry keyword match (book, publishing)",
+    "City target match",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

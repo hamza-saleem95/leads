@@ -692,5 +692,121 @@
     },
     "id": "use-1793803179767-0828o",
     "createdAt": "2026-11-04T14:39:39.767Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "chat/completions",
+    "tokensUsed": 695,
+    "estimatedCost": 0.000278,
+    "status": "SUCCESS",
+    "metadata": {
+      "model": "gpt-4o-mini"
+    },
+    "id": "use-1793888391546-3xo8f",
+    "createdAt": "2026-11-05T14:19:51.546Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "chat/completions",
+    "tokensUsed": 731,
+    "estimatedCost": 0.0002924,
+    "status": "SUCCESS",
+    "metadata": {
+      "model": "gpt-4o-mini"
+    },
+    "id": "use-1793966592265-gix1h",
+    "createdAt": "2026-11-06T12:03:12.265Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "live_web_directory",
+    "endpoint": "discovery/search",
+    "tokensUsed": 0,
+    "estimatedCost": 0.005,
+    "status": "SUCCESS",
+    "metadata": {
+      "query": "Authors & Manuscript Publishing companies New York United States",
+      "resultsCount": 0,
+      "durationMs": 427
+    },
+    "id": "use-1793966753510-a7sjn",
+    "createdAt": "2026-11-06T12:05:53.510Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "intelligence/discovery",
+    "tokensUsed": 2508,
+    "estimatedCost": 0.0010031999999999999,
+    "status": "SUCCESS",
+    "metadata": {
+      "count": 8,
+      "industry": "Authors & Manuscript Publishing (independent authors)",
+      "country": "United States"
+    },
+    "id": "use-1793966785215-zjn92",
+    "createdAt": "2026-11-06T12:06:25.215Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "intelligence/discovery",
+    "tokensUsed": 2597,
+    "estimatedCost": 0.0010388,
+    "status": "SUCCESS",
+    "metadata": {
+      "count": 8,
+      "industry": "Authors & Manuscript Publishing (debut novelists)",
+      "country": "United States"
+    },
+    "id": "use-1793966832406-c0mpd",
+    "createdAt": "2026-11-06T12:07:12.406Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "intelligence/discovery",
+    "tokensUsed": 2525,
+    "estimatedCost": 0.00101,
+    "status": "SUCCESS",
+    "metadata": {
+      "count": 8,
+      "industry": "Authors & Manuscript Publishing (manuscript owners)",
+      "country": "United States"
+    },
+    "id": "use-1793966878297-jjo2s",
+    "createdAt": "2026-11-06T12:07:58.297Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "intelligence/discovery",
+    "tokensUsed": 2518,
+    "estimatedCost": 0.0010072,
+    "status": "SUCCESS",
+    "metadata": {
+      "count": 8,
+      "industry": "Authors & Manuscript Publishing (self-published authors)",
+      "country": "United States"
+    },
+    "id": "use-1793966923249-2wkcl",
+    "createdAt": "2026-11-06T12:08:43.249Z"
+  },
+  {
+    "userId": "user-default-admin-01",
+    "provider": "openai",
+    "endpoint": "intelligence/discovery",
+    "tokensUsed": 1155,
+    "estimatedCost": 0.000462,
+    "status": "SUCCESS",
+    "metadata": {
+      "count": 2,
+      "industry": "Authors & Manuscript Publishing (seeking literary agents)",
+      "country": "United States"
+    },
+    "id": "use-1793966932147-7q7ce",
+    "createdAt": "2026-11-06T12:08:52.147Z"
   }
 ]

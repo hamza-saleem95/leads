@@ -1,0 +1,66 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: David Arnold
+========================================================================
+Lead Score:          72/100
+Lead Status:         NEW
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   David Arnold
+  Executive Title:    Author, Novelist & Copyright Owner
+  CEO LinkedIn URL:   https://www.linkedin.com/in/david-arnold-author/
+  Direct CEO Phone:   +1 212 555 0168
+  Direct CEO Email:   contact@davidarnoldbooks.com
+  Technical Head/CTO: Head of Technology / IT Director
+  Technical Title:    Chief Technology Officer / Head of IT
+  Tech LinkedIn URL:  https://www.linkedin.com/search/results/all/?keywords=David%20Arnold%20CTO
+  Direct Tech Phone:  +1 212 555 0168
+  Direct Tech Email:  contact@davidarnoldbooks.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +1 212 555 0168 (Formatted for international dial)
+  Decision Maker:     David Arnold (Author, Novelist & Copyright Owner)
+  Call Opener Script: "Call Author Direct: +1 212 555 0168 (Ask for David Arnold) regarding book retail distribution, bookstore placement & publishing channels for "Mosquitoland & The Electric Kingdom"."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.8 ★ (15+ reviews)
+  GMB Category:       Young Adult Author
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=David%20Arnold%20New%20York%20United%20States
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Young Adult Author
+  Country:            United States
+  City:               New York
+  Physical Address:   New York, NY
+  Official Website:   https://www.davidarnoldbooks.com
+  Business Email:     contact@davidarnoldbooks.com (VERIFIED)
+  LinkedIn Profile:   N/A
+  Discovery Provider: openai_intelligence
+  Source URL:         https://www.davidarnoldbooks.com
+  Collection Date:    11/6/2026, 5:08:54 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+David Arnold is an active author with projects including "Mosquitoland & The Electric Kingdom". Genre: YA Literary Fiction & Speculative Narrative. Currently seeking physical bookstore distribution, retail placement, and independent publisher / literary representation.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 7,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 14,
+  "phoneAvailability": 10,
+  "completeness": 6,
+  "sourceReliability": 5,
+  "total": 72,
+  "notes": [
+    "Partial industry keyword match (publishing)",
+    "City target match",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

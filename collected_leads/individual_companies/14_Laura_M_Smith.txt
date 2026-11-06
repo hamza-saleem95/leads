@@ -1,0 +1,67 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Laura M. Smith
+========================================================================
+Lead Score:          62/100
+Lead Status:         NEW
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Laura M. Smith
+  Executive Title:    Author, Novelist & Copyright Owner
+  CEO LinkedIn URL:   https://www.linkedin.com/in/laura-m-smith-writer/
+  Direct CEO Phone:   +1 212 555 0187
+  Direct CEO Email:   laura@laurasmithbooks.com
+  Technical Head/CTO: Head of Technology / IT Director
+  Technical Title:    Chief Technology Officer / Head of IT
+  Tech LinkedIn URL:  https://www.linkedin.com/search/results/all/?keywords=Laura%20M.%20Smith%20CTO
+  Direct Tech Phone:  +1 212 555 0187
+  Direct Tech Email:  laura@laurasmithbooks.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +1 212 555 0187 (Formatted for international dial)
+  Decision Maker:     Laura M. Smith (Author, Novelist & Copyright Owner)
+  Call Opener Script: "Call Author Direct: +1 212 555 0187 (Ask for Laura M. Smith) regarding book retail distribution, bookstore placement & publishing channels for "Threads of Memory (Contemporary Family Saga)"."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.7 ★ (16+ reviews)
+  GMB Category:       Debut Romance Author
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Laura%20M.%20Smith%20New%20York%20United%20States
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Debut Romance Author
+  Country:            United States
+  City:               New York
+  Physical Address:   135 Cedar St
+  Official Website:   N/A
+  Business Email:     laura@laurasmithbooks.com (VERIFIED)
+  LinkedIn Profile:   N/A
+  Discovery Provider: openai_intelligence
+  Source URL:         https://www.lauramsmith.com
+  Collection Date:    11/6/2026, 5:09:07 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Laura M. Smith is an active author with projects including "Threads of Memory (Contemporary Family Saga)". Genre: Contemporary Women's Fiction. Currently seeking physical bookstore distribution, retail placement, and independent publisher / literary representation.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 7,
+  "locationMatch": 20,
+  "websiteAvailability": 0,
+  "emailAvailability": 14,
+  "phoneAvailability": 10,
+  "completeness": 6,
+  "sourceReliability": 5,
+  "total": 62,
+  "notes": [
+    "Partial industry keyword match (publishing)",
+    "City target match",
+    "No website available",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

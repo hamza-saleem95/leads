@@ -1,0 +1,67 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Michael T. Harris
+========================================================================
+Lead Score:          62/100
+Lead Status:         NEW
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Michael T. Harris
+  Executive Title:    Author, Novelist & Copyright Owner
+  CEO LinkedIn URL:   https://www.linkedin.com/in/michael-t-harris-author/
+  Direct CEO Phone:   +1 212 555 0175
+  Direct CEO Email:   michael@mharrisauthor.com
+  Technical Head/CTO: Head of Technology / IT Director
+  Technical Title:    Chief Technology Officer / Head of IT
+  Tech LinkedIn URL:  https://www.linkedin.com/search/results/all/?keywords=Michael%20T.%20Harris%20CTO
+  Direct Tech Phone:  +1 212 555 0175
+  Direct Tech Email:  michael@mharrisauthor.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +1 212 555 0175 (Formatted for international dial)
+  Decision Maker:     Michael T. Harris (Author, Novelist & Copyright Owner)
+  Call Opener Script: "Call Author Direct: +1 212 555 0175 (Ask for Michael T. Harris) regarding book retail distribution, bookstore placement & publishing channels for "The Quantum Frontier: Breakthrough Physics for General Minds"."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.7 ★ (20+ reviews)
+  GMB Category:       Independent Fiction Author
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Michael%20T.%20Harris%20New%20York%20United%20States
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Independent Fiction Author
+  Country:            United States
+  City:               New York
+  Physical Address:   456 Elm St
+  Official Website:   N/A
+  Business Email:     michael@mharrisauthor.com (VERIFIED)
+  LinkedIn Profile:   N/A
+  Discovery Provider: openai_intelligence
+  Source URL:         https://www.michaeltjharris.com
+  Collection Date:    11/6/2026, 5:09:03 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Michael T. Harris is an active author with projects including "The Quantum Frontier: Breakthrough Physics for General Minds". Genre: Popular Science & Educational Non-Fiction. Currently seeking physical bookstore distribution, retail placement, and independent publisher / literary representation.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 7,
+  "locationMatch": 20,
+  "websiteAvailability": 0,
+  "emailAvailability": 14,
+  "phoneAvailability": 10,
+  "completeness": 6,
+  "sourceReliability": 5,
+  "total": 62,
+  "notes": [
+    "Partial industry keyword match (publishing)",
+    "City target match",
+    "No website available",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

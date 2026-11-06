@@ -1,0 +1,65 @@
+{
+  "id": "proj-1793966751892-52r24",
+  "userId": "user-default-admin-01",
+  "name": "Authors & Manuscript Owners Seeking Publishers & Sellers",
+  "industry": "Authors & Manuscript Publishing",
+  "country": "United States",
+  "status": "COMPLETED",
+  "totalFound": 30,
+  "configuration": {
+    "industry": "Authors & Manuscript Publishing",
+    "country": "United States",
+    "cities": [
+      "New York",
+      "Los Angeles",
+      "Chicago",
+      "Houston",
+      "Philadelphia"
+    ],
+    "quantity": 30,
+    "businessType": "B2C, independent authors",
+    "requiredFields": [
+      "author_name",
+      "book_title",
+      "genre",
+      "verified_contact_email",
+      "phone",
+      "linkedin_profile"
+    ],
+    "additionalRequirements": "Target individuals who are unpublished authors or self-published on Amazon KDP seeking traditional publishing or retail distribution options.",
+    "targetKeywords": [
+      "independent authors",
+      "debut novelists",
+      "manuscript owners",
+      "self-published authors",
+      "seeking literary agents"
+    ],
+    "searchQueries": [
+      {
+        "query": "independent authors seeking publishers site:linkedin.com",
+        "provider": "tavily"
+      },
+      {
+        "query": "debut novelists self-published Amazon KDP",
+        "provider": "serpapi"
+      },
+      {
+        "query": "manuscript owners looking for literary agents",
+        "provider": "google_places"
+      },
+      {
+        "query": "independent authors USA UK seeking distribution",
+        "provider": "bing"
+      }
+    ],
+    "suggestedProviders": [
+      "tavily",
+      "serpapi",
+      "google_places",
+      "bing"
+    ],
+    "rationale": "Identify independent authors and debut novelists who have written manuscripts or books and are actively seeking publishing and bookstore distribution."
+  },
+  "createdAt": "2026-11-06T12:05:51.892Z",
+  "updatedAt": "2026-11-06T12:09:27.614Z"
+}

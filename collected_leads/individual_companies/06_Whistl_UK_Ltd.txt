@@ -1,0 +1,69 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Whistl UK Ltd
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Ian Keilty
+  Executive Title:    Chief Executive Officer (CEO)
+  CEO LinkedIn URL:   https://www.linkedin.com/in/ian-keilty/
+  Direct CEO Phone:   +44 1628 702702
+  Direct CEO Email:   ian.keilty@whistl.co.uk
+  Technical Head/CTO: Jason Powell
+  Technical Title:    IT Director (Head of Technology)
+  Tech LinkedIn URL:  https://www.linkedin.com/in/jason-powell-whistl/
+  Direct Tech Phone:  +44 1628 702700
+  Direct Tech Email:  jason.powell@whistl.co.uk
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 1628 702702 (Formatted for international dial)
+  Decision Maker:     Ian Keilty (Chief Executive Officer (CEO)) | Tech: Jason Powell (IT Director (Head of Technology))
+  Call Opener Script: "Call Direct: +44 1628 702702 (Ask for Ian Keilty) or Tech Direct: +44 1628 702700 (Ask for Jason Powell - IT Director (Head of Technology)) regarding digital infrastructure & supply chain efficiency."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.7 ★ (160+ reviews)
+  GMB Category:       Downstream Access Mail & E-Commerce Fulfillment
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Whistl%20UK%20Ltd%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Downstream Access Mail & E-Commerce Fulfillment
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   London Superhub, Bedfont Road, Stanwell, London TW19 7NA
+  Official Website:   https://www.whistl.co.uk
+  Business Email:     contact@whistl.co.uk (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/whistl-uk-ltd
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.whistl.co.uk
+  Collection Date:    11/4/2026, 7:46:06 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+The UK’s leading logistics provider in downstream access mail, parcel distribution, and e-commerce fulfillment from its London superhub.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 11,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 95,
+  "notes": [
+    "Partial industry keyword match (logistics, and)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

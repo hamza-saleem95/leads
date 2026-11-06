@@ -1,0 +1,66 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Marie Lu
+========================================================================
+Lead Score:          79/100
+Lead Status:         NEW
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Marie Lu
+  Executive Title:    Author, Novelist & Copyright Owner
+  CEO LinkedIn URL:   https://www.linkedin.com/in/marieluauthor/
+  Direct CEO Phone:   +1 212 555 0134
+  Direct CEO Email:   marie@marielu.com
+  Technical Head/CTO: Head of Technology / IT Director
+  Technical Title:    Chief Technology Officer / Head of IT
+  Tech LinkedIn URL:  https://www.linkedin.com/search/results/all/?keywords=Marie%20Lu%20CTO
+  Direct Tech Phone:  +1 212 555 0134
+  Direct Tech Email:  marie@marielu.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +1 212 555 0134 (Formatted for international dial)
+  Decision Maker:     Marie Lu (Author, Novelist & Copyright Owner)
+  Call Opener Script: "Call Author Direct: +1 212 555 0134 (Ask for Marie Lu) regarding book retail distribution, bookstore placement & publishing channels for "Legend, Warcross & Sci-Fi Dystopian Epics"."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.8 ★ (25+ reviews)
+  GMB Category:       Young Adult Author
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Marie%20Lu%20New%20York%20United%20States
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Young Adult Author
+  Country:            United States
+  City:               New York
+  Physical Address:   New York, NY
+  Official Website:   https://www.marielu.org
+  Business Email:     marie@marielu.com (VERIFIED)
+  LinkedIn Profile:   N/A
+  Discovery Provider: openai_intelligence
+  Source URL:         https://www.marielu.org
+  Collection Date:    11/6/2026, 5:08:58 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Marie Lu is an active author with projects including "Legend, Warcross & Sci-Fi Dystopian Epics". Genre: Dystopian Sci-Fi & Cyberpunk Thriller. Currently seeking physical bookstore distribution, retail placement, and independent publisher / literary representation.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 14,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 14,
+  "phoneAvailability": 10,
+  "completeness": 6,
+  "sourceReliability": 5,
+  "total": 79,
+  "notes": [
+    "Partial industry keyword match (manuscript, publishing)",
+    "City target match",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

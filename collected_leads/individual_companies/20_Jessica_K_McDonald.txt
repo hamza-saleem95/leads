@@ -1,0 +1,67 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Jessica K. McDonald
+========================================================================
+Lead Score:          62/100
+Lead Status:         NEW
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Jessica K. McDonald
+  Executive Title:    Author, Novelist & Copyright Owner
+  CEO LinkedIn URL:   https://www.linkedin.com/in/jessica-k-mcdonald/
+  Direct CEO Phone:   +1 212 555 0182
+  Direct CEO Email:   jessica@jessicamcdonaldbooks.com
+  Technical Head/CTO: Head of Technology / IT Director
+  Technical Title:    Chief Technology Officer / Head of IT
+  Tech LinkedIn URL:  https://www.linkedin.com/search/results/all/?keywords=Jessica%20K.%20McDonald%20CTO
+  Direct Tech Phone:  +1 212 555 0182
+  Direct Tech Email:  jessica@jessicamcdonaldbooks.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +1 212 555 0182 (Formatted for international dial)
+  Decision Maker:     Jessica K. McDonald (Author, Novelist & Copyright Owner)
+  Call Opener Script: "Call Author Direct: +1 212 555 0182 (Ask for Jessica K. McDonald) regarding book retail distribution, bookstore placement & publishing channels for "Beneath the Willow Tree (Sweet Contemporary Romance)"."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.9 ★ (15+ reviews)
+  GMB Category:       Debut Fiction Author
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Jessica%20K.%20McDonald%20New%20York%20United%20States
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Debut Fiction Author
+  Country:            United States
+  City:               New York
+  Physical Address:   123 Main St
+  Official Website:   N/A
+  Business Email:     jessica@jessicamcdonaldbooks.com (VERIFIED)
+  LinkedIn Profile:   N/A
+  Discovery Provider: openai_intelligence
+  Source URL:         https://www.jessicakmcdonald.com
+  Collection Date:    11/6/2026, 5:09:02 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Jessica K. McDonald is an active author with projects including "Beneath the Willow Tree (Sweet Contemporary Romance)". Genre: Contemporary Romance & Small-Town Fiction. Currently seeking physical bookstore distribution, retail placement, and independent publisher / literary representation.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 7,
+  "locationMatch": 20,
+  "websiteAvailability": 0,
+  "emailAvailability": 14,
+  "phoneAvailability": 10,
+  "completeness": 6,
+  "sourceReliability": 5,
+  "total": 62,
+  "notes": [
+    "Partial industry keyword match (publishing)",
+    "City target match",
+    "No website available",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

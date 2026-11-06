@@ -1,0 +1,69 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Maritime Transport Ltd
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   John Williams
+  Executive Title:    Group Executive Chairman
+  CEO LinkedIn URL:   https://www.linkedin.com/in/john-williams-maritime/
+  Direct CEO Phone:   +44 1375 648400
+  Direct CEO Email:   jwilliams@maritimetransport.co.uk
+  Technical Head/CTO: James Andrews
+  Technical Title:    IT and Marketing Director
+  Tech LinkedIn URL:  https://www.linkedin.com/in/james-andrews-maritime/
+  Direct Tech Phone:  +44 1375 648410
+  Direct Tech Email:  jandrews@maritimetransport.co.uk
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 1375 648400 (Formatted for international dial)
+  Decision Maker:     John Williams (Group Executive Chairman) | Tech: James Andrews (IT and Marketing Director)
+  Call Opener Script: "Call Direct: +44 1375 648400 (Ask for John Williams) or Tech Direct: +44 1375 648410 (Ask for James Andrews - IT and Marketing Director) regarding digital infrastructure & supply chain efficiency."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.8 ★ (130+ reviews)
+  GMB Category:       Container Haulage & Intermodal Rail Freight
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Maritime%20Transport%20Ltd%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Container Haulage & Intermodal Rail Freight
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   London Gateway Port, Northgate, Stanford-le-Hope, London SS17 9DY
+  Official Website:   https://www.maritimetransport.co.uk
+  Business Email:     contact@maritimetransport.co.uk (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/maritime-transport-ltd
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.maritimetransport.co.uk
+  Collection Date:    11/4/2026, 7:44:54 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+The UK’s largest container transport operator providing multimodal rail freight and container distribution into London terminals.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 11,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 95,
+  "notes": [
+    "Partial industry keyword match (and, freight)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

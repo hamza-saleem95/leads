@@ -1,0 +1,67 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Michael J. Sullivan
+========================================================================
+Lead Score:          69/100
+Lead Status:         NEW
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Michael J. Sullivan
+  Executive Title:    Author, Novelist & Copyright Owner
+  CEO LinkedIn URL:   https://www.linkedin.com/in/michaeljsullivanauthor/
+  Direct CEO Phone:   +1 212 555 0163
+  Direct CEO Email:   business@michaelsullivan-author.com
+  Technical Head/CTO: Head of Technology / IT Director
+  Technical Title:    Chief Technology Officer / Head of IT
+  Tech LinkedIn URL:  https://www.linkedin.com/search/results/all/?keywords=Michael%20J.%20Sullivan%20CTO
+  Direct Tech Phone:  +1 212 555 0163
+  Direct Tech Email:  business@michaelsullivan-author.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +1 212 555 0163 (Formatted for international dial)
+  Decision Maker:     Michael J. Sullivan (Author, Novelist & Copyright Owner)
+  Call Opener Script: "Call Author Direct: +1 212 555 0163 (Ask for Michael J. Sullivan) regarding book retail distribution, bookstore placement & publishing channels for "Riyria Chronicles & Indie Fantasy Epic Series"."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.6 ★ (18+ reviews)
+  GMB Category:       Fantasy Author
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Michael%20J.%20Sullivan%20New%20York%20United%20States
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Fantasy Author
+  Country:            United States
+  City:               New York
+  Physical Address:   New York, NY
+  Official Website:   N/A
+  Business Email:     business@michaelsullivan-author.com (VERIFIED)
+  LinkedIn Profile:   N/A
+  Discovery Provider: openai_intelligence
+  Source URL:         https://www.michaeljsullivan.com
+  Collection Date:    11/6/2026, 5:09:13 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Michael J. Sullivan is an active author with projects including "Riyria Chronicles & Indie Fantasy Epic Series". Genre: Epic Fantasy & High Adventure. Currently seeking physical bookstore distribution, retail placement, and independent publisher / literary representation.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 14,
+  "locationMatch": 20,
+  "websiteAvailability": 0,
+  "emailAvailability": 14,
+  "phoneAvailability": 10,
+  "completeness": 6,
+  "sourceReliability": 5,
+  "total": 69,
+  "notes": [
+    "Partial industry keyword match (manuscript, publishing)",
+    "City target match",
+    "No website available",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

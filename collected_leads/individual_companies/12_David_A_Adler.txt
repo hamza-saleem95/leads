@@ -1,0 +1,67 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: David A. Adler
+========================================================================
+Lead Score:          69/100
+Lead Status:         NEW
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   David A. Adler
+  Executive Title:    Author, Novelist & Copyright Owner
+  CEO LinkedIn URL:   https://www.linkedin.com/in/david-a-adler/
+  Direct CEO Phone:   +1 212 555 0118
+  Direct CEO Email:   adlerbooks@davidaadler.com
+  Technical Head/CTO: Head of Technology / IT Director
+  Technical Title:    Chief Technology Officer / Head of IT
+  Tech LinkedIn URL:  https://www.linkedin.com/search/results/all/?keywords=David%20A.%20Adler%20CTO
+  Direct Tech Phone:  +1 212 555 0118
+  Direct Tech Email:  adlerbooks@davidaadler.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +1 212 555 0118 (Formatted for international dial)
+  Decision Maker:     David A. Adler (Author, Novelist & Copyright Owner)
+  Call Opener Script: "Call Author Direct: +1 212 555 0118 (Ask for David A. Adler) regarding book retail distribution, bookstore placement & publishing channels for "Cam Jansen Mysteries & Children's Illustrated Books"."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.7 ★ (15+ reviews)
+  GMB Category:       Children's Book Author
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=David%20A.%20Adler%20New%20York%20United%20States
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Children's Book Author
+  Country:            United States
+  City:               New York
+  Physical Address:   New York, NY
+  Official Website:   N/A
+  Business Email:     adlerbooks@davidaadler.com (VERIFIED)
+  LinkedIn Profile:   N/A
+  Discovery Provider: openai_intelligence
+  Source URL:         https://www.davidaadler.com
+  Collection Date:    11/6/2026, 5:09:11 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+David A. Adler is an active author with projects including "Cam Jansen Mysteries & Children's Illustrated Books". Genre: Children's Mystery & Illustrated Fiction. Currently seeking physical bookstore distribution, retail placement, and independent publisher / literary representation.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 14,
+  "locationMatch": 20,
+  "websiteAvailability": 0,
+  "emailAvailability": 14,
+  "phoneAvailability": 10,
+  "completeness": 6,
+  "sourceReliability": 5,
+  "total": 69,
+  "notes": [
+    "Partial industry keyword match (manuscript, publishing)",
+    "City target match",
+    "No website available",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

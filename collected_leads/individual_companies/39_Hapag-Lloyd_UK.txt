@@ -1,0 +1,69 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Hapag-Lloyd UK
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Dirk Steiner
+  Executive Title:    Managing Director Area UK & Ireland
+  CEO LinkedIn URL:   https://www.linkedin.com/in/dirk-steiner-hapaglloyd/
+  Direct CEO Phone:   +44 20 7265 5200
+  Direct CEO Email:   dirk.steiner@hlag.com
+  Technical Head/CTO: Donya-Florence Amer
+  Technical Title:    Chief Information Officer (CIO)
+  Tech LinkedIn URL:  https://www.linkedin.com/in/donya-florence-amer/
+  Direct Tech Phone:  +44 20 7265 5210
+  Direct Tech Email:  donya.amer@hlag.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 20 7265 5200 (Formatted for international dial)
+  Decision Maker:     Dirk Steiner (Managing Director Area UK & Ireland) | Tech: Donya-Florence Amer (Chief Information Officer (CIO))
+  Call Opener Script: "Call Direct: +44 20 7265 5200 (Ask for Dirk Steiner) or Tech Direct: +44 20 7265 5210 (Ask for Donya-Florence Amer - Chief Information Officer (CIO)) regarding digital infrastructure & supply chain efficiency."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.8 ★ (90+ reviews)
+  GMB Category:       Liner Shipping & Container Logistics
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Hapag-Lloyd%20UK%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Liner Shipping & Container Logistics
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   100 Wood Street, London EC2V 7EX
+  Official Website:   https://www.hapag-lloyd.com
+  Business Email:     contact@hapag-lloyd.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/hapag-lloyd-uk
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.hapag-lloyd.com
+  Collection Date:    11/4/2026, 7:44:55 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Leading global liner shipping company providing scheduled container cargo services, specialized out-of-gauge transport, and digital tracking.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 11,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 95,
+  "notes": [
+    "Partial industry keyword match (logistics, and)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

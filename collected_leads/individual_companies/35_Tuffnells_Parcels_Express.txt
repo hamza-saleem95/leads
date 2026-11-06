@@ -1,0 +1,69 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Tuffnells Parcels Express
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Peter Fuller
+  Executive Title:    Managing Director & CEO
+  CEO LinkedIn URL:   https://www.linkedin.com/in/peter-fuller-tuffnells/
+  Direct CEO Phone:   +44 20 8961 4000
+  Direct CEO Email:   peter.fuller@tuffnells.co.uk
+  Technical Head/CTO: Chris Simpson
+  Technical Title:    Head of IT & Field Infrastructure
+  Tech LinkedIn URL:  https://www.linkedin.com/in/chris-simpson-tuffnells/
+  Direct Tech Phone:  +44 20 8961 4010
+  Direct Tech Email:  chris.simpson@tuffnells.co.uk
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 20 8961 4000 (Formatted for international dial)
+  Decision Maker:     Peter Fuller (Managing Director & CEO) | Tech: Chris Simpson (Head of IT & Field Infrastructure)
+  Call Opener Script: "Call Direct: +44 20 8961 4000 (Ask for Peter Fuller) or Tech Direct: +44 20 8961 4010 (Ask for Chris Simpson - Head of IT & Field Infrastructure) regarding digital infrastructure & supply chain efficiency."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.6 ★ (92+ reviews)
+  GMB Category:       Irregular Dimensions & Heavy Freight Transport
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Tuffnells%20Parcels%20Express%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Irregular Dimensions & Heavy Freight Transport
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   Park Royal Depot, Standard Road, Park Royal, London NW10 6EU
+  Official Website:   https://www.tuffnells.co.uk
+  Business Email:     contact@tuffnells.co.uk (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/tuffnells-parcels-express
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.tuffnells.co.uk
+  Collection Date:    11/4/2026, 7:44:58 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Specialist B2B freight distributor handling big, long, and awkward non-standard parcels, building supplies, and palletized commercial goods.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 11,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 95,
+  "notes": [
+    "Partial industry keyword match (and, freight)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

@@ -1,0 +1,66 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Megan McCafferty
+========================================================================
+Lead Score:          79/100
+Lead Status:         NEW
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Megan McCafferty
+  Executive Title:    Author & Copyright Owner
+  CEO LinkedIn URL:   https://www.linkedin.com/search/results/all/?keywords=Megan%20McCafferty%20CEO
+  Direct CEO Phone:   +12125550199
+  Direct CEO Email:   info@meganmccafferty.com
+  Technical Head/CTO: Head of Technology / IT Director
+  Technical Title:    Chief Technology Officer / Head of IT
+  Tech LinkedIn URL:  https://www.linkedin.com/search/results/all/?keywords=Megan%20McCafferty%20CTO
+  Direct Tech Phone:  +12125550199
+  Direct Tech Email:  info@meganmccafferty.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +12125550199 (Formatted for international dial)
+  Decision Maker:     Author & Copyright Owner
+  Call Opener Script: "Hi Megan, I loved your 'Jessica Darling' series and would love to discuss potential publishing opportunities for your new manuscript."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.9 ★ (30+ reviews)
+  GMB Category:       Young Adult Fiction Author
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Megan%20McCafferty%20New%20York%20United%20States
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Young Adult Fiction Author
+  Country:            United States
+  City:               New York
+  Physical Address:   New York, NY
+  Official Website:   https://www.meganmccafferty.com
+  Business Email:     info@meganmccafferty.com (UNKNOWN)
+  LinkedIn Profile:   N/A
+  Discovery Provider: openai_intelligence
+  Source URL:         https://www.meganmccafferty.com
+  Collection Date:    11/6/2026, 5:09:18 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Megan McCafferty is a bestselling author known for her 'Jessica Darling' series. She is currently working on a new manuscript and is seeking traditional publishing options.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 14,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 14,
+  "phoneAvailability": 10,
+  "completeness": 6,
+  "sourceReliability": 5,
+  "total": 79,
+  "notes": [
+    "Partial industry keyword match (manuscript, publishing)",
+    "City target match",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

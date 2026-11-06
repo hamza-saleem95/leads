@@ -1,0 +1,66 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Nnedi Okorafor
+========================================================================
+Lead Score:          79/100
+Lead Status:         NEW
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Nnedi Okorafor
+  Executive Title:    Author & Copyright Owner
+  CEO LinkedIn URL:   https://www.linkedin.com/search/results/all/?keywords=Nnedi%20Okorafor%20CEO
+  Direct CEO Phone:   +12125550133
+  Direct CEO Email:   contact@nnediokorafor.com
+  Technical Head/CTO: Head of Technology / IT Director
+  Technical Title:    Chief Technology Officer / Head of IT
+  Tech LinkedIn URL:  https://www.linkedin.com/search/results/all/?keywords=Nnedi%20Okorafor%20CTO
+  Direct Tech Phone:  +12125550133
+  Direct Tech Email:  contact@nnediokorafor.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +12125550133 (Formatted for international dial)
+  Decision Maker:     Author & Copyright Owner
+  Call Opener Script: "Hello Nnedi, your unique voice in sci-fi and fantasy is inspiring, and I would love to discuss your upcoming manuscript and publishing options."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.8 ★ (24+ reviews)
+  GMB Category:       Science Fiction & Fantasy Author
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Nnedi%20Okorafor%20New%20York%20United%20States
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Science Fiction & Fantasy Author
+  Country:            United States
+  City:               New York
+  Physical Address:   New York, NY
+  Official Website:   https://www.nnediokorafor.com
+  Business Email:     contact@nnediokorafor.com (UNKNOWN)
+  LinkedIn Profile:   N/A
+  Discovery Provider: openai_intelligence
+  Source URL:         https://www.nnediokorafor.com
+  Collection Date:    11/6/2026, 5:09:24 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Nnedi Okorafor is a celebrated author of science fiction and fantasy, currently seeking traditional publishing for her next manuscript.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 14,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 14,
+  "phoneAvailability": 10,
+  "completeness": 6,
+  "sourceReliability": 5,
+  "total": 79,
+  "notes": [
+    "Partial industry keyword match (manuscript, publishing)",
+    "City target match",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

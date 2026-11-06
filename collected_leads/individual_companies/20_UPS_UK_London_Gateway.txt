@@ -1,0 +1,69 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: UPS UK London Gateway
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Ufku Akaltan
+  Executive Title:    President & Managing Director UK & Nordics
+  CEO LinkedIn URL:   https://www.linkedin.com/in/ufkuakaltan/
+  Direct CEO Phone:   +44 20 7949 0082
+  Direct CEO Email:   uakaltan@ups.com
+  Technical Head/CTO: Mark Robinson
+  Technical Title:    Director of Information Technology UK
+  Tech LinkedIn URL:  https://www.linkedin.com/in/mark-robinson-ups/
+  Direct Tech Phone:  +44 20 7949 0090
+  Direct Tech Email:  mrobinson@ups.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 20 7949 0082 (Formatted for international dial)
+  Decision Maker:     Ufku Akaltan (President & Managing Director UK & Nordics) | Tech: Mark Robinson (Director of Information Technology UK)
+  Call Opener Script: "Call Direct: +44 20 7949 0082 (Ask for Ufku Akaltan) or Tech Direct: +44 20 7949 0090 (Ask for Mark Robinson - Director of Information Technology UK) regarding digital infrastructure & supply chain efficiency."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.6 ★ (350+ reviews)
+  GMB Category:       Global Logistics & Supply Chain Solutions
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=UPS%20UK%20London%20Gateway%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Global Logistics & Supply Chain Solutions
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   London Hub, 1 Tilbury Port Approach / Camden Depot, London NW1 0AB
+  Official Website:   https://www.ups.com
+  Business Email:     contact@ups.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/ups-uk-london-gateway
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.ups.com
+  Collection Date:    11/4/2026, 7:45:09 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Global leader in logistics, parcel delivery, specialized healthcare transport, and international ocean/air freight forwarding.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 21,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 95,
+  "notes": [
+    "Partial industry keyword match (logistics, and, freight, forwarding)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

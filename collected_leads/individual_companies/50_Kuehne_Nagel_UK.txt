@@ -1,0 +1,69 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Kuehne + Nagel UK
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Brian Cox
+  Executive Title:    Managing Director UK
+  CEO LinkedIn URL:   https://www.linkedin.com/in/brian-cox-kuehne-nagel/
+  Direct CEO Phone:   +44 20 8897 8000
+  Direct CEO Email:   brian.cox@kuehne-nagel.com
+  Technical Head/CTO: Marcus Claesson
+  Technical Title:    Chief Information Officer (CIO)
+  Tech LinkedIn URL:  https://www.linkedin.com/in/marcusclaesson/
+  Direct Tech Phone:  +44 20 8897 8010
+  Direct Tech Email:  marcus.claesson@kuehne-nagel.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 20 8897 8000 (Formatted for international dial)
+  Decision Maker:     Brian Cox (Managing Director UK) | Tech: Marcus Claesson (Chief Information Officer (CIO))
+  Call Opener Script: "Call Direct: +44 20 8897 8000 (Ask for Brian Cox) or Tech Direct: +44 20 8897 8010 (Ask for Marcus Claesson - Chief Information Officer (CIO)) regarding digital infrastructure & supply chain efficiency."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.7 ★ (165+ reviews)
+  GMB Category:       Integrated Logistics & Freight Forwarding
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Kuehne%20%2B%20Nagel%20UK%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Integrated Logistics & Freight Forwarding
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   Unit 2, Heathrow Point, 230 Bath Road, Harlington, London UB3 5AP
+  Official Website:   https://www.kuehne-nagel.com
+  Business Email:     contact@kuehne-nagel.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/kuehne-nagel-uk
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.kuehne-nagel.com
+  Collection Date:    11/4/2026, 7:44:54 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Global sea freight and air freight market leader, managing end-to-end supply chain logistics, contract warehousing, and overland fleets.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 21,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 95,
+  "notes": [
+    "Partial industry keyword match (logistics, and, freight, forwarding)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

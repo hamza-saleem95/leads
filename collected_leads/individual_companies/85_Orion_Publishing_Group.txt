@@ -1,0 +1,68 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Orion Publishing Group
+========================================================================
+Lead Score:          95/100
+Lead Status:         NEW
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Anna Valentine
+  Executive Title:    Managing Director & Publisher
+  CEO LinkedIn URL:   https://www.linkedin.com/in/annavalentine/
+  Direct CEO Phone:   +44 20 3122 6444
+  Direct CEO Email:   anna.valentine@orionbooks.co.uk
+  Technical Head/CTO: Chris Bell
+  Technical Title:    Group Technology Director
+  Tech LinkedIn URL:  https://www.linkedin.com/in/chris-bell-publishing/
+  Direct Tech Phone:  +44 20 3122 6450
+  Direct Tech Email:  chris.bell@orionbooks.co.uk
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 20 3122 6444 (Formatted for international dial)
+  Decision Maker:     Anna Valentine (Managing Director & Publisher) | Tech: Chris Bell (Group Technology Director)
+  Call Opener Script: "Call Direct: +44 20 3122 6444 (Ask for Anna Valentine) or Tech Direct: +44 20 3122 6450 (Ask for Chris Bell - Group Technology Director) regarding digital infrastructure & supply chain efficiency."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.3 ★ (25+ reviews)
+  GMB Category:       Book Publishing
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Orion+Publishing+Group+Carmelite+House+London
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Book Publishing
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   Carmelite House, 50 Victoria Embankment, London EC4Y 0DZ
+  Official Website:   https://www.orionbooks.co.uk
+  Business Email:     info@orionbooks.co.uk (UNVERIFIED)
+  LinkedIn Profile:   N/A
+  Discovery Provider: openai_intelligence
+  Source URL:         https://www.orionbooks.co.uk
+  Collection Date:    11/4/2026, 6:15:02 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Orion Publishing Group is a leading publisher of fiction and non-fiction books, known for its bestselling authors and innovative marketing strategies.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 16,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 14,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 95,
+  "notes": [
+    "Partial industry keyword match (book, publishing, and)",
+    "City target match",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

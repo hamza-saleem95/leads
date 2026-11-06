@@ -1,0 +1,69 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Parcelforce Worldwide
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Aaron Barnes
+  Executive Title:    Managing Director
+  CEO LinkedIn URL:   https://www.linkedin.com/in/aaronbarnes-logistics/
+  Direct CEO Phone:   +44 345 774 0740
+  Direct CEO Email:   aaron.barnes@parcelforce.co.uk
+  Technical Head/CTO: John Edwards
+  Technical Title:    Director of Technology & Automation
+  Tech LinkedIn URL:  https://www.linkedin.com/in/john-edwards-parcelforce/
+  Direct Tech Phone:  +44 345 774 0750
+  Direct Tech Email:  john.edwards@parcelforce.co.uk
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 345 774 0740 (Formatted for international dial)
+  Decision Maker:     Aaron Barnes (Managing Director) | Tech: John Edwards (Director of Technology & Automation)
+  Call Opener Script: "Call Direct: +44 345 774 0740 (Ask for Aaron Barnes) or Tech Direct: +44 345 774 0750 (Ask for John Edwards - Director of Technology & Automation) regarding digital infrastructure & supply chain efficiency."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.6 ★ (310+ reviews)
+  GMB Category:       Express Parcel & Logistics Network
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Parcelforce%20Worldwide%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Express Parcel & Logistics Network
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   Mount Pleasant Mail Centre, Farringdon Road, London EC1A 1BB
+  Official Website:   https://www.parcelforce.com
+  Business Email:     contact@parcelforce.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/parcelforce-worldwide
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.parcelforce.com
+  Collection Date:    11/4/2026, 7:45:09 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+The express courier and logistics arm of Royal Mail, operating dedicated high-speed business parcel distribution depots across London.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 11,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 95,
+  "notes": [
+    "Partial industry keyword match (logistics, and)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

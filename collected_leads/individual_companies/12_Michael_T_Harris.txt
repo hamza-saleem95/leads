@@ -1,0 +1,67 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Michael T. Harris
+========================================================================
+Lead Score:          62/100
+Lead Status:         NEW
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Executive Leadership
+  Executive Title:    Chief Executive Officer (CEO)
+  CEO LinkedIn URL:   https://www.linkedin.com/search/results/all/?keywords=Michael%20T.%20Harris%20CEO
+  Direct CEO Phone:   +12125559876
+  Direct CEO Email:   info@michaeltjharris.com
+  Technical Head/CTO: Head of Technology / IT Director
+  Technical Title:    Chief Technology Officer / Head of IT
+  Tech LinkedIn URL:  https://www.linkedin.com/search/results/all/?keywords=Michael%20T.%20Harris%20CTO
+  Direct Tech Phone:  +12125559876
+  Direct Tech Email:  info@michaeltjharris.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +12125559876 (Formatted for international dial)
+  Decision Maker:     Independent Novelist / Creator
+  Call Opener Script: "Hello Michael, I noticed your book 'Beyond the Stars' and would like to explore how we can assist you with traditional publishing."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.7 ★ (20+ reviews)
+  GMB Category:       Independent Fiction Author
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Michael%20T.%20Harris%20New%20York%20United%20States
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Independent Fiction Author
+  Country:            United States
+  City:               New York
+  Physical Address:   456 Elm St
+  Official Website:   N/A
+  Business Email:     info@michaeltjharris.com (UNKNOWN)
+  LinkedIn Profile:   N/A
+  Discovery Provider: openai_intelligence
+  Source URL:         https://www.michaeltjharris.com
+  Collection Date:    11/6/2026, 5:09:03 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Michael T. Harris is a debut novelist with a focus on science fiction. His book 'Beyond the Stars' is currently self-published on Amazon KDP, and he is looking for traditional publishing avenues.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 7,
+  "locationMatch": 20,
+  "websiteAvailability": 0,
+  "emailAvailability": 14,
+  "phoneAvailability": 10,
+  "completeness": 6,
+  "sourceReliability": 5,
+  "total": 62,
+  "notes": [
+    "Partial industry keyword match (publishing)",
+    "City target match",
+    "No website available",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

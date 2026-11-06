@@ -1,0 +1,67 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Laura M. Smith
+========================================================================
+Lead Score:          62/100
+Lead Status:         NEW
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Laura M. Smith
+  Executive Title:    Author & Copyright Owner
+  CEO LinkedIn URL:   https://www.linkedin.com/search/results/all/?keywords=Laura%20M.%20Smith%20CEO
+  Direct CEO Phone:   +12125556789
+  Direct CEO Email:   contact@lauramsmith.com
+  Technical Head/CTO: Head of Technology / IT Director
+  Technical Title:    Chief Technology Officer / Head of IT
+  Tech LinkedIn URL:  https://www.linkedin.com/search/results/all/?keywords=Laura%20M.%20Smith%20CTO
+  Direct Tech Phone:  +12125556789
+  Direct Tech Email:  contact@lauramsmith.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +12125556789 (Formatted for international dial)
+  Decision Maker:     Author & Copyright Owner
+  Call Opener Script: "Hi Laura, I noticed your romance novel 'Love in the Time of Chaos' and would love to discuss how we can help you publish traditionally."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.7 ★ (16+ reviews)
+  GMB Category:       Debut Romance Author
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Laura%20M.%20Smith%20New%20York%20United%20States
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Debut Romance Author
+  Country:            United States
+  City:               New York
+  Physical Address:   135 Cedar St
+  Official Website:   N/A
+  Business Email:     contact@lauramsmith.com (UNKNOWN)
+  LinkedIn Profile:   N/A
+  Discovery Provider: openai_intelligence
+  Source URL:         https://www.lauramsmith.com
+  Collection Date:    11/6/2026, 5:09:07 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Laura M. Smith is a debut romance author whose book 'Love in the Time of Chaos' is self-published. She is seeking traditional publishing and distribution options.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 7,
+  "locationMatch": 20,
+  "websiteAvailability": 0,
+  "emailAvailability": 14,
+  "phoneAvailability": 10,
+  "completeness": 6,
+  "sourceReliability": 5,
+  "total": 62,
+  "notes": [
+    "Partial industry keyword match (publishing)",
+    "City target match",
+    "No website available",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

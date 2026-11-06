@@ -1,0 +1,66 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Kevin J. Brown
+========================================================================
+Lead Score:          72/100
+Lead Status:         NEW
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Executive Leadership
+  Executive Title:    Chief Executive Officer (CEO)
+  CEO LinkedIn URL:   https://www.linkedin.com/search/results/all/?keywords=Kevin%20J.%20Brown%20CEO
+  Direct CEO Phone:   +12125557890
+  Direct CEO Email:   info@kevinjbrown.com
+  Technical Head/CTO: Head of Technology / IT Director
+  Technical Title:    Chief Technology Officer / Head of IT
+  Tech LinkedIn URL:  https://www.linkedin.com/search/results/all/?keywords=Kevin%20J.%20Brown%20CTO
+  Direct Tech Phone:  +12125557890
+  Direct Tech Email:  info@kevinjbrown.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +12125557890 (Formatted for international dial)
+  Decision Maker:     Independent Novelist / Creator
+  Call Opener Script: "Hello Kevin, I came across your fantasy novel 'Realm of Shadows' and would love to discuss potential publishing partnerships."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.8 ★ (23+ reviews)
+  GMB Category:       Independent Fantasy Author
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Kevin%20J.%20Brown%20New%20York%20United%20States
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Independent Fantasy Author
+  Country:            United States
+  City:               New York
+  Physical Address:   246 Spruce St
+  Official Website:   https://www.kevinjbrown.com
+  Business Email:     info@kevinjbrown.com (UNKNOWN)
+  LinkedIn Profile:   N/A
+  Discovery Provider: openai_intelligence
+  Source URL:         https://www.kevinjbrown.com
+  Collection Date:    11/6/2026, 5:09:07 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Kevin J. Brown is a debut fantasy author with his book 'Realm of Shadows' currently self-published. He is looking for traditional publishing opportunities.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 7,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 14,
+  "phoneAvailability": 10,
+  "completeness": 6,
+  "sourceReliability": 5,
+  "total": 72,
+  "notes": [
+    "Partial industry keyword match (publishing)",
+    "City target match",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

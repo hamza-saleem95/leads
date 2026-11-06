@@ -1,0 +1,69 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: BDP International UK
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Neil Crighton
+  Executive Title:    Managing Director UK & Ireland
+  CEO LinkedIn URL:   https://www.linkedin.com/in/neilcrighton/
+  Direct CEO Phone:   +44 20 7488 4000
+  Direct CEO Email:   neil.crighton@bdpint.com
+  Technical Head/CTO: Andy Brousseau
+  Technical Title:    Chief Information Officer (CIO)
+  Tech LinkedIn URL:  https://www.linkedin.com/in/andy-brousseau/
+  Direct Tech Phone:  +44 20 7488 4010
+  Direct Tech Email:  andy.brousseau@bdpint.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 20 7488 4000 (Formatted for international dial)
+  Decision Maker:     Neil Crighton (Managing Director UK & Ireland) | Tech: Andy Brousseau (Chief Information Officer (CIO))
+  Call Opener Script: "Call Direct: +44 20 7488 4000 (Ask for Neil Crighton) or Tech Direct: +44 20 7488 4010 (Ask for Andy Brousseau - Chief Information Officer (CIO)) regarding digital infrastructure & supply chain efficiency."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.8 ★ (55+ reviews)
+  GMB Category:       Global Freight Forwarding & Chemical Logistics
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=BDP%20International%20UK%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Global Freight Forwarding & Chemical Logistics
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   International House, 1 St Katharine’s Way, London E1W 1UN
+  Official Website:   https://www.bdpinternational.com
+  Business Email:     contact@bdpinternational.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/bdp-international-uk
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.bdpinternational.com
+  Collection Date:    11/4/2026, 7:45:06 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Global logistics and transportation management provider operating worldwide air/sea forwarding, lead logistics provider (LLP) services, and customs.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 21,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 95,
+  "notes": [
+    "Partial industry keyword match (logistics, and, freight, forwarding)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================

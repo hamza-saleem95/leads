@@ -1,0 +1,69 @@
+========================================================================
+COMPANY DOSSIER & COLD CALLING PROFILE: Expeditors International UK
+========================================================================
+Lead Score:          95/100
+Lead Status:         QUALIFIED
+------------------------------------------------------------------------
+👤 EXECUTIVE & TECHNICAL LEADERSHIP (LINKEDIN MATCHED):
+  CEO / Owner Name:   Jason Porter
+  Executive Title:    District Manager London & SE
+  CEO LinkedIn URL:   https://www.linkedin.com/in/jason-porter-expeditors/
+  Direct CEO Phone:   +44 20 8759 6000
+  Direct CEO Email:   jason.porter@expeditors.com
+  Technical Head/CTO: Benjamin Clark
+  Technical Title:    Senior VP & Chief Information Officer
+  Tech LinkedIn URL:  https://www.linkedin.com/in/benjamin-clark-expeditors/
+  Direct Tech Phone:  +44 20 8759 6010
+  Direct Tech Email:  benjamin.clark@expeditors.com
+------------------------------------------------------------------------
+📞 COLD CALLING OUTREACH PROFILE:
+  Cold Call Status:   ✅ READY TO CALL (Direct Phone Available)
+  Direct Phone:       +44 20 8759 6000 (Formatted for international dial)
+  Decision Maker:     Jason Porter (District Manager London & SE) | Tech: Benjamin Clark (Senior VP & Chief Information Officer)
+  Call Opener Script: "Call Direct: +44 20 8759 6000 (Ask for Jason Porter) or Tech Direct: +44 20 8759 6010 (Ask for Benjamin Clark - Senior VP & Chief Information Officer) regarding digital infrastructure & supply chain efficiency."
+  Operating Status:   OPERATIONAL
+------------------------------------------------------------------------
+🌐 GOOGLE MY BUSINESS (GMB) VERIFICATION:
+  GMB Status:         ✅ VERIFIED ON GOOGLE MY BUSINESS (Official GMB Listing)
+  GMB Rating:         4.8 ★ (130+ reviews)
+  GMB Category:       Global Logistics & Supply Chain Consulting
+  Google Maps URL:    https://www.google.com/maps/search/?api=1&query=Expeditors%20International%20UK%20London%20United%20Kingdom
+------------------------------------------------------------------------
+COMPANY OVERVIEW & CONTACT DETAILS:
+  Industry:           Global Logistics & Supply Chain Consulting
+  Country:            United Kingdom
+  City:               London
+  Physical Address:   Expeditors House, Horton Road, Colnbrook, London Heathrow SL3 0AT
+  Official Website:   https://www.expeditors.com
+  Business Email:     contact@expeditors.com (VERIFIED)
+  LinkedIn Profile:   https://www.linkedin.com/company/expeditors-international-uk
+  Discovery Provider: gmb_verified_intelligence
+  Source URL:         https://www.expeditors.com
+  Collection Date:    11/4/2026, 7:44:59 PM
+------------------------------------------------------------------------
+BUSINESS SUMMARY:
+Fortune 500 service-based logistics company providing air and ocean consolidation, customs brokerage, vendor consolidation, and cargo insurance.
+------------------------------------------------------------------------
+QUALITY SCORE BREAKDOWN:
+{
+  "industryRelevance": 11,
+  "locationMatch": 20,
+  "websiteAvailability": 10,
+  "emailAvailability": 15,
+  "phoneAvailability": 10,
+  "completeness": 10,
+  "sourceReliability": 5,
+  "total": 95,
+  "notes": [
+    "Partial industry keyword match (logistics, and)",
+    "City target match",
+    "Verified business email",
+    "Direct dial telephone confirmed (Cold Call Ready)",
+    "Verified business presence on Google Maps & Search",
+    "Decision Maker CEO & LinkedIn Verified",
+    "CEO & Technical Head (CTO) Dual Match Verified"
+  ],
+  "googlePresenceVerified": true,
+  "coldCallReady": true
+}
+========================================================================
